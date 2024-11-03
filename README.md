@@ -1,7 +1,7 @@
 # OSINT-Tools
 A list of OSINT tools I made, forked, and or use.
 
-[Google-FU, use google to lookup info on someone; may get rate limated](https://github.com/Nthompson096/GoogleFU-improved)
+[Google-FU, use google to lookup info on someone or something; may get rate limated](https://github.com/Nthompson096/GoogleFU-improved)
 
 [Facecheck.ID tapermonkey script; improved by yours truly, bypasses the payment requirements and gives you the links](https://github.com/vin3110/facecheck.id-results-extractor)
 
