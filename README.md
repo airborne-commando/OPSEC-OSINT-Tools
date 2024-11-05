@@ -14,3 +14,5 @@ A list of OSINT tools I made, forked, and or use.
 [Sherlock, basically like blackbird but more robust and developed](https://github.com/sherlock-project)
 
 [Awesome OSINT, a curated list of OSINT tools, blogs, videos](https://github.com/jivoi/awesome-osint)
+
+[Hudson rock API extractor, for use on emails and usernames; isn't automated](https://github.com/Nthompson096/hudsonrock-search-extractor)
