@@ -15,4 +15,4 @@ A list of OSINT tools I made, forked, and or use.
 
 [Awesome OSINT, a curated list of OSINT tools, blogs, videos](https://github.com/jivoi/awesome-osint)
 
-[Hudson rock API extractor, for use on emails and usernames; isn't automated](https://github.com/Nthompson096/hudsonrock-search-extractor)
+[Hudson rock API extractor, for use on emails and usernames; isn't automated but has flask](https://github.com/Nthompson096/hudsonrock-search-extractor)
