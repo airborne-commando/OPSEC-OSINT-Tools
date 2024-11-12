@@ -9,6 +9,8 @@ A list of OSINT tools I made, forked, and or use.
 
 [Pimeyes image extractor; will give you an idea of where the image was located based on a URL, can use this with facecheck.id](https://github.com/Nthompson096/Pimeyes-Free-POC-GUI)
 
+They also have a [website](https://rgbattack.com/); gives you details on what the image is and everything, seems to be more in detail but will not give you a link to which website sadly so you'll still need to use the above most likely.
+
 [Blackbird, a robust OSINT tool that facilitates rapid searches for user accounts by username or email across a wide array of platforms](https://github.com/p1ngul1n0/blackbird)
 
 [Sherlock, basically like blackbird but more robust and developed](https://github.com/sherlock-project)
