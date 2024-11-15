@@ -1,6 +1,53 @@
 # OSINT-Tools
 A list of OSINT tools I made, forked, and or use.
 
+## OPSEC
+
+OPSEC, or Operations Security, is a systematic process for:
+1. identifying
+2. protecting and controlling critical information.
+
+It's a security discipline and operations function that involves a continuous cycle of:
+* Identifying critical information and indicators (CII)
+* Analyzing potential threats and vulnerabilities
+* Assessing risks
+* Developing countermeasures to protect CII 
+
+OPSEC is used to protect information and activities from adversaries.
+
+It's a warfighting capability that helps identify and protect sensitive information that could give an adversary an advantage. 
+
+OPSEC principles can be applied in daily life, such as not sharing personal information like Social Security numbers.
+
+* Other examples of OPSEC mistakes include:
+
+* Over-sharing personal information online
+
+* Leaving unused social media profiles online
+
+* Accidentally interacting with a target on social media 
+
+OPSEC supplements other security disciplines, rather than replacing them.
+
+
+## How to OPSEC:
+
+* Use services that can conceal your identity if you're paranoid
+Telegram is kinda normie tier, requires a phone number - simplex isn't too bad and neither is signal.
+
+* Tor/VPN/XMR
+
+tor isn't bad but will get rate limited by captcha.
+Mullvad is pretty good as a VPN considering it accepts XMR (monero) as a form of payment, meaning it can't really be traced back to you if you buy this VPN service and you mine XMR with your own node; also worth noting that VPNS are useles if you have bad opsec. 
+
+Example people can find you on people search engines and the like along with using the same variant of a username and or by biometrics.
+
+* Usernames/creds/ID
+
+Use different usernames and creds on different websites, use a word spinner to change sentences on everything if you wanted to conceal your identity (people will google who you really are).
+Try not to make much foes and the like and don't be noticeable on the internet (IE; don't be a turd) also don't plaster your face on the net and if you do try to look yourself up on the net.
+These are the BEST pieces of advice I can give anyone reading this. ***OSINT*** yourself.
+
 ## Open Source Intelligence (OSINT)
 
 Open source intelligence (OSINT) is the process of gathering, analyzing, and using data from publicly available sources to create actionable intelligence.
@@ -48,7 +95,7 @@ OSINT can be used to gather information from a variety of sources, including:
 - Public government data
 - Professional and academic publications
 - Commercial data
-- Grey literature
+- [Grey literature](https://browse.welch.jhmi.edu/c.php?g=1195274)
 
 ## Tools
 OSINT tools can access and analyze information from sources beyond traditional search engines. One example is **Shodan**, which can examine operational technology (OT) like those used in industrial control systems. Tools I use are discussed here below.
@@ -107,50 +154,3 @@ Cock.li will shut down before becoming complicit in crimes against its own userb
 Cock.li is not under duress of any government or organization.
 
 I'd probably recommend using something else other than cock.li; use any domain from cock.li and use a different email server provider, this is stupid.
-
-## OPSEC
-
-OPSEC, or Operations Security, is a systematic process for:
-1. identifying
-2. protecting and controlling critical information.
-
-It's a security discipline and operations function that involves a continuous cycle of:
-* Identifying critical information and indicators (CII)
-* Analyzing potential threats and vulnerabilities
-* Assessing risks
-* Developing countermeasures to protect CII 
-
-OPSEC is used to protect information and activities from adversaries.
-
-It's a warfighting capability that helps identify and protect sensitive information that could give an adversary an advantage. 
-
-OPSEC principles can be applied in daily life, such as not sharing personal information like Social Security numbers.
-
-* Other examples of OPSEC mistakes include:
-
-* Over-sharing personal information online
-
-* Leaving unused social media profiles online
-
-* Accidentally interacting with a target on social media 
-
-OPSEC supplements other security disciplines, rather than replacing them.
-
-
-## How to OPSEC:
-
-* Use services that can conceal your identity if you're paranoid
-Telegram is kinda normie tier, requires a phone number - simplex isn't too bad and neither is signal.
-
-* Tor/VPN/XMR
-
-tor isn't bad but will get rate limited by captcha.
-Mullvad is pretty good as a VPN considering it accepts XMR (monero) as a form of payment, meaning it can't really be traced back to you if you buy this VPN service and you mine XMR with your own node; also worth noting that VPNS are useles if you have bad opsec. 
-
-Example people can find you on people search engines and the like along with using the same variant of a username and or by biometrics.
-
-* Usernames/creds/ID
-
-Use different usernames and creds on different websites, use a word spinner to change sentences on everything if you wanted to conceal your identity (people will google who you really are).
-Try not to make much foes and the like and don't be noticeable on the internet (IE; don't be a turd) also don't plaster your face on the net and if you do try to look yourself up on the net.
-This is the BEST pieces of advice I can give anyone reading this.
