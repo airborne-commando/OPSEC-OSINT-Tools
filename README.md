@@ -19,6 +19,8 @@ They also have a [website](https://rgbattack.com/); gives you details on what th
 
 [Hudson rock API extractor, for use on emails and usernames; isn't automated but has flask](https://github.com/Nthompson096/hudsonrock-search-extractor)
 
+[holehe, be careful about imgur as it can be a false positive/red herring; reason why I don't use it too much or at all, same with Sherlock](https://github.com/megadose/holehe)
+
 # OPSEC
 
 Use services that can conceal your identity if you're paranoid
