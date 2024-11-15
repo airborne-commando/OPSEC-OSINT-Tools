@@ -27,6 +27,8 @@ They also have a [website](https://rgbattack.com/); gives you details on what th
 
 [Awesome OSINT, a curated list of OSINT tools, blogs, videos](https://github.com/jivoi/awesome-osint)
 
+[OSINT Framework, a much bigger list of tools not listed here](https://osintframework.com/)
+
 # Email address + username + name generation:
 
 [Email user/name for cock.li and protonmail, useful for creating an account that isn't on a tempmail service; still need to solve captcha on cock.li](https://github.com/Nthompson096/user-email-gen)
