@@ -13,7 +13,7 @@ They also have a [website](https://rgbattack.com/); gives you details on what th
 
 [Blackbird, a robust OSINT tool that facilitates rapid searches for user accounts by username or email across a wide array of platforms](https://github.com/p1ngul1n0/blackbird)
 
-[Sherlock, basically like blackbird but more robust and developed](https://github.com/sherlock-project)
+[Sherlock, basically like blackbird but more robust and developed, imgur can give red herrings so be careful on that info](https://github.com/sherlock-project)
 
 [Awesome OSINT, a curated list of OSINT tools, blogs, videos](https://github.com/jivoi/awesome-osint)
 
