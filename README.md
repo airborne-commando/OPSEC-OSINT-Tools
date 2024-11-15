@@ -137,8 +137,8 @@ They also have a [website](https://rgbattack.com/); gives you details on what th
 
 ## After:
 
-My fellow retards: cock.li has not "shut down". You may need to read more than the first line.
-Anyone suggesting you migrate your account to Gmail, Yahoo, Proton, etc. should not have been using cock.li in the first place. Normalfags get off my fucking board.
+My fellow r*t*rds: cock.li has not "shut down". You may need to read more than the first line.
+Anyone suggesting you migrate your account to Gmail, Yahoo, Proton, etc. should not have been using cock.li in the first place. Normalf*gs get off my fucking board.
 Feel free to migrate, I don't have any good suggestions though. Try that on Proton!
 PW changes and maybe registration will be back within a couple days.
 
