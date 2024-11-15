@@ -135,7 +135,7 @@ They also have a [website](https://rgbattack.com/); gives you details on what th
 
 ## ***DISCLAIMER: Cock.li may be having issues:***
 
-## Updates:
+## After:
 
 My fellow retards: cock.li has not "shut down". You may need to read more than the first line.
 Anyone suggesting you migrate your account to Gmail, Yahoo, Proton, etc. should not have been using cock.li in the first place. Normalfags get off my fucking board.
