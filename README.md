@@ -44,7 +44,7 @@ Example people can find you on people search engines and the like along with usi
 
 * Usernames/creds/ID
 
-Use different usernames and creds on different websites, use a [word](https://free-article-spinner.com/) [spinner](https://www.rewritertools.com/article-spinner) to change sentences on everything if you wanted to conceal your identity (people will google who you really are). Can also use [anongpt](https://anonchatgpt.com/) or perplexity.
+Use different usernames and creds on different websites, use a [word](https://free-article-spinner.com/) [spinner](https://www.rewritertools.com/article-spinner) to change sentences on everything if you wanted to conceal your identity (people will google who you really are). Can also use perplexity.
 Try not to make much foes and the like and don't be noticeable on the internet (IE; don't be a turd) also don't plaster your face on the net and if you do try to look yourself up on the net.
 These are the BEST pieces of advice I can give anyone reading this. ***OSINT*** yourself.
 
