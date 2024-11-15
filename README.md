@@ -86,6 +86,7 @@ OSINT is important because it allows organizations and individuals to:
 
 ## Privacy-Conscious People
 - OSINT can be used to check how outsiders can break into their computing devices.
+- OSINT can also be used on oneself to secure privacy.
 
 ## Non-Governmental Organizations
 - Bellingcat, the Center for Information Resilience, and Oryx are examples of non-governmental organizations that use OSINT.
