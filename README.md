@@ -119,6 +119,8 @@ They also have a [website](https://rgbattack.com/); gives you details on what th
 
 [Sherlock, basically like blackbird but more robust and developed, imgur can give red herrings so be careful on that info](https://github.com/sherlock-project)
 
+Also made a [GUI](https://github.com/Nthompson096/sherlock-gui)
+
 [Hudson rock API extractor, for use on emails and usernames; isn't automated but has flask, checks to see if an email was compromised](https://github.com/Nthompson096/hudsonrock-search-extractor)
 
 [holehe, be careful about imgur as it can be a false positive/red herring; reason why I don't use it too much or at all, same with Sherlock](https://github.com/megadose/holehe)
