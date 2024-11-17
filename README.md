@@ -1,13 +1,29 @@
+# Table of Contents
 
-# OSINT-Tools
+1. [OPSEC](#opsec)
+   - [How to OPSEC](#how-to-opsec)
+2. [Open Source Intelligence (OSINT)](#open-source-intelligence-osint)
+   - [What it is](#what-it-is)
+   - [How it's used](#how-its-used)
+   - [Why it's important](#why-its-important)
+3. [Who uses Open-Source Intelligence (OSINT)?](#who-uses-open-source-intelligence-osint)
+   - [National Security and Intelligence Agencies](#national-security-and-intelligence-agencies)
+   - [Law Enforcement](#law-enforcement)
+   - [Businesses](#businesses)
+   - [Cybersecurity and Cyber-crime Groups](#cybersecurity-and-cyber-crime-groups)
+   - [Privacy-Conscious People](#privacy-conscious-people)
+   - [Non-Governmental Organizations](#non-governmental-organizations)
+   - [YOU](#you)
+4. [Sources of OSINT](#sources-of-osint)
+5. [Tools](#tools)
+   - [Word spinners](#word-spinners)
+   - [Google dorks](#google-dorks)
+   - [Bio-metric investigation](#bio-metric-investigation)
+   - [Email + username investigations](#email--username-investigations)
+   - [Curated lists](#curated-lists)
+   - [Email address + username + name generation](#email-address--username--name-generation)
 
-A list of OSINT tools I made, forked, and/or use. First, let's talk about the definitions.
-
-***DISCLAIMER***
-
-I am in no way responsible for any abuse, misuse, or any questionable actions in which someone uses these tools or methods below. OSINT is an information-gathering technique that can be used by ANYBODY!
-
-## OPSEC
+# OPSEC {#opsec}
 
 **OPSEC** (Operations Security) is a systematic process for:
 1. Identifying
@@ -28,7 +44,7 @@ OPSEC is used to protect information and activities from adversaries. It helps i
 
 OPSEC supplements other security disciplines rather than replacing them.
 
-### How to OPSEC:
+## How to OPSEC {#how-to-opsec}
 
 * **Use services that can conceal your identity:**
   - Telegram is normie-tier as it isn't encrypted by default and requires a phone number.
@@ -46,14 +62,16 @@ OPSEC supplements other security disciplines rather than replacing them.
   - Avoid making enemies online and don't be noticeable (i.e., don't be a turd).
   - Regularly OSINT yourself to check your online presence.
 
-## Open Source Intelligence (OSINT)
+# Open Source Intelligence (OSINT) {#open-source-intelligence-osint}
 
 **OSINT** is the process of gathering, analyzing, and using data from publicly available sources to create actionable intelligence.
 
-### What it is:
+## What it is {#what-it-is}
+
 OSINT is the practice of collecting and analyzing information from public sources to address specific intelligence needs.
 
-### How it's used:
+## How it's used {#how-its-used}
+
 OSINT is used by government agencies and commercial organizations for various purposes, including:
 - Reconnaissance
 - Cyber crime investigations
@@ -62,70 +80,71 @@ OSINT is used by government agencies and commercial organizations for various pu
 - Measuring risk to an organization
 - Understanding the actor, tactics, and targets
 
-### Why it's important:
+## Why it's important {#why-its-important}
+
 OSINT allows organizations and individuals to:
 - Gather real-time information
 - Make informed decisions
 - Receive early warnings of potential threats
 
-## Who uses Open-Source Intelligence (OSINT)?
+# Who uses Open-Source Intelligence (OSINT)? {#who-uses-open-source-intelligence-osint}
 
-### National Security and Intelligence Agencies
+## National Security and Intelligence Agencies {#national-security-and-intelligence-agencies}
 - The CIA, Defense Intelligence Agency (DIA), and Office of the Director of National Intelligence (ODNI) all use OSINT.
 
-### Law Enforcement
+## Law Enforcement {#law-enforcement}
 - OSINT can protect citizens from identity theft, sexual violence, and abuse.
 
-### Businesses
+## Businesses {#businesses}
 - OSINT can monitor competitors, investigate new markets, and plan marketing activities.
 
-### Cybersecurity and Cyber-crime Groups
+## Cybersecurity and Cyber-crime Groups {#cybersecurity-and-cyber-crime-groups}
 - OSINT can gather intelligence about specific targets online.
 
-### Privacy-Conscious People
+## Privacy-Conscious People {#privacy-conscious-people}
 - OSINT can check how outsiders can break into their computing devices.
 - OSINT can be used on oneself to secure privacy.
 
-### Non-Governmental Organizations
+## Non-Governmental Organizations {#non-governmental-organizations}
 - Bellingcat, the Center for Information Resilience, and Oryx use OSINT.
 
-### YOU
+## YOU {#you}
 - Yes, you can use OSINT.
 
-## Sources of OSINT
+# Sources of OSINT {#sources-of-osint}
 OSINT can gather information from various sources, including:
 - Public government data
 - Professional and academic publications
 - Commercial data
 - [Grey literature](https://browse.welch.jhmi.edu/c.php?g=1195274)
 
-## Tools
+# Tools {#tools}
 OSINT tools can access and analyze information from sources beyond traditional search engines. Here are some tools I use:
 
-### Word spinners
+## Word spinners {#word-spinners}
 - [Article spinner](https://free-article-spinner.com/)
 - [Another article spinner](https://www.rewritertools.com/article-spinner)
 
-### Google dorks
+## Google dorks {#google-dorks}
 - [Google-FU, use Google to lookup info on someone or something; may get rate limited](https://github.com/Nthompson096/GoogleFU-improved)
 
-### Bio-metric investigation
+## Bio-metric investigation {#bio-metric-investigation}
 - [Facecheck.ID tampermonkey script; improved by me, bypasses payment requirements and gives you the links](https://github.com/vin3110/facecheck.id-results-extractor)
 - [Pimeyes image extractor; gives an idea of where the image was located based on a URL, can use with facecheck.id](https://github.com/Nthompson096/Pimeyes-Free-POC-GUI)
 - [RGB Attack website; gives details on the image, but not the link](https://rgbattack.com/)
 
-### Email + username investigations
+## Email + username investigations {#email--username-investigations}
 - [Blackbird, robust OSINT tool for rapid searches of user accounts by username or email across many platforms](https://github.com/p1ngul1n0/blackbird)
 - [Sherlock, similar to Blackbird but more robust and developed; caution with imgur red herrings](https://github.com/sherlock-project)
   - [GUI for Sherlock](https://github.com/Nthompson096/sherlock-gui)
 - [Hudson rock API extractor, for emails and usernames; not automated but uses Flask, checks email compromises](https://github.com/Nthompson096/hudsonrock-search-extractor)
 - [holehe, caution with imgur for false positives; similar to Sherlock](https://github.com/megadose/holehe)
 
-### Curated lists
+## Curated lists {#curated-lists}
 - [Awesome OSINT, a curated list of OSINT tools, blogs, and videos](https://github.com/jivoi/awesome-osint)
 - [OSINT Framework, a larger list of tools](https://osintframework.com/)
 
-### Email address + username + name generation
+## Email address + username + name generation {#email-address--username--name-generation}
 - [Email user/name generator for cock.li and ProtonMail; useful for non-temp mail service accounts](https://github.com/Nthompson096/user-email-gen)
 
 ***DISCLAIMER: Cock.li may be having issues:***
