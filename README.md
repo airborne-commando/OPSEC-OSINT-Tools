@@ -33,7 +33,7 @@ OPSEC supplements other security disciplines, rather than replacing them.
 ## How to OPSEC:
 
 * Use services that can conceal your identity if you're paranoid
-Telegram is kinda normie tier, requires a phone number - simplex isn't too bad and neither is signal.
+Telegram is kinda normie tier as it isn't encrypted by default and requires a phone number - simplex isn't too bad and neither is signal though that requires a phone number but encrypted by default.
 
 * Tor/VPN/XMR
 
