@@ -1,4 +1,3 @@
-
 # OSINT-Tools
 
 A list of OSINT tools I made, forked, and/or use. First, let's talk about the definitions.
@@ -123,36 +122,36 @@ OSINT can gather information from various sources, including:
 - Public government data
 - Professional and academic publications
 - Commercial data
-- [Grey literature](https://browse.welch.jhmi.edu/c.php?g=1195274)
+- [Grey literature](https://browse.welch.jhmi.edu/c.php?g=1195274){:target="_blank"}
 
 ## Tools
 OSINT tools can access and analyze information from sources beyond traditional search engines. Here are some tools I use:
 
 ### Word spinners
-- [Article spinner](https://free-article-spinner.com/)
-- [Another article spinner](https://www.rewritertools.com/article-spinner)
+- [Article spinner](https://free-article-spinner.com/){:target="_blank"}
+- [Another article spinner](https://www.rewritertools.com/article-spinner){:target="_blank"}
 
 ### Google dorks
-- [Google-FU, use Google to lookup info on someone or something; may get rate limited](https://github.com/Nthompson096/GoogleFU-improved)
+- [Google-FU, use Google to lookup info on someone or something; may get rate limited](https://github.com/Nthompson096/GoogleFU-improved){:target="_blank"}
 
 ### Bio-metric investigation
-- [Facecheck.ID tampermonkey script; improved by me, bypasses payment requirements and gives you the links](https://github.com/vin3110/facecheck.id-results-extractor)
-- [Pimeyes image extractor; gives an idea of where the image was located based on a URL, can use with facecheck.id](https://github.com/Nthompson096/Pimeyes-Free-POC-GUI)
-- [RGB Attack website; gives details on the image, but not the link](https://rgbattack.com/)
+- [Facecheck.ID tampermonkey script; improved by me, bypasses payment requirements and gives you the links](https://github.com/vin3110/facecheck.id-results-extractor){:target="_blank"}
+- [Pimeyes image extractor; gives an idea of where the image was located based on a URL, can use with facecheck.id](https://github.com/Nthompson096/Pimeyes-Free-POC-GUI){:target="_blank"}
+- [RGB Attack website; gives details on the image, but not the link](https://rgbattack.com/){:target="_blank"}
 
 ### Email + username investigations
-- [Blackbird, robust OSINT tool for rapid searches of user accounts by username or email across many platforms](https://github.com/p1ngul1n0/blackbird)
-- [Sherlock, similar to Blackbird but more robust and developed; caution with imgur red herrings](https://github.com/sherlock-project)
-  - [GUI for Sherlock](https://github.com/Nthompson096/sherlock-gui)
-- [Hudson rock API extractor, for emails and usernames; not automated but uses Flask, checks email compromises](https://github.com/Nthompson096/hudsonrock-search-extractor)
-- [holehe, caution with imgur for false positives; similar to Sherlock](https://github.com/megadose/holehe)
+- [Blackbird, robust OSINT tool for rapid searches of user accounts by username or email across many platforms](https://github.com/p1ngul1n0/blackbird){:target="_blank"}
+- [Sherlock, similar to Blackbird but more robust and developed; caution with imgur red herrings](https://github.com/sherlock-project){:target="_blank"}
+  - [GUI for Sherlock](https://github.com/Nthompson096/sherlock-gui){:target="_blank"}
+- [Hudson rock API extractor, for emails and usernames; not automated but uses Flask, checks email compromises](https://github.com/Nthompson096/hudsonrock-search-extractor){:target="_blank"}
+- [holehe, caution with imgur for false positives; similar to Sherlock](https://github.com/megadose/holehe){:target="_blank"}
 
 ### Curated lists
-- [Awesome OSINT, a curated list of OSINT tools, blogs, and videos](https://github.com/jivoi/awesome-osint)
-- [OSINT Framework, a larger list of tools](https://osintframework.com/)
+- [Awesome OSINT, a curated list of OSINT tools, blogs, and videos](https://github.com/jivoi/awesome-osint){:target="_blank"}
+- [OSINT Framework, a larger list of tools](https://osintframework.com/){:target="_blank"}
 
 ### Email address + username + name generation
-- [Email user/name generator for cock.li and ProtonMail; useful for non-temp mail service accounts](https://github.com/Nthompson096/user-email-gen)
+- [Email user/name generator for cock.li and ProtonMail; useful for non-temp mail service accounts](https://github.com/Nthompson096/user-email-gen){:target="_blank"}
 
 ***DISCLAIMER: Cock.li may be having issues:***
 
