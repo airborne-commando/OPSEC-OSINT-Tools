@@ -15,7 +15,7 @@ It's a security discipline and operations function that involves a continuous cy
 
 OPSEC is used to protect information and activities from adversaries.
 
-It's a warfighting capability that helps identify and protect sensitive information that could give an adversary an advantage. 
+It's a war fighting capability that helps identify and protect sensitive information that could give an adversary an advantage. 
 
 OPSEC principles can be applied in daily life, such as not sharing personal information like Social Security numbers.
 
@@ -38,9 +38,9 @@ Telegram is kinda normie tier as it isn't encrypted by default and requires a ph
 * Tor/VPN/XMR
 
 tor isn't bad but will get rate limited by captcha.
-Mullvad is pretty good as a VPN considering it accepts XMR (monero) as a form of payment, meaning it can't really be traced back to you if you buy this VPN service and you mine XMR with your own node; also worth noting that VPNS are useles if you have bad opsec. 
+Mullvad is pretty good as a VPN considering it accepts XMR (monero) as a form of payment, meaning it can't really be traced back to you if you buy this VPN service and you mine XMR with your own node; also worth noting that VPNS are useless if you have bad opsec. 
 
-Example people can find you on people search engines and the like along with using the same variant of a username and or by biometrics.
+Example people can find you on people search engines and the like along with using the same variant of a username and or by bio metrics.
 
 * Usernames/creds/ID
 
@@ -136,18 +136,18 @@ Also made a [GUI](https://github.com/Nthompson096/sherlock-gui)
 
 ## Email address + username + name generation:
 
-[Email user/name for cock.li and protonmail, useful for creating an account that isn't on a tempmail service; still need to solve captcha on cock.li](https://github.com/Nthompson096/user-email-gen)
+[Email user/name for cock.li and protonmail, useful for creating an account that isn't on a temp mail service; still need to solve captcha on cock.li](https://github.com/Nthompson096/user-email-gen)
 
-## ***DISCLAIMER: Cock.li may be having issues:***
+***DISCLAIMER: Cock.li may be having issues:***
 
-## After:
+After:
 
 My fellow r*t*rds: cock.li has not "shut down". You may need to read more than the first line.
 Anyone suggesting you migrate your account to Gmail, Yahoo, Proton, etc. should not have been using cock.li in the first place. Normal$!gs get off my f*!#ing board.
 Feel free to migrate, I don't have any good suggestions though. Try that on Proton!
 PW changes and maybe registration will be back within a couple days.
 
-## Before:
+Before:
 
 LIBERTY CANARY
 
@@ -155,7 +155,7 @@ Date updated: See the PGP Signed Version
 
 Cock.li is in 100% control of all of its hardware, and the service is still operating normally. The website (account registration+pw change) is currently offline.
 
-Cock.li will shut down before becoming complicit in crimes against its own userbase under duress of any government or organization.
+Cock.li will shut down before becoming complicit in crimes against its own user base under duress of any government or organization.
 
 Cock.li is not under duress of any government or organization.
 
