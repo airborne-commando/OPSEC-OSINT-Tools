@@ -91,6 +91,9 @@ OSINT is important because it allows organizations and individuals to:
 ## Non-Governmental Organizations
 - Bellingcat, the Center for Information Resilience, and Oryx are examples of non-governmental organizations that use OSINT.
 
+# YOU
+- Yes, you can use OSINT.
+
 ## Sources of OSINT
 OSINT can be used to gather information from a variety of sources, including:
 - Public government data
