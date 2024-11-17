@@ -123,7 +123,7 @@ OSINT can gather information from various sources, including:
 - Public government data
 - Professional and academic publications
 - Commercial data
-- [Grey literature](https://browse.welch.jhmi.edu/c.php?g=1195274)
+- [Grey literature](https://browse.welch.jhmi.edu/c.php?g=1195274 target="_blank")
 
 ## Tools
 OSINT tools can access and analyze information from sources beyond traditional search engines. Here are some tools I use:
