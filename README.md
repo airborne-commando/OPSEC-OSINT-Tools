@@ -133,7 +133,7 @@ OSINT tools can access and analyze information from sources beyond traditional s
 - [Another article spinner](https://www.rewritertools.com/article-spinner)
 
 ### Google dorks
-- [Google-FU, use Google to lookup info on someone or something; may get rate limited](https://github.com/Nthompson096/GoogleFU-improved)
+- [Google-FU, uses Google to lookup info on someone or something; may get rate limited](https://github.com/Nthompson096/GoogleFU-improved)
 
 ### Bio-metric investigation
 - [Facecheck.ID tampermonkey script; improved by me, bypasses payment requirements and gives you the links](https://github.com/vin3110/facecheck.id-results-extractor)
