@@ -157,3 +157,4 @@ Cock.li will shut down before becoming complicit in crimes against its own userb
 Cock.li is not under duress of any government or organization.
 
 I'd probably recommend using something else other than cock.li; use any domain from cock.li and use a different email service provider, this is stupid.
+However if you decide to use cock.li you may check out how to enable it in the link that was given to you.
