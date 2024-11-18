@@ -167,7 +167,7 @@ OSINT tools can access and analyze information from sources beyond traditional s
 - [Hudson rock API extractor, for emails and usernames; not automated but uses Flask, checks email compromises](https://github.com/Nthompson096/hudsonrock-search-extractor)
 - [holehe, caution with imgur for false positives; similar to Sherlock](https://github.com/megadose/holehe)
 
-### Geoloaction
+### Geolocation
 
 [Google maps, good to pinpoint where someone/thing is and compare landmarks from somewhere](https://maps.google.com/)
 
