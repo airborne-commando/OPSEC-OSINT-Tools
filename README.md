@@ -24,7 +24,8 @@ I am in no way responsible for any abuse, misuse, or any questionable actions in
    - [Non-Governmental Organizations](#non-governmental-organizations)
    - [YOU](#you)
 4. [Sources of OSINT](#sources-of-osint)
-5. [Tools](#tools)
+5. [Real world examples of OSINT](https://github.com/Nthompson096/OSINT-Tools/edit/main/README.md#real-world-examples-of-osint)
+6. [Tools](#tools)
    - [Word spinners](#word-spinners)
    - [Google dorks](#google-dorks)
    - [Bio-metric investigation](#bio-metric-investigation)
@@ -124,6 +125,11 @@ OSINT can gather information from various sources, including:
 - Professional and academic publications
 - Commercial data
 - [Grey literature](https://browse.welch.jhmi.edu/c.php?g=1195274)
+
+### Real world examples of OSINT
+
+- A basket weaving image board used OSINT to pay some terroist a vist from a [govt.](https://imgur.com/pol-helps-coordinate-airstrike-on-moderate-syrian-rebels-N7DwWP1)
+- A basket weaving image board used OSINT and [sky patterns to figure out where a flag is.](https://www.vice.com/en/article/4chan-does-first-good-thing-pulls-off-the-heist-of-the-century1/)
 
 ## Tools
 OSINT tools can access and analyze information from sources beyond traditional search engines. Here are some tools I use:
