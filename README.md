@@ -161,6 +161,14 @@ OSINT tools can access and analyze information from sources beyond traditional s
 
 [Google maps, good to pinpoint where someone/thing is and compare landmarks from somewhere](https://maps.google.com/)
 
+### People search tools (in the states)
+
+[fast people search](https://www.fastpeoplesearch.com/) Gives out Age, Address, Numbers (mostly old), email
+
+[that's them](https://thatsthem.com/) gives out IP, addresses, DOB (Estimated day of birth and year IIRC), Numbers (mostly old), email
+
+[nuwber.com](https://nuwber.com/) gives out a DOB, Address, email, Numbers (mostly old)
+
 ### Instagram
 
 [picuki, an anon Instagram browser that works if you know a username](https://www.picuki.com/)
