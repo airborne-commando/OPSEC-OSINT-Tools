@@ -144,8 +144,9 @@ OSINT tools can access and analyze information from sources beyond traditional s
 
 ### Bio-metric investigation
 - [Facecheck.ID tampermonkey script; improved by me, bypasses payment requirements and gives you the links](https://github.com/vin3110/facecheck.id-results-extractor)
+
 - [Pimeyes image extractor; gives an idea of where the image was located based on a URL, can use with facecheck.id](https://github.com/Nthompson096/Pimeyes-Free-POC-GUI)
-- [RGB Attack website; gives details on the image, but not the link](https://rgbattack.com/)
+  - [RGB Attack website; gives details on the image, but not the link](https://rgbattack.com/)
 
 ### Email + username investigations
 - [Blackbird, robust OSINT tool for rapid searches of user accounts by username or email across many platforms](https://github.com/p1ngul1n0/blackbird)
@@ -159,6 +160,7 @@ OSINT tools can access and analyze information from sources beyond traditional s
 
 
 - [Hudson rock API extractor, for emails and usernames; not automated but uses Flask, checks email compromises](https://github.com/Nthompson096/hudsonrock-search-extractor)
+
 - [holehe, caution with imgur for false positives; similar to Sherlock](https://github.com/megadose/holehe)
 
 ### Geolocation
@@ -183,6 +185,7 @@ OSINT tools can access and analyze information from sources beyond traditional s
 
 ### Curated lists
 - [Awesome OSINT, a curated list of OSINT tools, blogs, and videos](https://github.com/jivoi/awesome-osint)
+
 - [OSINT Framework, a larger list of tools](https://osintframework.com/)
 
 ### Email address + username + name generation
