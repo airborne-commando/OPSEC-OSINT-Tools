@@ -26,12 +26,6 @@ I am in no way responsible for any abuse, misuse, or any questionable actions in
 4. [Sources of OSINT](#sources-of-osint)
 5. [Real world examples of OSINT](#real-world-examples-of-osint)
 6. [Tools](#tools)
-   - [Word spinners](#word-spinners)
-   - [Google dorks](#google-dorks)
-   - [Bio-metric investigation](#bio-metric-investigation)
-   - [Email + username investigations](#email--username-investigations)
-   - [Curated lists](#curated-lists)
-   - [Email address + username + name generation](#email-address--username--name-generation)
 
 
 ## OPSEC
