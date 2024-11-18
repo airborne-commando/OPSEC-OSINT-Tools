@@ -24,7 +24,7 @@ I am in no way responsible for any abuse, misuse, or any questionable actions in
    - [Non-Governmental Organizations](#non-governmental-organizations)
    - [YOU](#you)
 4. [Sources of OSINT](#sources-of-osint)
-5. [Real world examples of OSINT](https://github.com/Nthompson096/OSINT-Tools/edit/main/README.md#real-world-examples-of-osint)
+5. [Real world examples of OSINT](#real-world-examples-of-osint)
 6. [Tools](#tools)
    - [Word spinners](#word-spinners)
    - [Google dorks](#google-dorks)
