@@ -129,7 +129,21 @@ OSINT can gather information from various sources, including:
 ### Real world examples of OSINT
 
 - A basket weaving image board used OSINT to pay some terroist a vist from a [govt.](https://imgur.com/pol-helps-coordinate-airstrike-on-moderate-syrian-rebels-N7DwWP1)
+    - [A video example](https://www.youtube.com/watch?v=OR6epSP_Xlw)
+
+TLDR:
+
+In 2016, during the complex Syrian Civil War, various rebel groups, some with good intentions and others with nefarious motives, sought to overthrow President Assad. The chaos allowed terrorist groups to flourish, prompting intervention from the United States and Russia, with the former supporting rebels and the latter aiding Assad.
+
+An anonymous user on 4chan's Syria General board (SG) claimed that a Syrian rebel group, Jaysh al-Izza, posted a video on YouTube revealing their secret encampment. The group, linked to Al-Qaeda, was seen by 4chan users as a target. A notable 4chan user, Ivan Sirenko, who had connections with the Russian military, received the coordinates from the 4chan community and tweeted them to the Russian Ministry of Defense. This led to an airstrike on the encampment.
+
+Two months later, the same rebel group posted another video showing a new training camp. 4chan users once again pinpointed the location using landmarks seen in the video. After thorough verification, they sent the coordinates to Ivan, who facilitated another Russian airstrike.
+
+While 4chan users believed they were targeting terrorists, the situation was morally complex, as not all rebels associated with Al-Qaeda were necessarily terrorists. The 4chan community's actions resulted in real bloodshed, raising ethical questions about their involvement in the conflict.
+
 - A basket weaving image board used OSINT and [sky patterns to figure out where a flag is.](https://www.vice.com/en/article/4chan-does-first-good-thing-pulls-off-the-heist-of-the-century1/)
+
+In 2017, 4chan users managed to track down and replace Shia LaBeouf's "He Will Not Divide Us" protest flag. Using only the livestream footage of the flag, they analyzed flight patterns, star positions, and a tweet to locate the flag in Greeneville, Tennessee. A local troll then honked his car horn until the sound was picked up on the livestream, pinpointing the exact location. The flag was replaced with a Trump hat, marking the end of this elaborate trolling operation.
 
 ## Tools
 OSINT tools can access and analyze information from sources beyond traditional search engines. Here are some tools I use:
