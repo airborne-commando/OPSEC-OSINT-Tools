@@ -167,6 +167,18 @@ OSINT tools can access and analyze information from sources beyond traditional s
 - [Hudson rock API extractor, for emails and usernames; not automated but uses Flask, checks email compromises](https://github.com/Nthompson096/hudsonrock-search-extractor)
 - [holehe, caution with imgur for false positives; similar to Sherlock](https://github.com/megadose/holehe)
 
+### Geoloaction
+
+[Google maps, good to pinpoint where someone/thing is and compare landmarks from somewhere](https://maps.google.com/)
+
+### Instagram
+
+[picuki, an anon instagram browser that works if you know a username](https://www.picuki.com/)
+
+### Twitter
+
+[sotwe, an anon twitter browser that actually works.](https://www.sotwe.com/)
+
 ### Curated lists
 - [Awesome OSINT, a curated list of OSINT tools, blogs, and videos](https://github.com/jivoi/awesome-osint)
 - [OSINT Framework, a larger list of tools](https://osintframework.com/)
