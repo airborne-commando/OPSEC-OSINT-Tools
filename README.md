@@ -151,7 +151,7 @@ OSINT tools can access and analyze information from sources beyond traditional s
 - [Blackbird, robust OSINT tool for rapid searches of user accounts by username or email across many platforms](https://github.com/p1ngul1n0/blackbird)
   - A GUI editon of [this tool named crow](https://github.com/Nthompson096/crow)
 
-- [Sherlock, similar to Blackbird but more robust and developed; caution with imgur red herrings](https://github.com/sherlock-project)
+- [Sherlock, similar to Blackbird but more robust and developed; caution with imgur red herrings](https://github.com/sherlock-project/sherlock)
   - [GUI for Sherlock](https://github.com/Nthompson096/sherlock-gui)
 
 - [maigret, find connections VIA a username; a fork of sherlock](https://github.com/soxoj/maigret)
