@@ -1,4 +1,3 @@
-
 # OSINT-Tools
 
 A list of OSINT tools I made, forked, and/or use. First, let's talk about the definitions.
@@ -44,10 +43,10 @@ OPSEC supplements other security disciplines rather than replacing them.
 * **Use services that can conceal your identity:**
   - Telegram is normie-tier as it isn't encrypted by default and requires a phone number.
   - Simplex isn't too bad.
-  - Signal is encrypted by default but requires a phone number; however singal can't give anything out even by court order [because of state of the art encrypton even user accounts and phone numbers](https://signal.org/bigbrother/cd-california-grand-jury/).
+  - Signal is encrypted by default but requires a phone number; however signal can't give anything out even by court order [because of state of the art encryption even user accounts and phone numbers](https://signal.org/bigbrother/cd-california-grand-jury/).
 
 * **Tor/VPN/XMR:**
-  - Tor isn't bad but will get rate limited by captchas.
+  - Tor isn't bad but will get rate limited by CAPTCHA.
   - Mullvad is a good VPN (Virtual Private Network) as it accepts XMR (Monero), which can't be traced back to you if you mine XMR with your own node. Note: VPNs are useless if you have bad OPSEC, same with Tor.
 
 * **Usernames/credentials/Identification:**
@@ -127,7 +126,11 @@ While 4chan users believed they were targeting terrorists, the situation was mor
 
 - A basket weaving image board used OSINT and [sky patterns to figure out where a flag is.](https://www.vice.com/en/article/4chan-does-first-good-thing-pulls-off-the-heist-of-the-century1/)
 
-In 2017, 4chan users managed to track down and replace Shia LaBeouf's "He Will Not Divide Us" protest flag. Using only the livestream footage of the flag, they analyzed flight patterns, star positions, and a tweet to locate the flag in Greeneville, Tennessee. A local troll then honked his car horn until the sound was picked up on the livestream, pinpointing the exact location. The flag was replaced with a Trump hat, marking the end of this elaborate trolling operation.
+In 2017, 4chan users managed to track down and replace Shia LaBeouf's "He Will Not Divide Us" protest flag. Using only the live-stream footage of the flag, they analyzed flight patterns, star positions, and a tweet to locate the flag in Greeneville, Tennessee. A local troll then honked his car horn until the sound was picked up on the live-stream, pinpointing the exact location. The flag was replaced with a Trump hat, marking the end of this elaborate trolling operation.
+
+### How to OSINT:
+
+- Gather information about yourself, become your own threat actor; use the tools below and come up with your own conclusions. Use people search engines and public data about yourself and most importantly don't overshare on the internet or have such a large footprint.
 
 ## Tools
 OSINT tools can access and analyze information from sources beyond traditional search engines. Here are some tools I use:
@@ -157,7 +160,7 @@ OSINT tools can access and analyze information from sources beyond traditional s
 
 ### Instagram
 
-[picuki, an anon instagram browser that works if you know a username](https://www.picuki.com/)
+[picuki, an anon Instagram browser that works if you know a username](https://www.picuki.com/)
 
 ### Twitter
 
