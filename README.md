@@ -149,6 +149,7 @@ OSINT tools can access and analyze information from sources beyond traditional s
 
 ### Email + username investigations
 - [Blackbird, robust OSINT tool for rapid searches of user accounts by username or email across many platforms](https://github.com/p1ngul1n0/blackbird)
+  - A GUI editon of [this tool named crow](https://github.com/Nthompson096/crow)
 - [Sherlock, similar to Blackbird but more robust and developed; caution with imgur red herrings](https://github.com/sherlock-project)
   - [GUI for Sherlock](https://github.com/Nthompson096/sherlock-gui)
 - [Hudson rock API extractor, for emails and usernames; not automated but uses Flask, checks email compromises](https://github.com/Nthompson096/hudsonrock-search-extractor)
