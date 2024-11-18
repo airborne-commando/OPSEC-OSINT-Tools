@@ -154,6 +154,10 @@ OSINT tools can access and analyze information from sources beyond traditional s
 - [Sherlock, similar to Blackbird but more robust and developed; caution with imgur red herrings](https://github.com/sherlock-project)
   - [GUI for Sherlock](https://github.com/Nthompson096/sherlock-gui)
 
+- [maigret, find connections VIA a username; a fork of sherlock](https://github.com/soxoj/maigret)
+  - [A GUI Tool](https://github.com/Nthompson096/maigret-night) 
+
+
 - [Hudson rock API extractor, for emails and usernames; not automated but uses Flask, checks email compromises](https://github.com/Nthompson096/hudsonrock-search-extractor)
 - [holehe, caution with imgur for false positives; similar to Sherlock](https://github.com/megadose/holehe)
 
