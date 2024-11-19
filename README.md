@@ -148,7 +148,7 @@ Anyhow, here are some tools I use:
 - [Article rewriter](https://seotoolstation.com/article-rewriter), this one keeps SEO in mind for rankings; after a few tries it WILL ask for a login, use TOR to bypass.
 
 ### SEO Tools
-[Here's a really good site, I'd recommend using TOR browser to bypass the login page after a few tries](https://seotoolstation.com/).
+- [Here's a really good site, I'd recommend using TOR browser to bypass the login page after a few tries](https://seotoolstation.com/).
 
 ### Google dorks
 - [Google-FU, uses Google to lookup info on someone or something; may get rate limited](https://github.com/Nthompson096/GoogleFU-improved)
