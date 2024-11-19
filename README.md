@@ -104,10 +104,28 @@ OSINT allows organizations and individuals to:
 
 ## Sources of OSINT
 OSINT can gather information from various sources, including:
-- Public government data
-- Professional and academic publications
-- Commercial data
+- [Public government data](https://www.opendatasoft.com/en/glossary/public-data/)
+
+  - Public data refers to all information made freely available by government bodies or local collectivities. This data is in the public domain. It is different to open data, which is a subset of public data. Open data is structured and well-maintained data that is therefore easier to understand, access and consume. By contrast public data can be difficult to find, or (in the case of public bodies), require the submission of a Freedom of Information Act to retrieve it.
+
+- [Professional and academic publications](https://www.lawinsider.com/dictionary/academic-publication)
+
+  - Academic Publication means the publication of an abstract, article or paper in a journal or electronic repository, or its presentation at a conference or seminar;
+
+
+- [Commercial data](https://www.lawinsider.com/dictionary/commercial-data)
+
+  - Commercial Data means any and all data and information relating to an identified or identifiable Person (whether the information is accurate or not), alone or in combination with other information, which Person is or was an actual or prospective customer of, or consumer of products offered by, the VS Business or L Brands Business, as applicable.
+
+  - Commercial Data means any and all data and information relating to an identified or identifiable Person (whether the information is accurate or not), alone or in combination with other information, which Person is or was an actual or prospective customer of, or consumer of products or services offered by, the LoyaltyOne Business and/or ADS Business, as applicable.
+
+  - Commercial Data means any and all data collected or otherwise processed by the Seller Entities relating to a customer of the Business.
+
 - [Grey literature](https://browse.welch.jhmi.edu/c.php?g=1195274)
+
+  - Grey literature is "Information produced on all levels of government, academics, business and industry in electronic and print formats not controlled by commercial publishing i.e. where publishing is not the primary activity of the producing body."
+   
+  - Grey literature can be useful for your research, but finding resources requires different tactics than you'd use for commercially published materials. This is because many types of grey literature are not indexed in some of the more common research tools like PubMed, CINAHL, Scopus, etc. 
 
 ### Real world examples of OSINT
 
