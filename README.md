@@ -145,7 +145,7 @@ Anyhow, here are some tools I use:
 ### Word spinners
 - [Article spinner](https://free-article-spinner.com/)
 - [Another article spinner](https://www.rewritertools.com/article-spinner)
-- [Article rewriter](https://seotoolstation.com/article-rewriter), this one keeps SEO in mind for rankings; after a few tries it WILL ask for a login, use TOR to bypass.
+- [Article rewriter](https://seotoolstation.com/article-rewriter) this rewriter keeps SEO in mind for search rankings; after a few tries it WILL ask for a login, use TOR to bypass.
 
 ### SEO Tools
 - [Here's a really good site, I'd recommend using TOR browser to bypass the login page after a few tries](https://seotoolstation.com/).
