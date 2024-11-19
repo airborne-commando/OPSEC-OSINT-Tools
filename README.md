@@ -254,6 +254,8 @@ Gives out the following info:
 
 - [OSINT Framework, a larger list of tools](https://osintframework.com/)
 
+- A whole reddit wiki from the [OSINT community](https://www.reddit.com/r/OSINT/wiki/index/)
+
 ### Email address + username + name generation
 - [Email user/name generator for cock.li and ProtonMail; useful for non-temp mail service accounts](https://github.com/Nthompson096/user-email-gen)
 
