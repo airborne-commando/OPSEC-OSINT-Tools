@@ -243,11 +243,11 @@ Gives out the following info:
 
 ### Instagram
 
-[picuki, an anon Instagram browser that works if you know a username](https://www.picuki.com/)
+- [picuki, an anon Instagram browser that works if you know a username](https://www.picuki.com/)
 
 ### Twitter
 
-[sotwe, an anon twitter browser that actually works.](https://www.sotwe.com/)
+- [sotwe, an anon twitter browser that actually works.](https://www.sotwe.com/)
 
 ### Curated lists
 - [Awesome OSINT, a curated list of OSINT tools, blogs, and videos](https://github.com/jivoi/awesome-osint)
