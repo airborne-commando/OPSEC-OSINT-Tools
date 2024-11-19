@@ -169,11 +169,56 @@ OSINT tools can access and analyze information from sources beyond traditional s
 
 ### People search tools (in the states)
 
-[fast people search](https://www.fastpeoplesearch.com/) Gives out Age, Address, Numbers (mostly old), email
+[fast people search](https://www.fastpeoplesearch.com/) 
 
-[that's them](https://thatsthem.com/) gives out IP, addresses, DOB (Estimated day of birth and year IIRC), Numbers (mostly old), email
+Gives out: 
+- Age
+- Address
+- Numbers (mostly old)
+- email (may be old)
 
-[nuwber.com](https://nuwber.com/) gives out a DOB, Address, email, Numbers (mostly old)
+Can lookup:
+- Name
+- Phone
+- Address
+
+[that's them](https://thatsthem.com/) 
+
+gives out: 
+- IP
+- addresses
+- DOB (Estimated day of birth and year IIRC),
+- Numbers
+- email (can be old). 
+
+Looks up Names: 
+- address
+- email
+- IP
+- VIN
+
+[nuwber.com](https://nuwber.com/) 
+
+gives out: 
+- a DOB
+- Address
+- email
+- Numbers (mostly old)
+
+Can lookup:
+- Name
+- Phone
+- Address
+- Email
+
+[ID Craw](idcrawl.com) 
+
+gives out info such a social media with either a:
+
+- first last name (though you can google that)
+- username search
+- reverse phone
+- email lookup
 
 ### Instagram
 
