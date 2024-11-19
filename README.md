@@ -220,6 +220,13 @@ gives out info such a social media with either a:
 - reverse phone
 - email lookup
 
+[publicrecords, use this with fastpeople search or other people search engines](publicrecords.onlinesearches.com)
+
+Gives out the following info:
+
+- Address
+- Partial phone number
+
 ### Instagram
 
 [picuki, an anon Instagram browser that works if you know a username](https://www.picuki.com/)
