@@ -161,81 +161,72 @@ Anyhow, here are some tools I use:
 
   - [Google maps, good to pinpoint where someone/thing is and compare landmarks from somewhere](https://maps.google.com/)
 
-- People search tools (in the states)
+    
+**<div align="center">People search tools (in the states):</div>**
 
-  - [fast people search](https://www.fastpeoplesearch.com/) 
+1. [fast people search](https://www.fastpeoplesearch.com/)
+ 
 
-Gives out: 
-- Age
-- Address
-- Numbers (mostly old)
-- email (may be old)
+gives out | can lookup
+------ | ------
+Age       | Name
+Address       | Phone
+Numbers       | Address
+email       |
 
-Can lookup:
-- Name
-- Phone
-- Address
+2. [that's them](https://thatsthem.com/)
 
-- [that's them](https://thatsthem.com/) 
+gives out | can lookup
+------ | ------
+IP       | address
+addresses       | email
+Numbers       | IP
+email       | VIN
 
-gives out: 
-- IP
-- addresses
-- DOB (Estimated day of birth and year IIRC),
-- Numbers
-- email (can be old). 
+3. [nuwber.com](https://nuwber.com/) 
 
-Looks up Names: 
-- address
-- email
-- IP
-- VIN
+gives out | Can lookup
+------ | ------
+DOB   | Name
+Address   | Phone
+email     | Phone
+Numbers   | Address Email
 
-- [nuwber.com](https://nuwber.com/) 
+4. [ID Craw](https://idcrawl.com/) 
 
-gives out: 
-- a DOB
-- Address
-- email
-- Numbers (mostly old)
+gives out | can lookup
+------ | ------
+names  | names
+username       | username
+phone       | phone
+email       | email
 
-Can lookup:
-- Name
-- Phone
-- Address
-- Email
-
-- [ID Craw](https://idcrawl.com/) 
-
-gives out info such a social media with either a:
-
-- first last name (though you can google that)
-- username search
-- reverse phone
-- email lookup
-
-- [Peekyou, search by first last name and username](https://www.peekyou.com/)
+5. [Peekyou, search by first last name and username](https://www.peekyou.com/)
 
 Gives out info such as: 
-- age
-- social media's
-- emails
-- addresses
 
-- [webmii, search by first last name](https://webmii.com/)
+gives out | can lookup
+------ | ------
+age       | First and last name + address
+social media's       | username
+emails       |
+addresses       |
 
-Gives out info such as:
+6. [webmii, search by first last name](https://webmii.com/)
 
-- Social
-- search results (google)
+gives out | can lookup
+------ | ------
+Social       | First and last name
+search results       |
 
-- [publicrecords, use this with fastpeople search or other people search engines](https://www.publicrecords.onlinesearches.com/)
+7. [publicrecords, use this with fastpeople search or other people search engines](https://www.publicrecords.onlinesearches.com/)
 
-Gives out the following info:
+gives out | can lookup
+------ | ------
+Name       | First and last name
+Address       | Address
+Partial phone number       |
 
-- Name
-- Address
-- Partial phone number
 
 **DISCLAIMER: OnlineSearches powered by Intelius® offers a free people search directory that includes basic information, such as name, address, and partial phone numbers. In performing a search, you may ultimately be directed to Intelius.com where additional information is offered for a fee.**
 
