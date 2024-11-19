@@ -47,26 +47,19 @@ OPSEC supplements other security disciplines rather than replacing them.
 
 ## Open Source Intelligence (OSINT)
 
--> What is it <-
+**<div align="center">What is it, how is this used and why is it important:</div>**
 
-OSINT is the practice of collecting and analyzing information from public sources to address specific intelligence needs.
+- OSINT is the practice of collecting and analyzing information from public sources to address specific intelligence needs. OSINT is used by government agencies and commercial organizations for various purposes, including:
 
--> How it's used: <-
-
-OSINT is used by government agencies and commercial organizations for various purposes, including:
-- Reconnaissance
-- Cyber crime investigations
-- Market trend analysis
-- Brand positioning analysis
-- Measuring risk to an organization
-- Understanding the actor, tactics, and targets
-
--> Why it's important: <-
-
-OSINT allows organizations and individuals to:
-- Gather real-time information
-- Make informed decisions
-- Receive early warnings of potential threats
+  - Reconnaissance
+  - Cyber crime investigations
+  - Market trend analysis
+  - Brand positioning analysis
+  - Measuring risk to an organization
+  - Understanding the actor, tactics, and targets
+  - Gather real-time information
+  - Make informed decisions
+  - Receive early warnings of potential threats
 
 ## Who uses Open-Source Intelligence (OSINT)?
 
