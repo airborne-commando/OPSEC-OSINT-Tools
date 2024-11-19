@@ -220,7 +220,7 @@ gives out info such a social media with either a:
 - reverse phone
 - email lookup
 
-[publicrecords, use this with fastpeople search or other people search engines](publicrecords.onlinesearches.com)
+[publicrecords, use this with fastpeople search or other people search engines](https://www.publicrecords.onlinesearches.com/)
 
 Gives out the following info:
 
