@@ -63,27 +63,16 @@ OPSEC supplements other security disciplines rather than replacing them.
 
 ## Who uses Open-Source Intelligence (OSINT)?
 
-### National Security and Intelligence Agencies
-- The CIA, Defense Intelligence Agency (DIA), and Office of the Director of National Intelligence (ODNI) all use OSINT.
+- National Security and Intelligence Agencies, Law Enforcement, Businesses, Cybersecurity and Cyber-crime Groups, Privacy-Conscious People, Non-Governmental Organizations
 
-### Law Enforcement
-- OSINT can protect citizens from identity theft, sexual violence, and abuse.
-
-### Businesses
-- OSINT can monitor competitors, investigate new markets, and plan marketing activities.
-
-### Cybersecurity and Cyber-crime Groups
-- OSINT can gather intelligence about specific targets online.
-
-### Privacy-Conscious People
-- OSINT can check how outsiders can break into their computing devices.
-- OSINT can be used on oneself to secure privacy.
-
-### Non-Governmental Organizations
-- Bellingcat, the Center for Information Resilience, and Oryx use OSINT.
-
-### YOU
-- Yes, you can use OSINT.
+  - The CIA, Defense Intelligence Agency (DIA), and Office of the Director of National Intelligence (ODNI) all use OSINT.
+  - OSINT can protect citizens from identity theft, sexual violence, and abuse.
+  - OSINT can monitor competitors, investigate new markets, and plan marketing activities.
+  - OSINT can gather intelligence about specific targets online.
+  - OSINT can check how outsiders can break into their computing devices.
+  - OSINT can be used on oneself to secure privacy.
+  - Bellingcat, the Center for Information Resilience, and Oryx use OSINT.
+  - And you! Yes, you can use OSINT.
 
 ## Sources of OSINT
 OSINT can gather information from various sources, including:
@@ -136,26 +125,26 @@ OSINT tools can access and analyze information from sources beyond traditional s
 
 Anyhow, here are some tools I use:
 
-### Word spinners
-- [Article spinner](https://free-article-spinner.com/)
-- [Another article spinner](https://www.rewritertools.com/article-spinner)
-- [Article rewriter](https://seotoolstation.com/article-rewriter) this rewriter keeps SEO in mind for search rankings; after a few tries it WILL ask for a login, use TOR to bypass.
+- Word spinners
+  - [Article spinner](https://free-article-spinner.com/)
+  - [Another article spinner](https://www.rewritertools.com/article-spinner)
+  - [Article rewriter](https://seotoolstation.com/article-rewriter) this rewriter keeps SEO in mind for search rankings; after a few tries it WILL ask for a login, use TOR to bypass.
 
-### SEO Tools
-- [Here's a really good site, I'd recommend using TOR browser to bypass the login page after a few tries](https://seotoolstation.com/).
+- SEO Tools
+  - [Here's a really good site, I'd recommend using TOR browser to bypass the login page after a few tries](https://seotoolstation.com/).
 
-### Google dorks
-- [Google-FU, uses Google to lookup info on someone or something; may get rate limited](https://github.com/Nthompson096/GoogleFU-improved)
+- Google dorks
+  - [Google-FU, uses Google to lookup info on someone or something; may get rate limited](https://github.com/Nthompson096/GoogleFU-improved)
 
-### Bio-metric investigation
-- [Facecheck.ID tampermonkey script; improved by me, bypasses payment requirements and gives you the links](https://github.com/vin3110/facecheck.id-results-extractor)
+- Bio-metric investigation
+  - [Facecheck.ID tampermonkey script; improved by me, bypasses payment requirements and gives you the links](https://github.com/vin3110/facecheck.id-results-extractor)
 
 - [Pimeyes image extractor; gives an idea of where the image was located based on a URL, can use with facecheck.id](https://github.com/Nthompson096/Pimeyes-Free-POC-GUI)
   - [RGB Attack website; gives details on the image, but not the link](https://rgbattack.com/)
 
-### Email + username investigations
-- [Blackbird, robust OSINT tool for rapid searches of user accounts by username or email across many platforms](https://github.com/p1ngul1n0/blackbird)
-  - A GUI editon of [this tool named crow](https://github.com/Nthompson096/crow)
+- Email + username investigations
+  - [Blackbird, robust OSINT tool for rapid searches of user accounts by username or email across many platforms](https://github.com/p1ngul1n0/blackbird)
+    - A GUI editon of [this tool named crow](https://github.com/Nthompson096/crow)
 
 - [Sherlock, similar to Blackbird but more robust and developed; caution with imgur red herrings](https://github.com/sherlock-project/sherlock)
   - [GUI for Sherlock](https://github.com/Nthompson096/sherlock-gui)
@@ -168,13 +157,13 @@ Anyhow, here are some tools I use:
 
 - [holehe, caution with imgur for false positives; similar to Sherlock](https://github.com/megadose/holehe)
 
-### Geolocation
+- Geolocation
 
-- [Google maps, good to pinpoint where someone/thing is and compare landmarks from somewhere](https://maps.google.com/)
+  - [Google maps, good to pinpoint where someone/thing is and compare landmarks from somewhere](https://maps.google.com/)
 
-### People search tools (in the states)
+- People search tools (in the states)
 
-## [fast people search](https://www.fastpeoplesearch.com/) 
+  - [fast people search](https://www.fastpeoplesearch.com/) 
 
 Gives out: 
 - Age
@@ -187,7 +176,7 @@ Can lookup:
 - Phone
 - Address
 
-## [that's them](https://thatsthem.com/) 
+- [that's them](https://thatsthem.com/) 
 
 gives out: 
 - IP
@@ -202,7 +191,7 @@ Looks up Names:
 - IP
 - VIN
 
-## [nuwber.com](https://nuwber.com/) 
+- [nuwber.com](https://nuwber.com/) 
 
 gives out: 
 - a DOB
@@ -216,7 +205,7 @@ Can lookup:
 - Address
 - Email
 
-## [ID Craw](https://idcrawl.com/) 
+- [ID Craw](https://idcrawl.com/) 
 
 gives out info such a social media with either a:
 
@@ -225,7 +214,7 @@ gives out info such a social media with either a:
 - reverse phone
 - email lookup
 
-## [Peekyou, search by first last name and username](https://www.peekyou.com/)
+- [Peekyou, search by first last name and username](https://www.peekyou.com/)
 
 Gives out info such as: 
 - age
@@ -233,14 +222,14 @@ Gives out info such as:
 - emails
 - addresses
 
-## [webmii, search by first last name](https://webmii.com/)
+- [webmii, search by first last name](https://webmii.com/)
 
 Gives out info such as:
 
 - Social
 - search results (google)
 
-## [publicrecords, use this with fastpeople search or other people search engines](https://www.publicrecords.onlinesearches.com/)
+- [publicrecords, use this with fastpeople search or other people search engines](https://www.publicrecords.onlinesearches.com/)
 
 Gives out the following info:
 
@@ -250,27 +239,27 @@ Gives out the following info:
 
 **DISCLAIMER: OnlineSearches powered by Intelius® offers a free people search directory that includes basic information, such as name, address, and partial phone numbers. In performing a search, you may ultimately be directed to Intelius.com where additional information is offered for a fee.**
 
-### Breached Data:
+- Breached Data:
 
-- [Have I Been Pwned](https://haveibeenpwned.com/): Check if an email has been compromised in a data breach.
+  - [Have I Been Pwned](https://haveibeenpwned.com/): Check if an email has been compromised in a data breach.
 
-### Instagram
+- Instagram
 
-- [picuki, an anon Instagram browser that works if you know a username](https://www.picuki.com/)
+  - [picuki, an anon Instagram browser that works if you know a username](https://www.picuki.com/)
 
-### Twitter
+- Twitter
 
-- [sotwe, an anon twitter browser that actually works.](https://www.sotwe.com/)
+  - [sotwe, an anon twitter browser that actually works.](https://www.sotwe.com/)
 
-### Curated lists
-- [Awesome OSINT, a curated list of OSINT tools, blogs, and videos](https://github.com/jivoi/awesome-osint)
+- Curated lists
+  - [Awesome OSINT, a curated list of OSINT tools, blogs, and videos](https://github.com/jivoi/awesome-osint)
 
 - [OSINT Framework, a larger list of tools](https://osintframework.com/)
 
 - A whole reddit wiki from the [OSINT community](https://www.reddit.com/r/OSINT/wiki/index/)
 
-### Email address + username + name generation
-- [Email user/name generator for cock.li and ProtonMail; useful for non-temp mail service accounts](https://github.com/Nthompson096/user-email-gen)
+- Email address + username + name generation
+  - [Email user/name generator for cock.li and ProtonMail; useful for non-temp mail service accounts](https://github.com/Nthompson096/user-email-gen)
 
 ***DISCLAIMER: Cock.li may be having issues:***
 
