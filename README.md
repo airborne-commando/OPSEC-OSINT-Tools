@@ -110,7 +110,7 @@ OSINT can gather information from various sources, including:
 
 - [Professional and academic publications](https://www.lawinsider.com/dictionary/academic-publication)
 
-  - Academic Publication means the publication of an abstract, article or paper in a journal or electronic repository, or its presentation at a conference or seminar;
+  - Academic Publication means the publication of an abstract, article or paper in a journal or electronic repository, or its presentation at a conference or seminar.
 
 
 - [Commercial data](https://www.lawinsider.com/dictionary/commercial-data)
