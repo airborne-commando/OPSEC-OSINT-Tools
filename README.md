@@ -145,6 +145,7 @@ Anyhow, here are some tools I use:
 ### Word spinners
 - [Article spinner](https://free-article-spinner.com/)
 - [Another article spinner](https://www.rewritertools.com/article-spinner)
+- [Article rewriter](https://seotoolstation.com/article-rewriter), this one keeps SEO in mind for rankings.
 
 ### Google dorks
 - [Google-FU, uses Google to lookup info on someone or something; may get rate limited](https://github.com/Nthompson096/GoogleFU-improved)
