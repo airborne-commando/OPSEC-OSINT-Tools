@@ -116,7 +116,7 @@ OSINT can gather information from various sources, including:
 
 ### Real world examples of OSINT
 
-## In the year 2016, a basket weaving image board used OSINT to pay some terroist a vist from a [govt in Russia resulting in airstrikes.](https://imgur.com/pol-helps-coordinate-airstrike-on-moderate-syrian-rebels-N7DwWP1)
+### In the year 2016, a basket weaving image board used OSINT to pay some terroist a vist from a [govt in Russia resulting in airstrikes.](https://imgur.com/pol-helps-coordinate-airstrike-on-moderate-syrian-rebels-N7DwWP1)
 
 - [A video detailing the events](https://www.youtube.com/watch?v=OR6epSP_Xlw)
 
@@ -129,7 +129,7 @@ An anonymous user on 4chan's Syria General board (SG) claimed that a Syrian rebe
 
 Two months later, the same rebel group posted another video showing a new training camp. 4chan users once again pinpointed the location using landmarks seen in the video. After thorough verification, they sent the coordinates to Ivan, who facilitated another Russian airstrike.
 
-## In 2017, Shia LaBeouf had a protest due to Trumps election; this resulted in a basket weaving image board using OSINT and [sky patterns to figure out where a flag is.](https://www.vice.com/en/article/4chan-does-first-good-thing-pulls-off-the-heist-of-the-century1/)
+### In 2017, Shia LaBeouf had a protest due to Trumps election; this resulted in a basket weaving image board using OSINT and [sky patterns to figure out where a flag is.](https://www.vice.com/en/article/4chan-does-first-good-thing-pulls-off-the-heist-of-the-century1/)
 
 
 Summary:
