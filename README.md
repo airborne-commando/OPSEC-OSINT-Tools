@@ -6,13 +6,6 @@ A list of OSINT tools I made, forked, and/or use. First, let's talk about the de
 
 I am in no way responsible for any abuse, misuse, or any questionable actions in which someone uses these tools or methods below. OSINT is an information-gathering technique that can be used by ANYBODY!
 
-# Table of Contents
-
-1. [OPSEC](#opsec)
-2. [Open Source Intelligence (OSINT)](#open-source-intelligence-osint)
-3. [Tools](#tools)
-
-
 ## OPSEC
 
 **OPSEC** (Operations Security) is a systematic process for:
