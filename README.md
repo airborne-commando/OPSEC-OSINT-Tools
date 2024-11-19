@@ -241,6 +241,10 @@ Gives out the following info:
 
 **DISCLAIMER: OnlineSearches powered by Intelius® offers a free people search directory that includes basic information, such as name, address, and partial phone numbers. In performing a search, you may ultimately be directed to Intelius.com where additional information is offered for a fee.**
 
+### Breached Data:
+
+[Have I Been Pwned](https://haveibeenpwned.com/): Check if an email has been compromised in a data breach.
+
 ### Instagram
 
 - [picuki, an anon Instagram browser that works if you know a username](https://www.picuki.com/)
