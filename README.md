@@ -243,7 +243,7 @@ Gives out the following info:
 
 ### Breached Data:
 
-[Have I Been Pwned](https://haveibeenpwned.com/): Check if an email has been compromised in a data breach.
+- [Have I Been Pwned](https://haveibeenpwned.com/): Check if an email has been compromised in a data breach.
 
 ### Instagram
 
