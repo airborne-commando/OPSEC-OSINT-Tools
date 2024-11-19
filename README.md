@@ -180,7 +180,7 @@ Anyhow, here are some tools I use:
 
 ### People search tools (in the states)
 
-[fast people search](https://www.fastpeoplesearch.com/) 
+## [fast people search](https://www.fastpeoplesearch.com/) 
 
 Gives out: 
 - Age
@@ -193,7 +193,7 @@ Can lookup:
 - Phone
 - Address
 
-[that's them](https://thatsthem.com/) 
+## [that's them](https://thatsthem.com/) 
 
 gives out: 
 - IP
@@ -208,7 +208,7 @@ Looks up Names:
 - IP
 - VIN
 
-[nuwber.com](https://nuwber.com/) 
+## [nuwber.com](https://nuwber.com/) 
 
 gives out: 
 - a DOB
@@ -222,7 +222,7 @@ Can lookup:
 - Address
 - Email
 
-[ID Craw](idcrawl.com) 
+## [ID Craw](idcrawl.com) 
 
 gives out info such a social media with either a:
 
@@ -231,7 +231,7 @@ gives out info such a social media with either a:
 - reverse phone
 - email lookup
 
-[publicrecords, use this with fastpeople search or other people search engines](https://www.publicrecords.onlinesearches.com/)
+## [publicrecords, use this with fastpeople search or other people search engines](https://www.publicrecords.onlinesearches.com/)
 
 Gives out the following info:
 
