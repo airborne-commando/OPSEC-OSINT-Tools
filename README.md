@@ -127,7 +127,7 @@ OSINT can gather information from various sources, including:
 
 ### Real world examples of OSINT
 
-## In the year In 2016, a basket weaving image board used OSINT to pay some terroist a vist from a [govt in Russia resulting in airstrikes.](https://imgur.com/pol-helps-coordinate-airstrike-on-moderate-syrian-rebels-N7DwWP1)
+## In the year 2016, a basket weaving image board used OSINT to pay some terroist a vist from a [govt in Russia resulting in airstrikes.](https://imgur.com/pol-helps-coordinate-airstrike-on-moderate-syrian-rebels-N7DwWP1)
 
 - [A video detailing the events](https://www.youtube.com/watch?v=OR6epSP_Xlw)
 
