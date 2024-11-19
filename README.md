@@ -10,8 +10,7 @@ I am in no way responsible for any abuse, misuse, or any questionable actions in
 
 1. [OPSEC](#opsec)
 2. [Open Source Intelligence (OSINT)](#open-source-intelligence-osint)
-3. [Real world examples of OSINT](#real-world-examples-of-osint)
-4. [Tools](#tools)
+3. [Tools](#tools)
 
 
 ## OPSEC
