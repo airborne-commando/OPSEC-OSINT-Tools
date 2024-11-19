@@ -58,9 +58,7 @@ OPSEC supplements other security disciplines rather than replacing them.
 
 ## Open Source Intelligence (OSINT)
 
-**OSINT** is the process of gathering, analyzing, and using data from publicly available sources to create actionable intelligence.
-
-### What it is:
+### What is it:
 OSINT is the practice of collecting and analyzing information from public sources to address specific intelligence needs.
 
 ### How it's used:
@@ -194,7 +192,7 @@ Anyhow, here are some tools I use:
 
 ### Geolocation
 
-[Google maps, good to pinpoint where someone/thing is and compare landmarks from somewhere](https://maps.google.com/)
+- [Google maps, good to pinpoint where someone/thing is and compare landmarks from somewhere](https://maps.google.com/)
 
 ### People search tools (in the states)
 
