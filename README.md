@@ -224,8 +224,11 @@ gives out info such a social media with either a:
 
 Gives out the following info:
 
+- Name
 - Address
 - Partial phone number
+
+**DISCLAIMER: OnlineSearches powered by Intelius® offers a free people search directory that includes basic information, such as name, address, and partial phone numbers. In performing a search, you may ultimately be directed to Intelius.com where additional information is offered for a fee.**
 
 ### Instagram
 
