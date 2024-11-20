@@ -234,6 +234,17 @@ Partial phone number       |
 
   - [Have I Been Pwned](https://haveibeenpwned.com/): Check if an email has been compromised in a data breach.
 
+  - [Breached data](https://breachdirectory.org/): Check email and usernames for a breach; will return partial password hashes
+
+    - The following information is imported into the BreachDirectory database:
+    - First 4 characters of each password.
+    - SHA-1 hash of each password.
+    - Length of each password.
+    - Usernames.
+    - Emails.
+ 
+  - [EXPOSED](https://exposed.lol/): Check email with password hashes, limted with only 4 Checks per 12hrs; feel free to use TOR.
+
 - Instagram
 
   - [picuki - an anon Instagram browser that works if you know a username](https://www.picuki.com/) a great for figuring out land markers inside a photo.
