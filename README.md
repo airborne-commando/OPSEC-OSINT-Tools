@@ -245,7 +245,7 @@ Partial phone number       |
  
   - [EXPOSED](https://exposed.lol/): Check email with password hashes, limted with only 4 Checks per 12hrs; feel free to use TOR.
 
-  - [leakpeek](https://leakpeek.com/): Can only use 5 searches for a free search, will hide most info but with some sluting and the tools listed you should get an idea of WHAT. also use tor if you can to bypass the search limit.
+  - [leakpeek](https://leakpeek.com/): Can only use 5 searches for a free search, will hide most info but with some sluting and the tools listed you should get an idea of WHAT. also use tor if you can to bypass the search limit. Other than that if you really need more details on what was leaked you may need to buy a plan.
 
   - [hashes](https://hashes.com/en/decrypt/hash): Decrypt the hashes you find to get a password.
 
