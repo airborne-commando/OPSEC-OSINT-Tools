@@ -247,6 +247,8 @@ Partial phone number       |
 
   - [leakpeek](https://leakpeek.com/): Can only use 5 searches for a free search, will hide most info but with some sluting and the tools listed you should get an idea of WHAT. also use tor if you can to bypass the search limit.
 
+  - [hashes](https://hashes.com/en/decrypt/hash): Decrypt the hashes you find to get a password.
+
 - Instagram
 
   - [picuki - an anon Instagram browser that works if you know a username](https://www.picuki.com/) a great for figuring out land markers inside a photo.
