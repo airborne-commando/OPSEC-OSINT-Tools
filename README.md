@@ -126,29 +126,44 @@ OSINT tools can access and analyze information from sources beyond traditional s
 Anyhow, here are some tools I use:
 
 - Word spinners
-  - [Article spinner](https://free-article-spinner.com/)
-  - [Another article spinner](https://www.rewritertools.com/article-spinner)
+
+  - [Article spinner, with basic and advanced paraphrase - can only use standard.](https://free-article-spinner.com/)
+
+  - [Another article spinner, no advanced paraphrase; doesn't have different langs](https://www.rewritertools.com/article-spinner)
+
   - [Article rewriter](https://seotoolstation.com/article-rewriter) this rewriter keeps SEO in mind for search rankings; after a few tries it WILL ask for a login, use TOR to bypass.
+ 
+- Wanna use different langs for free?
+ 
+  - [Use google translate](translate.google.com)
 
 - SEO Tools
+
   - [Here's a really good site, I'd recommend using TOR browser to bypass the login page after a few tries](https://seotoolstation.com/).
 
 - Google dorks
+
   - [Google-FU, uses Google to lookup info on someone or something; may get rate limited](https://github.com/Nthompson096/GoogleFU-improved)
 
 - Bio-metric investigation
+
   - [Facecheck.ID tampermonkey script; improved by me, bypasses payment requirements and gives you the links](https://github.com/vin3110/facecheck.id-results-extractor)
+
   - [Pimeyes image extractor; gives an idea of where the image was located based on a URL, can use with facecheck.id](https://github.com/Nthompson096/Pimeyes-Free-POC-GUI)
+
   - [RGB Attack website; gives details on the image, but not the link](https://rgbattack.com/)
 
 - Email + username investigations
   - [Blackbird, robust OSINT tool for rapid searches of user accounts by username or email across many platforms](https://github.com/p1ngul1n0/blackbird)
-    - A GUI editon of [this tool named crow](https://github.com/Nthompson096/crow)
+
+  - A GUI editon of [this tool named crow](https://github.com/Nthompson096/crow)
 
 - [Sherlock, similar to Blackbird but more robust and developed; caution with imgur red herrings](https://github.com/sherlock-project/sherlock)
+
   - [GUI for Sherlock, uses the CLI as a backend; commands are bascially the same.](https://github.com/Nthompson096/sherlock-gui)
 
 - [maigret, find connections VIA a username; a fork of sherlock](https://github.com/soxoj/maigret)
+
   - [A GUI Tool, uses the CLI as a backend; commands are going to basically be the same.](https://github.com/Nthompson096/maigret-night) 
 
 
