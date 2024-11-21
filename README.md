@@ -163,6 +163,10 @@ Anyhow, here are some tools I use:
     
 **<div align="center">People search tools (in the states):</div>**
 
+**DISCLAIMER:**
+
+Most of the email info found on these sites appear to be from a databrech from long ago; subjects on these sites can and possibly will still use their email found on these sites as people will rarely change email providers due to TFA + password managers unless if the email itself has been compromised in any way, shape, or form OR if they've changed emails due to harrasment, spam, etc etc.
+
 1. [fast people search](https://www.fastpeoplesearch.com/)
  
 
