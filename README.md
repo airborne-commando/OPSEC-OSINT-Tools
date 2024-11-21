@@ -135,7 +135,7 @@ Anyhow, here are some tools I use:
  
 - Wanna use different langs for free?
  
-  - [Use google translate](translate.google.com)
+  - [Use google translate](https://translate.google.com/)
 
 - SEO Tools
 
