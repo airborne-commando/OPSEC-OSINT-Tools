@@ -149,7 +149,7 @@ Anyhow, here are some tools I use:
   - [GUI for Sherlock](https://github.com/Nthompson096/sherlock-gui)
 
 - [maigret, find connections VIA a username; a fork of sherlock](https://github.com/soxoj/maigret)
-  - [A GUI Tool](https://github.com/Nthompson096/maigret-night) 
+  - [A GUI Tool, uses the CLI as a backend; commands are going to basically be the same.](https://github.com/Nthompson096/maigret-night) 
 
 
 - [Hudson rock API extractor, for emails and usernames; not automated but uses Flask, checks email compromises](https://github.com/Nthompson096/hudsonrock-search-extractor)
