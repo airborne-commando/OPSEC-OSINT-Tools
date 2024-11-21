@@ -146,7 +146,7 @@ Anyhow, here are some tools I use:
     - A GUI editon of [this tool named crow](https://github.com/Nthompson096/crow)
 
 - [Sherlock, similar to Blackbird but more robust and developed; caution with imgur red herrings](https://github.com/sherlock-project/sherlock)
-  - [GUI for Sherlock](https://github.com/Nthompson096/sherlock-gui)
+  - [GUI for Sherlock, uses the CLI as a backend; commands are bascially the same.](https://github.com/Nthompson096/sherlock-gui)
 
 - [maigret, find connections VIA a username; a fork of sherlock](https://github.com/soxoj/maigret)
   - [A GUI Tool, uses the CLI as a backend; commands are going to basically be the same.](https://github.com/Nthompson096/maigret-night) 
