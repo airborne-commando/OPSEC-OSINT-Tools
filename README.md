@@ -4,7 +4,7 @@ A list of OSINT tools I made, forked, and/or use. First, let's talk about the de
 
 ***DISCLAIMER***
 
-I am in no way responsible for any abuse, misuse, or any questionable actions in which someone uses these tools or methods below. OSINT is an information-gathering technique that can be used by ANYBODY!
+I am in no way responsible for any abuse, misuse, or any questionable actions in which someone uses these tools or methods below. OSINT is an information-gathering technique that can be used by ANYBODY and on ANYBODY!
 
 ## OPSEC
 
