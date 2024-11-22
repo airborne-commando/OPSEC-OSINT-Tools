@@ -18,7 +18,7 @@ It's a security discipline and operations function that involves a continuous cy
 * Assessing risks
 * Developing countermeasures to protect CII
 
-OPSEC is used to protect information and activities from adversaries. It helps identify and protect sensitive information that could give an adversary an advantage. OPSEC principles can be applied in daily life, such as not sharing personal information like Social Security numbers.
+OPSEC is used to protect information and activities from adversaries. It helps identify and protect sensitive information that could give an adversary an advantage. OPSEC principles can be applied in daily life, such as not sharing personal information like a DOB, street address, email, phone number.
 
 **Examples of OPSEC mistakes include:**
 * Over-sharing personal information online
