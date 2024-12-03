@@ -32,7 +32,7 @@ OPSEC supplements other security disciplines rather than replacing them.
 * **Use services that can conceal your identity:**
   - Telegram is normie-tier as it isn't encrypted by default and requires a phone number.
   - Simplex isn't too bad.
-  - Signal is encrypted by default but requires a phone number; however signal can't give anything out even by court order [because of state of the art encryption even user accounts and phone numbers](https://signal.org/bigbrother/cd-california-grand-jury/).
+  - Signal is encrypted by default but requires a phone number; however signal can't give anything out even by court order [because of state of the art encryption even on user accounts and phone numbers](https://signal.org/bigbrother/cd-california-grand-jury/). Meaning when you delete an account on signal and they Subpoena information about you or your account; they'll get basically squat. 
 
 * **Tor/VPN/XMR:**
   - Tor isn't bad but will get rate limited by CAPTCHA.
