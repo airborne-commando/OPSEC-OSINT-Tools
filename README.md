@@ -143,31 +143,31 @@ Anyhow, here are some tools I use:
 
 - Google dorks
 
-  - [Google-FU, uses Google to lookup info on someone or something; may get rate limited](https://github.com/Nthompson096/GoogleFU-improved)
+  - [Google-FU, uses Google to lookup info on someone or something; may get rate limited](https://github.com/airborne-commando/GoogleFU-improved)
 
 - Bio-metric investigation
 
   - [Facecheck.ID tampermonkey script; improved by me, bypasses payment requirements and gives you the links](https://github.com/vin3110/facecheck.id-results-extractor)
 
-  - [Pimeyes image extractor; gives an idea of where the image was located based on a URL, can use with facecheck.id](https://github.com/Nthompson096/Pimeyes-Free-POC-GUI)
+  - [Pimeyes image extractor; gives an idea of where the image was located based on a URL, can use with facecheck.id](https://github.com/airborne-commando/Pimeyes-Free-POC-GUI)
 
   - [RGB Attack website; gives details on the image, but not the link](https://rgbattack.com/)
 
 - Email + username investigations
   - [Blackbird, robust OSINT tool for rapid searches of user accounts by username or email across many platforms](https://github.com/p1ngul1n0/blackbird)
 
-  - A GUI editon of [this tool named crow](https://github.com/Nthompson096/crow)
+  - A GUI editon of [this tool named crow](https://github.com/airborne-commando/crow)
 
 - [Sherlock, similar to Blackbird but more robust and developed; caution with imgur red herrings](https://github.com/sherlock-project/sherlock)
 
-  - [GUI for Sherlock, uses the CLI as a backend; commands are bascially the same.](https://github.com/Nthompson096/sherlock-gui)
+  - [GUI for Sherlock, uses the CLI as a backend; commands are bascially the same.](https://github.com/airborne-commando/sherlock-gui)
 
 - [maigret, find connections VIA a username; a fork of sherlock](https://github.com/soxoj/maigret)
 
-  - [A GUI Tool, uses the CLI as a backend; commands are going to basically be the same.](https://github.com/Nthompson096/maigret-night) 
+  - [A GUI Tool, uses the CLI as a backend; commands are going to basically be the same.](https://github.com/airborne-commando/maigret-night) 
 
 
-- [Hudson rock API extractor, for emails and usernames; not automated but uses Flask, checks email compromises](https://github.com/Nthompson096/hudsonrock-search-extractor)
+- [Hudson rock API extractor, for emails and usernames; not automated but uses Flask, checks email compromises](https://github.com/airborne-commando/hudsonrock-search-extractor)
 
 - [holehe, caution with imgur for false positives; similar to Sherlock](https://github.com/megadose/holehe)
 
@@ -282,7 +282,7 @@ Partial phone number       |
 - A whole reddit wiki from the [OSINT community](https://www.reddit.com/r/OSINT/wiki/index/)
 
 - Email address + username + name generation
-  - [Email user/name generator for cock.li and ProtonMail; useful for non-temp mail service accounts](https://github.com/Nthompson096/user-email-gen)
+  - [Email user/name generator for cock.li and ProtonMail; useful for non-temp mail service accounts](https://github.com/airborne-commando/user-email-gen)
 
 ***DISCLAIMER: Cock.li may be having issues:***
 
