@@ -251,7 +251,7 @@ Partial phone number       |
 
   - [Have I Been Pwned](https://haveibeenpwned.com/): Check if an email has been compromised in a data breach.
 
-  - [Breached data](https://breachdirectory.org/): Check email and usernames for a breach; will return partial password hashes
+  - [Breach Directory](https://breachdirectory.org/): Check email and usernames for a breach; will return partial password hashes
 
     - The following information is imported into the BreachDirectory database:
     - First 4 characters of each password.
