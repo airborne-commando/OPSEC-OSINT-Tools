@@ -160,7 +160,7 @@ Anyhow, here are some tools I use:
 
 - [Sherlock, similar to Blackbird but more robust and developed; caution with imgur red herrings](https://github.com/sherlock-project/sherlock)
 
-  - [GUI for Sherlock, uses the CLI as a backend; commands are bascially the same.](https://github.com/airborne-commando/sherlock-gui)
+  - [GUI for Sherlock, uses the CLI as a backend; commands are bascially the same.](https://github.com/airborne-commando/no-shit-sherlock)
 
 - [maigret, find connections VIA a username; a fork of sherlock](https://github.com/soxoj/maigret)
 
