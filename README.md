@@ -120,8 +120,8 @@ OSINT tools can access and analyze information from sources beyond traditional s
 
 - Phone number
 - Email
-- Address
-- IP (Dunno if anyone REALLY uses that but will list)
+- Street Address
+- IP Address (Dunno if anyone REALLY uses that but will list)
 
 Anyhow, here are some tools I use:
 
