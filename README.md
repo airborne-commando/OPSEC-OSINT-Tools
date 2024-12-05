@@ -30,7 +30,9 @@ OPSEC supplements other security disciplines rather than replacing them.
 ### How to OPSEC:
 
 * **Use services that can conceal your identity:**
-  - Telegram is normie-tier as it isn't encrypted by default and requires a phone number.
+  - Telegram is normie-tier as it isn't encrypted (Telegram does not use end-to-end) by default and requires a phone number. Only encryption you'll get is the secret chat option which; other than that it's all stored in their severs.
+  - Read more about this [here on Telegram’s Approach to Encryption](https://www.protectstar.com/en/blog/telegram-encryption)
+
   - [Simplex isn't too bad](https://github.com/simplex-chat/simplex-chat?tab=readme-ov-file#simplex-approach-to-privacy-and-security). 
 
     - Unlike any other existing messaging platform, SimpleX has no identifiers assigned to the users - not even random numbers. This protects the privacy of who are you communicating with, hiding it from SimpleX platform servers and from any observers.
