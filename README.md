@@ -71,7 +71,7 @@ OPSEC supplements other security disciplines rather than replacing them.
 - National Security and Intelligence Agencies, Law Enforcement, Businesses, Cybersecurity and Cyber-crime Groups, Privacy-Conscious People, Non-Governmental Organizations
 
   - The CIA, Defense Intelligence Agency (DIA), and Office of the Director of National Intelligence (ODNI) all use OSINT.
-  - OSINT can protect citizens from identity theft, sexual violence, and abuse.
+  - OSINT can protect citizens (private or otherwise) from identity theft, sexual violence, and abuse.
   - OSINT can monitor competitors, investigate new markets, and plan marketing activities.
   - OSINT can gather intelligence about specific targets online.
   - OSINT can check how outsiders can break into their computing devices.
