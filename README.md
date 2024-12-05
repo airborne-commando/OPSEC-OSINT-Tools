@@ -33,6 +33,7 @@ OPSEC supplements other security disciplines rather than replacing them.
   - Telegram is normie-tier as it isn't encrypted (Telegram does not use end-to-end) by default and requires a phone number. Only encryption you'll get is the secret chat option which; other than that it's all stored in their severs.
   - Read more about this [here on Telegram’s Approach to Encryption](https://www.protectstar.com/en/blog/telegram-encryption)
   - Since Telegram does not use end-to-end encryption by default, it could theoretically hand over the content of messages to law enforcement.
+  - OH Wait it [just did](https://www.cnn.com/2024/09/23/tech/telegram-ceo-durov-arrest-user-data-changes/index.html)
 
   - [Simplex isn't too bad](https://github.com/simplex-chat/simplex-chat?tab=readme-ov-file#simplex-approach-to-privacy-and-security). 
 
