@@ -282,7 +282,9 @@ Partial phone number       |
 - Curated lists
   - [Awesome OSINT, a curated list of OSINT tools, blogs, and videos](https://github.com/jivoi/awesome-osint)
 
-- [OSINT Framework, a larger list of tools](https://osintframework.com/)
+  - [OSINT Framework, a larger list of tools](https://osintframework.com/)
+  
+  - [OSINT Resources](https://sizeof.cat/post/osint-resources/) 
 
 - A whole reddit wiki from the [OSINT community](https://www.reddit.com/r/OSINT/wiki/index/)
 
