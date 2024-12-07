@@ -297,7 +297,7 @@ Partial phone number       |
 
 - [hashes](https://hashes.com/en/decrypt/hash): Decrypt the hashes you find to get a password possibly linked to a database or username.
 
-- See [Curated lists](#curated-lists)
+- For additonal tools see [Curated lists](#curated-lists)
 
 ## Social Media:
 
