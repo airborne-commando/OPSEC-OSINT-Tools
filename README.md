@@ -7,23 +7,21 @@ A list of OSINT tools I made, forked, and/or use. First, let's talk about the de
 I am in no way responsible for any abuse, misuse, or any questionable actions in which someone uses these tools or methods below. OSINT is an information-gathering technique that can be used by ANYBODY and on ANYBODY!
 
 ## Table of Contents
-
-1. [DISCLAIMER](#disclaimer)
-2. [OPSEC](#opsec)
+1. [OPSEC](#opsec)
    - [How to OPSEC](#how-to-opsec)
-3. [Open Source Intelligence (OSINT)](#open-source-intelligence-osint)
-4. [Who uses Open-Source Intelligence (OSINT)?](#who-uses-open-source-intelligence-osint)
-5. [Sources of OSINT](#sources-of-osint)
-6. [Real world examples of OSINT](#real-world-examples-of-osint)
+2. [Open Source Intelligence (OSINT)](#open-source-intelligence-osint)
+3. [Who uses Open-Source Intelligence (OSINT)?](#who-uses-open-source-intelligence-osint)
+4. [Sources of OSINT](#sources-of-osint)
+5. [Real world examples of OSINT](#real-world-examples-of-osint)
    - [2016 Airstrike Coordination](#in-the-year-2016-a-basket-weaving-image-board-used-osint-to-pay-some-terroist-a-vist-from-a-govt-in-russia-resulting-in-airstrikes)
    - [2017 Shia LaBeouf Protest](#in-2017-shia-labeouf-had-a-protest-due-to-trumps-election-this-resulted-in-a-basket-weaving-image-board-using-osint-and-sky-patterns-to-figure-out-where-a-flag-is)
-7. [How to OSINT](#how-to-osint)
-8. [Tools](#tools)
-9. [People search tools (in the states)](#people-search-tools-in-the-states)
-10. [Breached Data](#breached-data)
-11. [Social Media](#social-media)
-12. [Curated lists](#curated-lists)
-13. [Spoofing, fake email generation](#spoofing-fake-email-generation)
+6. [How to OSINT](#how-to-osint)
+7. [Tools](#tools)
+8. [People search tools (in the states)](#people-search-tools-in-the-states)
+9. [Breached Data](#breached-data)
+10. [Social Media](#social-media)
+11. [Curated lists](#curated-lists)
+12. [Spoofing, fake email generation](#spoofing-fake-email-generation)
 
 ## OPSEC
 
