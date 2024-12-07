@@ -201,6 +201,8 @@ Anyhow, here are some tools I use:
 - Generalized Toolkit
    - [OSINT rocks](https://osint.rocks/): search hudson; holehe, gmail (ghunt) and skype. Can also use telephone number; domain and username lookups.
 
+- For additonal tools see [Curated lists](#curated-lists)
+
     
 ## People search tools (in the states):
 
@@ -274,6 +276,8 @@ Partial phone number       |
 
 **DISCLAIMER: OnlineSearches powered by Intelius® offers a free people search directory that includes basic information, such as name, address, and partial phone numbers. In performing a search, you may ultimately be directed to Intelius.com where additional information is offered for a fee.**
 
+- For additonal tools see [Curated lists](#curated-lists)
+
 ## Breached Data:
 
 - [Have I Been Pwned](https://haveibeenpwned.com/): Check if an email has been compromised in a data breach.
@@ -293,6 +297,7 @@ Partial phone number       |
 
 - [hashes](https://hashes.com/en/decrypt/hash): Decrypt the hashes you find to get a password possibly linked to a database or username.
 
+- See [Curated lists](#curated-lists)
 
 ## Social Media:
 
@@ -303,6 +308,8 @@ Partial phone number       |
 - Twitter
 
   - [sotwe, an anon twitter browser that actually works.](https://www.sotwe.com/)
+
+- For additonal tools see [Curated lists](#curated-lists))
 
 
 ## Curated lists
