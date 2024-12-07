@@ -252,11 +252,11 @@ Partial phone number       |
 
 **DISCLAIMER: OnlineSearches powered by Intelius® offers a free people search directory that includes basic information, such as name, address, and partial phone numbers. In performing a search, you may ultimately be directed to Intelius.com where additional information is offered for a fee.**
 
-- Breached Data:
+**<div align="center">Breached Data:</div>**
 
-  - [Have I Been Pwned](https://haveibeenpwned.com/): Check if an email has been compromised in a data breach.
+- [Have I Been Pwned](https://haveibeenpwned.com/): Check if an email has been compromised in a data breach.
 
-  - [Breach Directory](https://breachdirectory.org/): Check email and usernames for a breach; will return partial password hashes
+- [Breach Directory](https://breachdirectory.org/): Check email and usernames for a breach; will return partial password hashes
 
     - The following information is imported into the BreachDirectory database:
     - First 4 characters of each password.
@@ -265,11 +265,13 @@ Partial phone number       |
     - Usernames.
     - Emails.
  
-  - [EXPOSED](https://exposed.lol/): Check email with password hashes, limted with only 4 Checks per 12hrs; feel free to use TOR.
+- [EXPOSED](https://exposed.lol/): Check email with password hashes, limted with only 4 Checks per 12hrs; feel free to use TOR.
 
-  - [leakpeek](https://leakpeek.com/): Can only use 5 searches for a free search, will hide most info but with some sluting and the tools listed you should get an idea of WHAT. also use tor if you can to bypass the search limit. Other than that if you really need more details on what was leaked you may need to buy a plan.
+- [leakpeek](https://leakpeek.com/): Can only use 5 searches for a free search, will hide most info but with some sluting and the tools listed you should get an idea of WHAT. also use tor if you can to bypass the search limit. Other than that if you really need more details on what was leaked you may need to buy a plan.
 
-  - [hashes](https://hashes.com/en/decrypt/hash): Decrypt the hashes you find to get a password possibly linked to a database or username.
+- [hashes](https://hashes.com/en/decrypt/hash): Decrypt the hashes you find to get a password possibly linked to a database or username.
+
+**<div align="center">Social Media:</div>**
 
 - Instagram
 
@@ -279,12 +281,14 @@ Partial phone number       |
 
   - [sotwe, an anon twitter browser that actually works.](https://www.sotwe.com/)
 
-- Curated lists
-  - [Awesome OSINT, a curated list of OSINT tools, blogs, and videos](https://github.com/jivoi/awesome-osint)
 
-  - [OSINT Framework, a larger list of tools](https://osintframework.com/)
+**<div align="center">Curated lists</div>**
+
+- [Awesome OSINT, a curated list of OSINT tools, blogs, and videos](https://github.com/jivoi/awesome-osint)
+
+- [OSINT Framework, a larger list of tools](https://osintframework.com/)
   
-  - [OSINT Resources](https://sizeof.cat/post/osint-resources/) 
+- [OSINT Resources](https://sizeof.cat/post/osint-resources/) 
 
 - A whole reddit wiki from the [OSINT community](https://www.reddit.com/r/OSINT/wiki/index/)
 
