@@ -294,7 +294,7 @@ Partial phone number       |
 
 - Instagram
 
-  - [picuki - an anon Instagram browser that works if you know a username](https://www.picuki.com/) a great for figuring out land markers inside a photo.
+  - [picuki - an anon Instagram browser that works if you know a username](https://www.picuki.com/) a great tool for figuring out land markers inside a photo.
 
 - Twitter
 
