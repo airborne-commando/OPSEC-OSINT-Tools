@@ -265,7 +265,7 @@ search results       |
 gives out | can lookup
 ------ | ------
 Name       | First and last name
-Address       | Address
+Address       | Address, city, state
 Partial phone number       |
 
 
