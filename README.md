@@ -348,5 +348,3 @@ However feel free to check the status of cock.li wth the provided site here http
 Additonal tools:
 
 - See [Curated lists](#curated-lists)
-
-[back to index](#table-of-contents)
