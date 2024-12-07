@@ -309,7 +309,7 @@ Partial phone number       |
 
   - [sotwe, an anon twitter browser that actually works.](https://www.sotwe.com/)
 
-- For additonal tools see [Curated lists](#curated-lists))
+- For additonal tools see [Curated lists](#curated-lists)
 
 
 ## Curated lists
@@ -358,4 +358,4 @@ However feel free to check the status of cock.li wth the provided site here http
 
 Additonal tools:
 
-- See [Curated lists](#curated-lists)
+- For additonal tools see [Curated lists](#curated-lists)
