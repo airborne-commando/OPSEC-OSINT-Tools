@@ -181,7 +181,7 @@ Anyhow, here are some tools I use:
   - [Google maps, good to pinpoint where someone/thing is and compare landmarks from somewhere](https://maps.google.com/)
 
     
-**<div align="center">People search tools (in the states):</div>**
+## People search tools (in the states):
 
 **DISCLAIMER: Most of the email info found on these sites appear to be from a databrech from long ago; subjects on these sites can and possibly will still use their email found on these sites as people will rarely change email providers due to TFA + password managers unless if the email itself has been compromised in any way, shape, or form OR if they've changed emails due to harrasment, spam, etc etc.**
 
@@ -252,7 +252,7 @@ Partial phone number       |
 
 **DISCLAIMER: OnlineSearches powered by Intelius® offers a free people search directory that includes basic information, such as name, address, and partial phone numbers. In performing a search, you may ultimately be directed to Intelius.com where additional information is offered for a fee.**
 
-**<div align="center">Breached Data:</div>**
+## Breached Data:
 
 - [Have I Been Pwned](https://haveibeenpwned.com/): Check if an email has been compromised in a data breach.
 
@@ -271,7 +271,7 @@ Partial phone number       |
 
 - [hashes](https://hashes.com/en/decrypt/hash): Decrypt the hashes you find to get a password possibly linked to a database or username.
 
-**<div align="center">Social Media:</div>**
+## Social Media:
 
 - Instagram
 
@@ -282,7 +282,7 @@ Partial phone number       |
   - [sotwe, an anon twitter browser that actually works.](https://www.sotwe.com/)
 
 
-**<div align="center">Curated lists</div>**
+## Curated lists
 
 - [Awesome OSINT, a curated list of OSINT tools, blogs, and videos](https://github.com/jivoi/awesome-osint)
 
@@ -291,6 +291,8 @@ Partial phone number       |
 - [OSINT Resources](https://sizeof.cat/post/osint-resources/) 
 
 - A whole reddit wiki from the [OSINT community](https://www.reddit.com/r/OSINT/wiki/index/)
+
+## Spoofing
 
 - Email address + username + name generation
   - [Email user/name generator for cock.li and ProtonMail; useful for non-temp mail service accounts](https://github.com/airborne-commando/user-email-gen)
