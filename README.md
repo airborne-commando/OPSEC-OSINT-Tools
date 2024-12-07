@@ -228,9 +228,8 @@ email       | VIN
 | :-------------------- | :--------------------: | 
 | DOB                   |          Name          |
 | Address               |         Phone          |
-| email                 |         Phone          |
+| email                 |         Email          |
 | Phone Number          |         Address        |
-|                       |         Email
 
 
 4. [ID Craw](https://idcrawl.com/) 
