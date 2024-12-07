@@ -22,6 +22,7 @@ I am in no way responsible for any abuse, misuse, or any questionable actions in
 10. [Social Media](#social-media)
 11. [Curated lists](#curated-lists)
 12. [Spoofing, fake email generation](#spoofing-fake-email-generation)
+13. [Archive tools](#archive-tools-that-ive-made)
 
 ## OPSEC
 
@@ -339,3 +340,11 @@ Cock.li is not under duress of any government or organization.
 I'd probably recommend using something other than cock.li; use any domain from cock.li and use a different email service provider. However, if you decide to use cock.li, you can check out how to enable it in the given link.
 
 However feel free to check the status of cock.li wth the provided site here https://cock.li/
+
+## Archive tools that I've made
+ 
+- [link extractor and archive](https://github.com/airborne-commando/link-extractor-and-archive); uses archive.ph - useful on basic webpages. Requires manual intervention.
+
+Additonal tools:
+
+- See [Curated lists](#curated-lists)
