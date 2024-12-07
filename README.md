@@ -292,7 +292,7 @@ Partial phone number       |
 
 - A whole reddit wiki from the [OSINT community](https://www.reddit.com/r/OSINT/wiki/index/)
 
-## Spoofing
+## Spoofing, fake email generation
 
 - Email address + username + name generation
   - [Email user/name generator for cock.li and ProtonMail; useful for non-temp mail service accounts](https://github.com/airborne-commando/user-email-gen)
