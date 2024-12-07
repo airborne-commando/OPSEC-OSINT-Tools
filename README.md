@@ -6,6 +6,25 @@ A list of OSINT tools I made, forked, and/or use. First, let's talk about the de
 
 I am in no way responsible for any abuse, misuse, or any questionable actions in which someone uses these tools or methods below. OSINT is an information-gathering technique that can be used by ANYBODY and on ANYBODY!
 
+## Table of Contents
+
+1. [DISCLAIMER](#disclaimer)
+2. [OPSEC](#opsec)
+   - [How to OPSEC](#how-to-opsec)
+3. [Open Source Intelligence (OSINT)](#open-source-intelligence-osint)
+4. [Who uses Open-Source Intelligence (OSINT)?](#who-uses-open-source-intelligence-osint)
+5. [Sources of OSINT](#sources-of-osint)
+6. [Real world examples of OSINT](#real-world-examples-of-osint)
+   - [2016 Airstrike Coordination](#2016-airstrike-coordination)
+   - [2017 Shia LaBeouf Protest](#2017-shia-labeouf-protest)
+7. [How to OSINT](#how-to-osint)
+8. [Tools](#tools)
+9. [People search tools (in the states)](#people-search-tools-in-the-states)
+10. [Breached Data](#breached-data)
+11. [Social Media](#social-media)
+12. [Curated lists](#curated-lists)
+13. [Spoofing, fake email generation](#spoofing-fake-email-generation)
+
 ## OPSEC
 
 **OPSEC** (Operations Security) is a systematic process for:
