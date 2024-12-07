@@ -223,13 +223,15 @@ email       | VIN
 
 3. [nuwber.com](https://nuwber.com/) 
 
-gives out | Can lookup
------- | ------
-DOB   | Name
-Address   | Phone
-email     | Phone
-Numbers   | Address
-X   | Email
+
+| gives out             |      Can lookup        |
+| :-------------------- | :--------------------: | 
+| DOB                   |          Name          |
+| Address               |         Phone          |
+| email                 |         Phone          |
+| Phone Number          |         Address        |
+|                       |         Email
+
 
 4. [ID Craw](https://idcrawl.com/) 
 
@@ -246,7 +248,7 @@ Gives out info such as:
 
 gives out | can lookup
 ------ | ------
-age       | First and last name + address
+age       | First and last name + state
 social media's       | username
 emails       |
 addresses       |
