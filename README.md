@@ -290,6 +290,8 @@ Partial phone number       |
 
 - [hashes](https://hashes.com/en/decrypt/hash): Decrypt the hashes you find to get a password possibly linked to a database or username.
 
+- [OSINT rocks](https://osint.rocks/), search hudson; holehe, gmail (ghunt) and skype. Can also use telephone number; domain and username lookups.
+
 ## Social Media:
 
 - Instagram
