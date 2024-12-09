@@ -68,6 +68,9 @@ OPSEC supplements other security disciplines rather than replacing them.
   - Avoid making enemies online and don't be noticeable (i.e., don't be a turd).
   - Regularly OSINT yourself to check your online presence.
 
+To start you SHOULD OSINT yourself and see if you can remove yourself within the list of these sites:
+Here's a curated list to [opt out](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List)
+
 ## Open Source Intelligence (OSINT)
 
 **<div align="center">What is it, how is this used and why is it important:</div>**
