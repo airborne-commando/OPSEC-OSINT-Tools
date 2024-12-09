@@ -69,7 +69,7 @@ OPSEC supplements other security disciplines rather than replacing them.
   - Regularly OSINT yourself to check your online presence.
 
 To start you SHOULD OSINT yourself and see if you can remove yourself within the list of these sites:
-Here's a curated list to [opt out](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List)
+Here's a curated list to [opt out](https://github.com/airborne-commando/OSINT-Tools?#curated-lists)
 
 ## Open Source Intelligence (OSINT)
 
@@ -324,6 +324,8 @@ Partial phone number       |
 - [OSINT Resources](https://sizeof.cat/post/osint-resources/) 
 
 - A whole reddit wiki from the [OSINT community](https://www.reddit.com/r/OSINT/wiki/index/)
+
+- A whole [big ass list](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) 
 
 ## Spoofing, fake email generation
 
