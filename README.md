@@ -367,9 +367,3 @@ Additonal tools:
 
 - For additonal tools see [Curated lists](#curated-lists)
 
-Inspirations:
-
-Key:    W W O Q P F U J L T M U L C A L E O J R T T L Y L U D M O V R W I O F J Q I B Z E P H M V Q J A R C E T C W G M X A T V F S K Z O H F E S A L U V T W G W I H U A X I P E U M N T J Z A E X H N J I K D P J O W J Z G X I W P G H K V S N L R W E L L H C V X B D Q M Y K S F F C B B Z D B Y V V I C W C A Z U F T N X Z P D U H B V Y T O K R Q V K B U E D E T R S I J D M Q A R T F U I F N X P K B W Y M G X G P Q G I K Y G H M U B G Z O Z F F D P M V X U Y M H V K P M E C (secret)
-        -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Cipher: T O V Z E G P V F M X T U Q K E C A G O B W O V A S W D Q Z F M D P P Z W L J F T O K Z K Q R V A B M G A V Q K Y V Z J J T Z U C B E V O M R A J B N W J Y D S C A M Z Z Q K C Y N V V I H A O G H P R W J W O X Q S M U D S K J C N T H L Z U F T Z D T F Z O P C D X V R S A V C K I M X R X P V C P F Y Q F K O A Q A W U X G P V G J V X U I P Y U Z Q E I E M L W T Z T I E S Y I S W S Q K B Z U K L V J I K U T W W R V X C E C Z U S V U A Q R N U U W N Q G J N Y J H K N (cipher)
-
