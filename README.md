@@ -215,6 +215,8 @@ Anyhow, here are some tools I use:
 
    - [Free inpaint](https://pincel.app/tools/inpaint)
 
+   - [Will downscale the image so you'll probably have to use this after using the tool above](https://www.upscale.media/)
+
    - [affinity, isn't free](https://affinity.serif.com/en-us/photo/)
 
    - Can also try [GNU gimp](https://www.gimp.org/) but this is barebones
