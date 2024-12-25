@@ -315,6 +315,22 @@ Partial phone number       |
 
 - For additonal tools see [Curated lists](#curated-lists)
 
+## Face generation
+
+- [stable-diffusion-webui, use models you can find on the internet; can be used on a local machine](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+
+- [This person doesn't exist; a face generator, will have a logo at the bottom of the screen so use](https://thispersondoesnotexist.com/)
+
+## photo shop tools
+
+- [Free inpaint](https://pincel.app/tools/inpaint)
+
+If you're really fancy try
+
+- [affinity, isn't free](https://affinity.serif.com/en-us/)
+
+- Can also try GNU gimp but this is barebones
+
 
 ## Curated lists
 
