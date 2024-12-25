@@ -10,7 +10,7 @@ I am in no way responsible for any abuse, misuse, or any questionable actions in
 
 Now why did I make this readme you may ask?
 
-People in the states at least trust their info way to much on the internet and seeing how the internet has now affected our daily lives it's practically indistinguishable from reality now; what's real is now fake - what's fake is now real. tit for tat basically. Do what you must with this readme file, spread this on the net for all I care really and feel free to contribute on either a fork or on your own project (even on my own projects listed).
+People in the states at least trust their info way to much on the internet and seeing how the internet has now affected our daily lives it's practically indistinguishable from reality now; what's real is now fake - what's fake is now real. tit for tat basically. Do what you must with this readme file, spread this on the net for all I care really and feel free to contribute on either a fork or on your own project (even on my own projects listed). Feel free to clone and spread this info out there or to fork or maybe make a rentry document if you want.
 
 ## Table of Contents
 1. [OPSEC](#opsec)
