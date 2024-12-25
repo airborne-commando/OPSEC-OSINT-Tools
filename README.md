@@ -215,7 +215,7 @@ Anyhow, here are some tools I use:
 
    - [Free inpaint](https://pincel.app/tools/inpaint)
 
-   - [affinity, isn't free](https://affinity.serif.com/en-us/)
+   - [affinity, isn't free](https://affinity.serif.com/en-us/photo/)
 
    - Can also try [GNU gimp](https://www.gimp.org/) but this is barebones
 
