@@ -205,9 +205,6 @@ Anyhow, here are some tools I use:
 - Generalized Toolkit
    - [OSINT rocks](https://osint.rocks/): search hudson; holehe, gmail (ghunt) and skype. Can also use telephone number; domain and username lookups.
 
-- For additonal tools see [Curated lists](#curated-lists)
-
-
 - Face generation
 
    - [stable-diffusion-webui, use models you can find on the internet; can be used on a local machine](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
@@ -221,6 +218,9 @@ Anyhow, here are some tools I use:
    - [affinity, isn't free](https://affinity.serif.com/en-us/)
 
    - Can also try [GNU gimp](https://www.gimp.org/) but this is barebones
+
+
+- For additonal tools see [Curated lists](#curated-lists)
     
 ## People search tools (in the states):
 
