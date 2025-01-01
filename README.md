@@ -227,7 +227,7 @@ Anyhow, here are some tools I use:
 
    - Can also try [GNU gimp](https://www.gimp.org/) but this is barebones
  
-   - [Exiftool](https://exiftool.org/)
+   - [Exiftool](https://exiftool.org/), edits metadata on images and can strip them.
       - For Linux users
 
    Debian:
