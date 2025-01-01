@@ -217,7 +217,7 @@ Anyhow, here are some tools I use:
 
    - [This person doesn't exist; a face generator, will have a logo at the bottom of the screen so use](https://thispersondoesnotexist.com/)
 
-- photo shop tools
+- photo shop tools / photo editing tools
 
    - [Free inpaint](https://pincel.app/tools/inpaint)
 
@@ -226,7 +226,24 @@ Anyhow, here are some tools I use:
    - [affinity, isn't free](https://affinity.serif.com/en-us/photo/)
 
    - Can also try [GNU gimp](https://www.gimp.org/) but this is barebones
+ 
+   - [Exiftool](https://exiftool.org/)
+      - For Linux users
 
+   Debian:
+      
+      sudo apt update
+      sudo apt install exiftool
+
+   Other distros:
+
+   Fedora:
+
+      sudo dnf install exiftool
+
+   Arch:
+
+      sudo pacman -S exiftool
 
 - For additonal tools see [Curated lists](#curated-lists)
     
