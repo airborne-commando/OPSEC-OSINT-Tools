@@ -215,6 +215,8 @@ Anyhow, here are some tools I use:
 
    - [stable-diffusion-webui, use models you can find on the internet; can be used on a local machine](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
+      - [Civitai](https://civitai.com/models), I'd personally use 1.5 models under filters.
+
    - [This person doesn't exist; a face generator, will have a logo at the bottom of the screen so use](https://thispersondoesnotexist.com/)
 
 - photo shop tools / photo editing tools
