@@ -391,13 +391,11 @@ After:
 Before:
 
       LIBERTY CANARY
-      
       Date updated: See the PGP Signed Version
-      
-      Cock.li is in 100% control of all of its hardware, and the service is still operating normally. The website (account registration+pw change) is currently offline.
-      
-      Cock.li will shut down before becoming complicit in crimes against its own user base under duress of any government or organization.
-      
+      Cock.li is in 100% control of all of its hardware, and the service is still operating normally. 
+      The website (account registration+pw change) is currently offline.
+      Cock.li will shut down before becoming complicit in crimes against 
+      its own user base under duress of any government or organization.
       Cock.li is not under duress of any government or organization.
 
 I'd probably recommend using something other than cock.li; use any domain from cock.li and use a different email service provider. However, if you decide to use cock.li, you can check out how to enable it in the given link.
