@@ -1,6 +1,6 @@
-# OSINT-Tools
+# OSINT/OPSEC Tools
 
-A list of OSINT tools I made, forked, and/or use. First, let's talk about the definitions.
+A list of OSINT/OPSEC tools I made, forked, and/or use. First, let's talk about the definitions.
 
 ***DISCLAIMER***
 
