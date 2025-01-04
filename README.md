@@ -160,7 +160,7 @@ OSINT tools can access and analyze information from sources beyond traditional s
 - Street Address
 - IP Address (Dunno if anyone REALLY uses that but will list)
 
-Anyhow, here are some tools I use:
+Anyhow, here are some tools I use for OPSEC/OSINT:
 
 - Word spinners
 
