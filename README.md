@@ -221,7 +221,7 @@ Anyhow, here are some tools I use for OPSEC/OSINT:
 
       - [Civitai](https://civitai.com/models), I'd personally use 1.5 models under filters for older cards. Don't use inpainting models for image generation.
 
-   - [This person doesn't exist; a face generator, will have a logo at the bottom of the screen so use](https://thispersondoesnotexist.com/)
+   - [This person doesn't exist](https://thispersondoesnotexist.com/); a face generator, will have a logo at the bottom of the screen so use
 
 - photo shop tools / photo editing tools
 
