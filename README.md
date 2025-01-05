@@ -256,7 +256,7 @@ Anyhow, here are some tools I use for OPSEC/OSINT:
 
 - Virtualization tools
 
-  - [Libvirt](https://virt-manager.org/) For linux users
+  - [Libvirt](https://virt-manager.org/) For linux users, pretty advanced
   - [vmbox](https://www.virtualbox.org/) for various platforms
   
 
