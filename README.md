@@ -258,6 +258,12 @@ Anyhow, here are some tools I use for OPSEC/OSINT:
 
   - [Libvirt](https://virt-manager.org/) For linux users
   - [vmbox](https://www.virtualbox.org/) for various platforms
+  
+
+- Disk Destruction
+
+  - [dban, hdd only](https://dban.org/)
+  - [wipe and other types](https://wiki.archlinux.org/title/Securely_wipe_disk#Overwrite_the_target)
 
 - For additonal tools see [Curated lists](#curated-lists)
     
