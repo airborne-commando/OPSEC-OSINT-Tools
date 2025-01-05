@@ -254,6 +254,11 @@ Anyhow, here are some tools I use for OPSEC/OSINT:
 
       sudo pacman -S exiftool
 
+## Virtualization tools
+
+- [Libvirt](https://virt-manager.org/) For linux users
+- [vmbox](https://www.virtualbox.org/) for various platforms
+
 - For additonal tools see [Curated lists](#curated-lists)
     
 ## People search tools (in the states):
