@@ -69,7 +69,15 @@ However feel free to check the status of cock.li wth the provided site here http
 
   - [Libvirt](https://virt-manager.org/) For linux users, pretty advanced
   - [vmbox](https://www.virtualbox.org/) for various platforms
-  
+
+- anonymity tools
+
+  - [Tor](https://www.torproject.org/)
+  - [Mullvad](https://mullvad.net/en)
+
+- Currency
+
+  - [XMR/Monero](https://www.getmonero.org/)
 
 - Disk Destruction
 
