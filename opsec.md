@@ -61,9 +61,9 @@ Before:
       its own user base under duress of any government or organization.
       Cock.li is not under duress of any government or organization.
 
-I'd probably recommend using something other than cock.li; and use a different email service provider. However, if you decide to use cock.li, you can check out how to enable it in the given link.
+I'd probably recommend using something other than cock.li; and use a different email service provider. However, if you decide to use cock.li, you can check out how to enable it in the given link. 
 
-However feel free to check the status of cock.li wth the provided site here https://cock.li/
+free to check the status of cock.li wth the provided site here https://cock.li/
 
 - Virtualization tools
 
