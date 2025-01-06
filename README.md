@@ -31,8 +31,7 @@ If you find this useful feel free to donate to this monero address:
 9. [Breached Data](#breached-data)
 10. [Social Media](#social-media)
 11. [Curated lists](#curated-lists)
-12. [Spoofing, fake email generation](#spoofing-fake-email-generation)
-13. [Archive tools](#archive-tools-that-ive-made)
+12. [Archive tools](#archive-tools-that-ive-made)
 
 ## 
 
