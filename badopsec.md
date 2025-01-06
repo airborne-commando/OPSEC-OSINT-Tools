@@ -47,7 +47,7 @@ Other examples of poor OPSEC when using Tor include:
 4. Maintaining consistent working hours that can be traced to a specific time zone
 5. Leaving command-and-control servers unsecured, exposing sensitive data
 
-These cases highlight the importance of maintaining strict OPSEC practices, even when using anonymity tools like Tor. Simple mistakes and oversights can lead to the exposure of one's identity and activities.
+A few lists I found on github [1](https://github.com/jermanuts/bad-opsec) [2](https://opsecfail.github.io/)
 
 Another one I'd like to add is mullvad and it's features:
 
@@ -70,3 +70,4 @@ Mullvad VPN offers several features that prioritize user privacy and security:
 7. **Use of cryptocurrency such as monero**: Mullvad can use monero which is a private cryptocurrency that can be mined on a persons node, they also take in cash payments or deposits in mail.
 
 However I'd like to point out that even with services like mullvad you'd still get caught on some circumstances even with a no log policy. Humans can deduce and figure stuff out on their own machines cannot and have to be guided. None of these tools are fullproof and the issue will exist between user and keyboard.
+
