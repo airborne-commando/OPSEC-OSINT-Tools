@@ -34,20 +34,20 @@ If you find this useful feel free to donate to this monero address:
 12. [Spoofing, fake email generation](#spoofing-fake-email-generation)
 13. [Archive tools](#archive-tools-that-ive-made)
 
-## OPSEC
+## 
 
-**OPSEC** (Operations Security) is a systematic process for:
+**** (Operations Security) is a systematic process for:
 1. Identifying
 2. Protecting and controlling critical information
 
 It's a security discipline and operations function that involves a continuous cycle of:
 * Identifying critical information and indicators (CII)
-  * Critical information and indicators are essential components of Operations Security (OPSEC) aimed at protecting sensitive data that could be exploited by adversaries. Critical Information includes unclassified or controlled unclassified information about activities, intentions, capabilities, or limitations that adversaries can use to gain an advantage. Indicators are observable actions or pieces of information that reveal critical details about operations, such as sudden changes in procedures or increased security measures. Protecting this information involves identifying vulnerabilities and implementing countermeasures to prevent unauthorized disclosure
+  * Critical information and indicators are essential components of Operations Security () aimed at protecting sensitive data that could be exploited by adversaries. Critical Information includes unclassified or controlled unclassified information about activities, intentions, capabilities, or limitations that adversaries can use to gain an advantage. Indicators are observable actions or pieces of information that reveal critical details about operations, such as sudden changes in procedures or increased security measures. Protecting this information involves identifying vulnerabilities and implementing countermeasures to prevent unauthorized disclosure
 * Analyzing potential threats and vulnerabilities
 * Assessing risks
 * Developing countermeasures to protect CII
 
-OPSEC is used to protect information and activities from adversaries. It helps identify and protect sensitive information that could give an adversary an advantage. OPSEC principles can be applied in daily life, such as not sharing personal information like a DOB, street address, email, phone number.
+ is used to protect information and activities from adversaries. It helps identify and protect sensitive information that could give an adversary an advantage. OPSEC principles can be applied in daily life, such as not sharing personal information like a DOB, street address, email, phone number.
 
 **Examples of OPSEC mistakes include:**
 * Over-sharing personal information online
@@ -71,6 +71,7 @@ OPSEC supplements other security disciplines rather than replacing them.
 * **Tor/VPN/XMR:**
   - Tor isn't bad but will get rate limited by CAPTCHA.
   - Mullvad is a good VPN (Virtual Private Network) as it accepts XMR (Monero), which can't be traced back to you if you mine XMR with your own node (machine/device/computer). Note: VPNs are useless if you have bad OPSEC, same with Tor.
+  - Here is a list of bad [opsec](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/badopsec.md) to give you an idea.
 
 * **Usernames/credentials/Identification:**
   - Use different usernames and credentials on different websites.
