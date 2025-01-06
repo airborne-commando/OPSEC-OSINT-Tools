@@ -82,6 +82,7 @@ OPSEC supplements other security disciplines rather than replacing them.
 
 To start you SHOULD OSINT yourself and see if you can remove yourself within the list of these sites:
 Here's a curated list to [opt out](https://github.com/airborne-commando/OSINT-Tools?#curated-lists)
+And finally here's some [good opsec](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/good-opsec.md).
 
 ## Open Source Intelligence (OSINT)
 
