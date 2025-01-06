@@ -67,4 +67,6 @@ Mullvad VPN offers several features that prioritize user privacy and security:
 
 6. **Open-source software**: Mullvad's commitment to transparency includes making their software open-source.
 
+7. **Use of cryptocurrency such as monero**: Mullvad can use monero which is a private cryptocurrency that can be mined on a persons node, they also take in cash payments or deposits in mail.
+
 However I'd like to point out that even with services like mullvad you'd still get caught on some circumstances even with a no log policy. Humans can deduce and figure stuff out on their own machines cannot and have to be guided. None of these tools are fullproof and the issue will exist between user and keyboard.
