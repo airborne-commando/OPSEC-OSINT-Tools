@@ -48,3 +48,23 @@ Other examples of poor OPSEC when using Tor include:
 5. Leaving command-and-control servers unsecured, exposing sensitive data
 
 These cases highlight the importance of maintaining strict OPSEC practices, even when using anonymity tools like Tor. Simple mistakes and oversights can lead to the exposure of one's identity and activities.
+
+Another one I'd like to add is mullvad and it's features:
+
+## Mullvad VPN: A Contrast in Security
+
+Mullvad VPN offers several features that prioritize user privacy and security:
+
+1. **Anonymous account numbers**: Mullvad generates random 16-digit account numbers, eliminating the need for personal information like email addresses or usernames.
+
+2. **Strong encryption**: Mullvad uses AES-256 encryption for OpenVPN and ChaCha20 for WireGuard connections.
+
+3. **No-logs policy**: Mullvad has a strict no-logs policy, verified by independent audits.
+
+4. **Lockdown mode**: This feature blocks internet connections not secured by Mullvad's servers.
+
+5. **DNS content blockers**: Users can restrict access to ads, adult content, malware, and more.
+
+6. **Open-source software**: Mullvad's commitment to transparency includes making their software open-source.
+
+However I'd like to point out that even with services like mullvad you'd still get caught on some circumstances even with a no log policy. Humans can deduce and figure stuff out on their own machines cannot and have to be guided. None of these tools are fullproof and the issue will exist between user and keyboard.
