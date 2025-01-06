@@ -47,7 +47,11 @@ Other examples of poor OPSEC when using Tor include:
 4. Maintaining consistent working hours that can be traced to a specific time zone
 5. Leaving command-and-control servers unsecured, exposing sensitive data
 
-A few lists I found on github [1](https://github.com/jermanuts/bad-opsec) [2](https://opsecfail.github.io/)
+A few lists I found on github:
+
+https://github.com/jermanuts/bad-opsec 
+
+https://opsecfail.github.io/
 
 Another one I'd like to add is mullvad and it's features:
 
