@@ -353,5 +353,5 @@ Partial phone number       |
 
 Additonal tools:
 
-- For additonal tools see [Curated lists](#curated-lists)
+- For additonal tools see the curated-lists above
 
