@@ -71,7 +71,7 @@ OPSEC supplements other security disciplines rather than replacing them.
 * **Tor/VPN/XMR:**
   - Tor isn't bad but will get rate limited by CAPTCHA.
   - Mullvad is a good VPN (Virtual Private Network) as it accepts XMR (Monero), which can't be traced back to you if you mine XMR with your own node (machine/device/computer). Note: VPNs are useless if you have bad OPSEC, same with Tor.
-  - Here is a list of bad [opsec](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/badopsec.md) to give you an idea.
+  - Here is a list of bad [opsec](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/badopsec.md) to give you an idea of what not to do with tor and other services (such as a VPN).
 
 * **Usernames/credentials/Identification:**
   - Use different usernames and credentials on different websites.
