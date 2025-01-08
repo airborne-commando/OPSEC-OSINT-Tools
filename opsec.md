@@ -40,8 +40,7 @@
 
    Debian:
       
-      sudo apt update
-      sudo apt install exiftool
+      sudo apt update && sudo apt install exiftool
 
    Other distros:
 
