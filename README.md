@@ -170,22 +170,6 @@ OSINT tools can access and analyze information from sources beyond traditional s
 
 Anyhow, here are some tools I use for OPSEC/OSINT:
 
-- Word spinners
-
-  - [Article spinner, with basic and advanced paraphrase - can only use standard.](https://free-article-spinner.com/)
-
-  - [Another article spinner, no advanced paraphrase; doesn't have different langs](https://www.rewritertools.com/article-spinner)
-
-  - [Article rewriter](https://seotoolstation.com/article-rewriter) this rewriter keeps SEO in mind for search rankings; after a few tries it WILL ask for a login, use TOR to bypass.
- 
-- Wanna use different langs for free?
- 
-  - [Use google translate](https://translate.google.com/)
-
-- SEO Tools
-
-  - [Here's a really good site, I'd recommend using TOR browser to bypass the login page after a few tries](https://seotoolstation.com/).
-
 - Google dorks
 
   - [Google-FU, uses Google to lookup info on someone or something; may get rate limited](https://github.com/airborne-commando/GoogleFU-improved)
