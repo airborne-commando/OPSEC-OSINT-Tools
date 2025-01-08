@@ -1,5 +1,22 @@
 # OPSEC
 
+
+- Word spinners
+
+  - [Article spinner, with basic and advanced paraphrase - can only use standard.](https://free-article-spinner.com/)
+
+  - [Another article spinner, no advanced paraphrase; doesn't have different langs](https://www.rewritertools.com/article-spinner)
+
+  - [Article rewriter](https://seotoolstation.com/article-rewriter) this rewriter keeps SEO in mind for search rankings; after a few tries it WILL ask for a login, use TOR to bypass.
+ 
+- Wanna use different langs for free?
+ 
+  - [Use google translate](https://translate.google.com/)
+
+- SEO Tools
+
+  - [Here's a really good site, I'd recommend using TOR browser to bypass the login page after a few tries](https://seotoolstation.com/).
+
 - Face generation
 
    - [stable-diffusion-webui, use models you can find on the internet; can be used on a local machine](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
