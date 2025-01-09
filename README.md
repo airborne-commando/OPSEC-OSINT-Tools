@@ -33,9 +33,7 @@ If you find this useful feel free to donate to this monero address:
 11. [Curated lists](#curated-lists)
 12. [Archive tools](#archive-tools-that-ive-made)
 
-## 
-
-**** (Operations Security) is a systematic process for:
+##  (Operations Security) is a systematic process for:
 1. Identifying
 2. Protecting and controlling critical information
 
