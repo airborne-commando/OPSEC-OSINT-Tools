@@ -17,7 +17,7 @@ If you find this useful feel free to donate to this monero address:
       8BPdcsLtA5iWLNTWvYzUVyTWtQkM62e8r7xqAuwjXTSC4RcoSWqpmtyLsMYvz3QNZtT1rbgPUnmVpMAudhxTn6zkRxUFcZN
 
 ## Table of Contents
-1. [OPSEC](#(Operations-Security)-is-a-systematic-process-for)
+1. [OPSEC](#operations-security-is-a-systematic-process-for)
    - [How to OPSEC](#how-to-opsec)
 2. [Open Source Intelligence (OSINT)](#open-source-intelligence-osint)
 3. [Who uses Open-Source Intelligence (OSINT)?](#who-uses-open-source-intelligence-osint)
