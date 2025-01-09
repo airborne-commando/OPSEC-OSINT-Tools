@@ -39,7 +39,7 @@ A list of OSINT/OPSEC tools I made, forked, and/or use. First, let's talk about 
 
 It's a security discipline and operations function that involves a continuous cycle of:
 * Identifying critical information and indicators (CII)
-  * Critical information and indicators are essential components of Operations Security () aimed at protecting sensitive data that could be exploited by adversaries. Critical Information includes unclassified or controlled unclassified information about activities, intentions, capabilities, or limitations that adversaries can use to gain an advantage. Indicators are observable actions or pieces of information that reveal critical details about operations, such as sudden changes in procedures or increased security measures. Protecting this information involves identifying vulnerabilities and implementing countermeasures to prevent unauthorized disclosure
+  * Critical information and indicators are essential components of Operations Security aimed at protecting sensitive data that could be exploited by adversaries. Critical Information includes unclassified or controlled unclassified information about activities, intentions, capabilities, or limitations that adversaries can use to gain an advantage. Indicators are observable actions or pieces of information that reveal critical details about operations, such as sudden changes in procedures or increased security measures. Protecting this information involves identifying vulnerabilities and implementing countermeasures to prevent unauthorized disclosure
 * Analyzing potential threats and vulnerabilities
 * Assessing risks
 * Developing countermeasures to protect CII
