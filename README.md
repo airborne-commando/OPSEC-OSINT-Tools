@@ -1,7 +1,3 @@
-# OSINT/OPSEC Tools
-
-A list of OSINT/OPSEC tools I made, forked, and/or use. First, let's talk about the definitions.
-
 ***DISCLAIMER***
 
 I am in no way responsible for any abuse, misuse, or any questionable actions in which someone uses these tools or methods below. OSINT is an information-gathering technique that can be used by ANYBODY and on ANYBODY!
@@ -15,6 +11,10 @@ People in the states at least trust their info way to much on the internet and s
 If you find this useful feel free to donate to this monero address:
 
       8BPdcsLtA5iWLNTWvYzUVyTWtQkM62e8r7xqAuwjXTSC4RcoSWqpmtyLsMYvz3QNZtT1rbgPUnmVpMAudhxTn6zkRxUFcZN
+
+# OSINT/OPSEC Tools
+
+A list of OSINT/OPSEC tools I made, forked, and/or use. First, let's talk about the definitions.
 
 ## Table of Contents
 1. [OPSEC](#operations-security-is-a-systematic-process-for)
