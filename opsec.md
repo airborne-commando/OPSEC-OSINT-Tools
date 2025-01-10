@@ -102,4 +102,4 @@ People search engines:
 
 On a tangent; sometimes the best opsec is to not interact with the target you're osinting on, for example:
 
-Suzie is thinking Stu is cheating on her with Lexi, so she cofronted her with this and more evidence thus stu stopped his activity.
+Suzie is thinking Stu is cheating on her with Lexi, so she cofronted her with this and more evidence thus Stu stopped his activity.
