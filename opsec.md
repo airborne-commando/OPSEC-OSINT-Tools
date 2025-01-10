@@ -3,7 +3,7 @@
 
 - Word spinners
 
-  - [Article spinner, with basic and advanced paraphrase - can only use standard.](https://free-article-spinner.com/)
+  - [Article spinner](https://free-article-spinner.com/), with basic and advanced paraphrase - can only use standard.
 
   - [Another article spinner, no advanced paraphrase; doesn't have different langs](https://www.rewritertools.com/article-spinner)
 
