@@ -81,7 +81,6 @@ free to check the status of cock.li wth the provided site here https://cock.li/
 
   - [Tor](https://www.torproject.org/)
   - [Mullvad](https://mullvad.net/en)
-  - [qubes](https://www.qubes-os.org/) Basically runs inside a VM
   - [tailsOS](https://tails.net/) Runs inside a USB stick.
 
 - Currency
