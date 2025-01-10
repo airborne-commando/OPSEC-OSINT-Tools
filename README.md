@@ -154,10 +154,6 @@ Thus bad opsec.
 
 - In 2017, 4chan users managed to track down and replace Shia LaBeouf's "He Will Not Divide Us" protest flag. Using only the live-stream footage of the flag, they analyzed flight patterns, star positions, and a tweet to locate the flag in Greeneville, Tennessee. A local troll then honked his car horn until the sound was picked up on the live-stream, pinpointing the exact location. The flag was replaced with a Trump hat, marking the end of this elaborate trolling operation.
 
-### How to OSINT:
-
-- Gather information about yourself, become your own threat actor; use the tools below and come up with your own conclusions. Use people search engines and public data about yourself and most importantly don't overshare on the internet or have such a large footprint.
-
 ## Tools
 OSINT tools can access and analyze information from sources beyond traditional search engines. Be mindful as some info can be out of date or incorrect such as:
 
