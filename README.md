@@ -316,7 +316,8 @@ Partial phone number       |
 
 - [OSINT Framework, a larger list of tools](https://osintframework.com/)
   
-- [OSINT Resources](https://sizeof.cat/post/osint-resources/) 
+- [OSINT Resources](https://sizeof.cat/post/osint-resources/)
+      - [Archive](https://archive.ph/0oK7O) 
 
 - A whole reddit wiki from the [OSINT community](https://www.reddit.com/r/OSINT/wiki/index/)
 
