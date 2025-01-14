@@ -169,33 +169,33 @@ Anyhow, here are some tools I use for OPSEC/OSINT:
 
 - Bio-metric investigation
 
-  - [Facecheck.ID tampermonkey script; improved by me, bypasses payment requirements and gives you the links](https://github.com/vin3110/facecheck.id-results-extractor)
+  - [Facecheck.ID](https://github.com/vin3110/facecheck.id-results-extractor) tampermonkey script; improved by me, bypasses payment requirements and gives you the links
 
-  - [Pimeyes image extractor; gives an idea of where the image was located based on a URL, can use with facecheck.id](https://github.com/airborne-commando/Pimeyes-Free-GUI)
+  - [Pimeyes image extractor;](https://github.com/airborne-commando/Pimeyes-Free-GUI) gives an idea of where the image was located based on a URL, can use with facecheck.id
 
-  - [RGB Attack website; gives details on the image, but not the link](https://rgbattack.com/)
+  - [RGB Attack website;](https://rgbattack.com/) gives details on the image, but not the link
 
 - Email + username investigations
-  - [Blackbird, robust OSINT tool for rapid searches of user accounts by username or email across many platforms](https://github.com/p1ngul1n0/blackbird)
+  - [Blackbird,](https://github.com/p1ngul1n0/blackbird) robust OSINT tool for rapid searches of user accounts by username or email across many platforms
 
-  - A GUI editon of [this tool named crow](https://github.com/airborne-commando/crow)
+  - A GUI editon of this tool named [crow](https://github.com/airborne-commando/crow)
 
-- [Sherlock, similar to Blackbird but more robust and developed; caution with imgur red herrings](https://github.com/sherlock-project/sherlock)
+- [Sherlock,](https://github.com/sherlock-project/sherlock) similar to Blackbird but more robust and developed; caution with imgur red herrings
 
-  - [GUI for Sherlock, uses the CLI as a backend; commands are bascially the same.](https://github.com/airborne-commando/no-shit-sherlock)
+  - [GUI for Sherlock,](https://github.com/airborne-commando/no-shit-sherlock) uses the CLI as a backend; commands are bascially the same.
 
-- [maigret, find connections VIA a username; a fork of sherlock](https://github.com/soxoj/maigret)
+- [maigret,](https://github.com/soxoj/maigret) find connections VIA a username; a fork of sherlock
 
-  - [A GUI Tool, uses the CLI as a backend; commands are going to basically be the same.](https://github.com/airborne-commando/maigret-night) 
+  - [A GUI Tool,](https://github.com/airborne-commando/maigret-night) uses the CLI as a backend; commands are going to basically be the same.
 
 
-- [Hudson rock API extractor, for emails and usernames; not automated but uses Flask, checks email compromises](https://github.com/airborne-commando/hudsonrock-search-extractor)
+- [Hudson rock API extractor](https://github.com/airborne-commando/hudsonrock-search-extractor), for emails and usernames; not automated but uses Flask, checks email compromises
 
-- [holehe, caution with imgur for false positives; similar to Sherlock](https://github.com/megadose/holehe)
+- [holehe](https://github.com/megadose/holehe), caution with imgur for false positives; similar to Sherlock
 
 - Geolocation
 
-  - [Google maps, good to pinpoint where someone/thing is and compare landmarks from somewhere](https://maps.google.com/)
+  - [Google maps,](https://maps.google.com/) good to pinpoint where someone/thing is and compare landmarks from somewhere
 
 - Generalized Toolkit
    - [OSINT rocks](https://osint.rocks/): search hudson; holehe, gmail (ghunt) and skype. Can also use telephone number; domain and username lookups.
@@ -245,7 +245,7 @@ username       | username
 phone       | phone
 email       | email
 
-5. [Peekyou, search by first last name and username](https://www.peekyou.com/)
+5. [Peekyou,](https://www.peekyou.com/) search by first last name and username
 
 Gives out info such as: 
 
@@ -263,7 +263,7 @@ gives out | can lookup
 Social       | First and last name
 search results       |
 
-7. [publicrecords, use this with fastpeople search or other people search engines](https://www.publicrecords.onlinesearches.com/)
+7. [publicrecords,](https://www.publicrecords.onlinesearches.com/) use this with fastpeople search or other people search engines
 
 gives out | can lookup
 ------ | ------
@@ -301,20 +301,20 @@ Partial phone number       |
 
 - Instagram
 
-  - [picuki - an anon Instagram browser that works if you know a username](https://www.picuki.com/) a great tool for figuring out land markers inside a photo.
+  - [picuki](https://www.picuki.com/) - an anon Instagram browser that works if you know a username. It's good tool for figuring out land markers inside a photo.
 
 - Twitter
 
-  - [sotwe, an anon twitter browser that actually works.](https://www.sotwe.com/)
+  - [sotwe,](https://www.sotwe.com/) an anon twitter browser that actually works.
 
 - For additonal tools see [Curated lists](#curated-lists)
 
 
 ## Curated lists
 
-- [Awesome OSINT, a curated list of OSINT tools, blogs, and videos](https://github.com/jivoi/awesome-osint)
+- [Awesome OSINT,](https://github.com/jivoi/awesome-osint) a curated list of OSINT tools, blogs, and videos
 
-- [OSINT Framework, a larger list of tools](https://osintframework.com/)
+- [OSINT Framework,](https://osintframework.com/) a larger list of tools
   
 - [OSINT Resources](https://sizeof.cat/post/osint-resources/)
 
