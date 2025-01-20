@@ -171,8 +171,6 @@ Anyhow, here are some tools I use for OPSEC/OSINT:
 
   - [Facecheck.ID](https://github.com/vin3110/facecheck.id-results-extractor) tampermonkey script; improved by me, bypasses payment requirements and gives you the links
 
-  - [Pimeyes image extractor;](https://github.com/airborne-commando/Pimeyes-Free-GUI) gives an idea of where the image was located based on a URL, can use with facecheck.id
-
   - [RGB Attack website;](https://rgbattack.com/) gives details on the image, but not the link
 
 - Email + username investigations
