@@ -171,8 +171,6 @@ Anyhow, here are some tools I use for OPSEC/OSINT:
 
   - [Facecheck.ID](https://github.com/vin3110/facecheck.id-results-extractor) tampermonkey script; improved by me, bypasses payment requirements and gives you the links
 
-  - [RGB Attack website;](https://rgbattack.com/) gives details on the image, but not the link
-
 - Email + username investigations
   - [Blackbird,](https://github.com/p1ngul1n0/blackbird) robust OSINT tool for rapid searches of user accounts by username or email across many platforms
 
