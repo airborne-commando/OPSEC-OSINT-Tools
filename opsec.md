@@ -91,6 +91,7 @@ free to check the status of cock.li wth the provided site here https://cock.li/
 
   - [dban, hdd only](https://dban.org/)
   - [wipe and other types](https://wiki.archlinux.org/title/Securely_wipe_disk#Overwrite_the_target)
+  - [nuke](https://gist.github.com/airborne-commando/6a690bd0644a9f1d76bc8c585d9ee969) can be used on both NVME (sec/unsec) and HDD
 
 People search engines:
 
