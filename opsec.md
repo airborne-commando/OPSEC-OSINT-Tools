@@ -101,7 +101,7 @@ People search engines:
 
 ## Misc Opsec
 
-[privacytools](www.privacytools.io)
+[privacytools](www.privacytools.io), a site containing software and guides for enhanced privacy 
 
 On a tangent; sometimes the best opsec is to not interact with the target you're osinting on, for example:
 
