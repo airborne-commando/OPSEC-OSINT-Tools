@@ -314,7 +314,7 @@ Partial phone number       |
   Sometimes linkedin will not give you the account, to combat this you'll need to either create an account or wait a minute (cookies probably, could be IP+HW ID's beats me)
 
 
-- For additonal tools see [Curated lists](#curated-lists)
+- For additonal tools see the Curated lists below
 
 
 ## Curated lists
