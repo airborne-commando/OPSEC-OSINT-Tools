@@ -302,6 +302,9 @@ Partial phone number       |
 - Twitter
 
   - [sotwe,](https://www.sotwe.com/) an anon twitter browser that actually works.
+  
+
+  - [Social media pro-tips](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/pro-tips-social.md) to get SOME info on private accounts 
 
 - For additonal tools see [Curated lists](#curated-lists)
 
