@@ -274,15 +274,15 @@ Partial phone number       |
 
 What you can look up:
 
-Name and address
+* Name and address
 
 What it spits out
 
-Addresses & Locations – It shows approximate locations of people based on public records.
-Names & Residents – Lists people who may be associated with a particular address.
-Property Details – Information about properties, including ownership history and home value estimates.
-IP Geolocation Data – Sometimes used for mapping visitor locations on websites.
-Demographic Data – May include age, possible relatives, and historical records.
+* Addresses & Locations – It shows approximate locations of people based on public records.
+* Names & Residents – Lists people who may be associated with a particular address.
+* Property Details – Information about properties, including ownership history and home value estimates.
+* IP Geolocation Data – Sometimes used for mapping visitor locations on websites.
+* Demographic Data – May include age, possible relatives, and historical records.
 
 - For additonal tools see [Curated lists](#curated-lists)
 
