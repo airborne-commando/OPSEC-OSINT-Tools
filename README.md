@@ -270,6 +270,20 @@ Partial phone number       |
 
 **DISCLAIMER: OnlineSearches powered by Intelius® offers a free people search directory that includes basic information, such as name, address, and partial phone numbers. In performing a search, you may ultimately be directed to Intelius.com where additional information is offered for a fee.**
 
+[clustrmaps](https://clustrmaps.com/)
+
+What you can look up:
+
+Name and address
+
+What it spits out
+
+Addresses & Locations – It shows approximate locations of people based on public records.
+Names & Residents – Lists people who may be associated with a particular address.
+Property Details – Information about properties, including ownership history and home value estimates.
+IP Geolocation Data – Sometimes used for mapping visitor locations on websites.
+Demographic Data – May include age, possible relatives, and historical records.
+
 - For additonal tools see [Curated lists](#curated-lists)
 
 ## Breached Data:
