@@ -270,7 +270,7 @@ Partial phone number       |
 
 **DISCLAIMER: OnlineSearches powered by Intelius® offers a free people search directory that includes basic information, such as name, address, and partial phone numbers. In performing a search, you may ultimately be directed to Intelius.com where additional information is offered for a fee.**
 
-[clustrmaps](https://clustrmaps.com/)
+8. [clustrmaps](https://clustrmaps.com/)
 
 What you can look up:
 
