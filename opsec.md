@@ -8,6 +8,8 @@
   - [Another article spinner](https://www.rewritertools.com/article-spinner), no advanced paraphrase; doesn't have different langs
 
   - [Article rewriter](https://seotoolstation.com/article-rewriter) this rewriter keeps SEO in mind for search rankings; after a few tries it WILL ask for a login, use TOR to bypass.
+  
+  - [chatgpt](https://chatgpt.com/) start with "rewrite this as..." 
  
 - Wanna use different langs for free?
  
