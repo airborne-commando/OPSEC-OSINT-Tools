@@ -11,7 +11,7 @@
   
   - [chatgpt](https://chatgpt.com/) start with "rewrite this as..." careful of censorship same with
   
-  - [deepseek](https://chat.deepseek.com/) 
+  - [deepseek](https://chat.deepseek.com/), you'll need an account for deepseek however.
  
 - Wanna use different langs for free?
  
