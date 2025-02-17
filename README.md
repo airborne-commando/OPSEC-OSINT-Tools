@@ -354,6 +354,8 @@ If you happen to have a breached database on your person
 
 - A whole [big ass list](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) to opt out and to compare info.
 
+- [inteltechniques opt out workbook](https://inteltechniques.com/workbook.html)
+
 ## Archive tools that I've made
  
 - [link extractor and archive](https://github.com/airborne-commando/link-extractor-and-archive); uses archive.ph - useful on basic webpages. Requires manual intervention.
