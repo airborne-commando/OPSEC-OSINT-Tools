@@ -320,7 +320,7 @@ If you happen to have a breached database on your person
 
 - Twitter
 
-  - [sotwe,](https://www.sotwe.com/) an anon twitter browser that actually works.
+  - [sotwe](https://www.sotwe.com/) - an anon twitter browser that actually works.
 
 
   Pro-tips for social media:
@@ -338,11 +338,11 @@ If you happen to have a breached database on your person
 
 ## Curated lists
 
-- [Awesome OSINT,](https://github.com/jivoi/awesome-osint) a curated list of OSINT tools, blogs, and videos
+- [Awesome OSINT](https://github.com/jivoi/awesome-osint) - a curated list of OSINT tools, blogs, and videos
 
-- [OSINT Framework,](https://osintframework.com/) a larger list of tools
+- [OSINT Framework](https://osintframework.com/) - a larger list of tools
   
-- [OSINT Resources](https://sizeof.cat/post/osint-resources/)
+- [OSINT Resources](https://sizeof.cat/post/osint-resources/) - Collection of OSINT resources that seems to be more up to date (includes NSFW)
 
   - [Archive](https://archive.ph/rZZf0) 
 
