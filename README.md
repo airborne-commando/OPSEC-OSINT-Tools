@@ -165,33 +165,33 @@ Anyhow, here are some tools I use for OPSEC/OSINT:
 
 - Google dorks
 
-  - [Google-FU,](https://github.com/airborne-commando/GoogleFU-improved) uses Google to lookup info on someone or something; may get rate limited
+  - [Google-FU](https://github.com/airborne-commando/GoogleFU-improved) - uses Google to lookup info on someone or something; may get rate limited
 
 - Bio-metric investigation
 
-  - [Facecheck.ID](https://github.com/vin3110/facecheck.id-results-extractor) tampermonkey script; improved by me, bypasses payment requirements and gives you the links
+  - [Facecheck.ID](https://github.com/vin3110/facecheck.id-results-extractor) - A tampermonkey script that is improved by me, bypasses payment requirements and gives you the links on where the images were orginated from.
 
 - Email + username investigations
-  - [Blackbird,](https://github.com/p1ngul1n0/blackbird) robust OSINT tool for rapid searches of user accounts by username or email across many platforms
+  - [Blackbird](https://github.com/p1ngul1n0/blackbird) - robust OSINT tool for rapid searches of user accounts by username or email across many platforms
 
   - A GUI editon of this tool named [crow](https://github.com/airborne-commando/crow)
 
-- [Sherlock,](https://github.com/sherlock-project/sherlock) similar to Blackbird but more robust and developed; caution with imgur red herrings
+- [Sherlock](https://github.com/sherlock-project/sherlock) - similar to Blackbird but more robust and developed; caution with imgur red herrings
 
-  - [GUI for Sherlock,](https://github.com/airborne-commando/no-shit-sherlock) uses the CLI as a backend; commands are bascially the same.
+  - [GUI for Sherlock](https://github.com/airborne-commando/no-shit-sherlock) - uses the CLI as a backend; commands are bascially the same.
 
-- [maigret,](https://github.com/soxoj/maigret) find connections VIA a username; a fork of sherlock
+- [maigret](https://github.com/soxoj/maigret) - find connections VIA a username; a fork of sherlock
 
-  - [A GUI Tool,](https://github.com/airborne-commando/maigret-night) uses the CLI as a backend; commands are going to basically be the same.
+  - [A GUI Tool](https://github.com/airborne-commando/maigret-night) - uses the CLI as a backend; commands are going to basically be the same.
 
 
-- [Hudson rock API extractor](https://github.com/airborne-commando/hudsonrock-search-extractor), for emails and usernames; not automated but uses Flask, checks email compromises
+- [Hudson rock API extractor](https://github.com/airborne-commando/hudsonrock-search-extractor) - for emails and usernames; not automated but uses Flask, checks email compromises
 
-- [holehe](https://github.com/megadose/holehe), caution with imgur for false positives; similar to Sherlock
+- [holehe](https://github.com/megadose/holehe) - caution with imgur for false positives; similar to Sherlock
 
 - Geolocation
 
-  - [Google maps,](https://maps.google.com/) good to pinpoint where someone/thing is and compare landmarks from somewhere
+  - [Google maps](https://maps.google.com/) - good to pinpoint where someone/thing is and compare landmarks from somewhere
 
 - Generalized Toolkit
    - [OSINT rocks](https://osint.rocks/): search hudson; holehe, gmail (ghunt) and skype. Can also use telephone number; domain and username lookups.
@@ -241,7 +241,7 @@ username       | username
 phone       | phone
 email       | email
 
-5. [Peekyou,](https://www.peekyou.com/) search by first last name and username
+5. [Peekyou](https://www.peekyou.com/) - search by first last name and username
 
 Gives out info such as: 
 
@@ -252,14 +252,14 @@ social media's       | username
 emails       |
 addresses       |
 
-6. [webmii, search by first last name](https://webmii.com/)
+6. [webmii](https://webmii.com/) - search by first last name
 
 gives out | can lookup
 ------ | ------
 Social       | First and last name
 search results       |
 
-7. [publicrecords,](https://www.publicrecords.onlinesearches.com/) use this with fastpeople search or other people search engines
+7. [publicrecords](https://www.publicrecords.onlinesearches.com/) - use this with fastpeople search or other people search engines
 
 gives out | can lookup
 ------ | ------
@@ -285,9 +285,9 @@ Partial phone number       |
 
 ## Breached Data:
 
-- [Have I Been Pwned](https://haveibeenpwned.com/): Check if an email has been compromised in a data breach.
+- [Have I Been Pwned](https://haveibeenpwned.com/) - Check if an email has been compromised in a data breach.
 
-- [Breach Directory](https://breachdirectory.org/): Check email and usernames for a breach; will return partial password hashes
+- [Breach Directory](https://breachdirectory.org/) - Check email and usernames for a breach; will return partial password hashes
 
     - The following information is imported into the BreachDirectory database:
     - First 4 characters of each password.
@@ -296,21 +296,21 @@ Partial phone number       |
     - Usernames.
     - Emails.
  
-- [EXPOSED](https://exposed.lol/): Check email with password hashes, limted with only 4 Checks per 12hrs; feel free to use TOR.
+- [EXPOSED](https://exposed.lol/) - Check email with password hashes, limted with only 4 Checks per 12hrs; feel free to use TOR.
 
--  [pentester](https://pentester.com/) same as exposed almost but has more info for free; doesn't need the use of TOR. REALLY GOOD!
+-  [pentester](https://pentester.com/) - same as exposed almost but has more info for free; doesn't need the use of TOR. REALLY GOOD!
 
--  [breachvip](https://breach.vip/), needs a login to perform searches; breach.vip is the largest Minecraft DB search engine. We aim to provide a means to assess what data has been leaked in said breaches, at no cost to the public. Enjoy Searching. sounds memey
+-  [breachvip](https://breach.vip/) - needs a login to perform searches; breach.vip is the largest Minecraft DB search engine. We aim to provide a means to assess what data has been leaked in said breaches, at no cost to the public. Enjoy Searching. sounds memey
 
-- [leakpeek](https://leakpeek.com/): Can only use 5 searches for a free search, will hide most info but with some sluting and the tools listed you should get an idea of WHAT. also use tor if you can to bypass the search limit. Other than that if you really need more details on what was leaked you may need to buy a plan.
+- [leakpeek](https://leakpeek.com/) - Can only use 5 searches for a free search, will hide most info but with some sluting and the tools listed you should get an idea of WHAT. also use tor if you can to bypass the search limit. Other than that if you really need more details on what was leaked you may need to buy a plan.
 
-- [hashes](https://hashes.com/en/decrypt/hash): Decrypt the hashes you find to get a password possibly linked to a database or username.
+- [hashes](https://hashes.com/en/decrypt/hash) - Decrypt the hashes you find to get a password possibly linked to a database or username.
 
 - For additonal tools see [Curated lists](#curated-lists)
 
 If you happen to have a breached database on your person
 
-- [Icebreaker](https://gist.github.com/airborne-commando/b71a863e4722a3fe6401e5b08fdb46e5), uses ripgrep/python and is good for databases that are less than 1000GB; feel free to try it with the demo python script supplied.
+- [Icebreaker](https://gist.github.com/airborne-commando/b71a863e4722a3fe6401e5b08fdb46e5) - uses ripgrep/python and is good for databases that are less than 1000GB; feel free to try it with the demo python script supplied.
 
 ## Social Media:
 
@@ -358,7 +358,7 @@ If you happen to have a breached database on your person
 
 ## Archive tools that I've made
  
-- [link extractor and archive](https://github.com/airborne-commando/link-extractor-and-archive); uses archive.ph - useful on basic webpages. Requires manual intervention.
+- [link extractor and archive](https://github.com/airborne-commando/link-extractor-and-archive) uses archive.ph - useful on basic webpages. Requires manual intervention (text edits FIND+REPLACE).
 
 Additonal tools:
 
