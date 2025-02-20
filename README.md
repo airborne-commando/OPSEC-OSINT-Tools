@@ -297,7 +297,7 @@ Partial phone number       |
     - Usernames.
     - Emails.
  
-- [EXPOSED](https://exposed.lol/) - Check email with password hashes, limted with only 4 Checks per 12hrs; feel free to use TOR.
+- [EXPOSED (May be expired as of writing)](https://exposed.lol/) - Check email with password hashes, limted with only 4 Checks per 12hrs; feel free to use TOR.
 
 -  [pentester](https://pentester.com/) - same as exposed almost but has more info for free; doesn't need the use of TOR. REALLY GOOD!
 
