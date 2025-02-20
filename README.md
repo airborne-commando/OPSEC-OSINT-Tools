@@ -1,6 +1,7 @@
 ***DISCLAIMER***
 
 I am in no way responsible for any abuse, misuse, or any questionable actions in which someone uses these tools or methods below. OSINT is an information-gathering technique that can be used by ANYBODY and on ANYBODY!
+Also I'd like for anyone to be aware that some of the domains (such as exposed.lol) may be expired, if so check the curated list or the other links listed.
 
 ## Why did I create this?
 
@@ -194,7 +195,7 @@ Anyhow, here are some tools I use for OPSEC/OSINT:
   - [Google maps](https://maps.google.com/) - good to pinpoint where someone/thing is and compare landmarks from somewhere
 
 - Generalized Toolkit
-   - [OSINT rocks](https://osint.rocks/): search hudson; holehe, gmail (ghunt) and skype. Can also use telephone number; domain and username lookups.
+   - [OSINT rocks](https://osint.rocks/) - search hudson; holehe, gmail (ghunt) and skype. Can also use telephone number; domain and username lookups.
 
 - For additonal tools see [Curated lists](#curated-lists)
     
