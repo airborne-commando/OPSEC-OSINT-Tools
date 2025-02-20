@@ -298,7 +298,7 @@ Partial phone number       |
  
 - [EXPOSED](https://exposed.lol/): Check email with password hashes, limted with only 4 Checks per 12hrs; feel free to use TOR.
 
--  [pentester](pentester.com) same as exposed almost but has more info for free; doesn't need the use of TOR. REALLY GOOD!
+-  [pentester](https://pentester.com/) same as exposed almost but has more info for free; doesn't need the use of TOR. REALLY GOOD!
 
 -  [breachvip](https://breach.vip/), needs a login to perform searches; breach.vip is the largest Minecraft DB search engine. We aim to provide a means to assess what data has been leaked in said breaches, at no cost to the public. Enjoy Searching. sounds memey
 
