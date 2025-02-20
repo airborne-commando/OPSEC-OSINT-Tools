@@ -3,15 +3,23 @@
 
 - Word spinners
 
-  - [Article spinner](https://free-article-spinner.com/), with basic and advanced paraphrase - can only use standard.
+  - [Article spinner](https://free-article-spinner.com/)
+    - with basic and advanced paraphrase - can only use standard.
 
-  - [Another article spinner](https://www.rewritertools.com/article-spinner), no advanced paraphrase; doesn't have different langs
+  - [rewritertools, another article spinner](https://www.rewritertools.com/article-spinner)
 
-  - [Article rewriter](https://seotoolstation.com/article-rewriter) this rewriter keeps SEO in mind for search rankings; after a few tries it WILL ask for a login, use TOR to bypass.
+    - no advanced paraphrase; doesn't have different langs
+
+  - [Article rewriter](https://seotoolstation.com/article-rewriter)
+
+    - this rewriter keeps SEO in mind for search rankings; after a few tries it WILL ask for a login, use TOR to bypass.
   
-  - [chatgpt](https://chatgpt.com/) start with "rewrite this as..." careful of censorship same with
+  - [chatgpt](https://chatgpt.com/)
+
+    -  start with "rewrite this as..." careful of censorship. Doesn't need an account.
   
-  - [deepseek](https://chat.deepseek.com/), you'll need an account for deepseek however.
+  - [deepseek](https://chat.deepseek.com/)
+    - You'll need an account for deepseek, heavily censored with stuff involving china or sensitive topics (much like gpt); you may download the model from hugging face (not like gpt).
  
 - Wanna use different langs for free?
  
@@ -19,7 +27,7 @@
 
 - SEO Tools
 
-  - [Here's a really good site, I'd recommend using TOR browser to bypass the login page after a few tries](https://seotoolstation.com/).
+  - [seotoolstation](https://seotoolstation.com/) I'd recommend using TOR browser to bypass the login page after a few tries.
 
 - Face generation
 
@@ -33,14 +41,17 @@
 
    - [Free inpaint](https://pincel.app/tools/inpaint)
 
-   - [Will downscale the image so you'll probably have to use this after using the tool above](https://www.upscale.media/)
+   - Will downscale the image so you'll have to use [upscale](https://www.upscale.media/)
 
    - [affinity, isn't free](https://affinity.serif.com/en-us/photo/)
 
-   - Can also try [GNU gimp](https://www.gimp.org/) but this is barebones
+   - Can also try [GNU gimp](https://www.gimp.org/)
+     - this is barebones
  
-   - [Exiftool](https://exiftool.org/), edits metadata on images and can strip them.
-      - For Linux users
+   - [Exiftool](https://exiftool.org/)
+      - edits metadata on images and can strip them.
+    
+- For Linux users 
 
    Debian:
       
