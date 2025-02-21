@@ -311,7 +311,7 @@ Partial phone number       |
 
 If you happen to have a breached database on your person
 
-- [Icebreaker](https://gist.github.com/airborne-commando/b71a863e4722a3fe6401e5b08fdb46e5) - uses ripgrep/python and is good for databases that are less than 1000GB; feel free to try it with the demo python script supplied.
+- [Icebreaker](https://gist.github.com/airborne-commando/b71a863e4722a3fe6401e5b08fdb46e5) - uses python and is good for databases that are less than 1000GB; feel free to try it with the demo python script supplied.
 
 ## Social Media:
 
