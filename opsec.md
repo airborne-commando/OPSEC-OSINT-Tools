@@ -72,7 +72,7 @@
 - Email address + username + name generation
   - [Email user/name generator for cock.li and ProtonMail; useful for non-temp mail service accounts](https://github.com/airborne-commando/user-email-gen)
  
-  - [temp-mail](https://temp-mail.org/en/), online email generation tool
+  - [temp-mail](https://temp-mail.org/en/) an online email generation tool
 
   - [username gen](https://jimpix.co.uk/words/username-generator.php) an online tool, can enter nothing and get results.
 
