@@ -28,10 +28,11 @@ A list of OSINT/OPSEC tools I made, forked, and/or use. First, let's talk about 
    - [2017 Shia LaBeouf Protest](#in-2017-shia-labeouf-had-a-protest-due-to-trumps-election-this-resulted-in-a-basket-weaving-image-board-using-osint-and-sky-patterns-to-figure-out-where-a-flag-is)
 6. [Tools](#tools)
 7. [People search tools (in the states)](#people-search-tools-in-the-states)
-8. [Breached Data](#breached-data)
-9. [Social Media](#social-media)
-10. [Curated lists](#curated-lists)
-11. [Archive tools](#archive-tools-that-ive-made)
+8. [Grey literature](#grey-literature)
+9. [Breached Data](#breached-data)
+10. [Social Media](#social-media)
+11. [Curated lists](#curated-lists)
+12. [Archive tools](#archive-tools-that-ive-made)
 
 ## (Operations Security) is a systematic process for:
 1. Identifying
