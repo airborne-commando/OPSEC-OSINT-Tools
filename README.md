@@ -284,6 +284,10 @@ Partial phone number       |
 
 - For additonal tools see [Curated lists](#curated-lists)
 
+## Grey literature
+
+Use this site; [do not register](https://vote.gov/register), check a voter registration.
+
 ## Breached Data:
 
 - [Have I Been Pwned](https://haveibeenpwned.com/) - Check if an email has been compromised in a data breach.
@@ -322,13 +326,7 @@ If you happen to have a breached database on your person
 - Twitter
 
   - [sotwe](https://www.sotwe.com/) - an anon twitter browser that actually works.
-
-
-## Grey literature
-
-Use this site; [do not register](https://vote.gov/register), check a voter registration.
-
-
+ 
   Pro-tips for social media:
 
   Facebook:
