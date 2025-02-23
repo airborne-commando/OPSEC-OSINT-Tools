@@ -287,7 +287,7 @@ Partial phone number       |
 
 ## Grey literature
 
-Use this site; [do not register](https://vote.gov/register), check a voter registration.
+Use this site; [do not register](https://vote.gov/register), check a voter registration. Will probably need more info in some states; while other need less.
 
 ## Breached Data:
 
