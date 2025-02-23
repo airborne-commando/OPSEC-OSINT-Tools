@@ -324,6 +324,11 @@ If you happen to have a breached database on your person
   - [sotwe](https://www.sotwe.com/) - an anon twitter browser that actually works.
 
 
+## Grey literature
+
+Use this site; [do not register](https://vote.gov/register), check a voter registration.
+
+
   Pro-tips for social media:
 
   Facebook:
