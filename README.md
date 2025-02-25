@@ -316,7 +316,7 @@ Use this site; [do not register](https://vote.gov/register), check a voter regis
 
 If you happen to have a breached database on your person
 
-- [Icebreaker](https://gist.github.com/airborne-commando/b71a863e4722a3fe6401e5b08fdb46e5) - uses python and is good for databases that are less than 1000GB; feel free to try it with the demo python script supplied.
+- [Icebreaker](https://github.com/airborne-commando/ice-breaker) - uses python and is good for databases that are less than 1000GB; feel free to try it with the demo python script supplied. Comes with a windows EXE for both.
 
 ## Social Media:
 
