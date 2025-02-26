@@ -353,7 +353,7 @@ If you happen to have a breached database on your person
 
 - A whole reddit wiki from the [OSINT community](https://www.reddit.com/r/OSINT/wiki/index/)
 
-- A list of social media, maps, domains, etc also listed [in this github repo](https://github.com/cipher387/osint_stuff_tool_collection). 
+- A list of social media, maps, domains, etc also listed [in cipher387's OSINT collection](https://github.com/cipher387/osint_stuff_tool_collection). 
 
 **OPT OUT**
 
