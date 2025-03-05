@@ -20,6 +20,9 @@
   
   - [deepseek](https://chat.deepseek.com/)
     - You'll need an account for deepseek, heavily censored with stuff involving china or sensitive topics (much like gpt); you may download the model from hugging face (not like gpt).
+   
+    - [Run deepseek offline](https://www.reddit.com/r/AIAssisted/comments/1ibv6g8/how_to_run_deepseek_r1_offline_on_your_computer/), less censorship but IDK about performance.
+    - [Archive of reddit post](https://archive.ph/vZXv0)
  
 - Wanna use different langs for free?
  
