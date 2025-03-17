@@ -291,6 +291,8 @@ Partial phone number       |
 
 Use this site; [do not register](https://vote.gov/register), check a voter registration. Will probably need more info in some states; while other need less.
 
+An automtic tool that I've made for [pa voter services](https://github.com/airborne-commando/voter-reg-status). Feel free to fork for other states.
+
 ## Breached Data:
 
 - [Have I Been Pwned](https://haveibeenpwned.com/) - Check if an email has been compromised in a data breach.
