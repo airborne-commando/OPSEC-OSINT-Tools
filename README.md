@@ -331,6 +331,7 @@ If you happen to have a breached database on your person
 - Twitter
 
   - [sotwe](https://www.sotwe.com/) - an anon twitter browser that actually works.
+  - [xcancel](https://xcancel.com/) - Another one.
  
   Pro-tips for social media:
 
