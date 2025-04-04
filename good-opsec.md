@@ -2,6 +2,9 @@ Here's a list of good operational security (OPSEC) practices for the average per
 
 See: [badopsec](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/badopsec.md) for advice on good opsec, can't have good opsec without bad opsec examples.
 
+Below are for the normies out there.
+------------
+
 ## Use Strong, Unique Passwords
 
 - Create complex passwords for each account
