@@ -68,6 +68,8 @@ OPSEC supplements other security disciplines rather than replacing them.
 
   - [Signal](https://signal.org/download/) is encrypted by default but requires a phone number; however signal can't give anything out even by court order [because of state of the art encryption even on user accounts and phone numbers](https://signal.org/bigbrother/cd-california-grand-jury/). Meaning when you delete an account on signal and they Subpoena information about you or your account; they'll get basically squat. 
 
+And remember just because something is end to end doesn't mean you cannot get eavesdropped.
+
 * **Tor/VPN/XMR:**
   - [Tor](https://www.torproject.org/) isn't bad but will get rate limited by CAPTCHA.
   - [Mullvad](https://mullvad.net/en) is a good VPN (Virtual Private Network) as it accepts [XMR (Monero)](https://www.getmonero.org/), which can't be traced back to you if you mine XMR with your own node (machine/device/computer). Note: VPNs are useless if you have bad OPSEC, same with Tor.
