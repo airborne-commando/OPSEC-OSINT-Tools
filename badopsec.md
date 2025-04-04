@@ -1,4 +1,4 @@
-Tor is a powerful tool for online anonymity, but it's not foolproof. Several cases demonstrate how poor operational security (OPSEC) can lead to the unmasking of Tor users, even when engaging in illegal activities. Here are some notable examples of bad Tor OPSEC:
+# Here are some notable examples of bad Tor OPSEC:
 
 ## School Bomb Threats
 
