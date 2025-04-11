@@ -1,7 +1,7 @@
 # OPSEC
 
 
-- Word spinners
+### Word spinners
 
   - [Article spinner](https://free-article-spinner.com/)
     - with basic and advanced paraphrase - can only use standard.
@@ -33,7 +33,7 @@
 
   - [seotoolstation](https://seotoolstation.com/) I'd recommend using TOR browser to bypass the login page after a few tries.
 
-- Face generation
+### Face generation
 
    - [stable-diffusion-webui, use models you can find on the internet; can be used on a local machine](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
@@ -41,9 +41,9 @@
 
    - [This person doesn't exist](https://thispersondoesnotexist.com/); a face generator, will have a logo at the bottom of the screen so use
 
-- photo shop tools / photo editing tools
+### photo shop tools / photo editing tools
 
-- Inpainting tools
+## Inpainting tools
 
    - [Free inpaint](https://pincel.app/tools/inpaint), a free inpainting tool that's on the web
 
@@ -52,7 +52,7 @@
    - [IOPaint](https://github.com/Sanster/IOPaint), a free inpainting tool that uses your CPU inside your computer
        - [Linux script](https://gist.github.com/airborne-commando/38d059e31274546e5bc9060516c735e9), use with an alias inside .bashrc
 
-- Photo editing / stripping
+## Photo editing / stripping
 
    - [affinity, isn't free](https://affinity.serif.com/en-us/photo/)
 
