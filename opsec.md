@@ -24,6 +24,7 @@
     - [Run deepseek offline](https://www.reddit.com/r/AIAssisted/comments/1ibv6g8/how_to_run_deepseek_r1_offline_on_your_computer/), less censorship but IDK about performance.
     - [Archive of reddit post](https://archive.ph/vZXv0)
     - An [aur repo](https://aur.archlinux.org/packages/lmstudio) for arch users; follow the directions on the reddit post.
+    - the offical website of [lmstudio](https://lmstudio.ai/)
  
 - Wanna use different langs for free?
  
