@@ -43,12 +43,16 @@
 
 - photo shop tools / photo editing tools
 
-   - [Free inpaint](https://pincel.app/tools/inpaint)
+- Inpainting tools
+
+   - [Free inpaint](https://pincel.app/tools/inpaint), a free inpainting tool that's on the web
+
+       - Will downscale the image so you'll have to use [upscale](https://www.upscale.media/)
    
-   - [IOPaint](https://github.com/Sanster/IOPaint), a free inpainting tool that uses your CPU
+   - [IOPaint](https://github.com/Sanster/IOPaint), a free inpainting tool that uses your CPU inside your computer
        - [Linux script](https://gist.github.com/airborne-commando/38d059e31274546e5bc9060516c735e9), use with an alias inside .bashrc
 
-   - Will downscale the image so you'll have to use [upscale](https://www.upscale.media/)
+- Photo editing / stripping
 
    - [affinity, isn't free](https://affinity.serif.com/en-us/photo/)
 
