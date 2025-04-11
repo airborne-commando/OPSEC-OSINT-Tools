@@ -51,7 +51,7 @@
        - Will downscale the image so you'll have to use [upscale](https://www.upscale.media/)
    
    - [IOPaint](https://github.com/Sanster/IOPaint), a free inpainting tool that uses your CPU inside your computer
-       - [Linux script](https://gist.github.com/airborne-commando/38d059e31274546e5bc9060516c735e9), use with an alias inside .bashrc
+       - [Linux script](https://gist.github.com/airborne-commando/38d059e31274546e5bc9060516c735e9), use with an alias inside .bashrc or place it inside /usr/bin; check the gist comments.
 
 ## Photo editing / stripping
 
