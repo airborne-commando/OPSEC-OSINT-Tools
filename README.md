@@ -326,24 +326,39 @@ If you happen to have a breached database on your person
 
 ## Social Media:
 
+- SMSEs
+
+    - [Social Searcher](https://www.social-searcher.com/)
+
+- Snapchat map
+
+   - [Snapchat Map](https://map.snapchat.com/) - need an account for that
+
+
 - Instagram
 
   - [picuki](https://www.picuki.com/) - an anon Instagram browser that works if you know a username. It's good tool for figuring out land markers inside a photo.
+  - [Dumpor](https://dumpor.com/) - another instagram viewer
+
 
 - Twitter
 
   - [sotwe](https://www.sotwe.com/) - an anon twitter browser that actually works.
   - [xcancel](https://xcancel.com/) - Another one.
+  - [Nitter](https://nitter.net/) - Twitter alternative front-end
  
-  Pro-tips for social media:
+- Facebook
+  - [Facebook Search](https://www.facebook.com/search/)
+  - [Facebook post search](https://www.whopostedwhat.com/) 
 
+
+  Pro-tips for social media:
   Facebook:
   For private facebook accounts, you can either use a fake facebook account (difficult due to Zucc's anti-spoofing features) OR use inspect element and simulate a mobile device (or use an actual phone), so long as you have a link to that account 
-  or POST. (be sure you are logged out or in Private mode). 
+  or POST. (be sure you are logged out or in Private mode).
 
   Linkedin:
   Sometimes linkedin will not give you the account, to combat this you'll need to either create an account or wait a minute (cookies probably, could be IP+HW ID's beats me)
-
 
 - For additonal tools see the Curated lists below
 
