@@ -9,12 +9,6 @@ Now why did I make this readme you may ask?
 
 People in the states at least trust their info way to much on the internet and seeing how the internet has now affected our daily lives it's practically indistinguishable from reality now; what's real is now fake - what's fake is now real. tit for tat basically. Do what you must with this readme file, spread this on the net for all I care really and feel free to contribute on either a fork or on your own project (even on my own projects listed). Feel free to clone and spread this info out there or to fork or maybe make a rentry document if you want.
 
-If you find this useful feel free to donate to this monero address:
-
-![mon](https://github.com/user-attachments/assets/f77ce530-5a5d-479d-bb47-481674c93f4c)
-
-    8BPdcsLtA5iWLNTWvYzUVyTWtQkM62e8r7xqAuwjXTSC4RcoSWqpmtyLsMYvz3QNZtT1rbgPUnmVpMAudhxTn6zkRxUFcZN
-
 # OSINT/OPSEC Tools
 
 A list of OSINT/OPSEC tools I made, forked, and/or use. First, let's talk about the definitions.
@@ -387,7 +381,17 @@ If you happen to have a breached database on your person
  
 - [link extractor and archive](https://github.com/airborne-commando/link-extractor-and-archive) uses archive.ph - useful on basic webpages. Requires manual intervention (text edits FIND+REPLACE).
 
+
 Additonal tools:
 
 - For additonal tools see the curated-lists above
 
+
+
+Donations:
+
+If you find this useful feel free to donate to this monero address:
+
+![mon](https://github.com/user-attachments/assets/f77ce530-5a5d-479d-bb47-481674c93f4c)
+
+    8BPdcsLtA5iWLNTWvYzUVyTWtQkM62e8r7xqAuwjXTSC4RcoSWqpmtyLsMYvz3QNZtT1rbgPUnmVpMAudhxTn6zkRxUFcZN
