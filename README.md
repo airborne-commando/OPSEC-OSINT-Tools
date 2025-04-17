@@ -315,7 +315,7 @@ An automtic tool that I've made for [pa voter services](https://github.com/airbo
 If you happen to have a breached database on your person
 
 - [Icebreaker](https://github.com/airborne-commando/ice-breaker) - uses python and is good for databases that are less than 1000GB; feel free to try it with the demo python script supplied. Comes with a windows EXE for both.
-- [facebook-533m](https://github.com/davidfegyver/facebook-533m) - facebook-533m raidforms leak; Doesn't Contain Any Passwords.
+- [facebook-533m](https://github.com/davidfegyver/facebook-533m) - facebook-533m raidforms leak; Doesn't Contain Any Passwords. read the Disclaimer on that repo.
 
 ## Social Media:
 
