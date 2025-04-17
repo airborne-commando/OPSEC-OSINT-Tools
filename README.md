@@ -26,7 +26,7 @@ A list of OSINT/OPSEC tools I made, forked, and/or use. First, let's talk about 
 3. [Who uses Open-Source Intelligence (OSINT)?](#who-uses-open-source-intelligence-osint)
 4. [Sources of OSINT](#sources-of-osint)
 5. [Real world examples of OSINT](#real-world-examples-of-osint)
-   - [2016 Airstrike Coordination](#in-the-year-2016-a-basket-weaving-image-board-used-osint-to-pay-some-supposed-terroist-a-vist-from-a-govt-in-russia-resulting-in-airstrikes)
+   - [2016 Airstrike Coordination](#in-the-year-2016-a-basket-weaving-image-board-used-osint-to-pay-some-supposed-terrorist-a-vist-from-a-govt-in-russia-resulting-in-airstrikes)
    - [2017 Shia LaBeouf Protest](#in-2017-shia-labeouf-had-a-protest-due-to-trumps-election-this-resulted-in-a-basket-weaving-image-board-using-osint-and-sky-patterns-to-figure-out-where-a-flag-is)
 6. [Tools](#tools)
 7. [People search tools (in the states)](#people-search-tools-in-the-states)
@@ -59,7 +59,7 @@ OPSEC supplements other security disciplines rather than replacing them.
 ### How to OPSEC:
 
 * **Use services that can conceal your identity:**
-  - [Telegram](https://telegram.org/) is normie-tier as it isn't encrypted (Telegram does not use end-to-end) by default and requires a phone number. Only encryption you'll get is the secret chat option which; other than that it's all stored in their severs.
+  - [Telegram](https://telegram.org/) is normie-tier as it isn't encrypted (Telegram does not use end-to-end) by default and requires a phone number. Only encryption you'll get is the secret chat option which; other than that it's all stored in their servers.
   - Read more about this [here on Telegram’s Approach to Encryption](https://www.protectstar.com/en/blog/telegram-encryption). Since Telegram does not use end-to-end encryption by default, it could theoretically hand over the content of messages to law enforcement. OH Wait it [just did](https://www.cnn.com/2024/09/23/tech/telegram-ceo-durov-arrest-user-data-changes/index.html).
 
   - [Simplex](https://simplex.chat/) [isn't too bad](https://github.com/simplex-chat/simplex-chat?tab=readme-ov-file#simplex-approach-to-privacy-and-security). 
@@ -146,7 +146,7 @@ OSINT can gather information from various sources, including:
 
 ### Real world examples of OSINT
 
-## In the year 2016, a basket weaving image board used OSINT to pay some supposed terroist a vist from a [govt in Russia resulting in airstrikes.](https://imgur.com/pol-helps-coordinate-airstrike-on-moderate-syrian-rebels-N7DwWP1)
+## In the year 2016, a basket weaving image board used OSINT to pay some supposed terrorist a vist from a [govt in Russia resulting in airstrikes.](https://imgur.com/pol-helps-coordinate-airstrike-on-moderate-syrian-rebels-N7DwWP1)
 
 - [A video detailing the events](https://www.youtube.com/watch?v=OR6epSP_Xlw)
 
