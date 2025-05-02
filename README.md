@@ -329,8 +329,6 @@ If you happen to have a breached database on your person
 
 
 - Instagram
-
-  - [picuki](https://www.picuki.com/) - an anon Instagram browser that works if you know a username. It's good tool for figuring out land markers inside a photo.
   - [Dumpor](https://dumpor.com/) - another instagram viewer
 
 
