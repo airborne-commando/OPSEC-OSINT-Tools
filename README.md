@@ -221,6 +221,10 @@ addresses       | email
 Numbers       | IP
 email       | VIN
 
+Note:
+
+ThatsThem isn’t the actual source of the data; it’s just one of many landing pages that belong to larger companies like Intelius or Spokeo.
+
 3. [nuwber.com](https://nuwber.com/) 
 
 
