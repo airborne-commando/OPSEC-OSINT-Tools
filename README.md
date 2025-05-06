@@ -238,34 +238,46 @@ Use this site; [do not register](https://vote.gov/register), check a voter regis
 An automtic tool that I've made for [pa voter services](https://github.com/airborne-commando/voter-reg-status). Feel free to fork for other states.
 
 ## Breached Data:
+---
 
-- [Have I Been Pwned](https://haveibeenpwned.com/) - Check if an email has been compromised in a data breach.
+| **Tool**               | **Lookup By**       | **Returns**                              | **Limitations/Costs**                          | **Notes**                                                                 |
+|------------------------|--------------------|------------------------------------------|-----------------------------------------------|---------------------------------------------------------------------------|
+| **[Have I Been Pwned](https://haveibeenpwned.com/)**  | Email, Phone       | Breach names, dates, compromised data    | Free; no passwords/raw data                   | Trusted source; alerts for new breaches.                                  |
+| **[BreachDirectory](https://breachdirectory.org/)**    | Email, Username    | Partial password hashes (SHA-1, first 4 chars), length | Free; no full passwords            | Useful for credential stuffing checks.                                    |
+| **[Pentester](https://pentester.com/)**          | Email, Username    | Full breach details (more than HIBP)     | Free; no Tor needed                           | Unofficial but extensive; may include sensitive data.                    |
+| **[Breach.vip](Breach.vip)**         | Email, Username    | Minecraft-focused leaks (usernames, IPs) | Free; requires login                          | Niche for gaming accounts; "memey" but functional.                        |
+| **[LeakPeek](https://leakpeek.com/)**           | Email, Username    | Partial breach snippets (e.g., domains)  | 5 free searches; Tor bypass possible          | Paid plans for full data; obfuscates results.                             |
+| **[LOLArchiver](https://osint.lolarchiver.com/)**        | Email, Username    | Full breach databases (e.g., emails, passwords) | Paid service only                     | For OSINT professionals; curated high-value leaks.                        |
+| **[Hashes.com](Hashes.com)**         | Hash (MD5, SHA-1, etc.) | Decrypted passwords (if hash is cracked) | Free/paid cracking tools                      | Useful for reversing hashes from breaches.                               |
+| **[Icebreaker](https://github.com/airborne-commando/ice-breaker)**         | Local breach files | Parses/analyzes large breach datasets    | Python/EXE; works best for <1000GB files      | Demo script provided; use with caution (e.g., Facebook 533M leak).        |
 
-- [Breach Directory](https://breachdirectory.org/) - Check email and usernames for a breach; will return partial password hashes
+---
 
-    - The following information is imported into the BreachDirectory database:
-    - First 4 characters of each password.
-    - SHA-1 hash of each password.
-    - Length of each password.
-    - Usernames.
-    - Emails.
+### **Key Takeaways**:  
+1. **Free vs. Paid**:  
+   - *Free*: HIBP, BreachDirectory, Pentester, Hashes.com.  
+   - *Limited Free*: LeakPeek (5 searches), Breach.vip (login required).  
+   - *Paid*: LOLArchiver, LeakPeek plans.  
 
--  [pentester](https://pentester.com/) - same as exposed almost but has more info for free; doesn't need the use of TOR. REALLY GOOD!
+2. **Specializations**:  
+   - *Password Recovery*: Hashes.com (decrypt hashes), BreachDirectory (partial hashes).  
+   - *Gaming Leaks*: Breach.vip (Minecraft).  
+   - *Local Analysis*: Icebreaker (Python tool for large datasets).  
 
--  [breachvip](https://breach.vip/) - needs a login to perform searches; breach.vip is the largest Minecraft DB search engine. We aim to provide a means to assess what data has been leaked in said breaches, at no cost to the public. Enjoy Searching. sounds memey
+3. **Ethical/Legal Notes**:  
+   - Many tools provide **partial data** (e.g., first 4 chars of passwords) to comply with ethics.  
+   - Use **Tor** with LeakPeek to bypass search limits.  
+   - Avoid misuse: Some tools (e.g., Pentester) may expose sensitive data.  
 
-- [leakpeek](https://leakpeek.com/) - Can only use 5 searches for a free search, will hide most info but with some sluting and the tools listed you should get an idea of WHAT. also use tor if you can to bypass the search limit. Other than that if you really need more details on what was leaked you may need to buy a plan.
+4. **For Large Datasets**:  
+   - [Icebreaker](https://github.com/airborne-commando/ice-breaker) + Facebook 533M script (no passwords) for bulk analysis.  
 
-- [lolarchiver](https://osint.lolarchiver.com/) - A paid service in which will provide you data breaches
+---
 
-- [hashes](https://hashes.com/en/decrypt/hash) - Decrypt the hashes you find to get a password possibly linked to a database or username.
+### **Additional Resources**:  
+- **Curated Lists**: Check [Curated Lists](#curated-lists) for more niche tools.  
+- **Demo Scripts**: [Icebreaker](https://github.com/airborne-commando/ice-breaker) includes a demo for testing.  
 
-- For additonal tools see [Curated lists](#curated-lists)
-
-If you happen to have a breached database on your person
-
-- [Icebreaker](https://github.com/airborne-commando/ice-breaker) - uses python and is good for databases that are less than 1000GB; feel free to try it with the demo python script supplied. Comes with a windows EXE for both.
-   - [facebook-533m](https://github.com/davidfegyver/facebook-533m) - facebook-533m raidforms leak; Doesn't Contain Any Passwords. read the Disclaimer on that repo. Use the python script above.
 
 ## Social Media:
 
