@@ -203,7 +203,7 @@ Thus bad opsec.
 ---
 
 ### **Toolchain Recommendations**
-- **Quick Username Search**: Crow (GUI) → Maigret (GUI) → Sherlock (CLI for depth).  
+- **Quick Username Search**: Crow (GUI for indepth) → Maigret (GUI for indepth) → Sherlock (CLI for depth).  
 - **Email Breaches**: LOLArchiver → Pentester → OSINT Rocks (Hudson Rock/Holehe) → Have I Been Pwned.  
 - **Images**: Facecheck.ID + TinEye/Google Reverse Image Search.  
 
