@@ -158,49 +158,55 @@ Thus bad opsec.
 - In 2017, 4chan users managed to track down and replace Shia LaBeouf's "He Will Not Divide Us" protest flag. Using only the live-stream footage of the flag, they analyzed flight patterns, star positions, and a tweet to locate the flag in Greeneville, Tennessee. A local troll then honked his car horn until the sound was picked up on the live-stream, pinpointing the exact location. The flag was replaced with a Trump hat, marking the end of this elaborate trolling operation.
 
 ## Tools
-OSINT tools can access and analyze information from sources beyond traditional search engines. Be mindful as some info can be out of date or incorrect such as:
 
-- Phone number
-- Email
-- Street Address
-- IP Address (Dunno if anyone REALLY uses that but will list)
+---
 
-Anyhow, here are some tools I use for OPSEC/OSINT:
+| **Category**               | **Tool**                  | **Link**                                                                 | **Functionality**                                                                 | **Limitations/Notes**                                                                 |
+|----------------------------|--------------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| **Search Engine Queries**  | Google-FU                | [GitHub](https://github.com/airborne-commando/GoogleFU-improved)        | Advanced Google dorking for targeted searches                                  | Rate limits apply; may trigger CAPTCHAs                                              |
+| **Biometric Analysis**     | Facecheck.ID             | [GitHub](https://github.com/vin3110/facecheck.id-results-extractor)     | Reverse image search bypassing paywalls                                        | Requires Tampermonkey; extracts source links only                                   |
+| **Username/Email Search**  | Blackbird                | [GitHub](https://github.com/p1ngul1n0/blackbird)                       | Fast cross-platform username/email lookup                                      | CLI-only; lightweight                                                               |
+|                            | Crow (GUI for Blackbird) | [GitHub](https://github.com/airborne-commando/crow)                     | GUI version of Blackbird                                                       | Same functionality as CLI                                                           |
+|                            | Sherlock                 | [GitHub](https://github.com/sherlock-project/sherlock)                  | Comprehensive username search across 300+ sites                                | False positives (e.g., Imgur); CLI-based                                            |
+|                            | No-Shit-Sherlock (GUI)   | [GitHub](https://github.com/airborne-commando/no-shit-sherlock)         | GUI wrapper for Sherlock                                                       | Inherits Sherlock’s limitations                                                     |
+|                            | Maigret                  | [GitHub](https://github.com/soxoj/maigret)                              | Finds username connections (Sherlock fork)                                     | Focuses on profile linkages                                                         |
+|                            | Maigret-Night (GUI)      | [GitHub](https://github.com/airborne-commando/maigret-night)            | GUI for Maigret                                                                | Same as Maigret CLI                                                                 |
+|                            | Holehe                   | [GitHub](https://github.com/megadose/holehe)                            | Checks email usage across sites                                                | Imgur false positives; CLI-based                                                    |
+| **Email Compromises**      | Hudson Rock Extractor    | [GitHub](https://github.com/airborne-commando/hudsonrock-search-extractor)| Manual email breach checker (Flask-based)                                     | Not automated; requires manual input                                                |
+| **Geolocation**            | Google Maps              | [maps.google.com](https://maps.google.com/)                             | Pinpoint locations/compare landmarks                                           | Public data only; no advanced OSINT features                                        |
+| **Generalized OSINT**      | OSINT Rocks              | [osint.rocks](https://osint.rocks/)                                     | Multi-tool: Hudson Rock, Holehe, GHunt (Gmail), phone/domain/username lookups  | Web-based; combines multiple tools in one interface                                 |
 
-- Google dorks
+---
 
-  - [Google-FU](https://github.com/airborne-commando/GoogleFU-improved) - uses Google to lookup info on someone or something; may get rate limited
+### **Key Insights & Pro Tips**
 
-- Bio-metric investigation
+1. **False Positives**:  
+   - **Sherlock/Holehe**: Imgur often returns misleading results—verify manually.  
+   - **Facecheck.ID**: Extracts links but doesn’t analyze images; cross-reference with [TinEye](https://tineye.com/).  
 
-  - [Facecheck.ID](https://github.com/vin3110/facecheck.id-results-extractor) - A tampermonkey script that is improved by me, bypasses payment requirements and gives you the links on where the images were orginated from.
+2. **GUI vs. CLI**:  
+   - **CLI Tools (Blackbird, Sherlock, Maigret)**: Faster but require technical familiarity.  
+   - **GUI Wrappers (Crow, No-Shit-Sherlock)**: Easier for beginners; same backend logic.  
 
-- Email + username investigations
-  - [Blackbird](https://github.com/p1ngul1n0/blackbird) - robust OSINT tool for rapid searches of user accounts by username or email across many platforms
+3. **Email Investigations**:  
+   - Combine **Holehe** (account detection) + **Hudson Rock Extractor** (breach data) for thorough checks; see [**Toolchain Recommendations**](#Toolchain-Recommendations).  
+   - For Gmail-specific OSINT, use **GHunt** (via OSINT Rocks).  
 
-  - A GUI editon of this tool named [crow](https://github.com/airborne-commando/crow)
+4. **Geolocation**:  
+   - Use **Google Maps Street View** to verify addresses/landmarks from other tools (e.g., ClustrMaps).  
 
-- [Sherlock](https://github.com/sherlock-project/sherlock) - similar to Blackbird but more robust and developed; caution with imgur red herrings
+5. **OPSEC Notes**:  
+   - **Rate Limits**: Tools like Google-FU may trigger blocks—use proxies/VPNs.  
+   - **Legality**: Avoid scraping private data (e.g., Facebook profiles) without consent.  
 
-  - [GUI for Sherlock](https://github.com/airborne-commando/no-shit-sherlock) - uses the CLI as a backend; commands are bascially the same.
+---
 
-- [maigret](https://github.com/soxoj/maigret) - find connections VIA a username; a fork of sherlock
+### **Toolchain Recommendations**
+- **Quick Username Search**: Crow (GUI) → Maigret (GUI) → Sherlock (CLI for depth).  
+- **Email Breaches**: LOLArchiver → Pentester → OSINT Rocks (Hudson Rock/Holehe) → Have I Been Pwned.  
+- **Images**: Facecheck.ID + TinEye/Google Reverse Image Search.  
 
-  - [A GUI Tool](https://github.com/airborne-commando/maigret-night) - uses the CLI as a backend; commands are going to basically be the same.
-
-
-- [Hudson rock API extractor](https://github.com/airborne-commando/hudsonrock-search-extractor) - for emails and usernames; not automated but uses Flask, checks email compromises
-
-- [holehe](https://github.com/megadose/holehe) - caution with imgur for false positives; similar to Sherlock
-
-- Geolocation
-
-  - [Google maps](https://maps.google.com/) - good to pinpoint where someone/thing is and compare landmarks from somewhere
-
-- Generalized Toolkit
-   - [OSINT rocks](https://osint.rocks/) - search hudson; holehe, gmail (ghunt) and skype. Can also use telephone number; domain and username lookups.
-
-- For additonal tools see [Curated lists](#curated-lists)
+For niche tools, refer to the [Curated Lists](#curated-lists) section.
     
 ## People search tools (in the states):
 
