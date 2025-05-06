@@ -312,6 +312,8 @@ An automtic tool that I've made for [pa voter services](https://github.com/airbo
 
 - [leakpeek](https://leakpeek.com/) - Can only use 5 searches for a free search, will hide most info but with some sluting and the tools listed you should get an idea of WHAT. also use tor if you can to bypass the search limit. Other than that if you really need more details on what was leaked you may need to buy a plan.
 
+- [lolarchiver](https://osint.lolarchiver.com/) - A paid service in which will provide you data breaches
+
 - [hashes](https://hashes.com/en/decrypt/hash) - Decrypt the hashes you find to get a password possibly linked to a database or username.
 
 - For additonal tools see [Curated lists](#curated-lists)
