@@ -249,7 +249,7 @@ An automtic tool that I've made for [pa voter services](https://github.com/airbo
 | **[LeakPeek](https://leakpeek.com/)**           | Email, Username    | Partial breach snippets (e.g., domains)  | 5 free searches; Tor bypass possible          | Paid plans for full data; obfuscates results.                             |
 | **[LOLArchiver](https://osint.lolarchiver.com/)**        | Email, Username    | Full breach databases (e.g., emails, passwords) | Paid service only                     | For OSINT professionals; curated high-value leaks.                        |
 | **[Hashes.com](Hashes.com)**         | Hash (MD5, SHA-1, etc.) | Decrypted passwords (if hash is cracked) | Free/paid cracking tools                      | Useful for reversing hashes from breaches.                               |
-| **[Icebreaker](https://github.com/airborne-commando/ice-breaker)**         | Local breach files | Parses/analyzes large breach datasets    | Python/EXE; works best for <1000GB files      | Demo script provided; use with caution (e.g., Facebook 533M leak).        |
+| **[Icebreaker](https://github.com/airborne-commando/ice-breaker)**         | Local breach files | Parses/analyzes large breach datasets    | Python/EXE; works best for <1000GB files      | Demo script provided; use with caution (e.g., [Facebook 533M leak](https://github.com/davidfegyver/facebook-533m)).        |
 
 ---
 
@@ -270,7 +270,7 @@ An automtic tool that I've made for [pa voter services](https://github.com/airbo
    - Avoid misuse: Some tools (e.g., Pentester) may expose sensitive data.  
 
 4. **For Large Datasets**:  
-   - [Icebreaker](https://github.com/airborne-commando/ice-breaker) + Facebook 533M script (no passwords) for bulk analysis.  
+   - [Icebreaker](https://github.com/airborne-commando/ice-breaker) + [Facebook 533M](https://github.com/davidfegyver/facebook-533m) (no passwords) for bulk analysis.  
 
 ---
 
