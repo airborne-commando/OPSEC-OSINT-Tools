@@ -315,6 +315,8 @@ An automtic tool that I've made for [pa voter services](https://github.com/airbo
 
 4. **Instagram**:
    - **Dumpor** bypasses some privacy settings
+   - **Quick Use** https://dumpor.io/v/USERNAME replace ``USERNAME`` with the user you are trying to see
+   - **Will not work with private accounts**
 
 ---
 
