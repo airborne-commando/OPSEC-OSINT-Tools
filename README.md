@@ -202,88 +202,32 @@ Anyhow, here are some tools I use for OPSEC/OSINT:
 
 **DISCLAIMER: Most of the email info found on these sites appear to be from a databrech from long ago; subjects on these sites can and possibly will still use their email found on these sites as people will rarely change email providers due to TFA + password managers unless if the email itself has been compromised in any way, shape, or form OR if they've changed emails due to harrasment, spam, etc etc.**
 
-1. [fast people search](https://www.fastpeoplesearch.com/)
- 
+---
 
-gives out | can lookup
------- | ------
-Age       | Name
-Address       | Phone
-Numbers       | Address
-email       |
+### **People Search Tools Comparison Matrix**  
 
-2. [that's them](https://thatsthem.com/)
+| **Tool**               | **Lookup By**                | **Returns**                              | **Notes**                                                                 |
+|------------------------|-----------------------------|------------------------------------------|---------------------------------------------------------------------------|
+| **[FastPeopleSearch](https://www.fastpeoplesearch.com/)**   | Name, Phone, Address        | Age, Address, Phone, Email               | Free; data may be outdated.                                               |
+| **[That's Them](https://thatsthem.com/)**        | Name, Email, IP, VIN, Phone | IP, Addresses, Phone, Email              | Aggregates data from Intelius/Spokeo; some paid results.                 |
+| **[Nuwber](https://nuwber.com/)**            | Name, Phone, Email, Address | DOB, Address, Email, Phone               | Detailed reports may require payment.                                    |
+| **[IDCrawl](https://idcrawl.com/)**           | Name, Username, Phone, Email | Names, Usernames, Phone, Email           | Focuses on usernames/social media.                                       |
+| **[PeekYou](https://www.peekyou.com/)**           | Name, Username, State       | Age, Social Media, Emails, Addresses     | Strong for social media profiling.                                       |
+| **[Webmii](https://webmii.com/)**            | First + Last Name           | Social Media, Search Results             | Lightweight; scans public web/social profiles.                           |
+| **[PublicRecords](https://www.publicrecords.onlinesearches.com/)**     | Name, Address, State        | Name, Address, Partial Phone             | Free directory; redirects to Intelius for paid details.                  |
+| **[ClustrMaps](https://clustrmaps.com/)**        | Name, Address               | Addresses, Residents, Property, IP Data  | Focuses on geolocation/demographics; may include ownership history.      |
 
-gives out | can lookup
------- | ------
-IP       | address
-addresses       | email
-Numbers       | IP
-email       | VIN
+---
 
-Note:
+### **Key Observations**:
+1. **Free vs. Paid**: Most tools offer basic info for free but upsell detailed reports (e.g., PublicRecords → Intelius).  
+2. **Data Sources**: Many pull from the same breaches/public records (emails/phones often outdated but still in use).  
+3. **Specializations**:  
+   - *Social Media*: PeekYou, IDCrawl.  
+   - *Geolocation*: ClustrMaps.  
+   - *Comprehensive*: FastPeopleSearch, Nuwber.  
 
-ThatsThem isn’t the actual source of the data; it’s just one of many landing pages that belong to larger companies like Intelius or Spokeo.
-
-3. [nuwber.com](https://nuwber.com/) 
-
-
-| gives out             |      Can lookup        |
-| :-------------------- | :--------------------: | 
-| DOB                   |          Name          |
-| Address               |         Phone          |
-| email                 |         Email          |
-| Phone Number          |         Address        |
-
-
-4. [ID Craw](https://idcrawl.com/) 
-
-gives out | can lookup
------- | ------
-names  | names
-username       | username
-phone       | phone
-email       | email
-
-5. [Peekyou](https://www.peekyou.com/) - search by first last name and username
-
-Gives out info such as: 
-
-gives out | can lookup
------- | ------
-age       | First and last name + state
-social media's       | username
-emails       |
-addresses       |
-
-6. [webmii](https://webmii.com/) - search by first last name
-
-gives out | can lookup
------- | ------
-Social       | First and last name
-search results       |
-
-7. [publicrecords](https://www.publicrecords.onlinesearches.com/) - use this with fastpeople search or other people search engines
-
-gives out | can lookup
------- | ------
-Name       | First and last name
-Address       | Address, city, state
-Partial phone number       |
-
-
-**DISCLAIMER: OnlineSearches powered by Intelius® offers a free people search directory that includes basic information, such as name, address, and partial phone numbers. In performing a search, you may ultimately be directed to Intelius.com where additional information is offered for a fee.**
-
-8. [clustrmaps](https://clustrmaps.com/)
-
-| **What You Can Look Up**  | **What It Spits Out**  |
-|--------------------------|-----------------------|
-| Name and Address        | **Addresses & Locations** – Approximate locations of people based on public records. |
-|                         | **Names & Residents** – Lists people who may be associated with a particular address. |
-|                         | **Property Details** – Ownership history and home value estimates. |
-|                         | **IP Geolocation Data** – Sometimes used for mapping visitor locations on websites. |
-|                         | **Demographic Data** – May include age, possible relatives, and historical records. |
-
+**Disclaimer**: Accuracy varies; users rarely update emails unless compromised. Use ethically!
 
 - For additonal tools see [Curated lists](#curated-lists)
 
