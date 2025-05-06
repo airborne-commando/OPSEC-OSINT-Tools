@@ -208,8 +208,6 @@ Anyhow, here are some tools I use for OPSEC/OSINT:
 
 ---
 
-### **People Search Tools Comparison Matrix**  
-
 | **Tool**               | **Lookup By**                | **Returns**                              | **Notes**                                                                 |
 |------------------------|-----------------------------|------------------------------------------|---------------------------------------------------------------------------|
 | **[FastPeopleSearch](https://www.fastpeoplesearch.com/)**   | Name, Phone, Address        | Age, Address, Phone, Email               | Free; data may be outdated.                                               |
@@ -282,42 +280,50 @@ An automtic tool that I've made for [pa voter services](https://github.com/airbo
 - **Curated Lists**: Check [Curated Lists](#curated-lists) for more niche tools.  
 - **Demo Scripts**: [Icebreaker](https://github.com/airborne-commando/ice-breaker) includes a demo for testing.  
 
+## social media
+---
 
-## Social Media:
+| **Platform**  | **Tool**               | **URL**                              | **Functionality**                          | **Limitations/Notes**                     |
+|--------------|-----------------------|--------------------------------------|------------------------------------------|------------------------------------------|
+| **General**  | Social Searcher       | [social-searcher.com](https://www.social-searcher.com/) | Searches multiple platforms at once | Free tier has limited searches |
+| **Snapchat** | Snapchat Map          | [map.snapchat.com](https://map.snapchat.com/) | View public Snapchat location stories | Requires Snapchat account |
+| **Instagram**| Dumpor               | [dumpor.com](https://dumpor.com/)    | View profiles/stories anonymously      | May have rate limits |
+| **Twitter**  | Sotwe                | [sotwe.com](https://www.sotwe.com/)  | Anonymous Twitter browsing             | No login required |
+|              | Xcancel              | [xcancel.com](https://xcancel.com/)  | Alternative Twitter viewer             | Lightweight interface |
+|              | Nitter               | [nitter.net](https://nitter.net/)    | Privacy-focused Twitter front-end      | Avoids Twitter tracking |
+| **Facebook** | Facebook Search      | [facebook.com/search](https://www.facebook.com/search/) | Native Facebook search tool | Limited without login |
+|              | WhoPostedWhat       | [whopostedwhat.com](https://www.whopostedwhat.com/) | Search Facebook posts by date/keyword | Requires precise queries |
 
-- SMSEs
+---
 
-    - [Social Searcher](https://www.social-searcher.com/)
+### **Pro Tips & Workarounds**
 
-- Snapchat map
+1. **Facebook Private Accounts**:
+   - Method 1: Create a fake account (difficult due to Facebook's verification)
+   - Method 2: Use browser's *Inspect Element* → *Device Simulator* (or mobile phone) + direct URL
+   - Always try logged out or in private mode first
 
-   - [Snapchat Map](https://map.snapchat.com/) - need an account for that
+2. **LinkedIn Limitations**:
+   - If profiles don't load:
+     - Wait 1-2 minutes (cookie/IP rotation)
+     - Create a basic account (avoid looking suspicious)
+   - HWID/IP tracking may block repeated searches
 
+3. **Twitter Alternatives**:
+   - Use **Nitter**/**Xcancel** to avoid rate limits/tracking
+   - **Sotwe** work without login
 
-- Instagram
-  - [Dumpor](https://dumpor.com/) - another instagram viewer
+4. **Instagram**:
+   - **Dumpor** bypasses some privacy settings
 
+---
 
-- Twitter
+### **Key Takeaways**
+- **Anonymity**: Tools like Nitter/Dumpor avoid platform tracking
+- **Mobile Tricks**: Simulating mobile devices often works better for restricted content
+- **Persistence**: Some platforms (LinkedIn/Facebook) require patience or account creation
 
-  - [sotwe](https://www.sotwe.com/) - an anon twitter browser that actually works.
-  - [xcancel](https://xcancel.com/) - Another one.
-  - [Nitter](https://nitter.net/) - Twitter alternative front-end
- 
-- Facebook
-  - [Facebook Search](https://www.facebook.com/search/)
-  - [Facebook post search](https://www.whopostedwhat.com/) 
-
-
-  Pro-tips for social media:
-  Facebook:
-  For private facebook accounts, you can either use a fake facebook account (difficult due to Zucc's anti-spoofing features) OR use inspect element and simulate a mobile device (or use an actual phone), so long as you have a link to that account 
-  or POST. (be sure you are logged out or in Private mode).
-
-  Linkedin:
-  Sometimes linkedin will not give you the account, to combat this you'll need to either create an account or wait a minute (cookies probably, could be IP+HW ID's beats me)
-
-- For additonal tools see the Curated lists below
+- For additonal tools see the Curated Lists section below.
 
 
 ## Curated lists
