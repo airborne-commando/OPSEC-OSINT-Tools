@@ -103,28 +103,30 @@ I'd probably recommend using something other than cock.li; and use a different e
 
 free to check the status of cock.li wth the provided site here https://cock.li/
 
+## Virtual Machines
+
 - Virtualization tools
 
   - [Libvirt](https://virt-manager.org/) For linux users, pretty advanced
   - [vmbox](https://www.virtualbox.org/) for various platforms
 
-- anonymity tools
+## anonymity tools
 
   - [Tor](https://www.torproject.org/)
   - [Mullvad](https://mullvad.net/en)
   - [tailsOS](https://tails.net/) Runs inside a USB stick.
 
-- Currency
+## Currency
 
   - [XMR/Monero](https://www.getmonero.org/)
 
-- Disk Destruction
+## Disk Destruction
 
   - [dban, hdd only](https://dban.org/)
   - [wipe and other types](https://wiki.archlinux.org/title/Securely_wipe_disk#Overwrite_the_target)
   - [nuke](https://gist.github.com/airborne-commando/6a690bd0644a9f1d76bc8c585d9ee969) can be used on both NVME/SSD (sec/unsec) and HDD
 
-People search engines:
+## People search engines:
 
 **OPT OUT**
 
