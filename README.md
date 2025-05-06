@@ -3,7 +3,7 @@
 I am in no way responsible for any abuse, misuse, or any questionable actions in which someone uses these tools or methods below. OSINT is an information-gathering technique that can be used by ANYBODY and on ANYBODY!
 Also I'd like for anyone to be aware that some of the domains (such as exposed.lol) may be expired, if so check the curated list or the other links listed.
 
-**Any suggesttions**
+**Any Suggestions**
 
 Place them under Issues
 
