@@ -27,7 +27,7 @@ A list of OSINT/OPSEC tools I made, forked, and/or use. First, let's talk about 
    - [2016 Airstrike Coordination](#in-the-year-2016-a-basket-weaving-image-board-used-osint-to-pay-some-supposed-terrorist-a-vist-from-a-govt-in-russia-resulting-in-airstrikes)
    - [2017 Shia LaBeouf Protest](#in-2017-shia-labeouf-had-a-protest-due-to-trumps-election-this-resulted-in-a-basket-weaving-image-board-using-osint-and-sky-patterns-to-figure-out-where-a-flag-is)
 6. [Tools](#tools)
-      - [Toolchain-Recommendations](#toolchain-recommendations)
+      - [Toolchain Recommendations](#toolchain-recommendations)
 8. [People search tools (in the states)](#people-search-tools-in-the-states)
 9. [Grey literature](#grey-literature)
 10. [Breached Data](#breached-data)
