@@ -202,88 +202,32 @@ Anyhow, here are some tools I use for OPSEC/OSINT:
 
 **DISCLAIMER: Most of the email info found on these sites appear to be from a databrech from long ago; subjects on these sites can and possibly will still use their email found on these sites as people will rarely change email providers due to TFA + password managers unless if the email itself has been compromised in any way, shape, or form OR if they've changed emails due to harrasment, spam, etc etc.**
 
-1. [fast people search](https://www.fastpeoplesearch.com/)
- 
+---
 
-gives out | can lookup
------- | ------
-Age       | Name
-Address       | Phone
-Numbers       | Address
-email       |
+### **People Search Tools Comparison Matrix**  
 
-2. [that's them](https://thatsthem.com/)
+| **Tool**               | **Lookup By**                | **Returns**                              | **Notes**                                                                 |
+|------------------------|-----------------------------|------------------------------------------|---------------------------------------------------------------------------|
+| **[FastPeopleSearch](https://www.fastpeoplesearch.com/)**   | Name, Phone, Address        | Age, Address, Phone, Email               | Free; data may be outdated.                                               |
+| **[That's Them](https://thatsthem.com/)**        | Name, Email, IP, VIN, Phone | IP, Addresses, Phone, Email              | Aggregates data from Intelius/Spokeo; some paid results.                 |
+| **[Nuwber](https://nuwber.com/)**            | Name, Phone, Email, Address | DOB, Address, Email, Phone               | Detailed reports may require payment.                                    |
+| **[IDCrawl](https://idcrawl.com/)**           | Name, Username, Phone, Email | Names, Usernames, Phone, Email           | Focuses on usernames/social media.                                       |
+| **[PeekYou](https://www.peekyou.com/)**           | Name, Username, State       | Age, Social Media, Emails, Addresses     | Strong for social media profiling.                                       |
+| **[Webmii](https://webmii.com/)**            | First + Last Name           | Social Media, Search Results             | Lightweight; scans public web/social profiles.                           |
+| **[PublicRecords](https://www.publicrecords.onlinesearches.com/)**     | Name, Address, State        | Name, Address, Partial Phone             | Free directory; redirects to Intelius for paid details.                  |
+| **[ClustrMaps](https://clustrmaps.com/)**        | Name, Address               | Addresses, Residents, Property, IP Data  | Focuses on geolocation/demographics; may include ownership history.      |
 
-gives out | can lookup
------- | ------
-IP       | address
-addresses       | email
-Numbers       | IP
-email       | VIN
+---
 
-Note:
+### **Key Observations**:
+1. **Free vs. Paid**: Most tools offer basic info for free but upsell detailed reports (e.g., PublicRecords → Intelius).  
+2. **Data Sources**: Many pull from the same breaches/public records (emails/phones often outdated but still in use).  
+3. **Specializations**:  
+   - *Social Media*: PeekYou, IDCrawl.  
+   - *Geolocation*: ClustrMaps.  
+   - *Comprehensive*: FastPeopleSearch, Nuwber.  
 
-ThatsThem isn’t the actual source of the data; it’s just one of many landing pages that belong to larger companies like Intelius or Spokeo.
-
-3. [nuwber.com](https://nuwber.com/) 
-
-
-| gives out             |      Can lookup        |
-| :-------------------- | :--------------------: | 
-| DOB                   |          Name          |
-| Address               |         Phone          |
-| email                 |         Email          |
-| Phone Number          |         Address        |
-
-
-4. [ID Craw](https://idcrawl.com/) 
-
-gives out | can lookup
------- | ------
-names  | names
-username       | username
-phone       | phone
-email       | email
-
-5. [Peekyou](https://www.peekyou.com/) - search by first last name and username
-
-Gives out info such as: 
-
-gives out | can lookup
------- | ------
-age       | First and last name + state
-social media's       | username
-emails       |
-addresses       |
-
-6. [webmii](https://webmii.com/) - search by first last name
-
-gives out | can lookup
------- | ------
-Social       | First and last name
-search results       |
-
-7. [publicrecords](https://www.publicrecords.onlinesearches.com/) - use this with fastpeople search or other people search engines
-
-gives out | can lookup
------- | ------
-Name       | First and last name
-Address       | Address, city, state
-Partial phone number       |
-
-
-**DISCLAIMER: OnlineSearches powered by Intelius® offers a free people search directory that includes basic information, such as name, address, and partial phone numbers. In performing a search, you may ultimately be directed to Intelius.com where additional information is offered for a fee.**
-
-8. [clustrmaps](https://clustrmaps.com/)
-
-| **What You Can Look Up**  | **What It Spits Out**  |
-|--------------------------|-----------------------|
-| Name and Address        | **Addresses & Locations** – Approximate locations of people based on public records. |
-|                         | **Names & Residents** – Lists people who may be associated with a particular address. |
-|                         | **Property Details** – Ownership history and home value estimates. |
-|                         | **IP Geolocation Data** – Sometimes used for mapping visitor locations on websites. |
-|                         | **Demographic Data** – May include age, possible relatives, and historical records. |
-
+**Disclaimer**: Accuracy varies; users rarely update emails unless compromised. Use ethically!
 
 - For additonal tools see [Curated lists](#curated-lists)
 
@@ -294,34 +238,46 @@ Use this site; [do not register](https://vote.gov/register), check a voter regis
 An automtic tool that I've made for [pa voter services](https://github.com/airborne-commando/voter-reg-status). Feel free to fork for other states.
 
 ## Breached Data:
+---
 
-- [Have I Been Pwned](https://haveibeenpwned.com/) - Check if an email has been compromised in a data breach.
+| **Tool**               | **Lookup By**       | **Returns**                              | **Limitations/Costs**                          | **Notes**                                                                 |
+|------------------------|--------------------|------------------------------------------|-----------------------------------------------|---------------------------------------------------------------------------|
+| **[Have I Been Pwned](https://haveibeenpwned.com/)**  | Email, Phone       | Breach names, dates, compromised data    | Free; no passwords/raw data                   | Trusted source; alerts for new breaches.                                  |
+| **[BreachDirectory](https://breachdirectory.org/)**    | Email, Username    | Partial password hashes (SHA-1, first 4 chars), length | Free; no full passwords            | Useful for credential stuffing checks.                                    |
+| **[Pentester](https://pentester.com/)**          | Email, Username    | Full breach details (more than HIBP)     | Free; no Tor needed                           | Unofficial but extensive; may include sensitive data.                    |
+| **[Breach.vip](Breach.vip)**         | Email, Username    | Minecraft-focused leaks (usernames, IPs) | Free; requires login                          | Niche for gaming accounts; "memey" but functional.                        |
+| **[LeakPeek](https://leakpeek.com/)**           | Email, Username    | Partial breach snippets (e.g., domains)  | 5 free searches; Tor bypass possible          | Paid plans for full data; obfuscates results.                             |
+| **[LOLArchiver](https://osint.lolarchiver.com/)**        | Email, Username    | Full breach databases (e.g., emails, passwords) | Paid service only                     | For OSINT professionals; curated high-value leaks.                        |
+| **[Hashes.com](Hashes.com)**         | Hash (MD5, SHA-1, etc.) | Decrypted passwords (if hash is cracked) | Free/paid cracking tools                      | Useful for reversing hashes from breaches.                               |
+| **[Icebreaker](https://github.com/airborne-commando/ice-breaker)**         | Local breach files | Parses/analyzes large breach datasets    | Python/EXE; works best for <1000GB files      | Demo script provided; use with caution (e.g., Facebook 533M leak).        |
 
-- [Breach Directory](https://breachdirectory.org/) - Check email and usernames for a breach; will return partial password hashes
+---
 
-    - The following information is imported into the BreachDirectory database:
-    - First 4 characters of each password.
-    - SHA-1 hash of each password.
-    - Length of each password.
-    - Usernames.
-    - Emails.
+### **Key Takeaways**:  
+1. **Free vs. Paid**:  
+   - *Free*: HIBP, BreachDirectory, Pentester, Hashes.com.  
+   - *Limited Free*: LeakPeek (5 searches), Breach.vip (login required).  
+   - *Paid*: LOLArchiver, LeakPeek plans.  
 
--  [pentester](https://pentester.com/) - same as exposed almost but has more info for free; doesn't need the use of TOR. REALLY GOOD!
+2. **Specializations**:  
+   - *Password Recovery*: Hashes.com (decrypt hashes), BreachDirectory (partial hashes).  
+   - *Gaming Leaks*: Breach.vip (Minecraft).  
+   - *Local Analysis*: Icebreaker (Python tool for large datasets).  
 
--  [breachvip](https://breach.vip/) - needs a login to perform searches; breach.vip is the largest Minecraft DB search engine. We aim to provide a means to assess what data has been leaked in said breaches, at no cost to the public. Enjoy Searching. sounds memey
+3. **Ethical/Legal Notes**:  
+   - Many tools provide **partial data** (e.g., first 4 chars of passwords) to comply with ethics.  
+   - Use **Tor** with LeakPeek to bypass search limits.  
+   - Avoid misuse: Some tools (e.g., Pentester) may expose sensitive data.  
 
-- [leakpeek](https://leakpeek.com/) - Can only use 5 searches for a free search, will hide most info but with some sluting and the tools listed you should get an idea of WHAT. also use tor if you can to bypass the search limit. Other than that if you really need more details on what was leaked you may need to buy a plan.
+4. **For Large Datasets**:  
+   - [Icebreaker](https://github.com/airborne-commando/ice-breaker) + Facebook 533M script (no passwords) for bulk analysis.  
 
-- [lolarchiver](https://osint.lolarchiver.com/) - A paid service in which will provide you data breaches
+---
 
-- [hashes](https://hashes.com/en/decrypt/hash) - Decrypt the hashes you find to get a password possibly linked to a database or username.
+### **Additional Resources**:  
+- **Curated Lists**: Check [Curated Lists](#curated-lists) for more niche tools.  
+- **Demo Scripts**: [Icebreaker](https://github.com/airborne-commando/ice-breaker) includes a demo for testing.  
 
-- For additonal tools see [Curated lists](#curated-lists)
-
-If you happen to have a breached database on your person
-
-- [Icebreaker](https://github.com/airborne-commando/ice-breaker) - uses python and is good for databases that are less than 1000GB; feel free to try it with the demo python script supplied. Comes with a windows EXE for both.
-   - [facebook-533m](https://github.com/davidfegyver/facebook-533m) - facebook-533m raidforms leak; Doesn't Contain Any Passwords. read the Disclaimer on that repo. Use the python script above.
 
 ## Social Media:
 
