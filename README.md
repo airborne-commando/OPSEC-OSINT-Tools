@@ -58,36 +58,52 @@ OPSEC supplements other security disciplines rather than replacing them.
 ### How to OPSEC:
 
 * **Use services that can conceal your identity:**
-  - [Telegram](https://telegram.org/) is normie-tier as it isn't encrypted (Telegram does not use end-to-end) by default and requires a phone number. Only encryption you'll get is the secret chat option which; other than that it's all stored in their servers.
-  - Read more about this [here on Telegram’s Approach to Encryption](https://www.protectstar.com/en/blog/telegram-encryption). Since Telegram does not use end-to-end encryption by default, it could theoretically hand over the content of messages to law enforcement. OH Wait it [just did](https://www.cnn.com/2024/09/23/tech/telegram-ceo-durov-arrest-user-data-changes/index.html).
+---
 
-  - [Simplex](https://simplex.chat/) [isn't too bad](https://github.com/simplex-chat/simplex-chat?tab=readme-ov-file#simplex-approach-to-privacy-and-security). 
+| **Category**               | **Tool/Technique**       | **Description**                                                                 | **Pros**                                      | **Cons/Limitations**                          |
+|---------------------------|-------------------------|-------------------------------------------------------------------------------|---------------------------------------------|---------------------------------------------|
+| **Encrypted Messaging**   | [Telegram](https://telegram.org/)                | Cloud-based messaging with optional E2E ("Secret Chats")                      | Widely adopted, feature-rich               | Not E2E by default; stores data on servers; requires phone number |
+|                            | [Simplex](https://simplex.chat/)                 | No user identifiers (not even random numbers)                                 | Maximum metadata privacy                   | Less user-friendly; smaller network         |
+|                            | [Signal](https://signal.org/download/)                  | E2E encrypted by default; minimal metadata retention                         | Gold standard for privacy; court-resistant | Requires phone number                       |
+| **Anonymity Networks**    | [Tor](https://www.torproject.org/)                     | Routes traffic through encrypted nodes to hide IP                             | Free; robust against tracking              | Slow; frequent CAPTCHAs                     |
+|                            | [Mullvad VPN](https://mullvad.net/en)             | No-logs VPN accepting Monero (XMR) payments                                   | Strong privacy; anonymous payment options  | VPNs can’t fix poor OPSEC habits            |
+| **Cryptocurrency**        | [Monero (XMR)](https://www.getmonero.org/)            | Untraceable cryptocurrency                                                   | Private transactions                       | Requires mining/local node for full anonymity |
+| **Identity Management**   | Unique Usernames        | Use different credentials per site                                           | Prevents correlation attacks               | Hard to manage without a password manager   |
+|                            | Word Spinners           | Paraphrase text to avoid detection                                           | Evades plagiarism/identity linking        | May sound unnatural                         |
+|                            | AI-Generated Faces      | Fake profile pictures (e.g., ThisPersonDoesNotExist.com)                     | Hides real identity                        | Risk of reverse image search                |
+| **Self-OSINT**           | Opt-Out Guides          | Remove personal data from people-search sites                                | Reduces digital footprint                 | Time-consuming; not all sites honor requests |
+| **OPSEC Resources**      | Bad OPSEC Examples      | [List of pitfalls](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/badopsec.md) | Learn from others’ mistakes               | N/A                                        |
+|                            | Good OPSEC Practices    | [Guidelines](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/good-opsec.md) | Actionable tips                          | Requires discipline                         |
+| **Tool Lists**           | OPSEC Tools             | [Curated list](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/opsec.md) | Comprehensive resource                   | May need updates                            |
 
-    - Unlike any other existing messaging platform, SimpleX has no identifiers assigned to the users - not even random numbers. This protects the privacy of who are you communicating with, hiding it from SimpleX platform servers and from any observers.
+---
 
-  - [Signal](https://signal.org/download/) is encrypted by default but requires a phone number; however signal can't give anything out even by court order [because of state of the art encryption even on user accounts and phone numbers](https://signal.org/bigbrother/cd-california-grand-jury/). Meaning when you delete an account on signal and they Subpoena information about you or your account; they'll get basically squat. 
+### **Key Takeaways**  
+1. **Messaging**:  
+   - **Signal** > **Simplex** > **Telegram** for privacy.  
+   - Remember: E2E ≠ total anonymity (metadata leaks matter).  
 
-And remember just because something is end to end doesn't mean you cannot get eavesdropped.
+2. **Anonymity**:  
+   - **Tor** + **Mullvad VPN** + **XMR** = layered protection.  
+   - Avoid logging into personal accounts while using these tools.
+   - Pitfalls: you need to use TOR and Mullvad separately for maximum Anonymity, use a [Virtual Machine](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/opsec.md).
 
-* **Tor/VPN/XMR:**
-  - [Tor](https://www.torproject.org/) isn't bad but will get rate limited by CAPTCHA.
-  - [Mullvad](https://mullvad.net/en) is a good VPN (Virtual Private Network) as it accepts [XMR (Monero)](https://www.getmonero.org/), which can't be traced back to you if you mine XMR with your own node (machine/device/computer). Note: VPNs are useless if you have bad OPSEC, same with Tor.
-  - Here is a list of bad [opsec](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/badopsec.md) to give you an idea of what not to do with tor and other services (such as a VPN).
+3. **Identity**:  
+   - **Unique usernames** + **AI faces** + **word spinning** = harder to trace.  
 
-* **Usernames/credentials/Identification:**
-  - Use different usernames and credentials on different websites.
-  - Use a word spinner to change sentences for identity concealment.
-  - Generate a face or use a non-identifiable profile picture.
-  - Avoid making enemies online and don't be noticeable (i.e., don't be a turd).
-  - Regularly OSINT yourself to check your online presence.
+4. **Self-Audit**:  
+   - Regularly **opt out** of data brokers and **OSINT yourself**.  
 
-To start you SHOULD OSINT yourself and see if you can remove yourself within the list of these sites:
-Here's a curated list to [opt out](https://github.com/airborne-commando/OSINT-Tools?#curated-lists)
-And here's some [good opsec](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/good-opsec.md).
+5. **OPSEC Mindset**:  
+   - Follow **[good OPSEC](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/good-opsec.md)** and avoid **[bad habits](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/badopsec.md)**.  
 
-- Opsec tools
+--- 
 
-  - List of opsec tools will be ***[here](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/opsec.md)***
+### **Pro Tips**  
+- **Signal Workaround**: Use a burner phone number (e.g., Google Voice) for registration.    
+- **Monero Mining**: Run a local node to avoid centralized exchanges tracing purchases.  
+
+For full tool details, see the **[OPSEC Tools List](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/opsec.md)**.
 
 ## Open Source Intelligence (OSINT)
 
