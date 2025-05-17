@@ -135,6 +135,8 @@ free to check the status of cock.li wth the provided site here https://cock.li/
 ## Misc Opsec
 
 [privacytools](https://www.privacytools.io/), a site containing software and guides for enhanced privacy
+
+
 [crypt.fyi](https://www.crypt.fyi/new) crypt.fyi is a secure, open-source, zero-knowledge data-sharing platform that enables you to share sensitive information safely with post-quantum end-to-end encryption. Whether it's passwords, API keys, or confidential messages, crypt.fyi ensures your data remains private, never accessible to our servers, and automatically disappears after being accessed.
 
 On a tangent; sometimes the best opsec is to not interact with the target you're osinting on, for example:
