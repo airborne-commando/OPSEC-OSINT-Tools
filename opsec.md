@@ -139,6 +139,8 @@ free to check the status of cock.li wth the provided site here https://cock.li/
 
 [crypt.fyi](https://www.crypt.fyi/new) crypt.fyi is a secure, open-source, zero-knowledge data-sharing platform that enables you to share sensitive information safely with post-quantum end-to-end encryption. Whether it's passwords, API keys, or confidential messages, crypt.fyi ensures your data remains private, never accessible to our servers, and automatically disappears after being accessed.
 
+[one-time-pad-truly-random](https://github.com/airborne-commando/one-time-pad-truly-random) Python demonstration of the historical one time pad encryption/decryption in modulo 26. Added true randomness inside the ciphertext with python for faster execution.
+
 On a tangent; sometimes the best opsec is to not interact with the target you're osinting on, for example:
 
 Suzie is thinking Stu is cheating on her with Lexi, so she confronted her with this and more evidence and as a consequence Stu stopped his activity.
