@@ -141,6 +141,8 @@ free to check the status of cock.li wth the provided site here https://cock.li/
 
 [one-time-pad-truly-random](https://github.com/airborne-commando/one-time-pad-truly-random) Python demonstration of the historical one time pad encryption/decryption in modulo 26. Added true randomness inside the ciphertext with python for faster execution. Feel free to use with [crypt.fyi](https://www.crypt.fyi/new)
 
+[password-generator, lastpass](https://www.lastpass.com/features/password-generator) an online password generator; wouldn't make an account however.
+
 On a tangent; sometimes the best opsec is to not interact with the target you're osinting on, for example:
 
 Suzie is thinking Stu is cheating on her with Lexi, so she confronted her with this and more evidence and as a consequence Stu stopped his activity.
