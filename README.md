@@ -199,7 +199,7 @@ Thus bad opsec.
 
 1. **False Positives**:  
    - **Sherlock/Holehe**: Imgur often returns misleading results—verify manually.  
-   - **Facecheck.ID**: Extracts links but doesn’t analyze images; cross-reference with [Pimeyes](https://pimeyes.com/en) or others listed on 6.  
+   - **Facecheck.ID**: Extracts links but doesn’t analyze images; cross-reference with [Pimeyes (10 searches)](https://pimeyes.com/en) or others listed on 6.  
 
 2. **GUI vs. CLI**:  
    - **CLI Tools (Blackbird, Sherlock, Maigret)**: Faster but require technical familiarity.  
@@ -218,8 +218,7 @@ Thus bad opsec.
 
 6. **Biometric Analysis**: You can supplement your biometric analytics with these tools by extracting the results from:
  - faceonlive.com (3 or 4 search limit, may need TOR)
- - lenso.ai
- - or pimeyes(10 searches) after a search, 
+ - lenso.ai 
 
 After that open image in new tab and save or drag it into facecheck.id and compare (as mentioned earlier on step 1)
 
