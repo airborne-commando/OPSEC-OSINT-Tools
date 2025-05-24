@@ -221,7 +221,7 @@ Thus bad opsec.
  - lenso.ai
  - or pimeyes(10 searches) after a search, 
 
-After that open image in new tab and save or drag it into facecheck.id and compare.
+After that open image in new tab and save or drag it into facecheck.id and compare (as mentioned earlier on step 1)
 
 ---
 
