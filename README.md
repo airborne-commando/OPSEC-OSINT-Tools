@@ -227,8 +227,8 @@ After that open image in new tab and save or drag it into facecheck.id and compa
 
 ### **Toolchain Recommendations**
 - **Quick Username Search**: Crow (GUI for indepth) → Maigret (GUI for indepth) → Sherlock (CLI for depth).  
-- **Email Breaches**: LOLArchiver → Pentester → OSINT Rocks (Hudson Rock/Holehe) → Have I Been Pwned.  
-- **Images**: Facecheck.ID + TinEye/Google Reverse Image Search.  
+- **Email Breaches**: Have I Been Pwned → Pentester →  OSINT Rocks (Hudson Rock/Holehe) → LOLArchiver.  
+- **Images**: Facecheck.ID → TinEye → lenso.ai → faceonlive → Google Reverse Image Search.  
 
 For niche tools, refer to the [Curated Lists](#curated-lists) section.
     
