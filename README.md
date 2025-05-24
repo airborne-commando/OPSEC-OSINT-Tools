@@ -199,7 +199,7 @@ Thus bad opsec.
 
 1. **False Positives**:  
    - **Sherlock/Holehe**: Imgur often returns misleading results—verify manually.  
-   - **Facecheck.ID**: Extracts links but doesn’t analyze images; cross-reference with [TinEye](https://tineye.com/).  
+   - **Facecheck.ID**: Extracts links but doesn’t analyze images; cross-reference with [Pimeyes](https://pimeyes.com/en) or others listed on 6.  
 
 2. **GUI vs. CLI**:  
    - **CLI Tools (Blackbird, Sherlock, Maigret)**: Faster but require technical familiarity.  
@@ -228,7 +228,7 @@ After that open image in new tab and save or drag it into facecheck.id and compa
 ### **Toolchain Recommendations**
 - **Quick Username Search**: Crow (GUI for indepth) → Maigret (GUI for indepth) → Sherlock (CLI for depth).  
 - **Email Breaches**: Have I Been Pwned → Pentester →  OSINT Rocks (Hudson Rock/Holehe) → LOLArchiver.  
-- **Images**: Facecheck.ID → TinEye → lenso.ai → faceonlive → Google Reverse Image Search.  
+- **Images**: Facecheck.ID → Pimeyes → lenso.ai → faceonlive → Google Reverse Image Search.  
 
 For niche tools, refer to the [Curated Lists](#curated-lists) section.
     
