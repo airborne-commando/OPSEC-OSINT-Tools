@@ -217,9 +217,9 @@ Thus bad opsec.
    - **Legality**: Avoid scraping private data (e.g., Facebook profiles) without consent.  
 
 6. **Biometric Analysis**: You can supplement your biometric analytics with these tools by extracting the results from:
- - faceonlive.com
- -  lenso.ai
- -   or pimeyes(10 searches) after a search, 
+ - faceonlive.com (3 or 4 search limit, may need TOR)
+ - lenso.ai
+ - or pimeyes(10 searches) after a search, 
 
 After that open image in new tab and save or drag it into facecheck.id and compare.
 
