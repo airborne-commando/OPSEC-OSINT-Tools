@@ -187,9 +187,9 @@ These methods ensure data cannot be recovered by conventional means.
 - Consider professional services for sensitive data
 
 
---
+---
 # Bonus! USBs!:
---
+---
 
 # USB Flash Drive Physical Destruction Guide
 
