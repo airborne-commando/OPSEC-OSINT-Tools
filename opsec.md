@@ -85,7 +85,7 @@ See dedicated [TailsOS File Transfer Guide](#secure-file-transfer-methods-in-tai
 - [User/Email Generator](https://github.com/airborne-commando/user-email-gen) - For ProtonMail/cock.li
 - [Temp-Mail](https://temp-mail.org/en/) - Temporary email
 - [Username Generator](https://jimpix.co.uk/words/username-generator.php)
-- [cock.li](https://cock.li/)
+- [cock.li](https://cock.li/register.php)
 
 ### Data Broker Opt-Out
 - [Big Ass Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List)
