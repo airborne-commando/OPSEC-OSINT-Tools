@@ -86,7 +86,7 @@ OPSEC supplements other security disciplines rather than replacing them.
 2. **Anonymity**:  
    - **Tor** + **Mullvad VPN** + **XMR** = layered protection.  
    - Avoid logging into personal accounts while using these tools.
-   - Pitfalls: you need to use TOR and Mullvad separately for maximum Anonymity, use a [Virtual Machine](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/opsec.md#virtual-machines).
+   - Pitfalls: you need to use TOR and Mullvad separately for maximum Anonymity, use a [Virtual Machine](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/opsec.md#virtualization).
 
 3. **Identity**:  
    - **Unique usernames** + **AI faces** + **word spinning** = harder to trace.  
