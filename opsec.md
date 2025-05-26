@@ -44,7 +44,7 @@ A comprehensive guide to operational security tools and techniques.
 - [IOPaint](https://github.com/Sanster/IOPaint) - Local CPU-based inpainting
   - [Linux Launcher](https://github.com/airborne-commando/iopaint-launcher/)
 
-### Metadata Tools
+### Meta Tools
 - [ExifTool](https://exiftool.org/) - Metadata editing/stripping
   - Installation:
     ```
@@ -101,7 +101,7 @@ See dedicated [TailsOS File Transfer Guide](#secure-file-transfer-methods-in-tai
 - [DBAN](https://dban.org/) - HDD wiping
 - [Arch Linux Wipe Guide](https://wiki.archlinux.org/title/Securely_wipe_disk)
 - [NVMe/SSD/HDD Nuke Script](https://gist.github.com/airborne-commando/6a690bd0644a9f1d76bc8c585d9ee969)
-- [physical destruction](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/patch/physical-destruction.md)
+- [physical destruction](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/physical-destruction.md)
 
 ---
 
