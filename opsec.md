@@ -116,6 +116,84 @@ free to check the status of cock.li wth the provided site here https://cock.li/
   - [Mullvad](https://mullvad.net/en)
   - [tailsOS](https://tails.net/) Runs inside a USB stick.
 
+
+
+### Secure Methods to Transfer Files in TailsOS
+
+**TailsOS** is designed for privacy and anonymity, so transferring files securely requires careful attention to avoid compromising your security or anonymity. Here are the most secure and recommended methods:
+
+---
+
+**1. Using Encrypted USB Drives**
+
+- Transfer files from your main OS to an encrypted USB stick.
+- Boot into Tails, unlock your Persistent Storage, and mount the encrypted USB to access the files.
+- This method ensures files are protected by encryption during transfer and storage[3][5][7].
+
+---
+
+**2. OnionShare (Built-In Application)**
+
+- Tails includes OnionShare, which allows you to share files anonymously over the Tor network.
+- Open OnionShare from the Applications menu, select the files you want to share, and it will generate an onion link.
+- The recipient can use this link (within Tails or any Tor-enabled system) to download the files securely and anonymously[6].
+
+---
+
+**3. Tailscale Taildrop**
+
+- If you use Tailscale, Taildrop enables encrypted peer-to-peer file transfers between your devices.
+- Both devices must be running Tailscale and be logged into the same Tailscale account.
+- All transfers use end-to-end encryption, and no third-party servers are involved[4].
+
+---
+
+**4. Persistent Storage in Tails**
+
+- Enable Persistent Storage on your Tails USB to securely store files across sessions.
+- You can also use tools like VeraCrypt to create additional encrypted containers within Persistent Storage for added security[5][7].
+
+---
+
+**Important Security Considerations**
+
+- Avoid transferring files that could deanonymize you unless absolutely necessary[2][5].
+- Never use Tails to transfer files directly to or from another operating system on the same device, as this can compromise your security[5].
+- Protect all encryption passphrases carefully and never store them insecurely[7].
+
+---
+
+## Comparison Table: Secure File Transfer Methods in TailsOS
+
+| Method                 | Encryption | Anonymity | Requires Internet | Notes                         |
+|------------------------|------------|-----------|-------------------|-------------------------------|
+| Encrypted USB Drive    | Yes        | No        | No                | Physical transfer, very safe  |
+| OnionShare             | Yes (Tor)  | Yes       | Yes               | Built-in, for sharing with others |
+| Tailscale Taildrop     | Yes        | No        | Yes               | Peer-to-peer, personal devices only |
+| Persistent Storage     | Yes        | N/A       | No                | For local storage, not transfer |
+
+---
+
+## Summary
+
+- For **local and offline transfers**, use an encrypted USB drive.
+- For **anonymous sharing over the internet**, use OnionShare.
+- For **secure device-to-device transfers** within your own network, use Tailscale Taildrop.
+- Always use Tails’ Persistent Storage and encryption features to protect sensitive files[5][7].
+
+These methods help ensure your files remain secure and your anonymity is preserved while using TailsOS.
+
+Citations:
+[1] https://groups.io/g/Law-Discuss/topic/tails_linux_usb_with/108789952
+[2] https://www.reddit.com/r/tails/comments/rtsk42/how_can_i_transfer_files_from_my_main_os_to_tails/
+[3] https://forum.qubes-os.org/t/how-can-i-transfer-my-tails-persistence-files-over-to-a-qube-vm/14913
+[4] https://tailscale.com/kb/1106/taildrop
+[5] https://techheart.life/articles/tails-with-encrypted-persistence/
+[6] https://www.privacyguides.org/articles/2025/01/29/installing-and-using-tails/
+[7] https://www.level-up.cc/curriculum/safer-workspaces/tails/deepening/storing-confidential-information-tails/
+[8] https://www.youtube.com/watch?v=UTosZq8kTLI
+
+
 ## Currency
 
   - [XMR/Monero](https://www.getmonero.org/)
