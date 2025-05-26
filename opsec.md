@@ -108,6 +108,7 @@ See dedicated [TailsOS File Transfer Guide](#secure-file-transfer-methods-in-tai
 - [PrivacyTools.io](https://www.privacytools.io/) - Privacy software/resources
 - [crypt.fyi](https://www.crypt.fyi/new) - Secure data sharing
 - [One-Time Pad Implementation](https://github.com/airborne-commando/one-time-pad-truly-random)
+- [keepassxc](https://keepassxc.org/) - Passwords and securenotes
 
 ---
 
