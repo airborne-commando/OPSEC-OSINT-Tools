@@ -187,12 +187,19 @@ These methods help ensure your files remain secure and your anonymity is preserv
 
 Citations:
 [1] https://groups.io/g/Law-Discuss/topic/tails_linux_usb_with/108789952
+
 [2] https://www.reddit.com/r/tails/comments/rtsk42/how_can_i_transfer_files_from_my_main_os_to_tails/
+
 [3] https://forum.qubes-os.org/t/how-can-i-transfer-my-tails-persistence-files-over-to-a-qube-vm/14913
+
 [4] https://tailscale.com/kb/1106/taildrop
+
 [5] https://techheart.life/articles/tails-with-encrypted-persistence/
+
 [6] https://www.privacyguides.org/articles/2025/01/29/installing-and-using-tails/
+
 [7] https://www.level-up.cc/curriculum/safer-workspaces/tails/deepening/storing-confidential-information-tails/
+
 [8] https://www.youtube.com/watch?v=UTosZq8kTLI
 
 
