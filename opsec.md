@@ -160,6 +160,7 @@ free to check the status of cock.li wth the provided site here https://cock.li/
 - Avoid transferring files that could deanonymize you unless absolutely necessary[2][5].
 - Never use Tails to transfer files directly to or from another operating system on the same device, as this can compromise your security[5].
 - Protect all encryption passphrases carefully and never store them insecurely[7].
+- also be sure to wipe all metadata if possible.
 
 ---
 
