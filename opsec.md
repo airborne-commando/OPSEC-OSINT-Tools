@@ -115,6 +115,7 @@ free to check the status of cock.li wth the provided site here https://cock.li/
   - [Tor](https://www.torproject.org/)
   - [Mullvad](https://mullvad.net/en)
   - [tailsOS](https://tails.net/) Runs inside a USB stick.
+  - [whonix](www.whonix.org) is an anonymity focused Linux distribution. The operating system consists of two virtual machines, a workstation and a Tor gateway running Debian.
 
 
 
