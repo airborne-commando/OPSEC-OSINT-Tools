@@ -86,7 +86,7 @@ See dedicated [TailsOS File Transfer Guide](#secure-file-transfer-methods-in-tai
 - [Temp-Mail](https://temp-mail.org/en/) - Temporary email
 - [Username Generator](https://jimpix.co.uk/words/username-generator.php)
 
-**Note:** [cock.li status](https://cock.li/) - Currently experiencing registration issues
+**Note:** [cock.li status](https://cock.li/)
 
 ### Data Broker Opt-Out
 - [Big Ass Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List)
