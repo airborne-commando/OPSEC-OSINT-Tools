@@ -1,17 +1,17 @@
-***DISCLAIMER***
+## ***DISCLAIMER***
 
-I am in no way responsible for any abuse, misuse, or any questionable actions in which someone uses these tools or methods below. OSINT is an information-gathering technique that can be used by ANYBODY and on ANYBODY!
-Also I'd like for anyone to be aware that some of the domains (such as exposed.lol) may be expired, if so check the curated list or the other links listed.
+I am **not responsible** for any misuse, abuse, or unethical actions taken with the tools or methods listed here. **OSINT is a neutral technique**—anyone can use it, and anyone can be targeted.
 
-**Any Suggestions**
+Note: Some domains (e.g., `exposed.lol`) may be expired. Refer to the curated list or alternate links provided.
 
-Place them under Issues
+## Suggestions
 
-## Why did I create this?
+Open an issue for any suggestions or feedback.
 
-Now why did I make this readme you may ask?
+## Why?
 
-People in the states at least trust their info way to much on the internet and seeing how the internet has now affected our daily lives it's practically indistinguishable from reality now; what's real is now fake - what's fake is now real. tit for tat basically. Do what you must with this readme file, spread this on the net for all I care really and feel free to contribute on either a fork or on your own project (even on my own projects listed). Feel free to clone and spread this info out there or to fork or maybe make a rentry document if you want.
+People trust the internet too much. In today’s world, online and offline are practically the same—truth and fiction blur. This README exists to raise awareness. Clone it, fork it, remix it, or even turn it into a Rentry page. Spread the knowledge however you like.
+
 
 # OSINT/OPSEC Tools
 
