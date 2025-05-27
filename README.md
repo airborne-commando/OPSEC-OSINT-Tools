@@ -1,17 +1,17 @@
-***DISCLAIMER***
+## ***DISCLAIMER***
 
-I am in no way responsible for any abuse, misuse, or any questionable actions in which someone uses these tools or methods below. OSINT is an information-gathering technique that can be used by ANYBODY and on ANYBODY!
-Also I'd like for anyone to be aware that some of the domains (such as exposed.lol) may be expired, if so check the curated list or the other links listed.
+I am **not responsible** for any misuse, abuse, or unethical actions taken with the tools or methods listed here. **OSINT is a neutral technique**—anyone can use it, and anyone can be targeted.
 
-**Any Suggestions**
+Note: Some domains (e.g., `exposed.lol`) may be expired. Refer to the curated list or alternate links provided.
 
-Place them under Issues
+## Suggestions
 
-## Why did I create this?
+Open an [issue](https://github.com/airborne-commando/OPSEC-OSINT-Tools/issues) for any suggestions or feedback.
 
-Now why did I make this readme you may ask?
+## Why?
 
-People in the states at least trust their info way to much on the internet and seeing how the internet has now affected our daily lives it's practically indistinguishable from reality now; what's real is now fake - what's fake is now real. tit for tat basically. Do what you must with this readme file, spread this on the net for all I care really and feel free to contribute on either a fork or on your own project (even on my own projects listed). Feel free to clone and spread this info out there or to fork or maybe make a rentry document if you want.
+People trust the internet too much. In today’s world, online and offline are practically the same—truth and fiction blur. This README exists to raise awareness. Clone it, fork it, remix it, or even turn it into a [Rentry](https://rentry.co/) page. Spread the knowledge however you like.
+
 
 # OSINT/OPSEC Tools
 
@@ -49,9 +49,9 @@ It's a security discipline and operations function that involves a continuous cy
  is used to protect information and activities from adversaries. It helps identify and protect sensitive information that could give an adversary an advantage. OPSEC principles can be applied in daily life, such as not sharing personal information like a DOB, street address, email, phone number.
 
 **Examples of OPSEC mistakes include:**
-* Over-sharing personal information online
-* Leaving unused social media pro online
-* Accidentally interacting with a target on social media
+* [Over-sharing personal information online](https://opsecfail.github.io/blog.html?filecase=pompompurin)
+* Leaving unused social media online
+* [interacting with a target](https://opsecfail.github.io/blog.html?filecase=w0rmer) on [social media](https://darknetdiaries.com/transcript/63/)
 
 OPSEC supplements other security disciplines rather than replacing them.
 
@@ -81,7 +81,9 @@ OPSEC supplements other security disciplines rather than replacing them.
 ### **Key Takeaways**  
 1. **Messaging**:  
    - **Signal** > **Simplex** > **Telegram** for privacy.  
-   - Remember: E2E ≠ total anonymity (metadata leaks/habits matter).  
+
+   - Remember: E2E ≠ total anonymity (metadata leaks/habits matter).
+
 
 2. **Anonymity**:  
    - **Tor** + **Mullvad VPN** + **XMR** = layered protection.  
