@@ -81,6 +81,14 @@ and it defeats the whole purpose of tailsOS if you do this instead of installing
 
 ---
 
+## I2P with TailsOS (not supported but is Amnesic)
+
+[TailsOS With I2P support](https://github.com/itsOwen/i2pd-tails-os?tab=readme-ov-file#-installation)
+
+---
+
+---
+
 ## Secure File Transfer (TailsOS)
 See dedicated [TailsOS File Transfer Guide](#secure-file-transfer-methods-in-tailsos)
 
