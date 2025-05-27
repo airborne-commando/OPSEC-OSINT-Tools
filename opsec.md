@@ -65,7 +65,7 @@ A comprehensive guide to operational security tools and techniques.
 ## Anonymity Tools
 - [Tor Project](https://www.torproject.org/)
 - [Mullvad VPN](https://mullvad.net/en)
-- [](https://tails.net/) - Live USB OS
+- [tails OS](https://tails.net/) - Live USB OS
 - [Whonix](https://www.whonix.org/) - VM-based anonymity OS
 
 ---
