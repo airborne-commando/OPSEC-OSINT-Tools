@@ -81,7 +81,7 @@ OPSEC supplements other security disciplines rather than replacing them.
 ### **Key Takeaways**  
 1. **Messaging**:  
    - **Signal** > **Simplex** > **Telegram** for privacy.  
-   - Remember: E2E ≠ total anonymity (metadata leaks matter).  
+   - Remember: E2E ≠ total anonymity (metadata leaks/habits matter).
 
 2. **Anonymity**:  
    - **Tor** + **Mullvad VPN** + **XMR** = layered protection.  
