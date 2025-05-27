@@ -132,6 +132,8 @@ To use I2P:
 To monitor I2P status:
 - Open the I2P console at `http://10.200.1.1:7070`
 
+[Usage and Considerations](https://github.com/itsOwen/i2pd-tails-os?tab=readme-ov-file#-usage)
+
 ---
 
 ## Secure File Transfer (TailsOS)
