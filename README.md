@@ -230,6 +230,18 @@ After that open image in new tab and save or drag it into facecheck.id and compa
 - **Images**: Facecheck.ID → Pimeyes → lenso.ai → faceonlive
 - **Files** Encryped drives (Luks) → veracrypt → keepassxc
 
+Note: For keepassxc it's a good idea to use a strong password or a YubiKey (hardware password/security key)
+you may also create an additonal database, one that has the password you can remember; the other that has the generated database password for sensitive files.
+
+## Pipeline
+
+| **Database** | **Human Password** | **Database** | **Generated** |
+|--------------|--------------------|--------------|---------------|
+| `db1.kdbx`   | `password123`      | `db2.kdbx`   | `ipri0-3ri-03ir-03ir0-3ir0-3wqirw3ir-0wi3ri0-w3ir-iw3-0` |
+
+
+
+
 For niche tools, refer to the [Curated Lists](#curated-lists) section.
     
 ## People search tools (in the states):
