@@ -90,7 +90,7 @@ and it defeats the whole purpose of  if you do this instead of installing it ins
 ## 🔧 Installation
 
 1. **Download the script** from the GitHub repository:
-```bash
+``` 
 git clone https://github.com/itsOwen/i2pd-tails-os.git
 cd i2pd-tails-os
 ```
@@ -103,11 +103,11 @@ cd i2pd-tails-os
 3. **Run the script**:
    - Open a Terminal (Applications > System Tools)
    - Switch to root with:
-   ```bash
+   ``` 
    sudo -i
    ```
    - Navigate to the script directory and run:
-   ```bash
+   ```
    ./install_i2pd.sh
    ```
 
