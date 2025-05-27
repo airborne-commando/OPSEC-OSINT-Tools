@@ -49,8 +49,8 @@ It's a security discipline and operations function that involves a continuous cy
  is used to protect information and activities from adversaries. It helps identify and protect sensitive information that could give an adversary an advantage. OPSEC principles can be applied in daily life, such as not sharing personal information like a DOB, street address, email, phone number.
 
 **Examples of OPSEC mistakes include:**
-* Over-sharing personal information online
-* Leaving unused social media pro online
+* [Over-sharing personal information online](https://opsecfail.github.io/blog.html?filecase=pompompurin)
+* Leaving unused social media online
 * [interacting with a target](https://opsecfail.github.io/blog.html?filecase=w0rmer) on [social media](https://darknetdiaries.com/transcript/63/)
 
 OPSEC supplements other security disciplines rather than replacing them.
