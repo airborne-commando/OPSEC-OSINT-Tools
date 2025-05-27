@@ -229,7 +229,7 @@ After that open image in new tab and save or drag it into facecheck.id and compa
 - **Email Breaches**: Have I Been Pwned → Pentester → OSINT Rocks (Hudson Rock/Holehe) → LOLArchiver.  
 - **Images**: Facecheck.ID → Pimeyes → lenso.ai → faceonlive  
 - **Files**: Encrypted drives (Luks) → veracrypt → keepassxc  
-            Android → DroidFS
+            ↓ →  Android → DroidFS
 
 Note: For keepassxc it's a good idea to use a strong password or a YubiKey (hardware password/security key)
 you may also create an additonal database, one that has the password you can remember; the other that has the generated database password for sensitive files.
