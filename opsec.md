@@ -6,6 +6,7 @@ A comprehensive guide to operational security tools and techniques.
 - [Content Obfuscation](#content-obfuscation)
 - [Image Generation & Editing](#image-generation--editing)
 - [Anonymity Tools](#anonymity-tools)
+    - [Trying TailsOS](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/patch/opsec.md#to-try-tailsos-unsecure)
 - [Secure File Transfer (TailsOS)](#secure-file-transfer-tailsos)
 - [Virtualization](#virtualization)
 - [Privacy Protection](#privacy-protection)
