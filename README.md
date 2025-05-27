@@ -6,7 +6,7 @@ Note: Some domains (e.g., `exposed.lol`) may be expired. Refer to the curated li
 
 ## Suggestions
 
-Open an issue for any suggestions or feedback.
+Open an [issue](https://github.com/airborne-commando/OPSEC-OSINT-Tools/issues) for any suggestions or feedback.
 
 ## Why?
 
