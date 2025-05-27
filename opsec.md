@@ -69,7 +69,7 @@ A comprehensive guide to operational security tools and techniques.
 - [Whonix](https://www.whonix.org/) - VM-based anonymity OS
 
 ---
-## To try  (Unsecure)
+## To try TailsOS (Unsecure)
 ---
 
 - [ISO image](https://tails.net/install/download-iso/index.en.html)
@@ -134,7 +134,7 @@ To monitor I2P status:
 
 ---
 
-## Secure File Transfer ()
+## Secure File Transfer (TailsOS)
 See dedicated [TailsOS File Transfer Guide](#secure-file-transfer-methods-in-tailsos)
 
 ---
