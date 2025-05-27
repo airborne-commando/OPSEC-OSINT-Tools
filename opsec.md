@@ -68,6 +68,18 @@ A comprehensive guide to operational security tools and techniques.
 - [Whonix](https://www.whonix.org/) - VM-based anonymity OS
 
 ---
+To try TailsOS (Unsecure)
+---
+
+- [ISO image](https://tails.net/install/download-iso/index.en.html)
+  - In conjunction you'll need to try one of these [Virtualization](#virtualization)
+
+Boot inside your favorite VM/Hypervisor and you should be good to go!
+
+The reason why this isn't secure is that the host machine may be [compromised](https://tails.net/doc/advanced_topics/virtualization/index.en.html)
+and it defeats the whole purpose of tailsOS if you do this instead of installing it inside a USB. Only use this if you want to try the OS.
+
+---
 
 ## Secure File Transfer (TailsOS)
 See dedicated [TailsOS File Transfer Guide](#secure-file-transfer-methods-in-tailsos)
