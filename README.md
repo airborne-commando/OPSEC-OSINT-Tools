@@ -239,7 +239,7 @@ you may also create an additonal database, one that has the password you can rem
 |--------------|--------------------|--------------|---------------|
 | `db1.kdbx`   | `password123`      | `db2.kdbx`   | `ipri0-3ri-03ir-03ir0-3ir0-3wqirw3ir-0wi3ri0-w3ir-iw3-0` |
 
-What I tend to do is save this in private notes inside simplex
+What I tend to do is save this in private notes inside simplex, I'd also recommend not saving your password as `password123`.
 
 db2 → simplex private notes → wipe command after upload
 
