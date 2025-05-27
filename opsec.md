@@ -64,11 +64,11 @@ A comprehensive guide to operational security tools and techniques.
 ## Anonymity Tools
 - [Tor Project](https://www.torproject.org/)
 - [Mullvad VPN](https://mullvad.net/en)
-- [TailsOS](https://tails.net/) - Live USB OS
+- [](https://tails.net/) - Live USB OS
 - [Whonix](https://www.whonix.org/) - VM-based anonymity OS
 
 ---
-To try TailsOS (Unsecure)
+To try  (Unsecure)
 ---
 
 - [ISO image](https://tails.net/install/download-iso/index.en.html)
@@ -77,15 +77,13 @@ To try TailsOS (Unsecure)
 Boot inside your favorite VM/Hypervisor and you should be good to go!
 
 The reason why this isn't secure is that the host machine may be [compromised](https://tails.net/doc/advanced_topics/virtualization/index.en.html)
-and it defeats the whole purpose of tailsOS if you do this instead of installing it inside a USB. Only use this if you want to try the OS.
+and it defeats the whole purpose of  if you do this instead of installing it inside a USB. Only use this if you want to try the OS.
 
 ---
 
-## I2P with TailsOS (not supported but is Amnesic)
+## I2P with  (not supported but is Amnesic)
 
-[TailsOS With I2P support](https://github.com/itsOwen/i2pd-tails-os?tab=readme-ov-file#-installation)
-
----
+[ With I2P support](https://github.com/itsOwen/i2pd-tails-os?tab=readme-ov-file#-installation)
 
 ---
 
