@@ -50,7 +50,7 @@ It's a security discipline and operations function that involves a continuous cy
 
 **Examples of OPSEC mistakes include:**
 * Over-sharing personal information online
-* Leaving unused social media profiles online
+* Leaving unused social media pro online
 * Accidentally interacting with a target on social media
 
 OPSEC supplements other security disciplines rather than replacing them.
@@ -214,7 +214,7 @@ Thus bad opsec.
 
 5. **OPSEC Notes**:  
    - **Rate Limits**: Tools like Google-FU may trigger blocks—use proxies/VPNs.  
-   - **Legality**: Avoid scraping private data (e.g., Facebook profiles) without consent.  
+   - **Legality**: Avoid scraping private data (e.g., Facebook pro) without consent.  
 
 6. **Biometric Analysis**: You can supplement your biometric analytics with these tools by extracting the results from:
  - faceonlive.com (3 or 4 search limit, may need TOR)
@@ -228,7 +228,7 @@ After that open image in new tab and save or drag it into facecheck.id and compa
 - **Quick Username Search**: Crow (GUI for indepth) → Maigret (GUI for indepth) → Sherlock (CLI for depth).  
 - **Email Breaches**: Have I Been Pwned → Pentester →  OSINT Rocks (Hudson Rock/Holehe) → LOLArchiver.  
 - **Images**: Facecheck.ID → Pimeyes → lenso.ai → faceonlive
-- **Files** Encryped drives (Luks) → veracrypt → keepassxc
+- **Files**: Encryped drives (Luks) → veracrypt → keepassxc
 
 Note: For keepassxc it's a good idea to use a strong password or a YubiKey (hardware password/security key)
 you may also create an additonal database, one that has the password you can remember; the other that has the generated database password for sensitive files.
