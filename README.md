@@ -51,7 +51,7 @@ It's a security discipline and operations function that involves a continuous cy
 **Examples of OPSEC mistakes include:**
 * Over-sharing personal information online
 * Leaving unused social media pro online
-* Accidentally interacting with a target on social media
+* [interacting with a target](https://opsecfail.github.io/blog.html?filecase=w0rmer) on [social media](https://darknetdiaries.com/transcript/63/)
 
 OPSEC supplements other security disciplines rather than replacing them.
 
