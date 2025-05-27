@@ -7,6 +7,7 @@ A comprehensive guide to operational security tools and techniques.
 - [Image Generation & Editing](#image-generation--editing)
 - [Anonymity Tools](#anonymity-tools)
     - [Trying TailsOS](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/opsec.md#to-try-tailsos-unsecure)
+    - [i2p with TailsOS](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/opsec.md#i2p-with-TailsOS-not-supported-but-is-amnesic)
     - [Secure File Transfer (TailsOS)](#secure-file-transfer-tailsos)
 - [Virtualization](#virtualization)
 - [Privacy Protection](#privacy-protection)
@@ -68,7 +69,7 @@ A comprehensive guide to operational security tools and techniques.
 - [Whonix](https://www.whonix.org/) - VM-based anonymity OS
 
 ---
-To try  (Unsecure)
+## To try  (Unsecure)
 ---
 
 - [ISO image](https://tails.net/install/download-iso/index.en.html)
@@ -81,13 +82,59 @@ and it defeats the whole purpose of  if you do this instead of installing it ins
 
 ---
 
-## I2P with  (not supported but is Amnesic)
+## I2P with TailsOS (not supported but is Amnesic)
 
-[ With I2P support](https://github.com/itsOwen/i2pd-tails-os?tab=readme-ov-file#-installation)
+[With I2P support](https://github.com/itsOwen/i2pd-tails-os?tab=readme-ov-file#-installation)
+
+
+## 🔧 Installation
+
+1. **Download the script** from the GitHub repository:
+```bash
+git clone https://github.com/itsOwen/i2pd-tails-os.git
+cd i2pd-tails-os
+```
+
+2. **Enable admin privileges** in Tails:
+   - At the Tails welcome screen, click "+" under "Additional Settings"
+   - Choose "Administration Password"
+   - Set a password and continue booting
+
+3. **Run the script**:
+   - Open a Terminal (Applications > System Tools)
+   - Switch to root with:
+   ```bash
+   sudo -i
+   ```
+   - Navigate to the script directory and run:
+   ```bash
+   ./install_i2pd.sh
+   ```
+
+4. **Wait for installation to complete** (5-10 minutes)
+
+## 🚀 Usage
+
+After installation, you'll find these desktop shortcuts:
+
+- **Enable I2P**: Activates I2P functionality
+- **Disable I2P**: Deactivates I2P and restores normal Tor-only operation
+- **I2P Console**: Opens the I2P router admin interface
+
+To use I2P:
+
+1. Click the **Enable I2P** desktop shortcut
+2. Start Tor Browser
+3. Browse .i2p sites:
+   - For known sites: `http://site.i2p` (never use https://)
+   - For more reliable access: Use .b32.i2p addresses
+
+To monitor I2P status:
+- Open the I2P console at `http://10.200.1.1:7070`
 
 ---
 
-## Secure File Transfer (TailsOS)
+## Secure File Transfer ()
 See dedicated [TailsOS File Transfer Guide](#secure-file-transfer-methods-in-tailsos)
 
 ---
