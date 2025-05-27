@@ -239,7 +239,12 @@ you may also create an additonal database, one that has the password you can rem
 |--------------|--------------------|--------------|---------------|
 | `db1.kdbx`   | `password123`      | `db2.kdbx`   | `ipri0-3ri-03ir-03ir0-3ir0-3wqirw3ir-0wi3ri0-w3ir-iw3-0` |
 
+What I tend to do is save this in private notes inside simplex
 
+db2 → simplex private notes → wipe command after upload
+
+Then if i need, I share it with another simplex note on my phone by connecting my own phone instance and the desktop as a chat. Then forwarding it to private notes.
+After that is done, I delete the convo for both but keep private notes for both adding in redundancy.
 
 
 For niche tools, refer to the [Curated Lists](#curated-lists) section.
