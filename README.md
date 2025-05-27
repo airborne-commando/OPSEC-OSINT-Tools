@@ -227,7 +227,25 @@ After that open image in new tab and save or drag it into facecheck.id and compa
 ### **Toolchain Recommendations**
 - **Quick Username Search**: Crow (GUI for indepth) → Maigret (GUI for indepth) → Sherlock (CLI for depth).  
 - **Email Breaches**: Have I Been Pwned → Pentester →  OSINT Rocks (Hudson Rock/Holehe) → LOLArchiver.  
-- **Images**: Facecheck.ID → Pimeyes → lenso.ai → faceonlive 
+- **Images**: Facecheck.ID → Pimeyes → lenso.ai → faceonlive
+- **Files** Encryped drives (Luks) → veracrypt → keepassxc
+
+Note: For keepassxc it's a good idea to use a strong password or a YubiKey (hardware password/security key)
+you may also create an additonal database, one that has the password you can remember; the other that has the generated database password for sensitive files.
+
+## Pipeline
+
+| **Database** | **Human Password** | **Database** | **Generated** |
+|--------------|--------------------|--------------|---------------|
+| `db1.kdbx`   | `password123`      | `db2.kdbx`   | `ipri0-3ri-03ir-03ir0-3ir0-3wqirw3ir-0wi3ri0-w3ir-iw3-0` |
+
+What I tend to do is save this in private notes inside simplex, I'd also recommend not saving your password as `password123`.
+
+db2 → simplex private notes → wipe command after upload
+
+Then if i need, I share it with another simplex note on my phone by connecting my own phone instance and the desktop as a chat. Then forwarding it to private notes.
+After that is done, I delete the convo for both but keep private notes for both adding in redundancy.
+
 
 For niche tools, refer to the [Curated Lists](#curated-lists) section.
     
