@@ -230,7 +230,7 @@ After that open image in new tab and save or drag it into facecheck.id and compa
 - **Quick Username Search**: Crow (GUI for indepth) → Maigret (GUI for indepth) → Sherlock (CLI for depth).  
 - **Email Breaches**: Have I Been Pwned → Pentester → OSINT Rocks (Hudson Rock/Holehe) → LOLArchiver.  
 - **Images**: Facecheck.ID → Pimeyes → lenso.ai → faceonlive  
-- **Files**: Encrypted drives (Luks) → veracrypt → keepassxc  
+- **Files**: Encrypted drives (LUKS) → veracrypt → keepassxc  
             ↓ →  Android → DroidFS
 
 Note: For keepassxc it's a good idea to use a strong password or a YubiKey (hardware password/security key)
@@ -258,7 +258,7 @@ What I tend to do is save this in private notes inside simplex, I'd also recomme
 
 **SimpleX**
 - Securely transfers `db2` password
-  - After transfer: run `wipe` to remove residuals on desktop (HDD) for SSD use an ecnrypted drive or container
+  - After transfer: run `wipe` to remove residuals on desktop (HDD) for SSD use an encrypted drive or container
   - Can upload/download from encrypted container
 
 
