@@ -258,7 +258,7 @@ What I tend to do is save this in private notes inside simplex, I'd also recomme
 
 **SimpleX**
 - Securely transfers `db2` password
-  - After transfer: run `wipe` to remove residuals on desktop
+  - After transfer: run `wipe` to remove residuals on desktop (HDD) for SSD use an ecnrypted drive or container
   - Can upload/download from encrypted container
 
 
