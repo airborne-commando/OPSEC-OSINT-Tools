@@ -141,11 +141,6 @@ To monitor I2P status:
 
 ---
 
-## Secure File Transfer (TailsOS)
-See dedicated [TailsOS File Transfer Guide](#secure-file-transfer-methods-in-tailsos)
-
----
-
 ## Virtualization
 - [Libvirt](https://virt-manager.org/) - Advanced Linux virtualization
 - [VirtualBox](https://www.virtualbox.org/) - Cross-platform solution
