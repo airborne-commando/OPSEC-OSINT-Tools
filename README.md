@@ -244,7 +244,20 @@ you may also create an additonal database, one that has the password you can rem
 
 What I tend to do is save this in private notes inside simplex, I'd also recommend not saving your password as `password123`.
 
-db2 → simplex private notes/veracrypt container → [wipe](https://linux.die.net/man/1/wipe) command after upload or placing of files inside veracrypt
+[ Desktop ]
+ └── db1.kdbx (human-readable pass)
+     └── → stores access to db2.kdbx
+      └── → stores access to a VeraCrypt Container
+
+[ VeraCrypt Container ]
+ └── db2.kdbx (machine-generated pass)
+     └── → stores access to sensitive files
+
+[ SimpleX ]
+ └── Securely transfers db2 pass when needed
+     └── → Manually [wipe](https://linux.die.net/man/1/wipe) after transmission if on desktop
+      └── → Can upload from a VeraCrypt Container
+
 
 Then if i need, I share it with another simplex note on my phone by connecting my own phone instance and the desktop as a chat. Then forwarding it to private notes.
 After that is done, I delete the convo for both but keep private notes for both adding in redundancy, but also keeping it inside droidFS if need be (be sure to wipe when it saves inside droidFS); though honestly it's best to just save inside simplex and desktop to reduce data remnants.
