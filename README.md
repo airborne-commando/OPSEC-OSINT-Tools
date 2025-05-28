@@ -244,19 +244,19 @@ you may also create an additonal database, one that has the password you can rem
 
 What I tend to do is save this in private notes inside simplex, I'd also recommend not saving your password as `password123`.
 
-[ Desktop ]
- └── db1.kdbx (human-readable pass)
-     └── → stores access to db2.kdbx
-      └── → stores access to a VeraCrypt Container
+[ Desktop ]                               
+ └── db1.kdbx  (human-memorable pass)         
+     ├── stores access to *db2.kdbx*          
+     └── stores access to a VeraCrypt container
 
-[ VeraCrypt Container ]
- └── db2.kdbx (machine-generated pass)
-     └── → stores access to sensitive files
+[ VeraCrypt container ]                   
+ └── db2.kdbx  (machine-generated pass)       
+     └── protects sensitive files            
 
-[ SimpleX ]
- └── Securely transfers db2 pass when needed
-     └── → Manually [wipe](https://linux.die.net/man/1/wipe) after transmission if on desktop
-      └── → Can upload from a VeraCrypt Container
+[ SimpleX ]                                
+ └── securely transfers *db2* pass on demand 
+     ├── then `wipe`† local copy (desktop)   
+     └── can upload/download from to a container (desktop)
 
 
 Then if i need, I share it with another simplex note on my phone by connecting my own phone instance and the desktop as a chat. Then forwarding it to private notes.
