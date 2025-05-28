@@ -8,7 +8,7 @@ A comprehensive guide to operational security tools and techniques.
 - [Anonymity Tools](#anonymity-tools)
     - [Trying TailsOS](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/opsec.md#to-try-tailsos-unsecure)
     - [i2p with TailsOS](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/opsec.md#i2p-with-TailsOS-not-supported-but-is-amnesic)
-    - [Secure File Transfer (TailsOS)](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/opsec.md#secure-file-transfer-methods-in-tailsos)
+    - [Secure File Transfer (TailsOS)](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/opsec.md#secure-file-transfer-methods-in-tailsos)
 - [Virtualization](#virtualization)
 - [Privacy Protection](#privacy-protection)
 - [Cryptocurrency](#cryptocurrency)
