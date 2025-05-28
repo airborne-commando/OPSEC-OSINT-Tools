@@ -219,6 +219,37 @@ See dedicated [TailsOS File Transfer Guide](#secure-file-transfer-methods-in-tai
 - Avoid cross-OS transfers on same device
 - Protect encryption passphrases
 
+## Pipeline
+
+| **Database** | **Human Password** | **Database** | **Generated** | **VeraCrypt** | **Generated** |
+|--------------|--------------------|--------------|---------------|--------------|---------------|
+| db1.kdbx   | `password123`      | db2.kdbx   | `ipri0-3ri-03ir-03ir0-3ir0-3wqirw3ir-0wi3ri0-w3ir-iw3-0` | VeraCrypt container | `fjeipfjopefjkpoewjf9pjepwujf9euf9wejfe9-fu90uefu` |
+
+What I tend to do is save this in private notes inside simplex, I'd also recommend not saving your password as `password123`.
+
+
+**Desktop**
+- `db1.kdbx` (human-memorable password)
+  - Grants access to:
+    - `db2.kdbx`
+    - VeraCrypt container
+
+**VeraCrypt Container**
+- `db2.kdbx` (machine-generated password)
+  - Grants access to:
+    - Sensitive files
+
+**SimpleX**
+- Securely transfers `db2` password
+  - After transfer: run `wipe` to remove residuals on desktop (HDD) for SSD use an encrypted drive or container
+  - Can upload/download from encrypted container
+
+
+Then if i need, I share it with another simplex note on my phone by connecting my own phone instance and the desktop as a chat. Then forwarding it to private notes.
+After that is done, I delete the convo for both but keep private notes for both adding in redundancy, but also keeping it inside droidFS if need be (be sure to wipe when it saves inside droidFS); though honestly it's best to just save inside simplex and desktop to reduce data remnants.
+
+For SSD's I'd recommend using LUK's or a container as securely erasing in traditional means is basically useless unless if you want to format the entire drive.
+
 ---
 
 **Remember:** The best OPSEC sometimes means not interacting with your target at all to avoid alerting them.
