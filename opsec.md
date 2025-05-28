@@ -235,7 +235,7 @@ What I tend to do is save this in private notes inside simplex, I'd also recomme
     - VeraCrypt container
 
 **VeraCrypt Container**
-- `db1.kdbx` (machine-generated password)
+- `db1.kdbx` (machine-generated password inside the DB)
   - Grants access to:
     - Sensitive files
     - `db2.kdbx`
