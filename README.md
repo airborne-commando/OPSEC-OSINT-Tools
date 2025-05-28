@@ -237,6 +237,8 @@ Note: For keepassxc it's a good idea to use a strong password or a YubiKey (hard
 you may also create an additonal database, one that has the password you can remember; the other that has the generated database password for sensitive files.
 
 For niche tools, refer to the [Curated Lists](#curated-lists) section.
+
+Pipeline discussed [here](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/patch/opsec.md#opsec-pipeline-for-secure-files)
     
 ## People search tools (in the states):
 
