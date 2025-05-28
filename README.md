@@ -249,6 +249,7 @@ db2 → simplex private notes/veracrypt container → [wipe](https://linux.die.n
 Then if i need, I share it with another simplex note on my phone by connecting my own phone instance and the desktop as a chat. Then forwarding it to private notes.
 After that is done, I delete the convo for both but keep private notes for both adding in redundancy, but also keeping it inside droidFS if need be (be sure to wipe when it saves inside droidFS); though honestly it's best to just save inside simplex and desktop to reduce data remnants.
 
+For SSD's I'd recommend using LUK's or a container as securely erasing in traditional means is basically useless unless if you want to format the entire drive.
 
 For niche tools, refer to the [Curated Lists](#curated-lists) section.
     
