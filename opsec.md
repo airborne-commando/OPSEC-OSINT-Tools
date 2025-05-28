@@ -219,7 +219,7 @@ See dedicated [TailsOS File Transfer Guide](#secure-file-transfer-methods-in-tai
 - Avoid cross-OS transfers on same device
 - Protect encryption passphrases
 
-## Pipeline
+## OPSEC Pipeline for secure files
 
 | **Database** | **Human Password** | **Database** | **Generated** | **VeraCrypt** | **Generated** |
 |--------------|--------------------|--------------|---------------|--------------|---------------|
