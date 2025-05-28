@@ -8,7 +8,7 @@ A comprehensive guide to operational security tools and techniques.
 - [Anonymity Tools](#anonymity-tools)
     - [Trying TailsOS](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/opsec.md#to-try-tailsos-unsecure)
     - [i2p with TailsOS](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/opsec.md#i2p-with-TailsOS-not-supported-but-is-amnesic)
-    - [Secure File Transfer (TailsOS)](#secure-file-transfer-tailsos)
+    - [Secure File Transfer (TailsOS)](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/opsec.md#secure-file-transfer-methods-in-tailsos)
 - [Virtualization](#virtualization)
 - [Privacy Protection](#privacy-protection)
 - [Cryptocurrency](#cryptocurrency)
@@ -37,7 +37,7 @@ A comprehensive guide to operational security tools and techniques.
 
 ### Generation Tools
 - [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Local image generation
-  - [Model Repository](https://civitai.com/models) - Use 1.5 models for older GPUs
+  - [Civitai Model Repository](https://civitai.com/models) - Use 1.5 models for older GPUs
 - [This Person Does Not Exist](https://thispersondoesnotexist.com/) - Quick face generation (has watermark)
 
 ### Editing Tools
@@ -61,6 +61,11 @@ A comprehensive guide to operational security tools and techniques.
     ```
 
 ---
+
+# Encryption
+- [veracrypt](https://veracrypt.io/en/Beginner's%20Tutorial.html) - Container/drive encryption
+- [LUKS](https://guardianproject.info/archive/luks/) - Hard drive encryption
+- [keepassxc](https://keepassxc.org/) - Passwords and secure notes
 
 ## Anonymity Tools
 - [Tor Project](https://www.torproject.org/)
@@ -136,11 +141,6 @@ To monitor I2P status:
 
 ---
 
-## Secure File Transfer (TailsOS)
-See dedicated [TailsOS File Transfer Guide](#secure-file-transfer-methods-in-tailsos)
-
----
-
 ## Virtualization
 - [Libvirt](https://virt-manager.org/) - Advanced Linux virtualization
 - [VirtualBox](https://www.virtualbox.org/) - Cross-platform solution
@@ -177,7 +177,7 @@ See dedicated [TailsOS File Transfer Guide](#secure-file-transfer-methods-in-tai
 - [PrivacyTools.io](https://www.privacytools.io/) - Privacy software/resources
 - [crypt.fyi](https://www.crypt.fyi/new) - Secure data sharing
 - [One-Time Pad Implementation](https://github.com/airborne-commando/one-time-pad-truly-random)
-- [keepassxc](https://keepassxc.org/) - Passwords and securenotes
+- [Mouse-R](https://gist.github.com/airborne-commando/105e4c77598aab9662bca833ee944379) - use with veracrypt for mouse entropy
 
 ---
 
@@ -213,6 +213,38 @@ See dedicated [TailsOS File Transfer Guide](#secure-file-transfer-methods-in-tai
 - Never transfer deanonymizing files
 - Avoid cross-OS transfers on same device
 - Protect encryption passphrases
+
+## OPSEC Pipeline for secure files
+
+| **Database** | **Human Password** | **Database** | **Generated** | **VeraCrypt** | **Generated** |
+|--------------|--------------------|--------------|---------------|--------------|---------------|
+| db1.kdbx   | `password123`      | db2.kdbx   | `ipri0-3ri-03ir-03ir0-3ir0-3wqirw3ir-0wi3ri0-w3ir-iw3-0` | VeraCrypt container | `fjeipfjopefjkpoewjf9pjepwujf9euf9wejfe9-fu90uefu` |
+
+What I tend to do is save this in private notes inside simplex, I'd also recommend not saving your password as `password123`.
+
+
+**Desktop**
+- `db1.kdbx` (human-memorable password)
+  - Grants access to:
+    - `db2.kdbx`
+    - VeraCrypt container
+
+**VeraCrypt Container**
+- `db1.kdbx` (machine-generated password inside the DB)
+  - Grants access to:
+    - Sensitive files
+    - `db2.kdbx`
+
+**SimpleX**
+- Securely transfers `db2` password
+  - After transfer: run `wipe` to remove residuals on desktop (HDD) for SSD use an encrypted drive or container
+  - Can upload/download from encrypted container.
+
+
+Then if i need, I share it with another simplex note on my phone by connecting my own phone instance and the desktop as a chat. Then forwarding it to private notes.
+After that is done, I delete the convo for both but keep private notes for both adding in redundancy. just save inside simplex and desktop to reduce data remnants.
+
+For SSD's I'd recommend using LUK's or a container as securely erasing in traditional means is basically useless unless if you want to format the entire drive.
 
 ---
 
