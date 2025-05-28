@@ -37,7 +37,7 @@ A comprehensive guide to operational security tools and techniques.
 
 ### Generation Tools
 - [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Local image generation
-  - [Model Repository](https://civitai.com/models) - Use 1.5 models for older GPUs
+  - [Civitai Model Repository](https://civitai.com/models) - Use 1.5 models for older GPUs
 - [This Person Does Not Exist](https://thispersondoesnotexist.com/) - Quick face generation (has watermark)
 
 ### Editing Tools
