@@ -65,7 +65,7 @@ A comprehensive guide to operational security tools and techniques.
 # Encryption
 - [veracrypt](https://veracrypt.io/en/Beginner's%20Tutorial.html) - Container/drive encryption
 - [LUKS](https://guardianproject.info/archive/luks/) - Hard drive encryption
-- [keepassxc](https://keepassxc.org/) - Passwords and securenotes
+- [keepassxc](https://keepassxc.org/) - Passwords and secure notes
 
 ## Anonymity Tools
 - [Tor Project](https://www.torproject.org/)
