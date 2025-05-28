@@ -237,7 +237,7 @@ you may also create an additonal database, one that has the password you can rem
 
 For niche tools, refer to the [Curated Lists](#curated-lists) section.
 
-Pipeline discussed [here](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/opsec.md#opsec-pipeline-for-secure-files)
+Pipeline discussed [here](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/opsec.md#opsec-pipeline-for-secure-files)
     
 ## People search tools (in the states):
 
