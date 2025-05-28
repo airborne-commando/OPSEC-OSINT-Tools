@@ -244,7 +244,7 @@ you may also create an additonal database, one that has the password you can rem
 
 What I tend to do is save this in private notes inside simplex, I'd also recommend not saving your password as `password123`.
 
-db2 → simplex private notes → wipe command after upload
+db2 → simplex private notes → [wipe](https://linux.die.net/man/1/wipe) command after upload
 
 Then if i need, I share it with another simplex note on my phone by connecting my own phone instance and the desktop as a chat. Then forwarding it to private notes.
 After that is done, I delete the convo for both but keep private notes for both adding in redundancy.
