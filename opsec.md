@@ -62,6 +62,11 @@ A comprehensive guide to operational security tools and techniques.
 
 ---
 
+# Encryption
+- [veracrypt](https://veracrypt.io/en/Beginner's%20Tutorial.html) - Container/drive encryption
+- [LUKS](https://guardianproject.info/archive/luks/) - Hard drive encryption
+- [keepassxc](https://keepassxc.org/) - Passwords and securenotes
+
 ## Anonymity Tools
 - [Tor Project](https://www.torproject.org/)
 - [Mullvad VPN](https://mullvad.net/en)
@@ -177,7 +182,7 @@ See dedicated [TailsOS File Transfer Guide](#secure-file-transfer-methods-in-tai
 - [PrivacyTools.io](https://www.privacytools.io/) - Privacy software/resources
 - [crypt.fyi](https://www.crypt.fyi/new) - Secure data sharing
 - [One-Time Pad Implementation](https://github.com/airborne-commando/one-time-pad-truly-random)
-- [keepassxc](https://keepassxc.org/) - Passwords and securenotes
+- [Mouse-R](https://gist.github.com/airborne-commando/105e4c77598aab9662bca833ee944379) - use with veracrypt for mouse entropy
 
 ---
 
