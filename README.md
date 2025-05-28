@@ -230,8 +230,7 @@ After that open image in new tab and save or drag it into facecheck.id and compa
 - **Quick Username Search**: Crow (GUI for indepth) → Maigret (GUI for indepth) → Sherlock (CLI for depth).  
 - **Email Breaches**: Have I Been Pwned → Pentester → OSINT Rocks (Hudson Rock/Holehe) → LOLArchiver.  
 - **Images**: Facecheck.ID → Pimeyes → lenso.ai → faceonlive  
-- **Files**: Encrypted drives (LUKS) → veracrypt → keepassxc  
-            ↓ →  Android → DroidFS
+- **Files**: Encrypted drives (LUKS) → veracrypt → keepassxc
 
 Note: For keepassxc it's a good idea to use a strong password or a YubiKey (hardware password/security key)
 you may also create an additonal database, one that has the password you can remember; the other that has the generated database password for sensitive files.
