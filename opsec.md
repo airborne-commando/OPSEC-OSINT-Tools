@@ -174,7 +174,7 @@ To monitor I2P status:
 ---
 
 ## Data Destruction
-- [DBAN](https://dban.org/) - HDD wiping
+- [DBAN](https://dban.org/) - HDD wiping; VM.
 - [Arch Linux Wipe Guide](https://wiki.archlinux.org/title/Securely_wipe_disk)
 - [NVMe/SSD/HDD Nuke Script](https://gist.github.com/airborne-commando/6a690bd0644a9f1d76bc8c585d9ee969)
 - [physical destruction](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/physical-destruction.md)
