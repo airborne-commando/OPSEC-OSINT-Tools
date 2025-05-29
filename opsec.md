@@ -98,9 +98,6 @@ and it defeats the whole purpose of TailsOS if you do this instead of installing
 
 ## I2P with TailsOS (not supported but is Amnesic)
 
-[With I2P support](https://github.com/itsOwen/i2pd-tails-os?tab=readme-ov-file#-installation)
-
-
 ## 🔧 Installation
 
 1. **Download the script** from the GitHub repository:
@@ -147,6 +144,8 @@ To monitor I2P status:
 - Open the I2P console at `http://10.200.1.1:7070`
 
 [Usage and Considerations](https://github.com/itsOwen/i2pd-tails-os?tab=readme-ov-file#-usage)
+
+[With I2P support, Install Docs](https://github.com/itsOwen/i2pd-tails-os?tab=readme-ov-file#-installation)
 
 ---
 
