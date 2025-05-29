@@ -68,12 +68,19 @@ A comprehensive guide to operational security tools and techniques.
 - [keepassxc](https://keepassxc.org/) - Passwords and secure notes
 
 ## Anonymity Tools
-- [Tor Project](https://www.torproject.org/)
-- [Mullvad VPN](https://mullvad.net/en)
-- [tails OS](https://tails.net/) - Live USB OS
-- [Whonix](https://www.whonix.org/) - VM-based anonymity OS
-- [GrapheneOS](https://grapheneos.org/) - GrapheneOS is a privacy and security-focused mobile operating system based on the Android Open Source Project (AOSP). 
-- [CalyxOS](https://calyxos.org/) - CalyxOS is a privacy-focused, open-source Android operating system designed to give everyday users greater control over their data and digital security.
+- Ip Hiders and VPNS
+    - [Tor Project](https://www.torproject.org/)
+    - [Mullvad VPN](https://mullvad.net/en)
+
+- Operating Systems
+    - [tails OS](https://tails.net/) - Live USB OS
+    - [Whonix](https://www.whonix.org/) - VM-based anonymity OS
+
+
+- Phones
+    - Android
+        - [GrapheneOS](https://grapheneos.org/) - GrapheneOS is a privacy and security-focused mobile operating system based on the Android Open Source Project (AOSP). 
+        - [CalyxOS](https://calyxos.org/) - CalyxOS is a privacy-focused, open-source Android operating system designed to give everyday users greater control over their data and digital security.
 
 ---
 ## To try TailsOS (Unsecure)
