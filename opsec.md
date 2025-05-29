@@ -92,7 +92,7 @@ A comprehensive guide to operational security tools and techniques.
 Boot inside your favorite VM/Hypervisor and you should be good to go!
 
 The reason why this isn't secure is that the host machine may be [compromised](https://tails.net/doc/advanced_topics/virtualization/index.en.html)
-and it defeats the whole purpose of  if you do this instead of installing it inside a USB. Only use this if you want to try the OS.
+and it defeats the whole purpose of TailsOS if you do this instead of installing it inside a USB. Only use this if you want to try the OS.
 
 ---
 
