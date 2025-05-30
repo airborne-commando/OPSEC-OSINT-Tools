@@ -18,10 +18,6 @@ Yes, HUMINT can include a person asking questions about someone else as part of 
 
 For example, a HUMINT collector might ask a source questions like “Who do you personally know that opposes us?” or “What unusual activity have you noticed about a particular person?”—these types of questions are designed to elicit information about other individuals. The questioning can be done overtly or covertly, depending on the context and the relationship with the source.
 
-In summary, asking questions about someone else to gather information is a core part of HUMINT collection, especially during direct questioning or interrogation phases.
-
-You may use this Along with your OSINT to gather information.
-
 
 ## Civilian Examples of HUMINT
 
