@@ -23,6 +23,7 @@ A list of OSINT/OPSEC tools I made, forked, and/or use. First, let's talk about 
 2. [Open Source Intelligence (OSINT)](#open-source-intelligence-osint)
 3. [Who uses Open-Source Intelligence (OSINT)?](#who-uses-open-source-intelligence-osint)
 4. [Sources of OSINT](#sources-of-osint)
+   - [HUMINT](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/HUMINT.md)
 5. [Real world examples of OSINT](#real-world-examples-of-osint)
    - [2016 Airstrike Coordination](#in-the-year-2016-a-basket-weaving-image-board-used-osint-to-pay-some-supposed-terrorist-a-vist-from-a-govt-in-russia-resulting-in-airstrikes)
    - [2017 Shia LaBeouf Protest](#in-2017-shia-labeouf-had-a-protest-due-to-trumps-election-this-resulted-in-a-basket-weaving-image-board-using-osint-and-sky-patterns-to-figure-out-where-a-flag-is)
@@ -160,6 +161,8 @@ OSINT can gather information from various sources, including:
   - Grey literature is "Information produced on all levels of government, academics, business and industry in electronic and print formats not controlled by commercial publishing i.e. where publishing is not the primary activity of the producing body."
    
   - Grey literature can be useful for your research, but finding resources requires different tactics than you'd use for commercially published materials. This is because many types of grey literature are not indexed in some of the more common research tools like PubMed, CINAHL, Scopus, etc. 
+
+- [HUMINT](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/HUMINT.md)
 
 ### Real world examples of OSINT
 
