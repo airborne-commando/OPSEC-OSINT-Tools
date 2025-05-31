@@ -83,7 +83,7 @@ OPSEC supplements other security disciplines rather than replacing them.
 
 ### **Key Takeaways**  
 1. **Messaging**:  
-   - **Signal** > **Simplex** > **Telegram** for privacy.  
+   - **Signal** OR **Simplex** > **Telegram** for privacy.  
 
    - Remember: E2E ≠ total anonymity (metadata leaks/habits matter).
 
