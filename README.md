@@ -394,6 +394,10 @@ An automtic tool that I've made for [pa voter services](https://github.com/airbo
 
 - [Results about you (google index)](https://myactivity.google.com/results-about-you) - check with these results inside the list above for **OPT-OUT**
 
+## Toolchain (self-OSINT):
+
+Google dorks: "first+last" "Street Address" "City state" "age" -> [Results about you (google index)](https://myactivity.google.com/results-about-you) -> [big ass list](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) -> [inteltechniques opt out workbook](https://inteltechniques.com/workbook.html) -> [People Search tools](https://github.com/airborne-commando/OPSEC-OSINT-Tools/tree/main?tab=readme-ov-file#people-search-tools-in-the-states)
+
 ## Archive tools that I've made
  
 - [link extractor and archive](https://github.com/airborne-commando/link-extractor-and-archive) uses archive.ph - useful on basic webpages. Requires manual intervention (text edits FIND+REPLACE).
