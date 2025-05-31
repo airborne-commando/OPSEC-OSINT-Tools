@@ -232,9 +232,11 @@ After that open image in new tab and save or drag it into facecheck.id and compa
 
 ### **Toolchain Recommendations**
 - **Quick Username Search**: Crow (GUI for indepth) → Maigret (GUI for indepth) → Sherlock (CLI for depth).  
-- **Email Breaches**: Have I Been Pwned → Pentester → OSINT Rocks (Hudson Rock/Holehe) → LOLArchiver.  
+- **Email Breaches**: Have I Been Pwned → Pentester (freeish) → OSINT Rocks (Hudson Rock/Holehe) → LOLArchiver.  
 - **Images**: Facecheck.ID → Pimeyes → lenso.ai → faceonlive  
 - **Files**: Encrypted drives (LUKS) → veracrypt → keepassxc
+
+Note on Pentester: Pentester can provide free results on usernames, etc but on a time limit, not worth to buy a service if you're smart and keep records (snapshot).
 
 Note: For keepassxc it's a good idea to use a strong password or a YubiKey (hardware password/security key)
 you may also create an additonal database, one that has the password you can remember; the other that has the generated database password for sensitive files.
