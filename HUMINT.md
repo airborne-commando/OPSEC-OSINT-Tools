@@ -47,7 +47,7 @@ HUMINT isn't limited to espionage—it appears in many civilian and professional
 
 | Intelligence Type | Pros                                        | Cons                                                  |
 | ----------------- | ------------------------------------------- | ----------------------------------------------------- |
-| RUMINT            | Early warnings, new leads, public sentiment | Unverified, unreliable, risk of disinformation        |
+| RUMINT            | Early warnings, new leads, public sentiment | Unverified, unreliable, risk of [disinformation](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/smokescreen-misinfo.md)        |
 | HUMINT            | In-depth, contextual, adaptable             | Source-dependent, risk of deception, operational risk |
 
 ---
