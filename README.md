@@ -21,6 +21,7 @@ A list of OSINT/OPSEC tools I made, forked, and/or use. First, let's talk about 
 ## Table of Contents
 1. [OPSEC](#operations-security-is-a-systematic-process-for)
    - [How to OPSEC](#how-to-opsec)
+      - [Smoke Screen and misinfo](#Smoke-Screen-and-misinfo) 
 2. [Open Source Intelligence (OSINT)](#open-source-intelligence-osint)
 3. [Who uses Open-Source Intelligence (OSINT)?](#who-uses-open-source-intelligence-osint)
 4. [Sources of OSINT](#sources-of-osint)
@@ -108,6 +109,10 @@ OPSEC supplements other security disciplines rather than replacing them.
 - **Monero Mining**: Run a local node to avoid centralized exchanges tracing purchases.  
 
 For full tool details, see the **[OPSEC Tools List](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/opsec.md)**.
+
+## Smoke Screen and misinfo
+
+A smoke screen operation in the context of OSINT (Open Source Intelligence) refers to deliberate actions taken to obscure, mislead, or mask the true activities, intentions, or identities of individuals or organizations from those conducting open-source intelligence gathering. The term is borrowed from military tactics, where a smoke screen is used to conceal movements or positions from enemy observation. In cyber and intelligence contexts, the concept is adapted to digital and informational environments. You may read more [here](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/smokescreen-misinfo.md).
 
 ## Open Source Intelligence (OSINT)
 
