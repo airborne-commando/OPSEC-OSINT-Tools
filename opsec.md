@@ -159,9 +159,11 @@ To monitor I2P status:
 
 ### Email Services
 - [User/Email Generator](https://github.com/airborne-commando/user-email-gen) - For ProtonMail/cock.li
+    - PROTIP: For Proton, you'll probably want to use a VPN as TOR will get flagged; use Mullvad.
 - [Temp-Mail](https://temp-mail.org/en/) - Temporary email
 - [Username Generator](https://jimpix.co.uk/words/username-generator.php)
 - [cock.li](https://cock.li/register.php)
+- [ProtonMail](https://proton.me/mail)
 
 ### Data Broker Opt-Out
 - [Big Ass Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List)
