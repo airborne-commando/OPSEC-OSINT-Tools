@@ -12,6 +12,7 @@ Open an [issue](https://github.com/airborne-commando/OPSEC-OSINT-Tools/issues) f
 
 People trust the internet too much. In today’s world, online and offline are practically the same—truth and fiction blur. This README exists to raise awareness. Clone it, fork it, remix it, or even turn it into a [Rentry](https://rentry.co/) page. Spread the knowledge however you like.
 
+Can you predict someones behavior with this? not exactly; people are unpredictable at times.
 
 # OSINT/OPSEC Tools
 
@@ -241,8 +242,6 @@ you may also create an additonal database, one that has the password you can rem
 For niche tools, refer to the [Curated Lists](#curated-lists) section.
 
 Pipeline discussed [here](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/opsec.md#opsec-pipeline-for-secure-files)
-
-Now can you predict someones behavior with this? not exactly; people are unpredictable at times.
     
 ## People search tools (in the states):
 
