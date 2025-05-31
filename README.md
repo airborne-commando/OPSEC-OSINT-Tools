@@ -241,6 +241,8 @@ you may also create an additonal database, one that has the password you can rem
 For niche tools, refer to the [Curated Lists](#curated-lists) section.
 
 Pipeline discussed [here](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/opsec.md#opsec-pipeline-for-secure-files)
+
+Now can you predict someones behavior with this? not exactly; people are unpredictable at times.
     
 ## People search tools (in the states):
 
