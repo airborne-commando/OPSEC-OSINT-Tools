@@ -110,6 +110,10 @@ OPSEC supplements other security disciplines rather than replacing them.
 
 For full tool details, see the **[OPSEC Tools List](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/opsec.md)**.
 
+## Smoke Screen and misinfo
+
+A smoke screen operation in the context of OSINT (Open Source Intelligence) refers to deliberate actions taken to obscure, mislead, or mask the true activities, intentions, or identities of individuals or organizations from those conducting open-source intelligence gathering. The term is borrowed from military tactics, where a smoke screen is used to conceal movements or positions from enemy observation. In cyber and intelligence contexts, the concept is adapted to digital and informational environments. You may read more [here](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/smokescreen-misinfo.md).
+
 ## Open Source Intelligence (OSINT)
 
 **<div align="center">What is it, how is this used and why is it important:</div>**
