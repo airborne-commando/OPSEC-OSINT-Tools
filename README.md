@@ -21,6 +21,7 @@ A list of OSINT/OPSEC tools I made, forked, and/or use. First, let's talk about 
 ## Table of Contents
 1. [OPSEC](#operations-security-is-a-systematic-process-for)
    - [How to OPSEC](#how-to-opsec)
+      - [Smoke Screen and misinfo](#Smoke-Screen-and-misinfo) 
 2. [Open Source Intelligence (OSINT)](#open-source-intelligence-osint)
 3. [Who uses Open-Source Intelligence (OSINT)?](#who-uses-open-source-intelligence-osint)
 4. [Sources of OSINT](#sources-of-osint)
