@@ -390,7 +390,7 @@ An automtic tool that I've made for [pa voter services](https://github.com/airbo
 
 - [inteltechniques opt out workbook](https://inteltechniques.com/workbook.html)
 
-- [Results about you (google index)](https://myactivity.google.com/results-about-you)
+- [Results about you (google index)](https://myactivity.google.com/results-about-you) - check with these results inside the list above for **OPT-OUT**
 
 ## Archive tools that I've made
  
