@@ -33,7 +33,7 @@ HUMINT isn't limited to espionage—it appears in many civilian and professional
 
 | Pros                                | Cons                                            |
 | ----------------------------------- | ----------------------------------------------- |
-| Early warnings and hidden leads     | Unverified and easily manipulated               |
+| Early warnings and hidden leads     | [Unverified and easily manipulated](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/smokescreen-misinfo.md)               |
 | Gauges public sentiment             | May waste resources or damage credibility       |
 
 ### HUMINT (Human Intelligence)
