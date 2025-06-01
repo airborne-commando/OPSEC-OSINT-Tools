@@ -55,6 +55,7 @@ It's a security discipline and operations function that involves a continuous cy
 * [Over-sharing personal information online](https://www.youtube.com/playlist?list=PLABqEYq6H3vpCmsmyUnHnfMOeAnjBdSNm)
 * Leaving unused social media online
 * [interacting with a target](https://opsecfail.github.io/blog.html?filecase=w0rmer) on [social media](https://darknetdiaries.com/transcript/63/)
+* [examples](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/examples.md)
 
 OPSEC supplements other security disciplines rather than replacing them.
 
