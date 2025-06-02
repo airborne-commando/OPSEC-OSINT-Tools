@@ -14,6 +14,7 @@ A comprehensive guide to operational security tools and techniques.
 - [Cryptocurrency](#cryptocurrency)
 - [Data Destruction](#data-destruction)
 - [Miscellaneous](#miscellaneous)
+- [physical security](#physical-security-in-opsec)
 
 ---
 
