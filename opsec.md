@@ -256,6 +256,43 @@ After that is done, I delete the convo for both but keep private notes for both 
 
 For SSD's I'd recommend using LUK's or a container as securely erasing in traditional means is basically useless if you want to format the entire drive.
 
+## Physical Security in OPSEC
+
+**Physical security** is a core component of Operations Security (OPSEC) and refers to the measures taken to protect personnel, equipment, facilities, and information from physical threats such as unauthorized access, theft, vandalism, espionage, sabotage, terrorism, and natural disasters. In the context of OPSEC, physical security is about preventing adversaries from gaining physical access to sensitive information or critical infrastructure that could be exploited.
+
+Physical security typically involves a layered approach, often called "security-in-depth," which integrates multiple active and passive controls such as:
+
+* Perimeter barriers (fences, gates)
+* Surveillance systems (CCTV, sensors)
+* Access control (locks, badges, biometrics)
+* Security personnel (guards, patrols)
+* Intrusion detection systems
+* Lighting and environmental design
+
+These layers are designed to deter, detect, delay, and respond to potential threats, thereby reducing the risk of compromise or harm to assets and information.
+
+## Can Physical Security Include Firearms?
+
+Yes, physical security measures can include the use of firearms, especially in high-risk environments or where there is a credible threat of armed intrusion, terrorism, or violent crime. Armed security personnel are often deployed as a visible deterrent and as part of the response capability within a physical security plan.
+
+For example:
+
+* Military and critical infrastructure facilities may issue firearms to security forces as prescribed by their operational requirements and after proper briefing on the use of force.
+* The presence of well-trained, armed security guards is recognized as an effective deterrence measure in certain high-risk settings.
+
+However, the inclusion of firearms in physical security is subject to strict policies, legal regulations, and operational guidelines to ensure appropriate use and to mitigate potential risks associated with armed response.
+
+## Summary Table
+
+| Aspect                    | Description                                                                                          | Can Include Firearms? |
+| ------------------------- | ---------------------------------------------------------------------------------------------------- | --------------------- |
+| Physical Security (OPSEC) | Measures to protect assets, personnel, and information from physical threats                         | Yes, if justified     |
+| Typical Measures          | Barriers, surveillance, access control, guards, detection systems                                    |                       |
+| Firearms Role             | Used by trained security personnel as a deterrent and for response in high-risk or military settings | Yes                   |
+
+**In summary:** Physical security in OPSEC is about safeguarding assets from physical threats using layered controls, and in certain contexts—especially military or high-security environments—this can include the deployment of firearms as part of the overall security strategy.
+
+
 ---
 
 **Remember:** The best OPSEC sometimes means not interacting with your target at all to avoid alerting them.
