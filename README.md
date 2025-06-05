@@ -25,18 +25,19 @@ A list of OSINT/OPSEC tools I made, forked, and/or use. First, let's talk about 
 2. [Open Source Intelligence (OSINT)](#open-source-intelligence-osint)
 3. [Who uses Open-Source Intelligence (OSINT)?](#who-uses-open-source-intelligence-osint)
 4. [Sources of OSINT](#sources-of-osint)
-5. [closed sourced](#closed-sourced-info)
-6. [Real world examples of OSINT](#real-world-examples-of-osint)
+5. [OSINT Profiling](#digital-profiling-osint-profiling)
+6. [closed sourced](#closed-sourced-info)
+7. [Real world examples of OSINT](#real-world-examples-of-osint)
    - [2016 Airstrike Coordination](#in-the-year-2016-a-basket-weaving-image-board-used-osint-to-pay-some-supposed-terrorist-a-vist-from-a-govt-in-russia-resulting-in-airstrikes)
    - [2017 Shia LaBeouf Protest](#in-2017-shia-labeouf-had-a-protest-due-to-trumps-election-this-resulted-in-a-basket-weaving-image-board-using-osint-and-sky-patterns-to-figure-out-where-a-flag-is)
-7. [Tools](#tools)
+8. [Tools](#tools)
       - [Toolchain Recommendations](#toolchain-recommendations)
-8. [People search tools (in the states)](#people-search-tools-in-the-states)
-9. [Grey literature](#grey-literature)
-10. [Breached Data](#breached-data)
-11. [Social Media](#social-media)
-12. [Curated lists](#curated-lists)
-13. [Archive tools](#archive-tools-that-ive-made)
+9. [People search tools (in the states)](#people-search-tools-in-the-states)
+10. [Grey literature](#grey-literature)
+11. [Breached Data](#breached-data)
+12. [Social Media](#social-media)
+13. [Curated lists](#curated-lists)
+14. [Archive tools](#archive-tools-that-ive-made)
 
 ## (Operations Security) is a systematic process for:
 1. Identifying
@@ -183,6 +184,12 @@ Thus bad opsec.
 ## In 2017, Shia LaBeouf had a protest due to Trumps election; this resulted in a basket weaving image board using OSINT and [sky patterns to figure out where a flag is.](https://www.vice.com/en/article/4chan-does-first-good-thing-pulls-off-the-heist-of-the-century1/)
 
 - In 2017, 4chan users managed to track down and replace Shia LaBeouf's "He Will Not Divide Us" protest flag. Using only the live-stream footage of the flag, they analyzed flight patterns, star positions, and a tweet to locate the flag in Greeneville, Tennessee. A local troll then honked his car horn until the sound was picked up on the live-stream, pinpointing the exact location. The flag was replaced with a Trump hat, marking the end of this elaborate trolling operation.
+
+## Digital profiling (OSINT profiling). 
+
+Digital profiling and behavioral analysis are powerful techniques for understanding individuals based on their online activities and digital footprints. While these methods are often used by professionals, you can apply many of the same principles and processes yourself by following a structured approach.
+
+Read more inside this readme on [OSINT profiling](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/OSINT-profiling.md)
 
 ## Closed Sourced Info
 
