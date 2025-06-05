@@ -75,3 +75,8 @@ Use a multi-axis profile to evaluate:
 | Ethics                    | Stay within legal and ethical boundaries                               |
 
 
+## Best way to fight against OSINT Profiling?
+
+1. Practice good [OPSEC](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/opsec.md)
+2. Establish a [Smokescreen](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/smokescreen-misinfo.md)
+3. OSINT yourself as stated in the [Main Guide](https://github.com/airborne-commando/OPSEC-OSINT-Tools#key-takeaways)
