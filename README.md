@@ -59,7 +59,10 @@ It's a security discipline and operations function that involves a continuous cy
    * [suspectAGB](https://opsecfail.github.io/blog.html?filecase=suspectAGB)
 
 * Leaving unused social media online
-* [interacting with a target](https://opsecfail.github.io/blog.html?filecase=w0rmer) on [social media](https://darknetdiaries.com/transcript/63/)
+* interacting with a target on social media
+   * [w0rmer](https://opsecfail.github.io/blog.html?filecase=w0rmer)
+   * [darknetdiaries](https://darknetdiaries.com/transcript/63/)
+
 * [examples of good and bad opsec and some osint.](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/examples.md)
 
 OPSEC supplements other security disciplines rather than replacing them.
@@ -97,7 +100,7 @@ OPSEC supplements other security disciplines rather than replacing them.
 2. **Anonymity**:  
    - **Tor** + **Mullvad VPN** + **XMR** = layered protection.  
    - Avoid logging into personal accounts while using these tools.
-   - Pitfalls: you need to use TOR and Mullvad separately for maximum Anonymity, use a [Virtual Machine](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/opsec.md#virtualization).
+   - Pitfalls: you need to use TOR and Mullvad separately for maximum Anonymity, use a [Virtual Machine](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/opsec.md#virtualization) for VPN's and TOR on another (or the host).
 
 3. **Identity**:  
    - **Unique usernames** + **AI faces** + **word spinning** = harder to trace.  
@@ -106,7 +109,18 @@ OPSEC supplements other security disciplines rather than replacing them.
    - Regularly **opt out** of data brokers and **OSINT yourself**.  
 
 5. **OPSEC Mindset**:  
-   - Follow **[good OPSEC](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/good-opsec.md)** and avoid **[bad habits](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/badopsec.md)**.  
+   - Follow **[good OPSEC](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/good-opsec.md)** and avoid **[bad habits](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/badopsec.md)**.
+
+
+**Note**:
+
+By TOR I mean Tor Browser, VPN as in Virtual Private Network (Mullvad; though it can be other types of VPN's out there as long as it's safe to use and vetted by privacy experts); XMR is Monero Coin or Monero for short, a Privacy Coin.
+
+Check Wikipedia If you're confused on all of these here:
+1. [VPN](https://en.wikipedia.org/wiki/Virtual_private_network)
+   - [VPN service](https://en.wikipedia.org/wiki/VPN_service)
+2. [TOR](https://en.wikipedia.org/wiki/Tor_(network))
+3. [XMR](https://en.wikipedia.org/wiki/Monero)
 
 --- 
 
