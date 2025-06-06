@@ -118,6 +118,7 @@ By TOR I mean Tor Browser, VPN as in Virtual Private Network (Mullvad; though it
 
 Check Wikipedia If you're confused on all of these here:
 1. [VPN](https://en.wikipedia.org/wiki/Virtual_private_network)
+   - [VPN service](https://en.wikipedia.org/wiki/VPN_service)
 2. [TOR](https://en.wikipedia.org/wiki/Tor_(network))
 3. [XMR](https://en.wikipedia.org/wiki/Monero)
 
