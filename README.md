@@ -290,7 +290,7 @@ Pipeline discussed [here](https://github.com/airborne-commando/OPSEC-OSINT-Tools
 3. **Specializations**:  
    - *Social Media*: PeekYou, IDCrawl.  
    - *Geolocation*: ClustrMaps.  
-   - *Comprehensive*: FastPeopleSearch, Nuwber.  
+   - *Comprehensive*: FastPeopleSearch, Nuwber, fastbackgroundcheck.  
 
 **Disclaimer**: Accuracy varies; users rarely update emails unless compromised. Use ethically!
 
