@@ -151,6 +151,39 @@ To monitor I2P status:
 ---
 
 ## Virtualization
+
+**Virtualization** allows a single physical machine to run multiple virtual environments, improving resource use and flexibility.
+
+### How It Works
+
+* **Virtual Machines (VMs)**: Simulated systems that run independently on shared hardware.
+* **Hypervisor**: Software that manages VMs.
+
+  * **Type 1** runs directly on hardware (e.g., VMware ESXi).
+  * **Type 2** runs on an OS (e.g., VMware Workstation).
+
+### Types
+
+* **Server**: Multiple servers on one machine. (XCP-NG)
+* **Desktop**: Centralized desktops delivered to users. (what We're using)
+* **Network**: Virtual network channels.
+* **Storage**: Unified storage from multiple devices.
+* **Application**: Apps run independently of the OS.
+
+### Benefits
+
+* Better resource use
+* Lower hardware costs
+* Easy scaling
+* Improved security
+* Simplified backups and recovery
+
+### Use Cases
+
+Core to cloud computing and enterprise IT, enabling efficient, scalable infrastructure management.
+
+---
+
 - [Libvirt](https://virt-manager.org/) - Advanced Linux virtualization
 - [VirtualBox](https://www.virtualbox.org/) - Cross-platform solution
 
