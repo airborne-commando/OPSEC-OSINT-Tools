@@ -416,7 +416,7 @@ An automtic tool that I've made for [pa voter services](https://github.com/airbo
 
 ## Toolchain (self-OSINT):
 
-Google dorks: `https://www.google.com/search?q "first+last" "Street Address" "City state" "age"` -> [Results about you (google index)](https://myactivity.google.com/results-about-you) -> [big ass list](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) -> [inteltechniques opt out workbook](https://inteltechniques.com/workbook.html) -> [People Search tools](https://github.com/airborne-commando/OPSEC-OSINT-Tools/tree/main?tab=readme-ov-file#people-search-tools-in-the-states)
+Google dorks: `https://www.google.com/search?q= "first+last" "Street Address" "City state" "age"` -> [Results about you (google index)](https://myactivity.google.com/results-about-you) -> [big ass list](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) -> [inteltechniques opt out workbook](https://inteltechniques.com/workbook.html) -> [People Search tools](https://github.com/airborne-commando/OPSEC-OSINT-Tools/tree/main?tab=readme-ov-file#people-search-tools-in-the-states)
 
 **Notice** 
 
