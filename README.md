@@ -197,7 +197,7 @@ Read more inside this readme on [OSINT profiling](https://github.com/airborne-co
 
 **HUMINT can be collected overtly (e.g., interviews, debriefings, diplomatic reporting) or covertly (e.g., espionage, clandestine surveillance).**
 
-**Buying from databrokers can be closed sourced if the info isn't freely available**
+**Buying from databrokers can be closed sourced if the info isn't freely available IF not cross referenced VIA the [Curated Lists](#curated-lists)**
 
 ## Tools
 
@@ -280,6 +280,7 @@ Pipeline discussed [here](https://github.com/airborne-commando/OPSEC-OSINT-Tools
 | **[Webmii](https://webmii.com/)**            | First + Last Name           | Social Media, Search Results             | Lightweight; scans public web/social profiles.                           |
 | **[PublicRecords](https://www.publicrecords.onlinesearches.com/)**     | Name, Address, State        | Name, Address, Partial Phone             | Free directory; redirects to Intelius for paid details.                  |
 | **[ClustrMaps](https://clustrmaps.com/)**        | Name, Address               | Addresses, Residents, Property, IP Data  | Focuses on geolocation/demographics; may include ownership history.      |
+| **[fastbackgroundcheck](www.fastbackgroundcheck.com)** | Name, Address, Phone Number | Name, Address, Phone Number, Emails | Seems to comb though billions of records as stated on it's [website](https://www.fastbackgroundcheck.com/about) |
 
 ---
 
@@ -289,7 +290,7 @@ Pipeline discussed [here](https://github.com/airborne-commando/OPSEC-OSINT-Tools
 3. **Specializations**:  
    - *Social Media*: PeekYou, IDCrawl.  
    - *Geolocation*: ClustrMaps.  
-   - *Comprehensive*: FastPeopleSearch, Nuwber.  
+   - *Comprehensive*: FastPeopleSearch, Nuwber, fastbackgroundcheck.  
 
 **Disclaimer**: Accuracy varies; users rarely update emails unless compromised. Use ethically!
 
