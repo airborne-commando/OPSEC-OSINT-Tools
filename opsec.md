@@ -73,6 +73,20 @@ A comprehensive guide to operational security tools and techniques.
     - [Tor Project](https://www.torproject.org/)
     - [Mullvad VPN](https://mullvad.net/en)
 
+    - [I2P](https://geti2p.net/en/)
+        - [More info about it here](https://geti2p.net/en/about/intro)
+
+    - [Freenet](https://hyphanet.org/) (See below for Vulnerabilities)
+        - Wikipedia article on [Vulnerabilities](https://en.wikipedia.org/wiki/Hyphanet#Vulnerabilities), not that I feel bad.
+        - An [Article](https://www.sacbee.com/news/local/crime/article305942121.html)
+
+Tor Also faced Vulnerabilities:
+
+- [timing analyses](https://www.pcmag.com/news/tor-dark-web-browser-users-reportedly-unmasked-by-police)
+- They even state it's most likely [user error](https://support.torproject.org/faq/staying-anonymous/)
+
+---
+
 - Operating Systems
     - [tails OS](https://tails.net/) - Live USB OS
     - [Whonix](https://www.whonix.org/) - VM-based anonymity OS
