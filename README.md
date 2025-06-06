@@ -102,6 +102,16 @@ OPSEC supplements other security disciplines rather than replacing them.
    - Avoid logging into personal accounts while using these tools.
    - Pitfalls: you need to use TOR and Mullvad separately for maximum Anonymity, use a [Virtual Machine](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/opsec.md#virtualization) for VPN's and TOR on another (or the host).
 
+3. **Identity**:  
+   - **Unique usernames** + **AI faces** + **word spinning** = harder to trace.  
+
+4. **Self-Audit**:  
+   - Regularly **opt out** of data brokers and **OSINT yourself**.  
+
+5. **OPSEC Mindset**:  
+   - Follow **[good OPSEC](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/good-opsec.md)** and avoid **[bad habits](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/badopsec.md)**.
+
+
 **Note**:
 
 By TOR I mean Tor Browser, VPN as in Virtual Private Network (Mullvad; though it can be other types of VPN's out there as long as it's safe to use and vetted by privacy experts); XMR is Monero Coin or Monero for short, a Privacy Coin.
@@ -110,16 +120,6 @@ Check Wikipedia If you're confused on all of these here:
 1. [VPN](https://en.wikipedia.org/wiki/Virtual_private_network)
 2. [TOR](https://en.wikipedia.org/wiki/Tor_(network))
 3. [XMR](https://en.wikipedia.org/wiki/Monero)
-
-
-4. **Identity**:  
-   - **Unique usernames** + **AI faces** + **word spinning** = harder to trace.  
-
-5. **Self-Audit**:  
-   - Regularly **opt out** of data brokers and **OSINT yourself**.  
-
-6. **OPSEC Mindset**:  
-   - Follow **[good OPSEC](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/good-opsec.md)** and avoid **[bad habits](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/badopsec.md)**.  
 
 --- 
 
