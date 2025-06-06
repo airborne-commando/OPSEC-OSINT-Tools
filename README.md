@@ -316,7 +316,7 @@ Pipeline discussed [here](https://github.com/airborne-commando/OPSEC-OSINT-Tools
 
 ## Grey literature
 
-Use this site; [do not register](https://vote.gov/register), check a voter registration. Will probably need more info in some states; while other need less.
+Use this site; [do not register](https://vote.gov/register), check a voter registration. Will probably need more info in some states; while others need less.
 
 An automtic tool that I've made for [pa voter services](https://github.com/airborne-commando/voter-reg-status). Feel free to fork for other states.
 
@@ -430,7 +430,7 @@ An automtic tool that I've made for [pa voter services](https://github.com/airbo
 
 - [inteltechniques opt out workbook](https://inteltechniques.com/workbook.html)
 
-- [Results about you (google index)](https://myactivity.google.com/results-about-you) - check with these results inside the list above for **OPT-OUT**
+- [Results about you (google index)](https://myactivity.google.com/results-about-you) - Check what google emails you; actually visit the website and see about doing an opt-out there.
 
 ## Toolchain (self-OSINT):
 
@@ -438,7 +438,7 @@ Google dorks: `https://www.google.com/search?q= "first+last" "Street Address" "C
 
 **Notice** 
 
-[Results about you (google index)](https://myactivity.google.com/results-about-you) can also be emailed so keep that in mind when comparing info I.E.: Google will find webistes containing your first-last name and address and will ask to remove it from the index. Before applying the removal process on google search be sure to remove info from the website itself that it's hosted on. Google Dorking seems to be a bit quicker and preemptive on removing info about yourself after you visit said sites.
+[Results about you (google index)](https://myactivity.google.com/results-about-you) can also be emailed so keep that in mind when comparing info I.E.: Google will find webistes containing your first-last name and address and will ask to remove it from the index. Before applying the removal process on google search be sure to remove info from the website itself that it's hosted on. Google Dorking seems to be a bit quicker and preemptive on removing info about yourself after you visit said sites (if applicable).
 
 Also with doing google dorks the manual way is that you won't get flagged by google itself as a bot.
 
