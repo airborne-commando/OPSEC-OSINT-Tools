@@ -72,6 +72,8 @@ A comprehensive guide to operational security tools and techniques.
 - Ip Hiders and VPNS
     - [Tor Project](https://www.torproject.org/)
     - [Mullvad VPN](https://mullvad.net/en)
+    - [I2P](https://geti2p.net/en/)
+        - [More info about it here](https://geti2p.net/en/about/intro) 
 
 - Operating Systems
     - [tails OS](https://tails.net/) - Live USB OS
