@@ -343,4 +343,36 @@ However, the inclusion of firearms in physical security is subject to strict pol
 
 ---
 
+# Physical Security and Chemical Protection
+
+**Physical security** in the context of OPSEC (Operational Security) refers to measures that protect physical assets, spaces, and people from unauthorized access, theft, or harm. This includes barriers, locks, surveillance, guards, and other tangible protections.
+
+**Chemical protection**—such as using chemicals to deter, incapacitate, or protect oneself (e.g., pepper spray, tear gas, or chemical barriers)—can be considered part of physical security if the intent is to prevent or mitigate physical threats. These are tools or methods that physically affect an intruder or attacker, thereby contributing to the overall physical security posture.
+
+---
+
+## Key Points
+
+- Physical security focuses on tangible measures to prevent unauthorized physical access or harm.
+- Using chemicals (like pepper spray or tear gas) as a defensive measure falls under physical security because it directly impacts the physical safety or integrity of people or property.
+- The use of chemicals for protection is often regulated by law and may have ethical, legal, and safety implications.
+
+---
+
+## Summary Table
+
+| Security Type       | Typical Measures                         | Can Include Chemicals?   |
+|---------------------|------------------------------------------|--------------------------|
+| Physical Security   | Locks, barriers, guards, surveillance    | Yes (e.g., pepper spray) |
+| Chemical Security   | Safe handling/storage of chemicals       | Not typically for defense|
+
+---
+
+## Conclusion
+
+Yes, using chemicals to protect yourself (such as defensive sprays) can be considered part of physical security in OPSEC, as these are tangible means to prevent or mitigate physical threats. Always ensure such measures comply with relevant laws and regulations.
+
+---
+
+
 **Remember:** The best OPSEC sometimes means not interacting with your target at all to avoid alerting them.
