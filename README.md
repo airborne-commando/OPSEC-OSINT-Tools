@@ -36,8 +36,9 @@ A list of OSINT/OPSEC tools I made, forked, and/or use. First, let's talk about 
 10. [Grey literature](#grey-literature)
 11. [Breached Data](#breached-data)
 12. [Social Media](#social-media)
-13. [Curated lists](#curated-lists)
-14. [Archive tools](#archive-tools-that-ive-made)
+13. [Self OSINT](#toolchain-self-osint)
+14. [Curated lists](#curated-lists)
+16. [Archive tools](#archive-tools-that-ive-made)
 
 ## (Operations Security) is a systematic process for:
 1. Identifying
