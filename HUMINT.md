@@ -1,6 +1,6 @@
 # HUMINT Overview
 
-**HUMINT (Human Intelligence)** refers to intelligence gathered through direct human interaction, such as interviews, observation, and interpersonal communication. Unlike technical intelligence (e.g., SIGINT or IMINT), HUMINT relies on people as both sources and collectors of information.
+**HUMINT (Human Intelligence)** refers to intelligence gathered through direct human interaction, such as interviews, observation, and interpersonal communication. Unlike technical intelligence (e.g., [SIGINT](https://www.emsopedia.org/entries/signal-intelligence-sigint/) or [IMINT](https://www.emsopedia.org/entries/image-intelligence-imint/)), HUMINT relies on people as both sources and collectors of information.
 
 ## What is HUMINT?
 
