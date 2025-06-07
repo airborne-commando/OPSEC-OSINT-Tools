@@ -188,6 +188,31 @@ OSINT can gather information from various sources, including:
    
   - Grey literature can be useful for your research, but finding resources requires different tactics than you'd use for commercially published materials. This is because many types of grey literature are not indexed in some of the more common research tools like PubMed, CINAHL, Scopus, etc. 
 
+
+- Google Dorks:
+
+| Operator              | Description                                     | Example                       |                   |
+| --------------------- | ----------------------------------------------- | ----------------------------- | ----------------- |
+| `site:`               | Search within a specific website or domain      | `site:example.com`            |                   |
+| `intitle:`            | Find pages with specific words in the **title** | `intitle:"login page"`        |                   |
+| `allintitle:`         | All words must appear in the **title**          | `allintitle:admin login`      |                   |
+| `inurl:`              | Words in the **URL**                            | `inurl:admin`                 |                   |
+| `allinurl:`           | All terms in the **URL**                        | `allinurl:dashboard admin`    |                   |
+| `filetype:` or `ext:` | Search for specific file types                  | `filetype:pdf` or `ext:xls`   |                   |
+| `intext:`             | Word or phrase in the **page body**             | `intext:"confidential"`       |                   |
+| `allintext:`          | All terms in the **body text**                  | `allintext:password username` |                   |
+| `link:`               | Pages linking to a specified URL                | `link:example.com`            |                   |
+| `cache:`              | View cached version of a page                   | `cache:example.com`           |                   |
+| `define:`             | Look up a word definition                       | `define:opsec`                |                   |
+| `related:`            | Find sites similar to a URL                     | `related:example.com`         |                   |
+| `*`                   | Wildcard – matches any word                     | `"admin * login"`             |                   |
+| `OR` / \`             | \`                                              | Either search term can appear | `login OR signin` |
+| `AND`                 | Both terms must appear (default behavior)       | `username AND password`       |                   |
+| `-`                   | Exclude term                                    | `login -facebook`             |                   |
+| `"`                   | Exact phrase                                    | `"confidential file"`         |                   |
+ 
+
+
 ### Real world examples of OSINT
 
 ## In the year 2016, a basket weaving image board used OSINT to pay some supposed terrorist a vist from a [govt in Russia resulting in airstrikes.](https://imgur.com/pol-helps-coordinate-airstrike-on-moderate-syrian-rebels-N7DwWP1)
