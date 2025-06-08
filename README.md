@@ -106,7 +106,7 @@ OPSEC supplements other security disciplines rather than replacing them.
    - **Unique usernames** + **AI faces** + **word spinning** = harder to trace.  
 
 4. **Self-Audit**:  
-   - Regularly **opt out** of data brokers and **OSINT yourself**.  
+   - Regularly **opt out** of data brokers and **[OSINT yourself](#toolchain-self-osint)**.  
 
 5. **OPSEC Mindset**:  
    - Follow **[good OPSEC](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/good-opsec.md)** and avoid **[bad habits](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/badopsec.md)**.
@@ -188,6 +188,31 @@ OSINT can gather information from various sources, including:
    
   - Grey literature can be useful for your research, but finding resources requires different tactics than you'd use for commercially published materials. This is because many types of grey literature are not indexed in some of the more common research tools like PubMed, CINAHL, Scopus, etc. 
 
+
+- Google Dorks:
+
+| Operator              | Description                                     | Example                       |                   |
+| --------------------- | ----------------------------------------------- | ----------------------------- | ----------------- |
+| `site:`               | Search within a specific website or domain      | `site:example.com`            |                   |
+| `intitle:`            | Find pages with specific words in the **title** | `intitle:"login page"`        |                   |
+| `allintitle:`         | All words must appear in the **title**          | `allintitle:admin login`      |                   |
+| `inurl:`              | Words in the **URL**                            | `inurl:admin`                 |                   |
+| `allinurl:`           | All terms in the **URL**                        | `allinurl:dashboard admin`    |                   |
+| `filetype:` or `ext:` | Search for specific file types                  | `filetype:pdf` or `ext:xls`   |                   |
+| `intext:`             | Word or phrase in the **page body**             | `intext:"confidential"`       |                   |
+| `allintext:`          | All terms in the **body text**                  | `allintext:password username` |                   |
+| `link:`               | Pages linking to a specified URL                | `link:example.com`            |                   |
+| `cache:`              | View cached version of a page                   | `cache:example.com`           |                   |
+| `define:`             | Look up a word definition                       | `define:opsec`                |                   |
+| `related:`            | Find sites similar to a URL                     | `related:example.com`         |                   |
+| `*`                   | Wildcard – matches any word                     | `"admin * login"`             |                   |
+| `OR` / \`             | \`                                              | Either search term can appear | `login OR signin` |
+| `AND`                 | Both terms must appear (default behavior)       | `username AND password`       |                   |
+| `-`                   | Exclude term                                    | `login -facebook`             |                   |
+| `"`                   | Exact phrase                                    | `"confidential file"`         |                   |
+ 
+
+
 ### Real world examples of OSINT
 
 ## In the year 2016, a basket weaving image board used OSINT to pay some supposed terrorist a vist from a [govt in Russia resulting in airstrikes.](https://imgur.com/pol-helps-coordinate-airstrike-on-moderate-syrian-rebels-N7DwWP1)
@@ -223,7 +248,8 @@ Read more inside this readme on [OSINT profiling](https://github.com/airborne-co
 
 | **Category**               | **Tool**                  | **Link**                                                                 | **Functionality**                                                                 | **Limitations/Notes**                                                                 |
 |----------------------------|--------------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| **Search Engine Queries**  | Google-FU                | [GitHub](https://github.com/airborne-commando/GoogleFU-improved)        | Advanced Google dorking for targeted searches                                  | Rate limits apply; may trigger CAPTCHAs                                              |
+| **Search Engine Queries**  | dorksearch                | [dorksearch](https://dorksearch.com/)        | Advanced Google dorking for targeted searches                                  | AI Doesn't work, have to build manually & internet access.                                              |
+|                            | Google-FU                | [GitHub](https://github.com/airborne-commando/GoogleFU-improved)        | Advanced Google dorking for targeted searches                                  | Rate limits apply; may trigger CAPTCHAs                                              |
 | **Biometric Analysis**     | Facecheck.ID             | [GitHub](https://github.com/vin3110/facecheck.id-results-extractor)     | Reverse image search bypassing paywalls                                        | Requires Tampermonkey; extracts source links only                                   |
 | **Username/Email Search**  | Blackbird                | [GitHub](https://github.com/p1ngul1n0/blackbird)                       | Fast cross-platform username/email lookup                                      | CLI-only; lightweight                                                               |
 |                            | Crow (GUI for Blackbird) | [GitHub](https://github.com/airborne-commando/crow)                     | GUI version of Blackbird                                                       | Same functionality as CLI                                                           |

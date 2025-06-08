@@ -376,3 +376,4 @@ Yes, using chemicals to protect yourself (such as defensive sprays) can be consi
 
 
 **Remember:** The best OPSEC sometimes means not interacting with your target at all to avoid alerting them.
+And again [You Didn't Have to Post That](https://www.youtube.com/watch?v=AkQaL9SU2BY).
