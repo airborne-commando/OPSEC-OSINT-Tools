@@ -106,7 +106,7 @@ OPSEC supplements other security disciplines rather than replacing them.
    - **Unique usernames** + **AI faces** + **word spinning** = harder to trace.  
 
 4. **Self-Audit**:  
-   - Regularly **opt out** of data brokers and **OSINT yourself**.  
+   - Regularly **opt out** of data brokers and **[OSINT yourself](#toolchain-self-osint)**.  
 
 5. **OPSEC Mindset**:  
    - Follow **[good OPSEC](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/good-opsec.md)** and avoid **[bad habits](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/badopsec.md)**.
