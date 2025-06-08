@@ -1,5 +1,9 @@
 # Here are some notable examples of bad Tor OPSEC:
 
+In short
+
+[You Didn't Have to Post That](https://www.youtube.com/watch?v=AkQaL9SU2BY)
+
 ## School Bomb Threats
 
 ### Florida High School Student
