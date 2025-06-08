@@ -53,3 +53,4 @@ HUMINT isn't limited to espionage—it appears in many civilian and professional
 ---
 
 > HUMINT is a critical component of both professional intelligence operations and everyday information gathering. It emphasizes the power of direct human engagement in understanding environments, people, and events.
+> It is also good to remember that loose lips sink ships.
