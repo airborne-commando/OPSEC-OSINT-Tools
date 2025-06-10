@@ -1,3 +1,13 @@
+## Table of Contents
+
+- [HUMINT Overview](#humint-overview)
+- [What is HUMINT?](#what-is-humint)
+- [Everyday Examples of HUMINT](#everyday-examples-of-humint)
+- [Civilian Examples](#civilian-examples)
+- [RUMINT vs HUMINT](#rumint-vs-humint)
+- [Summary Table](#summary-table)
+- back to [main guide](https://github.com/airborne-commando/OPSEC-OSINT-Tools)
+
 # HUMINT Overview
 
 **HUMINT (Human Intelligence)** refers to intelligence gathered through direct human interaction, such as interviews, observation, and interpersonal communication. Unlike technical intelligence (e.g., [SIGINT](https://www.emsopedia.org/entries/signal-intelligence-sigint/) or [IMINT](https://www.emsopedia.org/entries/image-intelligence-imint/)), HUMINT relies on people as both sources and collectors of information.
