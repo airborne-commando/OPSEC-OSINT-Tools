@@ -1,3 +1,38 @@
+## Table of Contents
+
+- [How to Physically Destroy a Hard Disk Drive (HDD)](#how-to-physically-destroy-a-hard-disk-drive-hdd)
+  - [Industrial/Professional Methods](#industrialprofessional-methods)
+  - [At-Home/Manual Methods](#at-homemanual-methods)
+  - [Other Methods](#other-methods)
+  - [Summary Table](#summary-table)
+  - [Key Point](#key-point)
+  - [References](#references)
+
+- [Methods to Physically Destroy an SSD](#methods-to-physically-destroy-an-ssd)
+  - [Overview](#overview)
+  - [At-Home Methods](#at-home-methods)
+  - [Industrial/Professional Methods](#industrialprofessional-methods-1)
+  - [Methods to Avoid](#methods-to-avoid)
+  - [Quick Reference Table](#quick-reference-table)
+  - [Summary](#summary-1)
+  - [References](#references-1)
+
+- [Comparative Analysis: Data Destruction Methods](#comparative-analysis-data-destruction-methods)
+  - [Recommended Methods by Scenario](#recommended-methods-by-scenario)
+  - [Final Recommendations](#final-recommendations)
+  - [Safety Notes](#safety-notes)
+
+- [Bonus! USBs!](#bonus-usbs)
+  - [USB Flash Drive Physical Destruction Guide](#usb-flash-drive-physical-destruction-guide)
+    - [Recommended Destruction Methods](#recommended-destruction-methods)
+    - [Final Disposal](#final-disposal)
+    - [Ineffective Methods](#ineffective-methods)
+    - [Method Comparison Table](#method-comparison-table)
+    - [Key Points](#key-points)
+    - [Safety Warning](#safety-warning)
+    - [References](#references-2)
+    - [main guide](https://github.com/airborne-commando/OPSEC-OSINT-Tools)
+
 # How to Physically Destroy a Hard Disk Drive (HDD)
 
 Physically destroying a hard drive is the most reliable way to ensure data cannot be recovered. Here are the most effective methods:
