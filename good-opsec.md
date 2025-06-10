@@ -17,7 +17,7 @@ Below are for the normies out there.
 - [Be Mindful of Physical Documents](#be-mindful-of-physical-documents)
 - [Use Privacy Settings on Social Media](#use-privacy-settings-on-social-media)
 - [Be Cautious with Third-Party Apps](#be-cautious-with-third-party-apps)
-
+- back to [main guide](https://github.com/airborne-commando/OPSEC-OSINT-Tools)
 ---
 
 ## Use Strong, Unique Passwords
