@@ -5,19 +5,19 @@
 ## 📚 Table of Contents
 
 1. [Key Points on IMINT (Imagery Intelligence)](#key-points-on-imint-imagery-intelligence)
-   1.1 [Definition](#1-definition)
-   1.2 [Who Uses IMINT?](#2-who-uses-imint)
-   1.3 [Using Public Images with Maps](#3-using-public-images-with-maps)
-   1.4 [Ten Practical Applications](#4-ten-practical-applications)
-   1.5 [Broader Applications](#5-broader-applications)
-   1.6 [Ethical and Legal Considerations](#6-ethical-and-legal-considerations)
+   * 1.1 [Definition](#1-definition)
+   * 1.2 [Who Uses IMINT?](#2-who-uses-imint)
+   * 1.3 [Using Public Images with Maps](#3-using-public-images-with-maps)
+   * 1.4 [Ten Practical Applications](#4-ten-practical-applications)
+   * 1.5 [Broader Applications](#5-broader-applications)
+   * 1.6 [Ethical and Legal Considerations](#6-ethical-and-legal-considerations)
 
 3. [Combining IMINT with OPSEC-OSINT-Tools](#combined)
-   2.1 [Multidimensional Intelligence](#1-multidimensional-intelligence)
-   2.2 [Enhanced Geolocation](#2-enhanced-geolocation)
-   2.3 [Improved Digital Profiling](#3-improved-digital-profiling)
-   2.4 [OPSEC Assessment](#4-opsec-assessment)
-   2.5 [Real-World Applications](#5-real-world-applications)
+* 2.1 [Multidimensional Intelligence](#1-multidimensional-intelligence)
+* 2.2 [Enhanced Geolocation](#2-enhanced-geolocation)
+* 2.3 [Improved Digital Profiling](#3-improved-digital-profiling)
+* 2.4 [OPSEC Assessment](#4-opsec-assessment)
+* 2.5 [Real-World Applications](#5-real-world-applications)
 
 4. [10 Practical Use Cases](#10-practical-use-cases)
 
