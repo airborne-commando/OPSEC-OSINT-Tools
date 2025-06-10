@@ -243,6 +243,10 @@ Read more inside this readme on [OSINT profiling](https://github.com/airborne-co
 
 **Buying from databrokers can be closed sourced if the info isn't freely available IF not cross referenced VIA the [Curated Lists](#curated-lists) OR the [Toolchain](#toolchain-self-osint) for self OSINT**
 
+# IMINT
+
+IMINT involves collecting and analyzing visual imagery—satellite, aerial, drone, or ground photos—to extract useful information.
+
 ## Tools
 
 ---
