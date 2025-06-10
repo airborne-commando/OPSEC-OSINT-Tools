@@ -22,6 +22,7 @@
 4. [10 Practical Use Cases](#10-practical-use-cases)
 
 5. [Best Practices & Cautions](#best-practices--cautions)
+6. back to [main guide](https://github.com/airborne-commando/OPSEC-OSINT-Tools)
 
 ---
 
