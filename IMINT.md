@@ -1,5 +1,59 @@
 ## **Key Points on IMINT (Imagery Intelligence)**
 
+Here’s a well-structured Table of Contents suitable for the README:
+
+---
+
+## 📘 Table of Contents
+
+1. [Definition](#definition)
+2. [Who Uses IMINT?](#who-uses-imint)
+
+   * 3.1 [Civilians](#civilians)
+   * 3.2 [Law Enforcement](#law-enforcement)
+3. [Using Public Images with Maps](#using-public-images-with-maps)
+
+   * 4.1 [Verifying Image Locations](#verifying-image-locations)
+   * 4.2 [Tracking Events or People](#tracking-events-or-people)
+   * 4.3 [Analyzing Protests or Disasters](#analyzing-protests-or-disasters)
+   * 4.4 [Investigating Fraud or Crime](#investigating-fraud-or-crime)
+   * 4.5 [Identifying Vehicles, Buildings, Terrain](#identifying-vehicles-buildings-terrain)
+4. [Practical Applications](#practical-applications)
+
+   * 5.1 Confirming Social Media Locations
+   * 5.2 Investigating Crime or Accidents
+   * 5.3 Travel Photo Verification
+   * 5.4 Locating Missing Individuals
+   * 5.5 Tracking Unauthorized Construction
+   * 5.6 Detecting Business Fraud
+   * 5.7 Mapping Protest Activity
+   * 5.8 Disaster Imagery Validation
+   * 5.9 Object/Vehicle Identification
+   * 5.10 Crowd‑sourced Geographic Data
+5. [Broader Applications](#broader-applications)
+
+   * 6.1 Disaster Response & Recovery
+   * 6.2 Environmental Monitoring
+   * 6.3 Agricultural Planning
+   * 6.4 Urban Development
+   * 6.5 Maritime Activity Tracking
+   * 6.6 Insurance Claims Validation
+   * 6.7 Conflict‑Zone Monitoring
+   * 6.8 Business Intelligence
+   * 6.9 Infrastructure Maintenance
+   * 6.10 Military Simulations
+6. [Ethical & Legal Considerations](#ethical--legal-considerations)
+7. [Integrating IMINT with OPSEC‑OSINT‑Tools](#integrating-imint-with-opsec-osint-tools)
+
+   * 8.1 Multidimensional Intelligence
+   * 8.2 Enhanced Geolocation
+   * 8.3 Improved Digital Profiling
+   * 8.4 OPSEC Assessment
+   * 8.5 Real‑World Applications
+8. [Real‑World Use Cases](#real-world-use-cases)
+9. [Best Practices & Cautions](#best-practices--cautions)
+
+
 ### 1. **Definition**
 
 * IMINT involves collecting and analyzing visual imagery—satellite, aerial, drone, or ground photos—to extract useful information.
