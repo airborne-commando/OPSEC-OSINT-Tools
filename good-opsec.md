@@ -5,6 +5,21 @@ See: [badopsec](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main
 Below are for the normies out there.
 ------------
 
+## Table of Contents
+
+- [Use Strong, Unique Passwords](#use-strong-unique-passwords)
+- [Keep Software Updated](#keep-software-updated)
+- [Be Cautious with Personal Information](#be-cautious-with-personal-information)
+- [Secure Physical Devices](#secure-physical-devices)
+- [Use Secure Networks](#use-secure-networks)
+- [Practice Email Security](#practice-email-security)
+- [Implement Home Network Security](#implement-home-network-security)
+- [Be Mindful of Physical Documents](#be-mindful-of-physical-documents)
+- [Use Privacy Settings on Social Media](#use-privacy-settings-on-social-media)
+- [Be Cautious with Third-Party Apps](#be-cautious-with-third-party-apps)
+- back to [main guide](https://github.com/airborne-commando/OPSEC-OSINT-Tools)
+---
+
 ## Use Strong, Unique Passwords
 
 - Create complex passwords for each account

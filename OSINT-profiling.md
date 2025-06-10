@@ -1,3 +1,17 @@
+## Table of Contents
+
+- [Digital Profiling and Behavioral Analysis Guide](#digital-profiling-and-behavioral-analysis-guide)
+- [1. Understand the Basics](#1-understand-the-basics)
+- [2. Collect Digital Biographical Information](#2-collect-digital-biographical-information)
+- [3. Analyze Behavioral Patterns](#3-analyze-behavioral-patterns)
+- [4. Assess Competencies and Affinities](#4-assess-competencies-and-affinities)
+- [5. Use Analytical Tools](#5-use-analytical-tools)
+- [6. Iterate and Refine](#6-iterate-and-refine)
+- [7. Ethical and Legal Considerations](#7-ethical-and-legal-considerations)
+- [Summary Table: Digital Profiling Process](#summary-table-digital-profiling-process)
+- [Best Way to Fight Against OSINT Profiling](#best-way-to-fight-against-osint-profiling)
+- back to [main guide](https://github.com/airborne-commando/OPSEC-OSINT-Tools)
+
 # Digital Profiling and Behavioral Analysis Guide
 
 Digital profiling and behavioral analysis are powerful techniques for understanding individuals based on their online activities and digital footprints. While these methods are often used by professionals, you can apply many of the same principles and processes yourself by following a structured approach.
