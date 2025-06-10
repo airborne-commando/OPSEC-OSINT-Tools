@@ -1,7 +1,5 @@
 ## **Key Points on IMINT (Imagery Intelligence)**
 
-Here’s a well-structured Table of Contents suitable for the README:
-
 ---
 
 ## 📘 Table of Contents
