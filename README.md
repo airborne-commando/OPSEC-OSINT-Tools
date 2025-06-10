@@ -245,7 +245,7 @@ Read more inside this readme on [OSINT profiling](https://github.com/airborne-co
 
 # IMINT
 
-IMINT involves collecting and analyzing visual imagery—satellite, aerial, drone, or ground photos—to extract useful information.
+[IMINT](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/IMINT.md)(Image INTelligence) involves collecting and analyzing visual imagery—satellite, aerial, drone, or ground photos—to extract useful information.
 
 ## Tools
 
