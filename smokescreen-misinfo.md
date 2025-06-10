@@ -1,3 +1,13 @@
+## Table of Contents
+
+- [Smoke Screen Operation in OSINT](#smoke-screen-operation-in-osint)
+  - [What is a Smoke Screen Operation?](#what-is-a-smoke-screen-operation)
+  - [How Does a Smoke Screen Operation Work in OSINT?](#how-does-a-smoke-screen-operation-work-in-osint)
+  - [Purpose and Use Cases](#purpose-and-use-cases)
+  - [Relevance to OSINT Practitioners](#relevance-to-osint-practitioners)
+  - [Conclusion](#conclusion)
+  - [main guide](https://github.com/airborne-commando/OPSEC-OSINT-Tools)
+
 # Smoke Screen Operation in OSINT
 
 A **smoke screen operation** in the context of OSINT (Open Source Intelligence) refers to deliberate actions taken to obscure, mislead, or mask the true activities, intentions, or identities of individuals or organizations from those conducting open-source intelligence gathering. The term is borrowed from military tactics, where a smoke screen is used to conceal movements or positions from enemy observation. In cyber and intelligence contexts, the concept is adapted to digital and informational environments.
