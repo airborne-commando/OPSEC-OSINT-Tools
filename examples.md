@@ -1,3 +1,19 @@
+## Table of Contents
+
+- [Criminals: Leveraging OSINT for Malicious Activities](#criminals-leveraging-osint-for-malicious-activities)
+  - [Sony Pictures Hack (2014)](#sony-pictures-hack-2014)
+  - [Ashley Madison Breach (2015)](#ashley-madison-breach-2015)
+- [Civilians: Utilizing OSINT for Advocacy and Investigation](#civilians-utilizing-osint-for-advocacy-and-investigation)
+  - [Identification of Russian Soldiers in Ukraine Conflict](#identification-of-russian-soldiers-in-ukraine-conflict)
+  - [BBC Investigation into Cameroonian Military Abuses](#bbc-investigation-into-cameroonian-military-abuses)
+- [Law Enforcement: Applying OSINT in Investigations](#law-enforcement-applying-osint-in-investigations)
+  - [Tracking Stolen Property Online](#tracking-stolen-property-online)
+  - [Use of ShadowDragon's SocialNet](#use-of-shadowdragons-socialnet)
+- [OPSEC Failures: Lessons from Real-World Mistakes](#opsec-failures-lessons-from-real-world-mistakes)
+  - [Guccifer 2.0's VPN Error](#guccifer-20s-vpn-error)
+  - [Silk Road's Ross Ulbricht](#silk-roads-ross-ulbricht)
+  - back to [main guide](https://github.com/airborne-commando/OPSEC-OSINT-Tools)
+
 The GitHub repository [OPSEC-OSINT-Tools](https://github.com/airborne-commando/OPSEC-OSINT-Tools) provides a comprehensive collection of tools and guidelines related to Operational Security (OPSEC) and Open-Source Intelligence (OSINT). These resources are applicable to various groups, including criminals, civilians, and law enforcement. Below are real-world examples illustrating how these tools and practices have been utilized across these groups:
 
 ---
