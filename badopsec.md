@@ -1,3 +1,19 @@
+## 📚 Table of Contents
+
+1. [Here are some notable examples of bad Tor OPSEC](#here-are-some-notable-examples-of-bad-tor-opsec)
+   1.1 [School Bomb Threats](#school-bomb-threats)
+       • [Florida High School Student](#florida-high-school-student)
+       • [Harvard Student Eldo Kim](#harvard-student-eldo-kim)
+   1.2 [Silk Road Case](#silk-road-case)
+   1.3 [LulzSec Hacking Group](#lulzsec-hacking-group)
+   1.4 [General Bad OPSEC Practices](#general-bad-opsec-practices)
+
+2. [External Lists on GitHub](#a-few-lists-i-found-on-github)
+
+3. [Mullvad VPN: A Contrast in Security](#mullvad-vpn-a-contrast-in-security)
+
+4. [Final Thoughts](#final-thoughts)
+
 # Here are some notable examples of bad Tor OPSEC:
 
 In short
