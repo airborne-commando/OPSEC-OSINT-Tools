@@ -12,16 +12,16 @@
    1.5 [Broader Applications](#5-broader-applications)
    1.6 [Ethical and Legal Considerations](#6-ethical-and-legal-considerations)
 
-2. [Combining IMINT with OPSEC-OSINT-Tools](#combined)
+3. [Combining IMINT with OPSEC-OSINT-Tools](#combined)
    2.1 [Multidimensional Intelligence](#1-multidimensional-intelligence)
    2.2 [Enhanced Geolocation](#2-enhanced-geolocation)
    2.3 [Improved Digital Profiling](#3-improved-digital-profiling)
    2.4 [OPSEC Assessment](#4-opsec-assessment)
    2.5 [Real-World Applications](#5-real-world-applications)
 
-3. [10 Practical Use Cases](#10-practical-use-cases)
+4. [10 Practical Use Cases](#10-practical-use-cases)
 
-4. [Best Practices & Cautions](#best-practices--cautions)
+5. [Best Practices & Cautions](#best-practices--cautions)
 
 ---
 
