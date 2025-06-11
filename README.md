@@ -12,7 +12,7 @@ Open an [issue](https://github.com/airborne-commando/OPSEC-OSINT-Tools/issues) f
 
 People trust the internet too much. In today’s world, online and offline are practically the same—truth and fiction blur. This README exists to raise awareness. Clone it, fork it, remix it, or even turn it into a [Rentry](https://rentry.co/) page. Spread the knowledge however you like.
 
-Can you predict someones behavior with this? not exactly; people are unpredictable at times.
+Can you predict someone’s behavior with this? not exactly; people are unpredictable at times.
 
 # OSINT/OPSEC Tools
 
@@ -216,7 +216,7 @@ OSINT can gather information from various sources, including:
 
 ### Real world examples of OSINT
 
-## In the year 2016, a basket weaving image board used OSINT to pay some supposed terrorist a vist from a [govt in Russia resulting in airstrikes.](https://imgur.com/pol-helps-coordinate-airstrike-on-moderate-syrian-rebels-N7DwWP1)
+## In the year 2016, a basket weaving image board used OSINT to pay some supposed terrorist a visit from a [govt in Russia resulting in airstrikes.](https://imgur.com/pol-helps-coordinate-airstrike-on-moderate-syrian-rebels-N7DwWP1)
 
 - [A video detailing the events](https://www.youtube.com/watch?v=OR6epSP_Xlw)
 
@@ -308,7 +308,7 @@ After that open image in new tab and save or drag it into facecheck.id and compa
 Note on Pentester: Pentester can provide free results on usernames, etc but on a time limit, not worth to buy a service if you're smart and keep records (snapshot).
 
 Note: For keepassxc it's a good idea to use a strong password or a YubiKey (hardware password/security key)
-you may also create an additonal database, one that has the password you can remember; the other that has the generated database password for sensitive files.
+you may also create an additional database, one that has the password you can remember; the other that has the generated database password for sensitive files.
 
 For niche tools, refer to the [Curated Lists](#curated-lists) section.
 
@@ -316,7 +316,7 @@ Pipeline discussed [here](https://github.com/airborne-commando/OPSEC-OSINT-Tools
     
 ## People search tools (in the states):
 
-**DISCLAIMER: Most of the email info found on these sites appear to be from a databrech from long ago; subjects on these sites can and possibly will still use their email found on these sites as people will rarely change email providers due to TFA + password managers unless if the email itself has been compromised in any way, shape, or form OR if they've changed emails due to harrasment, spam, etc etc.**
+**DISCLAIMER: Most of the email info found on these sites appear to be from a databrech from long ago; subjects on these sites can and possibly will still use their email found on these sites as people will rarely change email providers due to TFA + password managers unless if the email itself has been compromised in any way, shape, or form OR if they've changed emails due to harassment, spam, etc etc.**
 
 ---
 
