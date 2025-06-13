@@ -213,7 +213,14 @@ These methods ensure data cannot be recovered by conventional means.
 4. Recycle remains
 
 ### SSD Destruction (More Secure)
-1. Open casing
+1. Securely erase SSD (if supported)
+2. Open casing
+3. Identify all NAND chips
+4. Grind/drill through each chip
+5. Use professional service for best results
+
+### NVMe Destruction
+1. Securely erase NVMe
 2. Identify all NAND chips
 3. Grind/drill through each chip
 4. Use professional service for best results
