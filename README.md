@@ -192,25 +192,25 @@ OSINT can gather information from various sources, including:
 
 - Google Dorks:
 
-| Operator              | Description                                     | Example                       |                   |
-| --------------------- | ----------------------------------------------- | ----------------------------- | ----------------- |
-| `site:`               | Search within a specific website or domain      | `site:example.com`            |                   |
-| `intitle:`            | Find pages with specific words in the **title** | `intitle:"login page"`        |                   |
-| `allintitle:`         | All words must appear in the **title**          | `allintitle:admin login`      |                   |
-| `inurl:`              | Words in the **URL**                            | `inurl:admin`                 |                   |
-| `allinurl:`           | All terms in the **URL**                        | `allinurl:dashboard admin`    |                   |
-| `filetype:` or `ext:` | Search for specific file types                  | `filetype:pdf` or `ext:xls`   |                   |
-| `intext:`             | Word or phrase in the **page body**             | `intext:"confidential"`       |                   |
-| `allintext:`          | All terms in the **body text**                  | `allintext:password username` |                   |
-| `link:`               | Pages linking to a specified URL                | `link:example.com`            |                   |
-| `cache:`              | View cached version of a page                   | `cache:example.com`           |                   |
-| `define:`             | Look up a word definition                       | `define:opsec`                |                   |
-| `related:`            | Find sites similar to a URL                     | `related:example.com`         |                   |
-| `*`                   | Wildcard – matches any word                     | `"admin * login"`             |                   |
-| `OR` / \`             | \`                                              | The OR operator is a fundamental element in Google Dorking, allowing you to broaden your search results by including results that contain either of the specified terms or phrases. | `login OR signin` |
-| `AND`                 | Both terms must appear (default behavior)       | `username AND password`       |                   |
-| `-`                   | Exclude term                                    | `login -facebook`             |                   |
-| `"`                   | Exact phrase                                    | `"confidential file"`         |                   |
+| Operator              | Description                                     | Example                       |
+| --------------------- | ----------------------------------------------- | ----------------------------- |
+| `site:`               | Search within a specific website or domain      | `site:example.com`            |
+| `intitle:`            | Find pages with specific words in the **title** | `intitle:"login page"`        |
+| `allintitle:`         | All words must appear in the **title**          | `allintitle:admin login`      |
+| `inurl:`              | Words in the **URL**                            | `inurl:admin`                 |
+| `allinurl:`           | All terms in the **URL**                        | `allinurl:dashboard admin`    |
+| `filetype:` or `ext:` | Search for specific file types                  | `filetype:pdf` or `ext:xls`   |
+| `intext:`             | Word or phrase in the **page body**             | `intext:"confidential"`       |
+| `allintext:`          | All terms in the **body text**                  | `allintext:password username` |
+| `link:`               | Pages linking to a specified URL                | `link:example.com`            |
+| `cache:`              | View cached version of a page                   | `cache:example.com`           |
+| `define:`             | Look up a word definition                       | `define:opsec`                |
+| `related:`            | Find sites similar to a URL                     | `related:example.com`         |
+| `*`                   | Wildcard – matches any word                     | `"admin * login"`             |
+| `OR`                  | Either search term can appear                   | `login OR signin`             |
+| `AND`                 | Both terms must appear (default behavior)       | `username AND password`       |
+| `-`                   | Exclude term                                    | `login -facebook`             |
+| `"`                   | Exact phrase                                    | `"confidential file"`         |
  
 
 
