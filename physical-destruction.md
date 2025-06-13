@@ -221,6 +221,55 @@ These methods ensure data cannot be recovered by conventional means.
 - Properly dispose of electronic waste
 - Consider professional services for sensitive data
 
+---
+
+## NVMe (Solid-State) Drives
+
+**Description:**
+NVMe drives are a type of solid-state storage that use NAND flash memory and are increasingly common in modern laptops and desktops. Unlike hard drives, they do not use magnetic platters and require different destruction methods.
+
+**Effective Destruction Methods:**
+
+* **Shredding:** Use an industrial shredder capable of reducing the entire drive (including chips) to particles ≤2 mm. This is the gold standard for SSD destruction.
+* **Pulverizing or Incinerating:** Complete destruction of all chips and components renders data recovery impossible.
+* **Direct Chip Destruction:** For manual/home approaches, physically destroy all NAND flash chips using a hammer, drill, or pliers. Focus on the black rectangular chips on the PCB, not just the board itself.
+* **Cryptographic Erasure (Optional):** If supported, perform a secure erase before physical destruction for added assurance.
+
+**Home User Destruction Guidance:**
+
+1. Remove the NVMe drive from your device.
+2. Identify all NAND chips on the PCB.
+3. Use a hammer, pliers, or drill to crush, chip, or shred the memory chips until they are completely destroyed.
+4. Avoid relying on software erasure alone for sensitive data.
+5. If no tools are available, seek local e-waste or destruction services that accept SSDs.
+
+---
+
+## Ineffective Methods for NVMe Drives
+
+These methods do **not** reliably destroy data on NVMe or SSD drives:
+
+* **Degaussing:** NVMe drives do not store data magnetically; degaussing has no effect.
+* **Random Drilling:** A few holes may miss some chips. Only effective if all chips are directly destroyed.
+* **Submersion in Water:** Water does not damage NAND flash storage. Drives may work again after drying.
+* **Microwaving:** Dangerous and not guaranteed to destroy all chips. Also a fire hazard.
+* **Magnets:** Have no impact on solid-state memory.
+
+---
+
+## Summary Table: NVMe Drive Destruction Methods
+
+| Method              | Effective? | Notes                                            |
+| ------------------- | ---------- | ------------------------------------------------ |
+| Degaussing          | No         | Not applicable to non-magnetic storage           |
+| Shredding           | Yes        | Must reduce to particles ≤2 mm                   |
+| Drilling (targeted) | Yes        | Only effective if *all* chips are destroyed      |
+| Random Drilling     | No         | May leave recoverable chips intact               |
+| Hammering chips     | Yes        | Effective if each NAND chip is visibly shattered |
+| Water/Microwave     | No         | Ineffective and potentially hazardous            |
+| Magnets             | No         | No effect on flash memory                        |
+| Incineration        | Yes        | Complete destruction of components               |
+
 
 ---
 # Bonus! USBs!:
