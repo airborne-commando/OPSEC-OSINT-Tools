@@ -23,9 +23,10 @@
   - [Safety Notes](#safety-notes)
 
 - [methods to destroy a NVMe](#nvme-solid-state-drives)
-- [ineffective methods](#ineffective-methods-for-nvme-drives)
 
-- [summary table](#summary-table-nvme-drive-destruction-methods)
+  - [ineffective methods](#ineffective-methods-for-nvme-drives)
+
+  - [summary table](#summary-table-nvme-drive-destruction-methods)
 
 - [Bonus! USBs!](#bonus-usbs)
   - [USB Flash Drive Physical Destruction Guide](#usb-flash-drive-physical-destruction-guide)
