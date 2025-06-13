@@ -22,6 +22,8 @@
   - [Final Recommendations](#final-recommendations)
   - [Safety Notes](#safety-notes)
 
+- [methods to destroy a NVMe](#nvme-solid-state-drives)
+
 - [Bonus! USBs!](#bonus-usbs)
   - [USB Flash Drive Physical Destruction Guide](#usb-flash-drive-physical-destruction-guide)
     - [Recommended Destruction Methods](#recommended-destruction-methods)
