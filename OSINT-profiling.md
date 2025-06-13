@@ -67,6 +67,8 @@ Use a multi-axis profile to evaluate:
 
 - Profiling is an ongoing process. As you gather more data, revisit and refine your profile.
 - New discoveries (e.g., a new username or email) can open up further avenues for investigation.
+- Use text editors and CSV editors (Like Libreoffice cal) to document findings.
+- Document and compile.
 
 ---
 
