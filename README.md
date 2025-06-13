@@ -207,7 +207,7 @@ OSINT can gather information from various sources, including:
 | `define:`             | Look up a word definition                       | `define:opsec`                |                   |
 | `related:`            | Find sites similar to a URL                     | `related:example.com`         |                   |
 | `*`                   | Wildcard – matches any word                     | `"admin * login"`             |                   |
-| `OR` / \`             | \`                                              | Either search term can appear | `login OR signin` |
+| `OR` / \`             | \`                                              | The OR operator is a fundamental element in Google Dorking, allowing you to broaden your search results by including results that contain either of the specified terms or phrases. | `login OR signin` |
 | `AND`                 | Both terms must appear (default behavior)       | `username AND password`       |                   |
 | `-`                   | Exclude term                                    | `login -facebook`             |                   |
 | `"`                   | Exact phrase                                    | `"confidential file"`         |                   |
