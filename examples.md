@@ -20,10 +20,10 @@ The GitHub repository [OPSEC-OSINT-Tools](https://github.com/airborne-commando/O
 
 ## Criminals: Leveraging OSINT for Malicious Activities
 
-**Sony Pictures Hack (2014)**
+### **Sony Pictures Hack (2014)**
 Attackers conducted extensive OSINT to gather information about Sony's network infrastructure and employees. They utilized publicly available data from social media profiles and company websites to craft targeted phishing emails, leading to a significant data breach. ([Cobalt][1])
 
-**Ashley Madison Breach (2015)**
+### **Ashley Madison Breach (2015)**
 The "Impact Team" exploited OSINT techniques to access and leak sensitive user data from the Ashley Madison website. The breach exposed personal information of millions, leading to blackmail and public shaming. ([Cobalt][1])
 
 ---
@@ -33,27 +33,27 @@ The "Impact Team" exploited OSINT techniques to access and leak sensitive user d
 **Identification of Russian Soldiers in Ukraine Conflict**
 Online investigators used facial recognition tools like FindClone and PimEyes to identify Russian soldiers involved in the Ukraine conflict. By analyzing publicly available images and videos, they were able to match faces and uncover identities. ([WIRED][2])
 
-**BBC Investigation into Cameroonian Military Abuses**
+### **BBC Investigation into Cameroonian Military Abuses**
 The BBC employed OSINT techniques to verify the authenticity of a video showing Cameroonian soldiers executing civilians. By analyzing metadata, geolocation, and other open-source information, they confirmed the video's legitimacy. ([Reddit][3])
 
 ---
 
 ## Law Enforcement: Applying OSINT in Investigations
 
-**Tracking Stolen Property Online**
+### **Tracking Stolen Property Online**
 Law enforcement agencies have increasingly used OSINT to monitor online marketplaces like Facebook Marketplace and OfferUp for stolen goods. By analyzing listings and user information, they can trace and recover stolen items. ([Police1][4])
 
-**Use of ShadowDragon's SocialNet**
+### **Use of ShadowDragon's SocialNet**
 Agencies utilize tools like ShadowDragon's SocialNet to collect data from over 200 online sources. This assists in mapping social networks and identifying relationships between individuals, aiding in criminal investigations. ([Wikipedia][5])
 
 ---
 
 ## OPSEC Failures: Lessons from Real-World Mistakes
 
-**Guccifer 2.0's VPN Error**
+### **Guccifer 2.0's VPN Error**
 The hacker known as Guccifer 2.0 failed to activate a VPN before logging into a social media account, inadvertently revealing their real IP address. This mistake led to the identification of the hacker as a Russian GRU agent. ([WIRED][6])
 
-**Silk Road's Ross Ulbricht**
+### **Silk Road's Ross Ulbricht**
 Ross Ulbricht, the founder of the Silk Road marketplace, made critical OPSEC errors, such as using his personal email address in early communications. These mistakes facilitated law enforcement's efforts to trace and apprehend him. ([WIRED][6])
 
 ---
