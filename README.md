@@ -203,7 +203,6 @@ OSINT can gather information from various sources, including:
 | `intext:`             | Word or phrase in the **page body**             | `intext:"confidential"`       |
 | `allintext:`          | All terms in the **body text**                  | `allintext:password username` |
 | `link:`               | Pages linking to a specified URL                | `link:example.com`            |
-| `cache:`              | View cached version of a page                   | `cache:example.com`           |
 | `define:`             | Look up a word definition                       | `define:opsec`                |
 | `related:`            | Find sites similar to a URL                     | `related:example.com`         |
 | `*`                   | Wildcard – matches any word                     | `"admin * login"`             |
