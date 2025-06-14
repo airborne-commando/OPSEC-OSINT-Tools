@@ -67,7 +67,7 @@ Use a multi-axis profile to evaluate:
 
 - Profiling is an ongoing process. As you gather more data, revisit and refine your profile.
 - New discoveries (e.g., a new username or email) can open up further avenues for investigation.
-- Use text editors and CSV editors (Like Libreoffice cal) to document findings.
+- Use text editors and CSV editors (Like Libreoffice cal) to document findings, or other forms such as [IMINT](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/IMINT.md) or anything discussed in the [main guide](https://github.com/airborne-commando/OPSEC-OSINT-Tools) thats tangible. 
 - Document and compile.
 
 ---
