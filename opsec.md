@@ -214,6 +214,14 @@ Core to cloud computing and enterprise IT, enabling efficient, scalable infrastr
 - [cock.li](https://cock.li/register.php)
 - [ProtonMail](https://proton.me/mail)
 
+### email clients
+
+- [thunderbird](https://www.thunderbird.net/en-US/)
+
+### Android
+- [k-9 mail](https://k9mail.app/)
+
+
 ### Data Broker Opt-Out
 - [Big Ass Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List)
 
