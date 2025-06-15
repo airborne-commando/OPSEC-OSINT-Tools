@@ -4,7 +4,7 @@
 
 ## 📚 Table of Contents
 
-1. [Key Points on IMINT (Imagery Intelligence)](#key-points-on-imint-imagery-intelligence)
+1. Key Points on IMINT (Imagery Intelligence)
    * 1.1 [Definition](#1-definition)
    * 1.2 [Who Uses IMINT?](#2-who-uses-imint)
    * 1.3 [Using Public Images with Maps](#3-using-public-images-with-maps)
