@@ -330,6 +330,8 @@ These layers are designed to deter, detect, delay, and respond to potential thre
 
 ## Can Physical Security Include Firearms?
 
+>Did you know that a ‘weapon’ is any device used with intent to inflict damage or harm to living beings or structures?
+
 Yes, physical security measures can include the use of firearms, especially in high-risk environments or where there is a credible threat of armed intrusion, terrorism, or violent crime. Armed security personnel are often deployed as a visible deterrent and as part of the response capability within a physical security plan.
 
 For example:
