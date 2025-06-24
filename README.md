@@ -213,6 +213,13 @@ OSINT can gather information from various sources, including:
  
 
 
+**Default Behavior**
+- Google treats multiple words as if connected by AND, so results must contain all terms unless you specify otherwise.
+- Quotation marks, site:, and filetype: are among the most commonly used explicit operators for more targeted searches.
+
+These operators are not used unless you include them in your query—Google’s default is simply to return results matching all your search terms, ranked by relevance.
+
+
 ### Real world examples of OSINT
 
 ## In the year 2016, a basket weaving image board used OSINT to pay some supposed terrorist a visit from a [govt in Russia resulting in airstrikes.](https://imgur.com/pol-helps-coordinate-airstrike-on-moderate-syrian-rebels-N7DwWP1)
