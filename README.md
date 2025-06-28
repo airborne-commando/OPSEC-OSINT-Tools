@@ -126,7 +126,6 @@ Check Wikipedia If you're confused on all of these here:
 --- 
 
 ### **Pro Tips**  
-- **Signal Workaround**: Use a burner phone number (e.g., Google Voice) for registration.    
 - **Monero Mining**: Run a local node to avoid centralized exchanges tracing purchases.  
 
 For full tool details, see the **[OPSEC Tools List](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/opsec.md)**.
