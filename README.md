@@ -25,7 +25,7 @@ A list of OSINT/OPSEC tools I made, forked, and/or use. First, let's talk about 
 2. [Open Source Intelligence (OSINT)](#open-source-intelligence-osint)
 3. [Who uses Open-Source Intelligence (OSINT)?](#who-uses-open-source-intelligence-osint)
 4. [Sources of OSINT](#sources-of-osint)
-5. [OSINT Profiling](#digital-profiling-osint-profiling)
+5. [Digital Profiling](#digital-profiling-osint-profiling)
 6. [closed sourced](#closed-sourced-info)
    - [IMINT](#IMINT)
 8. [Real world examples of OSINT](#real-world-examples-of-osint)
@@ -239,7 +239,7 @@ Thus bad opsec.
 
 Digital profiling and behavioral analysis are powerful techniques for understanding individuals based on their online activities and digital footprints. While these methods are often used by professionals, you can apply many of the same principles and processes yourself by following a structured approach.
 
-Read more inside this readme on [OSINT profiling](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/OSINT-profiling.md)
+Read more inside this readme on [Digital Profiling](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/Digital-Profiling.md)
 
 ## Closed Sourced Info
 
