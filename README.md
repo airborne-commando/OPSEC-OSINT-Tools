@@ -62,7 +62,7 @@ It's a security discipline and operations function that involves a continuous cy
 * Leaving unused social media online
 * interacting with a target on social media
    * [w0rmer](https://opsecfail.github.io/blog.html?filecase=w0rmer)
-   * [darknetdiaries](https://darknetdiaries.com/transcript/63/)
+   * [darknetdiaries](https://darknetdiaries.com/transcript/63/)(article)
 
 * [examples of good and bad opsec and some osint.](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/examples.md)
 
