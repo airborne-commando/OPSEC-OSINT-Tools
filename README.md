@@ -27,8 +27,8 @@ A list of OSINT/OPSEC tools I made, forked, and/or use. First, let's talk about 
 4. [Sources of OSINT](#sources-of-osint)
 5. [Digital Profiling](#digital-profiling-osint-profiling)
 6. [closed sourced](#closed-sourced-info)
-   - [IMINT](#IMINT)
    - [Breached Data](#breached-data)
+7. [IMINT](#IMINT)
 8. [Real world examples of OSINT](#real-world-examples-of-osint)
    - [2016 Airstrike Coordination](#in-the-year-2016-a-basket-weaving-image-board-used-osint-to-pay-some-supposed-terrorist-a-vist-from-a-govt-in-russia-resulting-in-airstrikes)
    - [2017 Shia LaBeouf Protest](#in-2017-shia-labeouf-had-a-protest-due-to-trumps-election-this-resulted-in-a-basket-weaving-image-board-using-osint-and-sky-patterns-to-figure-out-where-a-flag-is)
@@ -249,13 +249,14 @@ Read more inside this readme on [Digital Profiling](https://github.com/airborne-
 
 **Buying from databrokers can be closed sourced if the info isn't freely available IF not cross referenced VIA the [Curated Lists](#curated-lists) OR the [Toolchain](#toolchain-self-osint) for self OSINT**
 
+[Breached Data](#breached-data)
+
+> And remember, closed sourced info can change depending on context. If it came from social media then it's considered open source as it's already out there. If it's from a closed source document like let's say a USB drive then consider it closed source.
+
 # IMINT
 
 [IMINT](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/IMINT.md)(Image INTelligence) involves collecting and analyzing visual imagery—satellite, aerial, drone, or ground photos—to extract useful information.
 
-[Breached Data](#breached-data)
-
-> And remember, closed sourced info can change depending on context. If it came from social media then it's considered open source as it's already out there. If it's from a closed source document like let's say a USB drive then consider it closed source.
 
 ## Tools
 
