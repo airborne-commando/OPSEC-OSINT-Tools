@@ -462,7 +462,10 @@ An automtic tool that I've made for [pa voter services](https://github.com/airbo
   
 - [OSINT Resources](https://sizeof.cat/post/osint-resources/) - Collection of OSINT resources that seems to be more up to date (includes NSFW)
 
-  - [Archive](https://archive.ph/rZZf0) 
+  - [Archive](https://archive.ph/rZZf0)
+  
+
+- [OSINT toolbox](https://github.com/The-Osint-Toolbox) 
 
 - A whole reddit wiki from the [OSINT community](https://www.reddit.com/r/OSINT/wiki/index/)
 
