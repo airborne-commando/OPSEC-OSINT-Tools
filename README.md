@@ -291,7 +291,7 @@ Read more inside this readme on [Digital Profiling](https://github.com/airborne-
    - **Facecheck.ID**: Extracts links but doesn’t analyze images; cross-reference with [Pimeyes (10 searches)](https://pimeyes.com/en) or others listed on 6.  
 
 2. **GUI vs. CLI**:  
-   - **CLI Tools (Blackbird, Sherlock, Maigret)**: Faster but require technical familiarity.  
+   - **CLI Tools (Blackbird, Sherlock, Maigret)**: requires technical familiarity.  
    - **GUI Wrappers (Crow, No-Shit-Sherlock)**: Easier for beginners; same backend logic.  
 
 3. **Email Investigations**:  
