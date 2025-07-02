@@ -4,7 +4,7 @@
 - [1. Understand the Basics](#1-understand-the-basics)
 - [2. Collect Digital Biographical Information](#2-collect-digital-biographical-information)
 - [3. Analyze Behavioral Patterns](#3-analyze-behavioral-patterns)
-- [3.1 Examples](#3.1-Examples)
+- [3.1 Examples](#31-Examples)
 - [4. Assess Competencies and Affinities](#4-assess-competencies-and-affinities)
 - [5. Use Analytical Tools](#5-use-analytical-tools)
 - [6. Iterate and Refine](#6-iterate-and-refine)
