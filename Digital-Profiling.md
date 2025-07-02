@@ -47,9 +47,9 @@ Start by building a **digital biography** of the subject:
 
 ## 3.1. Examples:
 
-Let's say a user has an older blogspot, cool you can use AI tools like Perplexity, ChatGPT, Claude to analyze it's past behavior or posts; then you can use those tools to possibly compile future behaviors depending when those posts were made and such, reading a blog can take time but I'd also recommend reading what the user posts. And if the user is focused on similar interest such as climate change, pets and animals so on and it reflects it's previous blogspot of years old.
+If a user has an old Blogspot account, you can leverage AI tools like Perplexity, ChatGPT, or Claude to analyze their past posts and behavioral patterns. These tools can help identify recurring interests or themes, which may also give insight into potential future behavior—especially when contextualized by the time the posts were made. While reading through a blog manually can be time-consuming, it's still valuable to review the content directly, particularly if the user consistently expresses interest in topics like climate change, pets, or similar subjects that align with the blog’s historical content.
 
-Another good one is to use tools that was mentioned in the main guide (blackbird, Maigret et al) and to see what shared usernames the user has and to compile other info he or she can give, like if it has a username on poshmark (closet site), twitter (social media), snapchat (social media), facebook (social media) you can use these to gather open source info on someone this way and their interest.
+Additionally, tools mentioned in the main guide—such as Blackbird or Maigret—can be used to track shared usernames across platforms. This can uncover other accounts the user maintains on services like Poshmark (for online closets), Twitter, Snapchat, or Facebook. By correlating usernames and content across these platforms, you can build a clearer profile of the individual’s interests, habits, and online presence using open-source intelligence (OSINT) methods.
 
 ---
 
