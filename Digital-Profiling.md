@@ -4,6 +4,7 @@
 - [1. Understand the Basics](#1-understand-the-basics)
 - [2. Collect Digital Biographical Information](#2-collect-digital-biographical-information)
 - [3. Analyze Behavioral Patterns](#3-analyze-behavioral-patterns)
+- [3.1 Examples](#3.1-Examples)
 - [4. Assess Competencies and Affinities](#4-assess-competencies-and-affinities)
 - [5. Use Analytical Tools](#5-use-analytical-tools)
 - [6. Iterate and Refine](#6-iterate-and-refine)
@@ -41,6 +42,14 @@ Start by building a **digital biography** of the subject:
 - Look for patterns in the subject’s online activity: posting times, topics of interest, language use, and interaction styles.
 - Identify preferred platforms, communities, and types of content engaged with.
 - Examine connections: friends, followers, and interaction networks can reveal social circles and influence.
+
+---
+
+## 3.1. Examples:
+
+Let's say a user has an older blogspot, cool you can use AI tools like Perplexity, ChatGPT, Claude to analyze it's past behavior or posts; then you can use those tools to possibly compile future behaviors depending when those posts were made and such, reading a blog can take time but I'd also recommend reading what the user posts. And if the user is focused on similar interest such as climate change, pets and animals so on and it reflects it's previous blogspot of years old.
+
+Another good one is to use tools that was mentioned in the main guide (blackbird, Maigret et al) and to see what shared usernames the user has and to compile other info he or she can give, like if it has a username on poshmark (closet site), twitter (social media), snapchat (social media), you can use these to gather open source info on someone this way and their interest.
 
 ---
 
