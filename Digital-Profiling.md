@@ -4,6 +4,7 @@
 - [1. Understand the Basics](#1-understand-the-basics)
 - [2. Collect Digital Biographical Information](#2-collect-digital-biographical-information)
 - [3. Analyze Behavioral Patterns](#3-analyze-behavioral-patterns)
+- [3.1 Examples](#31-Examples)
 - [4. Assess Competencies and Affinities](#4-assess-competencies-and-affinities)
 - [5. Use Analytical Tools](#5-use-analytical-tools)
 - [6. Iterate and Refine](#6-iterate-and-refine)
@@ -41,6 +42,14 @@ Start by building a **digital biography** of the subject:
 - Look for patterns in the subject’s online activity: posting times, topics of interest, language use, and interaction styles.
 - Identify preferred platforms, communities, and types of content engaged with.
 - Examine connections: friends, followers, and interaction networks can reveal social circles and influence.
+
+---
+
+## 3.1. Examples:
+
+If a user has an old Blogspot account, you can leverage AI tools like Perplexity, ChatGPT, or Claude to analyze their past posts and behavioral patterns. These tools can help identify recurring interests or themes, which may also give insight into potential future behavior—especially when contextualized by the time the posts were made. While reading through a blog manually can be time-consuming, it's still valuable to review the content directly, particularly if the user consistently expresses interest in topics for an example like climate change, pets, or similar subjects that align with the blog’s historical content.
+
+Additionally, tools mentioned in the main guide—such as Blackbird or Maigret—can be used to track shared usernames across platforms. This can uncover other accounts the user maintains on services like Poshmark (for online closets), Twitter, Snapchat, or Facebook. By correlating usernames and content across these platforms, you can build a clearer profile of the individual’s interests, habits, and online presence using open-source intelligence (OSINT) methods.
 
 ---
 
