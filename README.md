@@ -281,6 +281,10 @@ Read more inside this readme on [Digital Profiling](https://github.com/airborne-
 |                            | GeoGuessr GPT              | [GeoGuessr GPT](https://chatgpt.com/g/g-brlHi7t2R-geoguessr-gpt)                             | Use AI to pinpoint a photo                                          | Can give out false info; it's AI so ***it will*** hallucinate! Only 3 uploads for free users.                                        |
 |                            | findpiclocation              | [findpiclocation](https://findpiclocation.com/)                           | Use AI to pinpoint a photo                                          | May not be as accurate as GPT.                                        |
 | **Generalized OSINT**      | OSINT Rocks              | [osint.rocks](https://osint.rocks/)                                     | Multi-tool: Hudson Rock, Holehe, GHunt (Gmail), phone/domain/username lookups  | Web-based; combines multiple tools in one interface                                 |
+| **MISC CLI tools**         | zabasearch-auto   | [GitHub](https://github.com/airborne-commando/zabasearch-auto)         | A CLI tool to look up public info on someone in the USA                                                       | CLI, advanced usage                                                     |
+|                            | link extractor and archive   | [GitHub](https://github.com/airborne-commando/link-extractor-and-archive)         | An archive tool for archive.ph, can extract links from a basic webpage                                                       | CLI, advanced usage; basic webpages only, Requires manual intervention (text edits FIND+REPLACE).                                                     |
+|                            | voter reg status   | [GitHub](https://github.com/airborne-commando/voter-reg-status)        | A CLI tool that looks up voter info on an person                                                       | Only in PA, Needs county, zip, first last name, DOB. Advanced usage.                                                   |
+
 
 ---
 
@@ -493,11 +497,6 @@ Google dorks: `https://www.google.com/search?q= "first+last" "Street Address" "C
 [Results about you (google index)](https://myactivity.google.com/results-about-you) can also be emailed so keep that in mind when comparing info I.E.: Google will find webistes containing your first-last name and address and will ask to remove it from the index. Before applying the removal process on google search be sure to remove info from the website itself that it's hosted on. Google Dorking seems to be a bit quicker and preemptive on removing info about yourself after you visit said sites (if applicable).
 
 Also with doing google dorks the manual way is that you won't get flagged by google itself as a bot.
-
-## Archive tools that I've made
- 
-- [link extractor and archive](https://github.com/airborne-commando/link-extractor-and-archive) uses archive.ph - useful on basic webpages. Requires manual intervention (text edits FIND+REPLACE).
-
 
 Additonal tools:
 
