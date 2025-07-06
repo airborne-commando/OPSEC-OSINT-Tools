@@ -40,7 +40,6 @@ A list of OSINT/OPSEC tools I made, forked, and/or use. First, let's talk about 
 13. [Social Media](#social-media)
 14. [Self OSINT](#toolchain-self-osint)
 15. [Curated lists](#curated-lists)
-16. [Archive tools](#archive-tools-that-ive-made)
 
 ## (Operations Security) is a systematic process for:
 1. Identifying
