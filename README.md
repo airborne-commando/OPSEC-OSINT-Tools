@@ -72,7 +72,7 @@ A list of OSINT/OPSEC tools I made, forked, and/or use. First, let's talk about 
 - **Assess Competencies and Affinities**
     - Evaluate technical skill, privacy awareness, sociability, and domain expertise.
 - **Use Analytical Tools**
-    - Employ search engines, data aggregators, visualization/statistics tools for deeper analysis.
+    - Employ search engines, data aggregators, visualization/statistics tools and Natural Language Processing (NLPs) for deeper analysis.
 - **Iterate and Refine**
     - Continuously update the profile as new data emerges; use structured documentation.
 - **Ethical and Legal Considerations**
