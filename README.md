@@ -2,8 +2,8 @@
 
 1. [disclaimer](#disclaimer)
 2. [Suggestions](#Suggestions)
-3. [Why](#Why?)
-4. [OSINT/OPSEC Tools](#OSINT-OPSEC-Tools)
+3. [Why](#why?)
+4. [OSINT/OPSEC Tools](#osintopsec-Tools)
 5. [key points](#key-points)
 6. [OPSEC](#operations-security-is-a-systematic-process-for) 
    - [How to OPSEC](#how-to-opsec)
