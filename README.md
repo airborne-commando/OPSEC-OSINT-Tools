@@ -41,6 +41,63 @@ A list of OSINT/OPSEC tools I made, forked, and/or use. First, let's talk about 
 14. [Self OSINT](#toolchain-self-osint)
 15. [Curated lists](#curated-lists)
 
+## Key points
+
+## Notable Examples of Bad Tor OPSEC
+
+- **School Bomb Threats**
+    - Florida student caught after bragging, repeating offenses, leaving evidence, and confessing.
+    - Harvard’s Eldo Kim identified for using Tor on school network as the only user and admitting guilt.
+- **Silk Road Case**
+    - Ross Ulbricht linked to Silk Road by using his real name/email, posting about Tor, and failing to hide server IPs.
+- **LulzSec Hacking Group**
+    - Members exposed themselves by discussing ops in public IRC, revealing personal info, using stolen cards to home addresses, and trusting informants.
+- **General Bad OPSEC Practices**
+    - Poor compartmentalization, leaking sensitive info, predictable naming, traceable work hours, and unsecured servers.
+- **Mullvad VPN: Security Contrast**
+    - Features: anonymous accounts, strong encryption, no-logs, lockdown mode, DNS blockers, open-source, accepts Monero/cash.
+    - **Caution:** No tool is foolproof; human error remains the weakest link.
+
+
+## Digital Profiling and Behavioral Analysis Guide
+
+- **Understand the Basics**
+    - Digital profiling gathers and analyzes online data; behavioral analysis infers motives, habits, and future actions.
+- **Collect Digital Biographical Information**
+    - Gather identifiers, track online activity, search for recurring usernames, document findings.
+- **Analyze Behavioral Patterns**
+    - Look for posting times, topics, language, interaction style, preferred platforms, and social networks.
+- **Examples**
+    - Use AI tools to analyze old posts for recurring interests; tools like Blackbird/Maigret help track usernames across platforms.
+- **Assess Competencies and Affinities**
+    - Evaluate technical skill, privacy awareness, sociability, and domain expertise.
+- **Use Analytical Tools**
+    - Employ search engines, data aggregators, visualization/statistics tools for deeper analysis.
+- **Iterate and Refine**
+    - Continuously update the profile as new data emerges; use structured documentation.
+- **Ethical and Legal Considerations**
+    - Only use legally accessible data; respect privacy and avoid harassment.
+- **Defending Against OSINT Profiling**
+    - Practice good OPSEC, use misinformation, audit yourself, and set profiles to private.
+
+
+## Real-World OSINT and OPSEC Examples
+
+- **Criminals**
+    - *Sony Pictures Hack (2014):* Used OSINT on staff and infrastructure for phishing and breach.
+    - *Ashley Madison Breach (2015):* Used OSINT to leak sensitive user data, causing blackmail and public exposure.
+- **Civilians**
+    - *Identifying Russian Soldiers:* Used facial recognition and open-source images to ID participants in conflicts.
+    - *BBC Cameroon Investigation:* Used metadata and geolocation to verify military abuses.
+- **Law Enforcement**
+    - *Tracking Stolen Property:* Monitored online marketplaces to recover stolen goods.
+    - *ShadowDragon’s SocialNet:* Mapped social networks from 200+ sources to aid investigations.
+- **OPSEC Failures**
+    - *Guccifer 2.0:* Forgot to activate VPN, exposing real IP and identity.
+    - *Silk Road’s Ross Ulbricht:* Used personal email and left digital traces, leading to arrest.
+
+These guides collectively highlight the importance of strong operational security, the power and risks of OSINT, and the need for continuous vigilance and ethical conduct in information gathering and online behavior.
+
 ## (Operations Security) is a systematic process for:
 1. Identifying
 2. Protecting and controlling critical information
