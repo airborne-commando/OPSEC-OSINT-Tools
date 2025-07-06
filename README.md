@@ -18,29 +18,6 @@ Can you predict someone’s behavior with this? not exactly; people are unpredic
 
 A list of OSINT/OPSEC tools I made, forked, and/or use. First, let's talk about the definitions.
 
-## Table of Contents
-1. [OPSEC](#operations-security-is-a-systematic-process-for)
-   - [How to OPSEC](#how-to-opsec)
-      - [Smoke Screen and misinfo](#Smoke-Screen-and-misinfo) 
-2. [Open Source Intelligence (OSINT)](#open-source-intelligence-osint)
-3. [Who uses Open-Source Intelligence (OSINT)?](#who-uses-open-source-intelligence-osint)
-4. [Sources of OSINT](#sources-of-osint)
-5. [Digital Profiling](#digital-profiling-osint-profiling)
-6. [closed sourced](#closed-sourced-info)
-   - [Breached Data](#breached-data)
-7. [IMINT](#IMINT)
-8. [Real world examples of OSINT](#real-world-examples-of-osint)
-   - [2016 Airstrike Coordination](#in-the-year-2016-a-basket-weaving-image-board-used-osint-to-pay-some-supposed-terrorist-a-vist-from-a-govt-in-russia-resulting-in-airstrikes)
-   - [2017 Shia LaBeouf Protest](#in-2017-shia-labeouf-had-a-protest-due-to-trumps-election-this-resulted-in-a-basket-weaving-image-board-using-osint-and-sky-patterns-to-figure-out-where-a-flag-is)
-9. [Tools](#tools)
-      - [Toolchain Recommendations](#toolchain-recommendations)
-10. [People search tools (in the states)](#people-search-tools-in-the-states)
-11. [Grey literature](#grey-literature)
-12. [Breached Data](#breached-data)
-13. [Social Media](#social-media)
-14. [Self OSINT](#toolchain-self-osint)
-15. [Curated lists](#curated-lists)
-
 ## Key points
 
 ## Notable Examples of Bad Tor OPSEC
@@ -97,6 +74,29 @@ A list of OSINT/OPSEC tools I made, forked, and/or use. First, let's talk about 
     - *Silk Road’s Ross Ulbricht:* Used personal email and left digital traces, leading to arrest.
 
 These guides collectively highlight the importance of strong operational security, the power and risks of OSINT, and the need for continuous vigilance and ethical conduct in information gathering and online behavior.
+
+## Table of Contents
+1. [OPSEC](#operations-security-is-a-systematic-process-for)
+   - [How to OPSEC](#how-to-opsec)
+      - [Smoke Screen and misinfo](#Smoke-Screen-and-misinfo) 
+2. [Open Source Intelligence (OSINT)](#open-source-intelligence-osint)
+3. [Who uses Open-Source Intelligence (OSINT)?](#who-uses-open-source-intelligence-osint)
+4. [Sources of OSINT](#sources-of-osint)
+5. [Digital Profiling](#digital-profiling-osint-profiling)
+6. [closed sourced](#closed-sourced-info)
+   - [Breached Data](#breached-data)
+7. [IMINT](#IMINT)
+8. [Real world examples of OSINT](#real-world-examples-of-osint)
+   - [2016 Airstrike Coordination](#in-the-year-2016-a-basket-weaving-image-board-used-osint-to-pay-some-supposed-terrorist-a-vist-from-a-govt-in-russia-resulting-in-airstrikes)
+   - [2017 Shia LaBeouf Protest](#in-2017-shia-labeouf-had-a-protest-due-to-trumps-election-this-resulted-in-a-basket-weaving-image-board-using-osint-and-sky-patterns-to-figure-out-where-a-flag-is)
+9. [Tools](#tools)
+      - [Toolchain Recommendations](#toolchain-recommendations)
+10. [People search tools (in the states)](#people-search-tools-in-the-states)
+11. [Grey literature](#grey-literature)
+12. [Breached Data](#breached-data)
+13. [Social Media](#social-media)
+14. [Self OSINT](#toolchain-self-osint)
+15. [Curated lists](#curated-lists)
 
 ## (Operations Security) is a systematic process for:
 1. Identifying
