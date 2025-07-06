@@ -1,3 +1,32 @@
+## Table of Contents
+
+1. [disclaimer](#disclaimer)
+2. [Suggestions](#Suggestions)
+3. [Why](#why)
+4. [OSINT/OPSEC Tools](#osintopsec-Tools)
+5. [key points](#key-points)
+6. [OPSEC](#operations-security-is-a-systematic-process-for) 
+   - [How to OPSEC](#how-to-opsec)
+      - [Smoke Screen and misinfo](#Smoke-Screen-and-misinfo) 
+7. [Open Source Intelligence (OSINT)](#open-source-intelligence-osint)
+8. [Who uses Open-Source Intelligence (OSINT)?](#who-uses-open-source-intelligence-osint)
+9. [Sources of OSINT](#sources-of-osint)
+10. [Digital Profiling](#digital-profiling-osint-profiling)
+11. [closed sourced](#closed-sourced-info)
+      - [Breached Data](#breached-data)
+11. [IMINT](#IMINT)
+12. [Real world examples of OSINT](#real-world-examples-of-osint)
+      - [2016 Airstrike Coordination](#in-the-year-2016-a-basket-weaving-image-board-used-osint-to-pay-some-supposed-terrorist-a-vist-from-a-govt-in-russia-resulting-in-airstrikes)
+      - [2017 Shia LaBeouf Protest](#in-2017-shia-labeouf-had-a-protest-due-to-trumps-election-this-resulted-in-a-basket-weaving-image-board-using-osint-and-sky-patterns-to-figure-out-where-a-flag-is)
+11. [Tools](#tools)
+      - [Toolchain Recommendations](#toolchain-recommendations)
+12. [People search tools (in the states)](#people-search-tools-in-the-states)
+13. [Grey literature](#grey-literature)
+14. [Breached Data](#breached-data)
+15. [Social Media](#social-media)
+16. [Self OSINT](#toolchain-self-osint)
+17. [Curated lists](#curated-lists)
+
 ## ***DISCLAIMER***
 
 I am **not responsible** for any misuse, abuse, or unethical actions taken with the tools or methods listed here. **OSINT is a neutral technique**—anyone can use it, and anyone can be targeted.
@@ -18,28 +47,62 @@ Can you predict someone’s behavior with this? not exactly; people are unpredic
 
 A list of OSINT/OPSEC tools I made, forked, and/or use. First, let's talk about the definitions.
 
-## Table of Contents
-1. [OPSEC](#operations-security-is-a-systematic-process-for)
-   - [How to OPSEC](#how-to-opsec)
-      - [Smoke Screen and misinfo](#Smoke-Screen-and-misinfo) 
-2. [Open Source Intelligence (OSINT)](#open-source-intelligence-osint)
-3. [Who uses Open-Source Intelligence (OSINT)?](#who-uses-open-source-intelligence-osint)
-4. [Sources of OSINT](#sources-of-osint)
-5. [Digital Profiling](#digital-profiling-osint-profiling)
-6. [closed sourced](#closed-sourced-info)
-   - [Breached Data](#breached-data)
-7. [IMINT](#IMINT)
-8. [Real world examples of OSINT](#real-world-examples-of-osint)
-   - [2016 Airstrike Coordination](#in-the-year-2016-a-basket-weaving-image-board-used-osint-to-pay-some-supposed-terrorist-a-vist-from-a-govt-in-russia-resulting-in-airstrikes)
-   - [2017 Shia LaBeouf Protest](#in-2017-shia-labeouf-had-a-protest-due-to-trumps-election-this-resulted-in-a-basket-weaving-image-board-using-osint-and-sky-patterns-to-figure-out-where-a-flag-is)
-9. [Tools](#tools)
-      - [Toolchain Recommendations](#toolchain-recommendations)
-10. [People search tools (in the states)](#people-search-tools-in-the-states)
-11. [Grey literature](#grey-literature)
-12. [Breached Data](#breached-data)
-13. [Social Media](#social-media)
-14. [Self OSINT](#toolchain-self-osint)
-15. [Curated lists](#curated-lists)
+## Key points
+
+## Notable Examples of Bad Tor OPSEC
+
+- **School Bomb Threats**
+    - Florida student caught after bragging, repeating offenses, leaving evidence, and confessing.
+    - Harvard’s Eldo Kim identified for using Tor on school network as the only user and admitting guilt.
+- **Silk Road Case**
+    - Ross Ulbricht linked to Silk Road by using his real name/email, posting about Tor, and failing to hide server IPs.
+- **LulzSec Hacking Group**
+    - Members exposed themselves by discussing ops in public IRC, revealing personal info, using stolen cards to home addresses, and trusting informants.
+- **General Bad OPSEC Practices**
+    - Poor compartmentalization, leaking sensitive info, predictable naming, traceable work hours, and unsecured servers.
+- **Mullvad VPN: Security Contrast**
+    - Features: anonymous accounts, strong encryption, no-logs, lockdown mode, DNS blockers, open-source, accepts Monero/cash.
+    - **Caution:** No tool is foolproof; human error remains the weakest link.
+
+
+## Digital Profiling and Behavioral Analysis Guide
+
+- **Understand the Basics**
+    - Digital profiling gathers and analyzes online data; behavioral analysis infers motives, habits, and future actions.
+- **Collect Digital Biographical Information**
+    - Gather identifiers, track online activity, search for recurring usernames, document findings.
+- **Analyze Behavioral Patterns**
+    - Look for posting times, topics, language, interaction style, preferred platforms, and social networks.
+- **Examples**
+    - Use AI tools to analyze old posts for recurring interests; tools like Blackbird/Maigret help track usernames across platforms.
+- **Assess Competencies and Affinities**
+    - Evaluate technical skill, privacy awareness, sociability, and domain expertise.
+- **Use Analytical Tools**
+    - Employ search engines, data aggregators, visualization/statistics tools and Natural Language Processing (NLPs) for deeper analysis.
+- **Iterate and Refine**
+    - Continuously update the profile as new data emerges; use structured documentation.
+- **Ethical and Legal Considerations**
+    - Only use legally accessible data; respect privacy and avoid harassment.
+- **Defending Against OSINT Profiling**
+    - Practice good OPSEC, use misinformation, audit yourself, and set profiles to private.
+
+
+## Real-World OSINT and OPSEC Examples
+
+- **Criminals**
+    - *Sony Pictures Hack (2014):* Used OSINT on staff and infrastructure for phishing and breach.
+    - *Ashley Madison Breach (2015):* Used OSINT to leak sensitive user data, causing blackmail and public exposure.
+- **Civilians**
+    - *Identifying Russian Soldiers:* Used facial recognition and open-source images to ID participants in conflicts.
+    - *BBC Cameroon Investigation:* Used metadata and geolocation to verify military abuses.
+- **Law Enforcement**
+    - *Tracking Stolen Property:* Monitored online marketplaces to recover stolen goods.
+    - *ShadowDragon’s SocialNet:* Mapped social networks from 200+ sources to aid investigations.
+- **OPSEC Failures**
+    - *Guccifer 2.0:* Forgot to activate VPN, exposing real IP and identity.
+    - *Silk Road’s Ross Ulbricht:* Used personal email and left digital traces, leading to arrest.
+
+These guides collectively highlight the importance of strong operational security, the power and risks of OSINT, and the need for continuous vigilance and ethical conduct in information gathering and online behavior.
 
 ## (Operations Security) is a systematic process for:
 1. Identifying
