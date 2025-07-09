@@ -62,7 +62,7 @@ You may also add into the CSV's of stuff you found yourself for usernames if the
 
 In short:
 
-Compile the info inside the CSV's, be sure to categorize the website.
+Compile and assess the info inside the CSV's, be sure to categorize the website.
 Feed it inisde the AI of choice, I'd use GPT but be aware of what I've warned you earlier and draw your own conclusions.
 
 ---
