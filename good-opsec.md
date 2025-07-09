@@ -81,7 +81,7 @@ Below are for the normies out there.
 
 - Regularly review and adjust privacy settings on all platforms
 - Be selective about friend requests and connections
-- Be mindful of re-using usernames on different sites
+- Be mindful of re-using usernames on different sites, see [Digital-Profiling examples](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/Digital-Profiling.md#31-Examples) 
 
 **Example:** Rachel sets her Instagram account to private and carefully vets new follower requests to control who can see her posts.
 
