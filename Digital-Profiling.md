@@ -51,6 +51,9 @@ If a user has an old Blogspot account, you can leverage AI tools like Perplexity
 
 Additionally, tools mentioned in the main guide—such as Blackbird or Maigret—can be used to track shared usernames across platforms. This can uncover other accounts the user maintains on services like Poshmark (for online closets), Twitter, Snapchat, or Facebook. By correlating usernames and content across these platforms, you can build a clearer profile of the individual’s interests, habits, and online presence using open-source intelligence (OSINT) methods.
 
+You can also use blackbird's CSV output to create a CSV file to create a list of re-used profile names and also use maigret to generate a text file on a report of used usernames.
+Then you can feed it into an AI program such as chatgpt, perplexity, or claude.
+
 ---
 
 ## 4. Assess Competencies and Affinities
