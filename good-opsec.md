@@ -26,6 +26,7 @@ Below are for the normies out there.
 - Create complex passwords for each account
 - Utilize a password manager to keep track of them
 - Enable two-factor authentication when available
+- Use different usernames inside a password manager
 
 **Example:** John uses a password manager to generate and store unique 20-character passwords for each of his online accounts, including his email, social media, and banking websites.
 
@@ -40,6 +41,7 @@ Below are for the normies out there.
 
 - Limit the personal details shared on social media
 - Be wary of phishing attempts via email or phone
+- [self OSINT](https://github.com/airborne-commando/OPSEC-OSINT-Tools/tree/main?tab=readme-ov-file#toolchain-self-osint)
 
 **Example:** Mike avoids posting his exact birth date, home address, or vacation plans on Facebook to reduce the risk of identity theft or home burglary.
 
@@ -62,7 +64,7 @@ Below are for the normies out there.
 
 - Be cautious of unexpected attachments or links
 - Verify the sender's identity before responding to requests for sensitive information
-- Be mindful of what is out there, see [peoplesearchtools](https://github.com/airborne-commando/OPSEC-OSINT-Tools/tree/main?tab=readme-ov-file#people-search-tools-in-the-states) and [self-OSINT](https://github.com/airborne-commando/OPSEC-OSINT-Tools/tree/main?tab=readme-ov-file#toolchain-self-osint)
+- Be mindful of what is out there, see [people search tools](https://github.com/airborne-commando/OPSEC-OSINT-Tools/tree/main?tab=readme-ov-file#people-search-tools-in-the-states) and [self OSINT](https://github.com/airborne-commando/OPSEC-OSINT-Tools/tree/main?tab=readme-ov-file#toolchain-self-osint)
 
 **Example:** Emma receives an urgent email claiming to be from her bank. Instead of clicking the provided link, she calls the bank directly using their official phone number to verify the request.
 
