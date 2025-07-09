@@ -104,7 +104,7 @@ Below are for the normies out there.
 - Get a permit to own a firearm, and practice
 - Get chemical weapons
 
-**Example:** Sarah feels unsafe in her neighborhood so she decided to get a camera and a permit for a pistol for home defense, also carrty pepper spray.
+**Example:** Sarah feels unsafe in her neighborhood so she decided to get a camera and a permit for a pistol for home defense, also bought pepper spray to carry on her person.
 
 [More discussed here](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/opsec.md#physical-security-in-opsec)
 
