@@ -49,7 +49,21 @@ Start by building a **digital biography** of the subject:
 
 If a user has an old Blogspot account, you can leverage AI tools like Perplexity, ChatGPT, or Claude to analyze their past posts and behavioral patterns. These tools can help identify recurring interests or themes, which may also give insight into potential future behavior—especially when contextualized by the time the posts were made. While reading through a blog manually can be time-consuming, it's still valuable to review the content directly, particularly if the user consistently expresses interest in topics for an example like climate change, pets, or similar subjects that align with the blog’s historical content.
 
+***BE WARNED ABOUT GPT CROSS CONTAMINATION WITH OTHER CHATS***
+
+It will do this, what I'd do is create another account or simply log off. Creating a new account would help however and it's easy. You may also disable gpt to cross reference chat and disable memory but it's probably a good idea to make another account.
+
 Additionally, tools mentioned in the main guide—such as Blackbird or Maigret—can be used to track shared usernames across platforms. This can uncover other accounts the user maintains on services like Poshmark (for online closets), Twitter, Snapchat, or Facebook. By correlating usernames and content across these platforms, you can build a clearer profile of the individual’s interests, habits, and online presence using open-source intelligence (OSINT) methods.
+
+You can also use blackbird's CSV output to create a CSV file to create a list of re-used profile names and also use maigret to generate a text file on a report of used usernames; also don't forget to check the email if itself is a username.
+Then you can feed it into an AI program such as chatgpt, perplexity, or claude.
+
+You may also add into the CSV's of stuff you found yourself for usernames if there are multiple accounts and add it inside the CSV's later.
+
+In short:
+
+Compile and assess the info inside the CSV's, be sure to categorize the website.
+Feed it inisde the AI of choice, I'd use GPT but be aware of what I've warned you earlier and draw your own conclusions.
 
 ---
 
