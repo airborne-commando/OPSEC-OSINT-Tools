@@ -51,7 +51,7 @@ If a user has an old Blogspot account, you can leverage AI tools like Perplexity
 
 ***BE WARNED ABOUT GPT CROSS CONTAMINATION WITH OTHER CHATS***
 
-It will do this, what I'd do is create another account or simply log off. Creating a new account would help however and it's easy.
+It will do this, what I'd do is create another account or simply log off. Creating a new account would help however and it's easy. You may also disable gpt to cross reference chat and disable memory but it's probably a good idea to make another account.
 
 Additionally, tools mentioned in the main guide—such as Blackbird or Maigret—can be used to track shared usernames across platforms. This can uncover other accounts the user maintains on services like Poshmark (for online closets), Twitter, Snapchat, or Facebook. By correlating usernames and content across these platforms, you can build a clearer profile of the individual’s interests, habits, and online presence using open-source intelligence (OSINT) methods.
 
