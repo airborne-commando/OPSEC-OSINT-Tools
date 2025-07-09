@@ -17,6 +17,7 @@ Below are for the normies out there.
 - [Be Mindful of Physical Documents](#be-mindful-of-physical-documents)
 - [Use Privacy Settings on Social Media](#use-privacy-settings-on-social-media)
 - [Be Cautious with Third-Party Apps](#be-cautious-with-third-party-apps)
+- [Practice physical security if you're really paranoid](#practice-physical-security-if-youre-really-paranoid)
 - back to [main guide](https://github.com/airborne-commando/OPSEC-OSINT-Tools)
 ---
 
@@ -46,6 +47,7 @@ Below are for the normies out there.
 
 - Use screen locks on all devices
 - Never leave devices unattended in public places
+- for SSD's, encrypt drives if storing DoD (Do or Die) data. [Toolchain discussed here](https://github.com/airborne-commando/OPSEC-OSINT-Tools/tree/main?tab=readme-ov-file#toolchain-recommendations)
 
 **Example:** Lisa always activates her laptop's screen lock when stepping away, even for a quick coffee break at the office.
 
@@ -60,13 +62,14 @@ Below are for the normies out there.
 
 - Be cautious of unexpected attachments or links
 - Verify the sender's identity before responding to requests for sensitive information
+- Be mindful of what is out there, see [peoplesearchtools](https://github.com/airborne-commando/OPSEC-OSINT-Tools/tree/main?tab=readme-ov-file#people-search-tools-in-the-states) and [self-OSINT](https://github.com/airborne-commando/OPSEC-OSINT-Tools/tree/main?tab=readme-ov-file#toolchain-self-osint)
 
 **Example:** Emma receives an urgent email claiming to be from her bank. Instead of clicking the provided link, she calls the bank directly using their official phone number to verify the request.
 
 ## Implement Home Network Security
 
 - Use a strong password for your Wi-Fi network
-- Regularly update your router's firmware
+- Make sure your network is up to date and not using outdated routers
 
 **Example:** The Johnson family changes their Wi-Fi password every six months and ensures their router's firmware is always up-to-date.
 
@@ -74,6 +77,7 @@ Below are for the normies out there.
 
 - Shred sensitive documents before disposal
 - Secure important papers in a locked safe or filing cabinet
+- practice [physical destruction](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/physical-destruction.md)
 
 **Example:** David always shreds credit card offers and old bank statements before putting them in the recycling bin.
 
@@ -87,9 +91,21 @@ Below are for the normies out there.
 
 ## Be Cautious with Third-Party Apps
 
-- Only download apps from official stores
+- Only download apps from official stores (google, apple)
 - Review app permissions before installing
 
 **Example:** Mark carefully reads the permissions requested by a new game app and decides not to install it when he sees it wants access to his contacts and location data.
+
+## Practice physical security if you're really paranoid
+
+- Buy a camera
+- Get a permit to own a firearm, and practice
+- Get chemical weapons
+
+**Example:** Sarah feels unsafe in her neighborhood so she decided to get a camera and a permit for a pistol for home defense, also carrty pepper spray.
+
+[More discussed here](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/opsec.md#physical-security-in-opsec)
+
+----
 
 By implementing these OPSEC practices, the average person can significantly improve their personal and digital security in everyday life.
