@@ -58,6 +58,13 @@ Additionally, tools mentioned in the main guideâ€”such as Blackbird or Maigretâ€
 You can also use blackbird's CSV output to create a CSV file to create a list of re-used profile names and also use maigret to generate a text file on a report of used usernames; also don't forget to check the email if itself is a username.
 Then you can feed it into an AI program such as chatgpt, perplexity, or claude.
 
+You may also add into the CSV's of stuff you found yourself for usernames if there are multiple accounts and add it inside the CSV's later.
+
+In short:
+
+Compile the info inside the CSV's, be sure to categorize the website.
+Feed it inisde the AI of choice, I'd use GPT but be aware of what I've warned you earlier and draw your own conclusions.
+
 ---
 
 ## 4. Assess Competencies and Affinities
