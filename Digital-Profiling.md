@@ -10,6 +10,7 @@
 - [6. Iterate and Refine](#6-iterate-and-refine)
 - [7. Ethical and Legal Considerations](#7-ethical-and-legal-considerations)
 - [Summary Table: Digital Profiling Process](#summary-table-digital-profiling-process)
+- [Applying psyops operations](#this-can-also-be-ripe-for-rmplying-psyops)
 - [Best Way to Fight Against OSINT Profiling](#best-way-to-fight-against-osint-profiling)
 - back to [main guide](https://github.com/airborne-commando/OPSEC-OSINT-Tools)
 
