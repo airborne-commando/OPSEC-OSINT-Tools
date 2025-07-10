@@ -10,7 +10,7 @@
 - [6. Iterate and Refine](#6-iterate-and-refine)
 - [7. Ethical and Legal Considerations](#7-ethical-and-legal-considerations)
 - [Summary Table: Digital Profiling Process](#summary-table-digital-profiling-process)
-- [Applying psyops operations](#this-can-also-be-ripe-for-rmplying-psyops)
+- [Applying psyops operations](#applying-psyops)
 - [Best Way to Fight Against OSINT Profiling](#best-way-to-fight-against-osint-profiling)
 - back to [main guide](https://github.com/airborne-commando/OPSEC-OSINT-Tools)
 
@@ -114,7 +114,7 @@ Use a multi-axis profile to evaluate:
 | Iterate                   | Update profile as new data emerges                                     |
 | Ethics                    | Stay within legal and ethical boundaries                               |
 
-## this can also be ripe for rmplying psyops. 
+## Applying PsyOPS. 
 
 Applying Psychological Operations in Civilian Life:
 
