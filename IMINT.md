@@ -38,7 +38,7 @@
 
 ## 2.1 SOCINT
 
-I'll mention this here because this method can be interchangable to say the least.
+I'll mention this here because this method can be interchangeable to say the least.
 
 **SOCINT** (Social Intelligence) refers to the collection and analysis of digital data about **social relationships and networks**, primarily utilizing non-traditional, digitized sources. These sources include **metadata, social media activity, and geolocational information**, which together allow analysts to construct detailed pictures of how individuals and groups are connected and interact.
 
