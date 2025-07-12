@@ -7,6 +7,7 @@
 1. Key Points on IMINT (Imagery Intelligence)
    * 1.1 [Definition](#1-definition)
    * 1.2 [Who Uses IMINT?](#2-who-uses-imint)
+   * 1.2.1 [SOCINT](#21-socint)
    * 1.3 [Using Public Images with Maps](#3-using-public-images-with-maps)
    * 1.4 [Ten Practical Applications](#4-ten-practical-applications)
    * 1.5 [Broader Applications](#5-broader-applications)
@@ -34,6 +35,21 @@
 
 * **Civilians**: For purposes like disaster tracking, verifying social media content, urban planning, and more.
 * **Law Enforcement**: For surveillance, crime investigation, locating missing persons, and operational planning.
+
+### 2.1 SOCINT
+
+I'll mention this here because this method can be interchangeable to say the least.
+
+**SOCINT** (Social Intelligence) refers to the collection and analysis of digital data about **social relationships and networks**, primarily utilizing non-traditional, digitized sources. These sources include **metadata, social media activity, and geolocational information**, which together allow analysts to construct detailed pictures of how individuals and groups are connected and interact.
+
+Key characteristics of SOCINT:
+
+- **Focus on Social Networks:** Unlike traditional intelligence methods, SOCINT is centered on mapping and understanding the structure and dynamics of social networks, often revealing insights that even the subjects themselves may not be aware of.
+
+- **Data Sources:** SOCINT leverages data from social media platforms (such as Facebook, Instagram, LinkedIn, and others), communications metadata, and location data to build comprehensive profiles and network maps.
+
+- **Analytical Power:** The digitization and volume of available data, combined with advanced algorithms, enable SOCINT to uncover patterns and relationships at a scale and depth previously unattainable by human (HUMINT) or signals intelligence (SIGINT).
+
 
 ### 3. **Using Public Images with Maps**
 
