@@ -36,7 +36,7 @@
 * **Civilians**: For purposes like disaster tracking, verifying social media content, urban planning, and more.
 * **Law Enforcement**: For surveillance, crime investigation, locating missing persons, and operational planning.
 
-## 2.1 SOCINT
+### 2.1 SOCINT
 
 I'll mention this here because this method can be interchangeable to say the least.
 
