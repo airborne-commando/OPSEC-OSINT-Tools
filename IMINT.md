@@ -7,7 +7,7 @@
 1. Key Points on IMINT (Imagery Intelligence)
    * 1.1 [Definition](#1-definition)
    * 1.2 [Who Uses IMINT?](#2-who-uses-imint)
-   * 1.2.1 [SOCINT](#2-1-SOCINT)
+   * 1.2.1 [SOCINT](#21-socint)
    * 1.3 [Using Public Images with Maps](#3-using-public-images-with-maps)
    * 1.4 [Ten Practical Applications](#4-ten-practical-applications)
    * 1.5 [Broader Applications](#5-broader-applications)
