@@ -4,6 +4,7 @@
 - [What is HUMINT?](#what-is-humint)
 - [Everyday Examples of HUMINT](#everyday-examples-of-humint)
 - [Civilian Examples](#civilian-examples)
+- [Detailed examples](#Detailed-examples)
 - [RUMINT vs HUMINT](#rumint-vs-humint)
 - [Summary Table](#summary-table)
 - back to [main guide](https://github.com/airborne-commando/OPSEC-OSINT-Tools)
@@ -36,6 +37,81 @@ HUMINT isn't limited to espionage—it appears in many civilian and professional
 - **Journalism:** Interviewing sources for news stories.
 - **Community Policing:** Officers gathering local intel from residents.
 - **Social Engineering:** Using manipulation to extract sensitive data.
+
+## Detailed examples
+
+### Online Methods
+---
+
+### 1. **Open-Ended Questions**
+- Use questions that require more than a yes/no answer.
+- Example: “How did you get interested in that?” or “What was your experience like with…?”
+- This encourages the other person to share stories and details.
+
+### 2. **Mirroring and Paraphrasing**
+- Repeat or rephrase what the person just said.
+- Example: If they mention a hobby, reply: “You said you love hiking—what’s your favorite trail?”
+- This shows interest and prompts elaboration.
+
+### 3. **Building Rapport**
+- Start with small talk or shared interests.
+- People are more likely to open up if they feel comfortable and understood.
+
+### 4. **Gradual Disclosure**
+- Share a little about yourself first (“I’ve always wanted to visit Japan—have you ever been?”).
+- Reciprocity often encourages others to reveal similar information.
+
+### 5. **Casual “Assumptions”**
+- Make a gentle assumption and let them correct you.
+- Example: “So you must be from the West Coast?” If not, they’ll clarify, often with extra details.
+
+### 6. **Use of Flattery or Curiosity**
+- Compliment their knowledge or experience (“You seem to know a lot about this—how did you learn so much?”).
+- People enjoy talking about their expertise.
+  
+---
+### In-Person Methods
+---
+
+### 1. **Active Listening**
+- Use body language (nod, eye contact) and verbal cues (“Interesting, tell me more…”).
+- People tend to share more when they feel heard.
+
+### 2. **Observation**
+- Notice details (clothing, accessories, accent) and ask about them.
+- “That’s a unique necklace—does it have a story?”
+
+### 3. **Strategic Silence**
+- After asking a question, pause. People often fill silences by elaborating.
+
+### 4. **Environmental Cues**
+- Reference your shared environment (“Have you been to this event before?”).
+- This can lead to stories about past experiences.
+
+### 5. **Non-Threatening Topics First**
+- Start with safe subjects (weather, food, hobbies) before moving to more personal matters.
+
+## Subtle Psychological Techniques
+
+- **Foot-in-the-door:** Start with a small, easy question, then ask for more.
+- **Anchoring:** Mention a detail to “anchor” the conversation, making it easier to ask related questions.
+- **Social Proof:** Reference mutual friends or communities (“I heard from X that you’re into photography…”).
+
+## Ethical Considerations
+
+- **Consent:** Never push for information someone is reluctant to share.
+- **Respect Privacy:** Don’t use deception or manipulation for sensitive or confidential details.
+- **Legality:** Ensure you’re not violating privacy laws or ethical boundaries.
+
+## Quick Reference Table
+
+| Method                | Online Example                          | In-Person Example                |
+|-----------------------|-----------------------------------------|----------------------------------|
+| Open-ended questions  | “What was that like?”                   | “How did you get into this?”     |
+| Mirroring             | “So you work in tech?”                  | “You mentioned hiking—where?”    |
+| Gradual disclosure    | “I love movies—what’s your favorite?”   | “I grew up here—how about you?”  |
+| Strategic silence     | (Wait after a question)                 | (Pause, let them fill silence)   |
+| Observation           | “Cool profile pic—where was that?”      | “That’s a neat watch—story?”     |
 
 ## RUMINT vs HUMINT
 
