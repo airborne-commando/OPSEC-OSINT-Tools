@@ -50,6 +50,8 @@ Key characteristics of SOCMINT:
 
 - **Analytical Power:** The digitization and volume of available data, combined with advanced algorithms, enable SOCMINT to uncover patterns and relationships at a scale and depth previously unattainable by human (HUMINT) or signals intelligence (SIGINT).
 
+- see also [Digital Profiling](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/Digital-Profiling.md) as that deeply relates to SOCMINT. 
+
 
 ### 3. **Using Public Images with Maps**
 
