@@ -320,6 +320,7 @@ Read more inside this readme on [Digital Profiling](https://github.com/airborne-
 # IMINT
 
 [IMINT](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/IMINT.md)(Image INTelligence) involves collecting and analyzing visual imagery—satellite, aerial, drone, or ground photos—to extract useful information.
+Contains information such as [SOCMINT](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/IMINT.md#socmint-social-intelligence) and [Reverse Search](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/IMINT.md#reverse-search-google).
 
 
 ## Tools
