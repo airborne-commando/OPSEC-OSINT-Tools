@@ -1,151 +1,160 @@
-## **Key Points on IMINT (Imagery Intelligence)**
+# Table of Contents
+
+1. [Reverse Search (Google)](#reverse-search-google)  
+   * [How to Use Reverse Image Search](#how-to-use-reverse-image-search)  
+     - [On Mobile](#on-mobile)  
+     - [On Desktop](#on-desktop)  
+   * [What You Can Use It For](#what-you-can-use-it-for)  
+     - [Find an Article](#find-an-article)  
+     - [Identify a Device Name or Type](#identify-a-device-name-or-type)  
+     - [Find a Brand, Restaurant, or Location](#find-a-brand-restaurant-or-location)  
+   * [What You Cannot Do](#what-you-cannot-do)  
+   * [Extra Tips](#extra-tips)  
+
+2. [IMINT (Imagery Intelligence)](#imint-imagery-intelligence)  
+   * [Definition](#definition)  
+   * [Who Uses IMINT?](#who-uses-imint)  
+   * [SOCMINT (Social Intelligence)](#socmint-social-intelligence)  
+   * [Using Public Images with Maps](#using-public-images-with-maps)  
+   * [Ten Practical Applications](#ten-practical-applications)  
+   * [Ethical and Legal Considerations](#ethical-and-legal-considerations)  
+
+3. [Combining IMINT, SOCMINT, and Digital Profiling](#combining-imint-socmint-and-digital-profiling)  
+   * [Multidimensional Intelligence](#multidimensional-intelligence)  
+   * [Enhanced Geolocation](#enhanced-geolocation)  
+   * [Improved Digital Profiling](#improved-digital-profiling)  
+   * [OPSEC Assessment](#opsec-assessment)  
+   * [Real-World Applications](#real-world-applications)  
+
+4. [10 Practical Use Cases](#10-practical-use-cases)  
+5. [Best Practices & Cautions](#best-practices--cautions)  
 
 ---
 
-## 📚 Table of Contents
+# Reverse Search (Google)
 
-1. Key Points on IMINT (Imagery Intelligence)
-   * 1.1 [Definition](#1-definition)
-   * 1.2 [Who Uses IMINT?](#2-who-uses-imint)
-   * 1.2.1 [SOCMINT](#21-socmint)
-   * 1.3 [Using Public Images with Maps](#3-using-public-images-with-maps)
-   * 1.4 [Ten Practical Applications](#4-ten-practical-applications)
-   * 1.5 [Broader Applications](#5-broader-applications)
-   * 1.6 [Ethical and Legal Considerations](#6-ethical-and-legal-considerations)
+Reverse image search tools like **Google Image Search** and **Google Lens** enable you to use images instead of text to find related information online.
 
-3. [Combining IMINT with OPSEC-OSINT-Tools](#combined)
-* 2.1 [Multidimensional Intelligence](#1-multidimensional-intelligence)
-* 2.2 [Enhanced Geolocation](#2-enhanced-geolocation)
-* 2.3 [Improved Digital Profiling](#3-improved-digital-profiling)
-* 2.4 [OPSEC Assessment](#4-opsec-assessment)
-* 2.5 [Real-World Applications](#5-real-world-applications)
+### How to Use Reverse Image Search
 
-4. [10 Practical Use Cases](#10-practical-use-cases)
+#### On Mobile
+- Open the Google app or go to google.com.
+- Tap the **Google Lens** icon (camera).
+- Take a photo or upload one from your device.
+- Adjust the focus area if needed and view results.
 
-5. [Best Practices & Cautions](#best-practices--cautions)
-6. back to [main guide](https://github.com/airborne-commando/OPSEC-OSINT-Tools)
+#### On Desktop
+- Visit google.com or images.google.com.
+- Click the **camera icon** (Google Lens).
+- Upload an image, paste an image URL, or drag and drop.
+- View results showing visually similar images and related pages.
 
----
+### What You Can Use It For
+- **Find an article:** Locate the original article or similar ones using screenshots or photos.
+- **Identify device name or type:** Identify brands and models of devices (e.g., Samsung, Pixel, Apple).
+- **Find brand, restaurant, or location:** Recognize logos, storefronts, food items, or landmarks.
 
-### 1. **Definition**
+### What You Cannot Do
+- **Reverse search people:** Not designed for facial recognition or identifying individuals.
 
-* IMINT involves collecting and analyzing visual imagery—satellite, aerial, drone, or ground photos—to extract useful information.
-
-### 2. **Who Uses IMINT?**
-
-* **Civilians**: For purposes like disaster tracking, verifying social media content, urban planning, and more.
-* **Law Enforcement**: For surveillance, crime investigation, locating missing persons, and operational planning.
-
-### 2.1 SOCMINT
-
-I'll mention this here because this method can be interchangeable to say the least.
-
-**SOCMINT** (Social Intelligence) refers to the collection and analysis of digital data about **social relationships and networks**, primarily utilizing non-traditional, digitized sources. These sources include **metadata, social media activity, and geolocational information**, which together allow analysts to construct detailed pictures of how individuals and groups are connected and interact.
-
-Key characteristics of SOCMINT:
-
-- **Focus on Social Networks:** Unlike traditional intelligence methods, SOCMINT is centered on mapping and understanding the structure and dynamics of social networks, often revealing insights that even the subjects themselves may not be aware of.
-
-- **Data Sources:** SOCMINT leverages data from social media platforms (such as Facebook, Instagram, LinkedIn, and others), communications metadata, and location data to build comprehensive profiles and network maps.
-
-- **Analytical Power:** The digitization and volume of available data, combined with advanced algorithms, enable SOCMINT to uncover patterns and relationships at a scale and depth previously unattainable by human (HUMINT) or signals intelligence (SIGINT).
-
-- see also [Digital Profiling](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/Digital-Profiling.md) as that deeply relates to SOCMINT. 
-
-
-### 3. **Using Public Images with Maps**
-
-* Publicly available images (e.g., from social media) can be cross-referenced with tools like Google Maps or Street View to:
-
-  * Verify image locations
-  * Track events or people
-  * Analyze protests or disasters
-  * Investigate fraud or crime
-  * Identify vehicles, buildings, or terrain
-
-### 4. **Ten Practical Applications**
-
-* Confirming social media post locations
-* Investigating crime or accident scenes
-* Verifying the authenticity of travel photos
-* Helping locate missing individuals
-* Tracking unauthorized construction
-* Detecting business-related fraud
-* Mapping protest activity
-* Validating natural disaster imagery
-* Identifying specific objects/vehicles
-* Using user-contributed imagery to enhance geographic data
-
-### 5. **Broader Applications**
-
-* Disaster response and recovery
-* Environmental monitoring
-* Agricultural planning
-* Urban development
-* Maritime activity tracking
-* Insurance claims validation
-* Conflict zone monitoring
-* Business intelligence
-* Infrastructure maintenance
-* Military simulations
-
-### 6. **Ethical and Legal Considerations**
-
-* IMINT should be used responsibly, respecting privacy laws and ethical boundaries, especially when dealing with sensitive or personally identifiable information.
-
-
-# Combined
-
-Combining IMINT (Imagery Intelligence) with the [OPSEC-OSINT-Tools](https://github.com/airborne-commando/OPSEC-OSINT-Tools) toolkit can significantly enhance your intelligence gathering, digital profiling, and operational security capabilities—whether you’re a civilian, researcher, or law enforcement professional.
-
-Here’s how this integration can elevate your investigations and what you can achieve:
+### Extra Tips
+- On mobile browsers, request the desktop site for full features.
+- Long-press images in Chrome mobile and select “Search Image with Google.”
 
 ---
 
-## **What Happens When You Combine IMINT with OPSEC-OSINT-Tools?**
+# IMINT (Imagery Intelligence)
 
-### **1. Multidimensional Intelligence**
-- **IMINT** provides visual context—locations, physical layouts, environmental changes.
-- **OSINT Tools** offer data from social media, breached databases, people search engines, and more.
-- **Combined:** You can correlate visual evidence with digital footprints, confirming identities, timelines, and activities.
+### Definition
+IMINT is the collection and analysis of visual imagery — from satellites, drones, aerial or ground photography — to extract actionable intelligence.
 
-### **2. Enhanced Geolocation**
-- Use IMINT (satellite/aerial images, Google Maps) to spot landmarks or locations in photos.
-- Cross-reference with OSINT tools (like Sherlock, Maigret, or people search engines) to tie those locations to individuals, events, or organizations.
+### Who Uses IMINT?
+- **Civilians:** Disaster tracking, social media verification, urban planning.
+- **Law Enforcement:** Surveillance, crime investigation, missing persons search.
 
-### **3. Improved Digital Profiling**
-- Analyze a person’s social media images, then use IMINT to verify where and when those images were taken.
-- Layer in data from email, username, or phone lookups to build a comprehensive profile.
+### SOCMINT (Social Intelligence)
 
-### **4. OPSEC Assessment**
-- Use IMINT to visualize the physical security of a location (e.g., entry points, cameras).
-- Use OSINT tools to check for digital leaks (e.g., exposed employee emails, breached credentials).
-- Together, you can identify both physical and digital vulnerabilities.
+SOCMINT refers to collecting and analyzing digital data about social relationships and networks, primarily through metadata, social media activity, and geolocation data. It focuses on:
 
-### **5. Real-World Applications**
-- **Missing Persons:** Match photos from social media with satellite imagery to narrow search areas, then use people search tools to find connections.
-- **Crime Investigation:** Analyze crime scene photos with IMINT, then use OSINT to track suspects’ digital trails.
-- **Event Verification:** Confirm if an event (protest, disaster, etc.) actually occurred at a claimed location by matching images and OSINT data.
+- **Social Networks:** Mapping social dynamics and connections.
+- **Data Sources:** Social platforms (Facebook, Instagram, LinkedIn), communications metadata, location info.
+- **Analytical Depth:** Large-scale data and algorithms reveal patterns beyond traditional human or signals intelligence.
+
+> See also [Digital Profiling](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/Digital-Profiling.md), which closely relates to SOCMINT.
+
+### Using Public Images with Maps
+Cross-referencing public images with mapping tools like Google Maps or Street View can:
+- Verify locations
+- Track events or individuals
+- Investigate crimes or fraud
+- Identify vehicles, buildings, or terrain
+
+### Ten Practical Applications
+- Confirm social media post locations
+- Investigate crime scenes or accidents
+- Verify travel photo authenticity
+- Locate missing persons
+- Detect unauthorized construction
+- Map protest activities
+- Validate disaster imagery
+- Identify specific objects or vehicles
+- Enhance geographic data with user-contributed imagery
+
+### Ethical and Legal Considerations
+Use IMINT responsibly, respecting privacy and laws, especially with personally identifiable or sensitive information.
 
 ---
 
-## **10 Practical Use Cases**
+# Combining IMINT, SOCMINT, and Digital Profiling
 
-1. **Locate a person’s residence by matching Instagram photos to Google Maps, then verify identity with people search tools.**
-2. **Track a suspect’s movements using geotagged images and cross-referencing with breached data for timeline validation.**
-3. **Verify the authenticity of a viral news image by comparing it with satellite imagery and checking the poster’s digital history.**
-4. **Identify potential OPSEC failures by finding social media posts that reveal sensitive locations, then confirming with IMINT.**
-5. **Monitor illegal construction or environmental violations using before-and-after satellite imagery and public records.**
-6. **Support disaster response by mapping affected areas with IMINT and finding local contacts using OSINT.**
-7. **Detect fraud in online listings by matching listing photos to real-world locations and checking the seller’s digital footprint.**
-8. **Analyze protest sites by matching crowd photos with satellite images and identifying organizers via username searches.**
-9. **Investigate cyberstalking cases by tracing images to physical locations and finding associated accounts.**
-10. **Assess the security of a facility by mapping its layout with IMINT and identifying staff via breached credential checks.**
+Combining visual intelligence (IMINT) with social data (SOCMINT) and digital profiling significantly enhances investigative depth and accuracy.
+
+### Multidimensional Intelligence
+- IMINT provides visual context (locations, layouts, environmental changes).
+- SOCMINT and digital profiling supply social and behavioral data from online footprints.
+- Together, these reveal identities, timelines, and interactions in a holistic manner.
+
+### Enhanced Geolocation
+- Identify landmarks in images via IMINT.
+- Cross-reference with social data and OSINT tools to connect locations with people or events.
+
+### Improved Digital Profiling
+- Analyze social media images with IMINT location verification.
+- Layer data from emails, usernames, and phone lookups to build comprehensive profiles.
+
+### OPSEC Assessment
+- Use IMINT to assess physical security vulnerabilities (entry points, cameras).
+- Use OSINT to identify digital exposure (breached credentials, leaked emails).
+- This combined view uncovers physical and cyber vulnerabilities.
+
+### Real-World Applications
+- Missing persons searches combining photo and location data.
+- Crime scene analysis with visual and digital evidence.
+- Event verification by matching social media and satellite data.
 
 ---
 
-## **Best Practices & Cautions**
+# 10 Practical Use Cases
 
-- **Privacy & Legality:** Always respect privacy laws and ethical guidelines. Don’t use these methods for harassment or illegal activity.
-- **Verification:** Cross-check findings from multiple sources to avoid false positives.
-- **OPSEC:** Protect your own identity and data while conducting research.
+1. Locate residences by matching social media photos with maps and verifying identities.
+2. Track suspect movements using geotagged images and breached data.
+3. Verify viral news images with satellite imagery and digital footprints.
+4. Identify OPSEC failures from location-revealing social posts.
+5. Monitor illegal construction using satellite imagery and public records.
+6. Support disaster response by mapping affected areas and finding contacts.
+7. Detect fraud by matching online listing photos with real locations.
+8. Analyze protest sites via crowd photos and satellite images.
+9. Investigate cyberstalking by tracing images to locations and accounts.
+10. Assess facility security combining IMINT layout and breached credential checks.
+
+---
+
+# Best Practices & Cautions
+
+- Respect privacy laws and ethical guidelines.
+- Verify findings through multiple sources.
+- Protect your own digital footprint and OPSEC during investigations.
+
+---
+
+For more detailed tools and techniques, visit the [main OPSEC-OSINT-Tools repository](https://github.com/airborne-commando/OPSEC-OSINT-Tools).
