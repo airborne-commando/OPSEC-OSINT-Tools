@@ -162,7 +162,7 @@ In essence, this mindset places you in a constant state of alert—treating huma
 ## Best way to fight against OSINT Profiling?
 
 1. Practice good [OPSEC](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/opsec.md)
-2. Study [IMINT](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/IMINT.md)
+2. Study [SOCMINT](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/IMINT.md#socmint-social-intelligence)
 3. Study [HUMINT](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/HUMINT.md)
 4. Establish a [Smokescreen](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/smokescreen-misinfo.md)
 5. OSINT yourself as stated in the [Main Guide](https://github.com/airborne-commando/OPSEC-OSINT-Tools)
