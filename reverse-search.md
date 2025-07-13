@@ -1,18 +1,17 @@
-## **Table of Contents**
+## Table of Contents
 
-1. [Introduction](#introduction)
-2. [What You Can Do with Reverse Image Search](#what-you-can-do-with-reverse-image-search)
+1. [Reverse Search (Google)](#reverse-search-google)
+2. [How to Use Reverse Image Search](#how-to-use-reverse-image-search)
 
-   * 2.1 Find an Article
-   * 2.2 Identify a Device Name or Type
-   * 2.3 Find a Brand, Restaurant, or Location
-3. [What You Cannot Do](#what-you-cannot-do)
-4. [How to Use Reverse Image Search](#how-to-use-reverse-image-search)
+   * [On Mobile](#on-mobile)
+   * [On Desktop](#on-desktop)
+3. [What You Can Use It For](#what-you-can-use-it-for)
 
-   * 4.1 On Mobile
-   * 4.2 On Desktop
+   * [Find an Article](#find-an-article)
+   * [Identify a Device Name or Type](#identify-a-device-name-or-type)
+   * [Find a Brand, Restaurant, or Location](#find-a-brand-restaurant-or-location)
+4. [What You Cannot Do](#what-you-cannot-do)
 5. [Extra Tips](#extra-tips)
-6. [Conclusion](#conclusion)
 
 ---
 
