@@ -19,7 +19,7 @@
    * [Ten Practical Applications](#ten-practical-applications)  
    * [Ethical and Legal Considerations](#ethical-and-legal-considerations)  
 
-3. [Combining IMINT, SOCMINT, and Digital Profiling](#combining-imint-socmint-and-digital-profiling)  
+3. [Combining IMINT, SOCMINT, and Digital Profiling](#combining-imint-socmint-reverse-search-and-digital-profiling)  
    * [Multidimensional Intelligence](#multidimensional-intelligence)  
    * [Enhanced Geolocation](#enhanced-geolocation)  
    * [Improved Digital Profiling](#improved-digital-profiling)  
