@@ -105,13 +105,14 @@ Use IMINT responsibly, respecting privacy and laws, especially with personally i
 
 ---
 
-# Combining IMINT, SOCMINT, and Digital Profiling
+# Combining IMINT, SOCMINT, Reverse Search and Digital Profiling
 
 Combining visual intelligence (IMINT) with social data (SOCMINT) and digital profiling significantly enhances investigative depth and accuracy.
 
 ### Multidimensional Intelligence
 - IMINT provides visual context (locations, layouts, environmental changes).
 - SOCMINT and digital profiling supply social and behavioral data from online footprints.
+- Google Reverse search can identify landmarks, devices and brands.
 - Together, these reveal identities, timelines, and interactions in a holistic manner.
 
 ### Enhanced Geolocation
@@ -120,6 +121,7 @@ Combining visual intelligence (IMINT) with social data (SOCMINT) and digital pro
 
 ### Improved Digital Profiling
 - Analyze social media images with IMINT location verification.
+- Use Google reverse search to figure out a device and a users ecosystem (android, apple, mac) and to find landmarks or brands (a restaurant, a landmark, et al).
 - Layer data from emails, usernames, and phone lookups to build comprehensive profiles.
 
 ### OPSEC Assessment
