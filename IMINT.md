@@ -56,6 +56,7 @@ Reverse image search tools like **Google Image Search** and **Google Lens** enab
 
 ### What You Cannot Do
 - **Reverse search people:** Not designed for facial recognition or identifying individuals.
+- If you wanted to reverse search people, please use this tool for [facecheck.id](https://github.com/vin3110/facecheck.id-results-extractor).
 
 ### Extra Tips
 - On mobile browsers, request the desktop site for full features.
