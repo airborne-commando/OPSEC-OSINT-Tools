@@ -251,7 +251,10 @@ OSINT can gather information from various sources, including:
 
   - Grey literature is "Information produced on all levels of government, academics, business and industry in electronic and print formats not controlled by commercial publishing i.e. where publishing is not the primary activity of the producing body."
    
-  - Grey literature can be useful for your research, but finding resources requires different tactics than you'd use for commercially published materials. This is because many types of grey literature are not indexed in some of the more common research tools like PubMed, CINAHL, Scopus, etc. 
+  - Grey literature can be useful for your research, but finding resources requires different tactics than you'd use for commercially published materials. This is because many types of grey literature are not indexed in some of the more common research tools like PubMed, CINAHL, Scopus, etc.
+
+
+- people search aggregators, typically used in the united states. can give you information on someone such as an email, home address, date of birth, etc.
 
 
 - Google Dorks:
