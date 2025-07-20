@@ -242,7 +242,7 @@ Core to cloud computing and enterprise IT, enabling efficient, scalable infrastr
 
 ## Miscellaneous
 - [PrivacyTools.io](https://www.privacytools.io/) - Privacy software/resources
-- [crypt.fyi](https://www.crypt.fyi/new) - Secure data sharing
+- [crypt.fyi](https://www.crypt.fyi/new) - "Secure" data sharing, I say "Secure" because it's not safe on screenshots.
 - [One-Time Pad Implementation](https://github.com/airborne-commando/one-time-pad-truly-random)
 - [Mouse-R](https://gist.github.com/airborne-commando/105e4c77598aab9662bca833ee944379) - use with veracrypt for mouse entropy
 
