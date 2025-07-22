@@ -61,6 +61,7 @@ Reverse image search tools like **Google Image Search** and **Google Lens** enab
 ### Extra Tips
 - On mobile browsers, request the desktop site for full features.
 - Long-press images in Chrome mobile and select “Search Image with Google.”
+- Don't just rely on google image search, you may have to manually deduce an image (is this really a iphone or samsung)
 
 ---
 
