@@ -253,6 +253,13 @@ OSINT can gather information from various sources, including:
    
   - Grey literature can be useful for your research, but finding resources requires different tactics than you'd use for commercially published materials. This is because many types of grey literature are not indexed in some of the more common research tools like PubMed, CINAHL, Scopus, etc.
 
+- genealogical
+
+- Genealogy: Using family history research and genealogy databases as an intelligence-gathering tool.
+- Death records: Gathering intelligence from records such as death notices, obituaries, gravestone databases, and burial registries.
+- Obituary: Systematically using obituaries to collect personal and relational data for investigations. (news papers or local news sites) 
+
+
 
 - people search aggregators, typically used in the united states. can give you information on someone such as an email, home address, date of birth, etc.
 
