@@ -255,9 +255,9 @@ OSINT can gather information from various sources, including:
 
 - genealogical
 
-- Genealogy: Using family history research and genealogy databases as an intelligence-gathering tool.
-- Death records: Gathering intelligence from records such as death notices, obituaries, gravestone databases, and burial registries.
-- Obituary: Systematically using obituaries to collect personal and relational data for investigations. (news papers or local news sites) 
+   - Genealogy: Using family history research and genealogy databases as an intelligence-gathering tool.
+   - Death records: Gathering intelligence from records such as death notices, obituaries, gravestone databases, and burial registries.
+   - Obituary: Systematically using obituaries to collect personal and relational data for investigations. (news papers or local news sites) 
 
 
 
