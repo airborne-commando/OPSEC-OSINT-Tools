@@ -259,8 +259,6 @@ OSINT can gather information from various sources, including:
    - Death records: Gathering intelligence from records such as death notices, obituaries, gravestone databases, and burial registries.
    - Obituary: Systematically using obituaries to collect personal and relational data for investigations. (news papers or local news sites) 
 
-
-
 - people search aggregators, typically used in the united states. can give you information on someone such as an email, home address, date of birth, etc.
 
 
@@ -311,7 +309,7 @@ Thus bad opsec.
 
 ## Digital profiling (OSINT profiling). 
 
-Digital profiling and behavioral analysis are powerful techniques for understanding individuals based on their online activities and digital footprints. While these methods are often used by professionals, you can apply many of the same principles and processes yourself by following a structured approach.
+Digital profiling and behavioral analysis are powerful techniques for understanding individuals based on their online activities and digital footprints. While these methods are often used by professionals, you can apply many of the same principles and processes yourself by following a structured approach. This creates possible interest and hobbies of an individual.
 
 Read more inside this readme on [Digital Profiling](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/Digital-Profiling.md)
 
