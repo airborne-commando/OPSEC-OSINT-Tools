@@ -10,7 +10,7 @@
       - [Smoke Screen and misinfo](#Smoke-Screen-and-misinfo) 
 7. [Open Source Intelligence (OSINT)](#open-source-intelligence-osint)
    - [Who uses Open-Source Intelligence (OSINT)?](#who-uses-open-source-intelligence-osint)
-   -[Sources of OSINT](#sources-of-osint)
+   - [Sources of OSINT](#sources-of-osint)
 8. [Digital Profiling](#digital-profiling-osint-profiling)
 9. [closed sourced](#closed-sourced-info)
       - [Breached Data](#breached-data)
