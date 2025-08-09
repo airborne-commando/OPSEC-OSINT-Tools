@@ -234,6 +234,8 @@ OSINT can gather information from various sources, including:
 
   - Public data refers to all information made freely available by government bodies or local collectivities. This data is in the public domain. It is different to open data, which is a subset of public data. Open data is structured and well-maintained data that is therefore easier to understand, access and consume. By contrast public data can be difficult to find, or (in the case of public bodies), require the submission of a Freedom of Information Act to retrieve it.
 
+Such can include for example [casesearch](https://ujsportal.pacourts.us/casesearch) in Pennsylvania Courts.
+
 - [Professional and academic publications](https://www.lawinsider.com/dictionary/academic-publication)
 
   - Academic Publication means the publication of an abstract, article or paper in a journal or electronic repository, or its presentation at a conference or seminar.
