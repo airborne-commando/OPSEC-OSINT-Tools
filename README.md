@@ -236,11 +236,7 @@ OSINT can gather information from various sources, including:
 
 Such can include for example [casesearch](https://ujsportal.pacourts.us/casesearch) in Pennsylvania Courts.
 
-For many others, access can be found on their respective state judiciary or court system websites, often via a search labeled “case search,” “court records,” or “case information.”
-
-Note:
-
-Providing an exhaustive, official state-by-state list of online non-federal court case search portals for all 50 U.S. states is challenging because each state manages its own judiciary case access system, and the availability and comprehensiveness vary widely. You'll have to do your own research into this.
+An offical [Justice site](https://www.justice.gov/jmd/ls/state) listing all states and their Local Courts.
 
 - [Professional and academic publications](https://www.lawinsider.com/dictionary/academic-publication)
 
