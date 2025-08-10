@@ -236,6 +236,8 @@ OSINT can gather information from various sources, including:
 
 Such can include for example [casesearch](https://ujsportal.pacourts.us/casesearch) in Pennsylvania Courts.
 
+An offical [Justice site](https://www.justice.gov/jmd/ls/state) listing all states and their Local Courts.
+
 - [Professional and academic publications](https://www.lawinsider.com/dictionary/academic-publication)
 
   - Academic Publication means the publication of an abstract, article or paper in a journal or electronic repository, or its presentation at a conference or seminar.
