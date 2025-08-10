@@ -236,7 +236,7 @@ OSINT can gather information from various sources, including:
 
 Such can include for example [casesearch](https://ujsportal.pacourts.us/casesearch) in Pennsylvania Courts.
 
-An offical [Justice site](https://www.justice.gov/jmd/ls/state) listing all states and their Local Courts.
+An offical [Justice site](https://www.justice.gov/jmd/ls/state) listing all states and their Local Courts. Case search should be in State Judiciary.
 
 - [Professional and academic publications](https://www.lawinsider.com/dictionary/academic-publication)
 
