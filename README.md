@@ -238,7 +238,7 @@ Such can include for example [casesearch](https://ujsportal.pacourts.us/casesear
 
 A Parcel search for [tax history](https://public.eriecountypa.gov/property-tax-records/property-records/property-tax-search/search-by-parcel.aspx).
 
-An offical [Justice site](https://www.justice.gov/jmd/ls/state) listing all states and their Local Courts. Case search should be in State Judiciary, also for other information such as tax records.
+An offical [Justice site](https://www.justice.gov/jmd/ls/state) listing all states and their Local Courts. Case search should be in State Judiciary, also for other information such as tax records and property records.
 
 - [Professional and academic publications](https://www.lawinsider.com/dictionary/academic-publication)
 
