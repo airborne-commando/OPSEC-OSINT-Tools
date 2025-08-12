@@ -356,6 +356,8 @@ Contains information such as [SOCMINT](https://github.com/airborne-commando/OPSE
 |                            | Holehe                   | [GitHub](https://github.com/megadose/holehe)                            | Checks email usage across sites                                                | Imgur false positives; CLI-based                                                    |
 | **Email Compromises**      | Hudson Rock Extractor    | [GitHub](https://github.com/airborne-commando/hudsonrock-search-extractor)| Manual email breach checker (Flask-based)                                     | Not automated; requires manual input                                                |
 | **Geolocation**            | Google Maps              | [maps.google.com](https://maps.google.com/)                             | Pinpoint locations/compare landmarks                                           | Public data only; no advanced OSINT features                                        |
+|                            | Bing maps              | [bing maps](https://www.bing.com/maps)                             | Birds eye view, sattalite, street view                                          | Quality may differ in birds eye compared to google                                        |
+|                            | Google Earth              | [Google Earth](https://earth.google.com/web)                            | 3D View, 2D view, sattalite, street view, historical views                                          | Use in conjunction with google maps, bing maps or both.                                        |
 |                            | geohints                     | [geohints](https://geohints.com/)                                     | a curated list that contains the most accurate and detailed information about metas in Geoguessr as possible.| used for Geoguessr, but can be used to give clues in where an image is located.                                 |
 |                            | GeoGuessr GPT              | [GeoGuessr GPT](https://chatgpt.com/g/g-brlHi7t2R-geoguessr-gpt)                             | Use AI to pinpoint a photo                                          | Can give out false info; it's AI so ***it will*** hallucinate! Only 3 uploads for free users.                                        |
 |                            | findpiclocation              | [findpiclocation](https://findpiclocation.com/)                           | Use AI to pinpoint a photo                                          | May not be as accurate as GPT.                                        |
@@ -382,7 +384,9 @@ Contains information such as [SOCMINT](https://github.com/airborne-commando/OPSE
    - For Gmail-specific OSINT, use **GHunt** (via OSINT Rocks).  
 
 4. **Geolocation**:  
-   - Use **Google Maps Street View** to verify addresses/landmarks from other tools (e.g., ClustrMaps).  
+   - Use **Google Maps Street View** to verify addresses/landmarks from other tools (e.g., ClustrMaps).
+   - Use birds eye view in [bing maps](https://www.bing.com/maps)
+   - use [google earth](https://earth.google.com/web/) for a detailed view.
 
 5. **OPSEC Notes**:  
    - **Rate Limits**: Tools like Google-FU may trigger blocks—use proxies/VPNs.  
