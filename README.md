@@ -510,6 +510,7 @@ An automtic tool that I've made for [pa voter services](https://github.com/airbo
 | **Facebook** | Facebook Search      | [facebook.com/search](https://www.facebook.com/search/) | Native Facebook search tool | Limited without login |
 |              | WhoPostedWhat       | [whopostedwhat.com](https://www.whopostedwhat.com/) | Search Facebook posts by date/keyword | Requires precise queries, public accounts |
 | **reddit**   | r00m101.com         | [r00m101](https://r00m101.com/)       | Get info from an active or deleted reddit account                                       | Pricing for full scope possibly
+|              | ihsoyct             | [ihsoyct](https://ihsoyct.github.io/index.html) | Get archived posts from a reddit accout from both APIs                              | 
 
 ---
 
