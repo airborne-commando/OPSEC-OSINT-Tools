@@ -473,6 +473,9 @@ An automtic tool that I've made for [pa voter services](https://github.com/airbo
 | **[hashes.com](https://hashes.com/)**         | Hash (MD5, SHA-1, etc.) | Decrypted passwords (if hash is cracked) | Free/paid cracking tools                      | Useful for reversing hashes from breaches.                               |
 | **[pentester.com](https://pentester.com/)**          | Email, Username    | Full breach details (more than HIBP)     | Free; no Tor needed                           | Unofficial but extensive; may include sensitive data.                    |
 | **[Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)**          | Email, Username, Domain, APK    | Infostealer infection indication, general information     | Free; no passwords/raw data                           | Infostealer only data                    |
+| **[archive.trace.rip](https://archive.trace.rip/)**          | detailed information    | user submitted     | Historical Data Breaches Archive                           | data breaches and scrapes throughout history                    |
+
+
 
 ---
 
