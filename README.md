@@ -598,6 +598,6 @@ Donations:
 
 If you find this useful feel free to donate to this monero address:
 
-![mon](https://github.com/user-attachments/assets/f77ce530-5a5d-479d-bb47-481674c93f4c)
+<img width="240" height="240" alt="monero" src="" />
 
     8BPdcsLtA5iWLNTWvYzUVyTWtQkM62e8r7xqAuwjXTSC4RcoSWqpmtyLsMYvz3QNZtT1rbgPUnmVpMAudhxTn6zkRxUFcZN
