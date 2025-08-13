@@ -598,6 +598,6 @@ Donations:
 
 If you find this useful feel free to donate to this monero address:
 
-<img width="240" height="240" alt="monero" src="" />
+<img width="240" height="240" alt="monero" src="./monero.png" />
 
     8BPdcsLtA5iWLNTWvYzUVyTWtQkM62e8r7xqAuwjXTSC4RcoSWqpmtyLsMYvz3QNZtT1rbgPUnmVpMAudhxTn6zkRxUFcZN
