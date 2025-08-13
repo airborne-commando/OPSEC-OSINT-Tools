@@ -1,5 +1,5 @@
 <p align="center">
-<img width="865" height="281" alt="OSINT" src="https://github.com/user-attachments/assets/a7916d80-2e2f-43cc-944f-00c264415650" />
+<img width="865" height="281" alt="OSINT" src="https://github.com/user-attachments/assets/935a8a02-a8cc-45cf-a4eb-649dde1bc294" />
 </p>
 
 ## Table of Contents
