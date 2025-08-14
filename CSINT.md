@@ -7,3 +7,5 @@ Additionally, CSINT can refer to the "Center for Security, Innovation and New Te
 In summary:
 - As intelligence, CSINT means collecting confidential, non-public information with legal authority.
 - As an organization, CSINT is a research center focused on security and innovation in technology.
+
+See [HUMINT](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/HUMINT.md) as an example.
