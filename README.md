@@ -336,6 +336,8 @@ Read more inside this readme on [Digital Profiling](https://github.com/airborne-
 
 > And remember, closed sourced info can change depending on context. If it came from social media then it's considered open source as it's already out there. If it's from a closed source document like let's say a USB drive then consider it closed source.
 
+See also **[CSINT](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/sandbox/CSINT.md)**
+
 # IMINT
 
 [IMINT](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/IMINT.md)(Image INTelligence) involves collecting and analyzing visual imagery—satellite, aerial, drone, or ground photos—to extract useful information.
