@@ -19,9 +19,10 @@
 8. [Digital Profiling](#digital-profiling-osint-profiling)
 9. [closed sourced](#closed-sourced-info)
       - [Breached Data](#breached-data)
+      - [CSINT](CSINT.md)
 10. [IMINT](#IMINT)
-    - [Reverse search](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/IMINT.md#reverse-search-google)
-    - [SOCMINT](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/IMINT.md#socmint-social-intelligence)
+    - [Reverse search](IMINT.md#reverse-search-google)
+    - [SOCMINT](#socmint-social-intelligence)
 11. [Real world examples of OSINT](#real-world-examples-of-osint)
       - [2016 Airstrike Coordination](#in-the-year-2016-a-basket-weaving-image-board-used-osint-to-pay-some-supposed-terrorist-a-vist-from-a-govt-in-russia-resulting-in-airstrikes)
       - [2017 Shia LaBeouf Protest](#in-2017-shia-labeouf-had-a-protest-due-to-trumps-election-this-resulted-in-a-basket-weaving-image-board-using-osint-and-sky-patterns-to-figure-out-where-a-flag-is)
@@ -335,6 +336,8 @@ Read more inside this readme on [Digital Profiling](https://github.com/airborne-
 [Breached Data](#breached-data)
 
 > And remember, closed sourced info can change depending on context. If it came from social media then it's considered open source as it's already out there. If it's from a closed source document like let's say a USB drive then consider it closed source.
+
+See also **[CSINT](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/sandbox/CSINT.md)**
 
 # IMINT
 
