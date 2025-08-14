@@ -135,7 +135,7 @@ It's a security discipline and operations function that involves a continuous cy
    * [w0rmer](https://opsecfail.github.io/blog.html?filecase=w0rmer)
    * [darknetdiaries](https://darknetdiaries.com/transcript/63/)(article)
 
-* [examples of good and bad opsec and some osint.](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/examples.md)
+* [examples of good and bad opsec and some osint.](examples.md)
 
 OPSEC supplements other security disciplines rather than replacing them.
 
@@ -156,9 +156,9 @@ OPSEC supplements other security disciplines rather than replacing them.
 |                            | Word Spinners           | Paraphrase text to avoid detection                                           | Evades plagiarism/identity linking        | May sound unnatural                         |
 |                            | AI-Generated Faces      | Fake profile pictures (e.g., ThisPersonDoesNotExist.com)                     | Hides real identity                        | May look unnatural               |
 | **Self-OSINT**           | Opt-Out Guides          | Remove personal data from people-search sites                                | Reduces digital footprint                 | Time-consuming; not all sites honor requests without payment |
-| **OPSEC Resources**      | Bad OPSEC Examples      | [List of pitfalls](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/badopsec.md) | Learn from others’ mistakes               | N/A                                        |
-|                            | Good OPSEC Practices    | [Guidelines](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/good-opsec.md) | Actionable tips                          | Requires discipline                         |
-| **Tool Lists**           | OPSEC Tools             | [Curated list](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/opsec.md) | Comprehensive resource                   | May need updates                            |
+| **OPSEC Resources**      | Bad OPSEC Examples      | [List of pitfalls](badopsec.md) | Learn from others’ mistakes               | N/A                                        |
+|                            | Good OPSEC Practices    | [Guidelines](good-opsec.md) | Actionable tips                          | Requires discipline                         |
+| **Tool Lists**           | OPSEC Tools             | [Curated list](opsec.md) | Comprehensive resource                   | May need updates                            |
 
 ---
 
@@ -172,7 +172,7 @@ OPSEC supplements other security disciplines rather than replacing them.
 2. **Anonymity**:  
    - **Tor** + **Mullvad VPN** + **XMR** = layered protection.  
    - Avoid logging into personal accounts while using these tools.
-   - Pitfalls: you need to use TOR and Mullvad separately for maximum Anonymity, use a [Virtual Machine](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/opsec.md#virtualization) for VPN's and TOR on another (or the host).
+   - Pitfalls: you need to use TOR and Mullvad separately for maximum Anonymity, use a [Virtual Machine](opsec.md#virtualization) for VPN's and TOR on another (or the host).
 
 3. **Identity**:  
    - **Unique usernames** + **AI faces** + **word spinning** = harder to trace.  
@@ -181,7 +181,7 @@ OPSEC supplements other security disciplines rather than replacing them.
    - Regularly **opt out** of data brokers and **[OSINT yourself](#toolchain-self-osint)**.  
 
 5. **OPSEC Mindset**:  
-   - Follow **[good OPSEC](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/good-opsec.md)** and avoid **[bad habits](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/badopsec.md)**.
+   - Follow **[good OPSEC](good-opsec.md)** and avoid **[bad habits](badopsec.md)**.
 
 
 **Note**:
@@ -199,11 +199,11 @@ Check Wikipedia If you're confused on all of these here:
 ### **Pro Tips**  
 - **Monero Mining**: Run a local node to avoid centralized exchanges tracing purchases.  
 
-For full tool details, see the **[OPSEC Tools List](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/opsec.md)**.
+For full tool details, see the **[OPSEC Tools List](opsec.md)**.
 
 ## Smoke Screen and misinfo
 
-A smoke screen operation in the context of OSINT (Open Source Intelligence) refers to deliberate actions taken to obscure, mislead, or mask the true activities, intentions, or identities of individuals or organizations from those conducting open-source intelligence gathering. The term is borrowed from military tactics, where a smoke screen is used to conceal movements or positions from enemy observation. In cyber and intelligence contexts, the concept is adapted to digital and informational environments. You may read more [here](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/smokescreen-misinfo.md).
+A smoke screen operation in the context of OSINT (Open Source Intelligence) refers to deliberate actions taken to obscure, mislead, or mask the true activities, intentions, or identities of individuals or organizations from those conducting open-source intelligence gathering. The term is borrowed from military tactics, where a smoke screen is used to conceal movements or positions from enemy observation. In cyber and intelligence contexts, the concept is adapted to digital and informational environments. You may read more [here](smokescreen-misinfo.md).
 
 ## Open Source Intelligence (OSINT)
 
@@ -323,11 +323,11 @@ Thus bad opsec.
 
 Digital profiling and behavioral analysis are powerful techniques for understanding individuals based on their online activities and digital footprints. While these methods are often used by professionals, you can apply many of the same principles and processes yourself by following a structured approach. This creates possible interest and hobbies of an individual.
 
-Read more inside this readme on [Digital Profiling](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/Digital-Profiling.md)
+Read more inside this readme on [Digital Profiling](Digital-Profiling.md)
 
 ## Closed Sourced Info
 
-- [HUMINT](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/HUMINT.md)
+- [HUMINT](HUMINT.md)
 
 **HUMINT can be collected overtly (e.g., interviews, debriefings, diplomatic reporting) or covertly (e.g., espionage, clandestine surveillance).**
 
@@ -337,12 +337,12 @@ Read more inside this readme on [Digital Profiling](https://github.com/airborne-
 
 > And remember, closed sourced info can change depending on context. If it came from social media then it's considered open source as it's already out there. If it's from a closed source document like let's say a USB drive then consider it closed source.
 
-See also **[CSINT](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/sandbox/CSINT.md)**
+See also **[CSINT](CSINT.md)**
 
 # IMINT
 
-[IMINT](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/IMINT.md)(Image INTelligence) involves collecting and analyzing visual imagery—satellite, aerial, drone, or ground photos—to extract useful information.
-Contains information such as [SOCMINT](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/IMINT.md#socmint-social-intelligence) and [Reverse Search](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/IMINT.md#reverse-search-google).
+[IMINT](IMINT.md)(Image INTelligence) involves collecting and analyzing visual imagery—satellite, aerial, drone, or ground photos—to extract useful information.
+Contains information such as [SOCMINT](IMINT.md#socmint-social-intelligence) and [Reverse Search](IMINT.md#reverse-search-google).
 
 
 ## Tools
@@ -421,7 +421,7 @@ you may also create an additional database, one that has the password you can re
 
 For niche tools, refer to the [Curated Lists](#curated-lists) section.
 
-Pipeline discussed [here](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/opsec.md#opsec-pipeline-for-secure-files)
+Pipeline discussed [here](opsec.md#opsec-pipeline-for-secure-files)
     
 ## People search tools (in the states):
 
@@ -586,7 +586,7 @@ An automtic tool that I've made for [pa voter services](https://github.com/airbo
 
 ## Toolchain (self-OSINT):
 
-Google dorks: `https://www.google.com/search?q= "first+last" "Street Address" "City state" "age"` -> [Results about you (google index)](https://myactivity.google.com/results-about-you) -> [big ass list](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) -> [inteltechniques opt out workbook](https://inteltechniques.com/workbook.html) -> [People Search tools](https://github.com/airborne-commando/OPSEC-OSINT-Tools/tree/main?tab=readme-ov-file#people-search-tools-in-the-states)
+Google dorks: `https://www.google.com/search?q= "first+last" "Street Address" "City state" "age"` -> [Results about you (google index)](https://myactivity.google.com/results-about-you) -> [big ass list](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) -> [inteltechniques opt out workbook](https://inteltechniques.com/workbook.html) -> [People Search tools](README.md#people-search-tools-in-the-states)
 
 **Notice** 
 
