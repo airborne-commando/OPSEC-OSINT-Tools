@@ -6,9 +6,9 @@ A comprehensive guide to operational security tools and techniques.
 - [Content Obfuscation](#content-obfuscation)
 - [Image Generation & Editing](#image-generation--editing)
 - [Anonymity Tools](#anonymity-tools)
-    - [Trying TailsOS](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/opsec.md#to-try-tailsos-unsecure)
-    - [i2p with TailsOS](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/opsec.md#i2p-with-TailsOS-not-supported-but-is-amnesic)
-    - [Secure File Transfer (TailsOS)](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/opsec.md#secure-file-transfer-methods-in-tailsos)
+    - [Trying TailsOS](opsec.md#to-try-tailsos-unsecure)
+    - [i2p with TailsOS](opsec.md#i2p-with-TailsOS-not-supported-but-is-amnesic)
+    - [Secure File Transfer (TailsOS)](opsec.md#secure-file-transfer-methods-in-tailsos)
 - [Virtualization](#virtualization)
 - [Privacy Protection](#privacy-protection)
 - [Cryptocurrency](#cryptocurrency)
@@ -236,7 +236,7 @@ Core to cloud computing and enterprise IT, enabling efficient, scalable infrastr
 - [DBAN](https://dban.org/) - HDD wiping; VM. Not good for SSD's see below.
 - [Arch Linux Wipe Guide](https://wiki.archlinux.org/title/Securely_wipe_disk)
 - [NVMe/SSD/HDD Nuke Script](https://gist.github.com/airborne-commando/6a690bd0644a9f1d76bc8c585d9ee969)
-- [physical destruction](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/physical-destruction.md)
+- [physical destruction](physical-destruction.md)
 
 ---
 
