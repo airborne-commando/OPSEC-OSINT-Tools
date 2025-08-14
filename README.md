@@ -20,7 +20,7 @@
 9. [closed sourced](#closed-sourced-info)
       - [Breached Data](#breached-data)
 10. [IMINT](#IMINT)
-    - [Reverse search](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/IMINT.md#reverse-search-google)
+    - [Reverse search](IMINT.md#reverse-search-google)
     - [SOCMINT](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/IMINT.md#socmint-social-intelligence)
 11. [Real world examples of OSINT](#real-world-examples-of-osint)
       - [2016 Airstrike Coordination](#in-the-year-2016-a-basket-weaving-image-board-used-osint-to-pay-some-supposed-terrorist-a-vist-from-a-govt-in-russia-resulting-in-airstrikes)
