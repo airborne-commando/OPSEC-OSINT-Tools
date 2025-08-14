@@ -7,7 +7,7 @@
 - [Detailed examples](#Detailed-examples)
 - [RUMINT vs HUMINT](#rumint-vs-humint)
 - [Summary Table](#summary-table)
-- back to [main guide](https://github.com/airborne-commando/OPSEC-OSINT-Tools)
+- back to [main guide](README.md)
 
 # HUMINT Overview
 
@@ -119,7 +119,7 @@ HUMINT isn't limited to espionage—it appears in many civilian and professional
 
 | Pros                                | Cons                                            |
 | ----------------------------------- | ----------------------------------------------- |
-| Early warnings and hidden leads     | [Unverified and easily manipulated](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/smokescreen-misinfo.md)               |
+| Early warnings and hidden leads     | [Unverified and easily manipulated](smokescreen-misinfo.md)               |
 | Gauges public sentiment             | May waste resources or damage credibility       |
 
 ### HUMINT (Human Intelligence)
@@ -133,7 +133,7 @@ HUMINT isn't limited to espionage—it appears in many civilian and professional
 
 | Intelligence Type | Pros                                        | Cons                                                  |
 | ----------------- | ------------------------------------------- | ----------------------------------------------------- |
-| RUMINT            | Early warnings, new leads, public sentiment | Unverified, unreliable, risk of [disinformation](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/smokescreen-misinfo.md)        |
+| RUMINT            | Early warnings, new leads, public sentiment | Unverified, unreliable, risk of [disinformation](smokescreen-misinfo.md)        |
 | HUMINT            | In-depth, contextual, adaptable             | Source-dependent, risk of deception, operational risk |
 
 ---
