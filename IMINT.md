@@ -82,7 +82,7 @@ SOCMINT refers to collecting and analyzing digital data about social relationshi
 - **Data Sources:** Social platforms (Facebook, Instagram, LinkedIn), communications metadata, location info.
 - **Analytical Depth:** Large-scale data and algorithms reveal patterns beyond traditional human or signals intelligence.
 
-> See also [Digital Profiling](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/Digital-Profiling.md), which closely relates to SOCMINT.
+> See also [Digital Profiling](Digital-Profiling.md), which closely relates to SOCMINT.
 
 ### Using Public Images with Maps
 Cross-referencing public images with mapping tools like Google Maps or Street View can:
@@ -161,4 +161,4 @@ Combining visual intelligence (IMINT) with social data (SOCMINT) and digital pro
 
 ---
 
-For more detailed tools and techniques, visit the [main OPSEC-OSINT-Tools repository](https://github.com/airborne-commando/OPSEC-OSINT-Tools).
+For more detailed tools and techniques, visit the [main OPSEC-OSINT-Tools repository](README.md).
