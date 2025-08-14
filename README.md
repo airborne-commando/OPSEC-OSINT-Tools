@@ -19,6 +19,7 @@
 8. [Digital Profiling](#digital-profiling-osint-profiling)
 9. [closed sourced](#closed-sourced-info)
       - [Breached Data](#breached-data)
+      - [CSINT](CSINT.md)
 10. [IMINT](#IMINT)
     - [Reverse search](IMINT.md#reverse-search-google)
     - [SOCMINT](#socmint-social-intelligence)
