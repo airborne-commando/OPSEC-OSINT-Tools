@@ -37,7 +37,7 @@
     - [Key Points](#key-points)
     - [Safety Warning](#safety-warning)
     - [References](#references-2)
-    - [main guide](https://github.com/airborne-commando/OPSEC-OSINT-Tools)
+    - [main guide](README.md)
 
 # How to Physically Destroy a Hard Disk Drive (HDD)
 
