@@ -12,9 +12,9 @@
 - [OPSEC Failures: Lessons from Real-World Mistakes](#opsec-failures-lessons-from-real-world-mistakes)
   - [Guccifer 2.0's VPN Error](#guccifer-20s-vpn-error)
   - [Silk Road's Ross Ulbricht](#silk-roads-ross-ulbricht)
-  - back to [main guide](https://github.com/airborne-commando/OPSEC-OSINT-Tools)
+  - back to [main guide](README.md)
 
-The GitHub repository [OPSEC-OSINT-Tools](https://github.com/airborne-commando/OPSEC-OSINT-Tools) provides a comprehensive collection of tools and guidelines related to Operational Security (OPSEC) and Open-Source Intelligence (OSINT). These resources are applicable to various groups, including criminals, civilians, and law enforcement. Below are real-world examples illustrating how these tools and practices have been utilized across these groups:
+[This Readme, guide or how-to](README.md) provides a comprehensive collection of tools and guidelines related to Operational Security (OPSEC) and Open-Source Intelligence (OSINT). These resources are applicable to various groups, including criminals, civilians, and law enforcement. Below are real-world examples illustrating how these tools and practices have been utilized across these groups:
 
 ---
 
