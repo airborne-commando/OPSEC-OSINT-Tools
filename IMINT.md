@@ -161,4 +161,4 @@ Combining visual intelligence (IMINT) with social data (SOCMINT) and digital pro
 
 ---
 
-For more detailed tools and techniques, visit the [main OPSEC-OSINT-Tools repository](README.md).
+back to the readme [main OPSEC-OSINT-Tools repository](README.md).
