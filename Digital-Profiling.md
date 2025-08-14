@@ -12,7 +12,7 @@
 - [Summary Table: Digital Profiling Process](#summary-table-digital-profiling-process)
 - [Applying psyops operations](#applying-psyops)
 - [Best Way to Fight Against OSINT Profiling](#best-way-to-fight-against-osint-profiling)
-- back to [main guide](https://github.com/airborne-commando/OPSEC-OSINT-Tools)
+- back to [main guide](README.md)
 
 # Digital Profiling and Behavioral Analysis Guide
 
@@ -91,7 +91,7 @@ Use a multi-axis profile to evaluate:
 
 - Profiling is an ongoing process. As you gather more data, revisit and refine your profile.
 - New discoveries (e.g., a new username or email) can open up further avenues for investigation.
-- Use text editors and CSV editors (Like Libreoffice cal) to document findings, or other forms such as [IMINT](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/IMINT.md) or anything discussed in the [main guide](https://github.com/airborne-commando/OPSEC-OSINT-Tools) thats tangible. 
+- Use text editors and CSV editors (Like Libreoffice cal) to document findings, or other forms such as [IMINT](IMINT.md) or anything discussed in the [main guide](README.md) thats tangible. 
 - Document and compile.
 
 ---
@@ -161,9 +161,9 @@ In essence, this mindset places you in a constant state of alert—treating huma
 
 ## Best way to fight against OSINT Profiling?
 
-1. Practice good [OPSEC](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/opsec.md)
-2. Study [SOCMINT](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/IMINT.md#socmint-social-intelligence)
-3. Study [HUMINT](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/HUMINT.md)
-4. Establish a [Smokescreen](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/smokescreen-misinfo.md)
-5. OSINT yourself as stated in the [Main Guide](https://github.com/airborne-commando/OPSEC-OSINT-Tools)
+1. Practice good [OPSEC](opsec.md)
+2. Study [SOCMINT](IMINT.md#socmint-social-intelligence)
+3. Study [HUMINT](HUMINT.md)
+4. Establish a [Smokescreen](smokescreen-misinfo.md)
+5. OSINT yourself as stated in the [Main Guide](README.md)
 6. set profiles to private. 
