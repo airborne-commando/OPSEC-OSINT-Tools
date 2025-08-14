@@ -15,7 +15,7 @@ A comprehensive guide to operational security tools and techniques.
 - [Data Destruction](#data-destruction)
 - [Miscellaneous](#miscellaneous)
 - [physical security](#physical-security-in-opsec)
-- back to [main guide](https://github.com/airborne-commando/OPSEC-OSINT-Tools)
+- back to [main guide](README.md)
 
 ---
 
