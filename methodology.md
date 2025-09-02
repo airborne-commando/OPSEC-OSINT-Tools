@@ -123,7 +123,7 @@ A list of methodologies or a systematic approach. Everything will be found in th
 4. **Secure Data Destruction Matrix**  
    - HDD → DBAN → drill/hammer/shred platters.  
    - SSD/NVMe → nvme-cli / nvme-sanitize → destroy NAND chips directly.  
-   - USB → smash chip, don’t just format.  
+   - USB → fill with zeros → smash chip, don’t just format.  
 
 ➡️ *Outcome: No physical compromise leaks into digital OSINT exposure.*
 
