@@ -120,9 +120,9 @@ A list of methodologies or a systematic approach. Everything will be found in th
    - OnionShare / Taildrop for online.  
    - Encrypted USBs for offline.  
 
-4. **Data Destruction Matrix**  
-   - HDD → drill/hammer/shred platters.  
-   - SSD/NVMe → destroy NAND chips directly.  
+4. **Secure Data Destruction Matrix**  
+   - HDD → DBAN → drill/hammer/shred platters.  
+   - SSD/NVMe → nvme-cli / nvme-sanitize → destroy NAND chips directly.  
    - USB → smash chip, don’t just format.  
 
 ➡️ *Outcome: No physical compromise leaks into digital OSINT exposure.*
