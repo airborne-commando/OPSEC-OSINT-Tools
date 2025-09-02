@@ -114,16 +114,16 @@ A list of methodologies or a systematic approach. Everything will be found in th
 
 2. **Data-at-Rest Protection**  
    - Encrypt drives (VeraCrypt, LUKS).  
-   - Password management: KeePassXC DB1 (human pw) → unlock DB2 → unlock containers.
+   - Password management: KeePassXC DB1 (human pw) → unlock DB2 → unlock containers (VeraCrypt).
 
 3. **File Transfer OPSEC (Tails)**  
    - OnionShare / Taildrop for online.  
    - Encrypted USBs for offline.  
 
-4. **Data Destruction Matrix**  
-   - HDD → drill/hammer/shred platters.  
-   - SSD/NVMe → destroy NAND chips directly.  
-   - USB → smash chip, don’t just format.  
+4. **Secure Data Destruction Matrix**  
+   - HDD → DBAN → drill/hammer/shred platters.  
+   - SSD/NVMe → nvme-cli / nvme-sanitize → destroy NAND chips directly.  
+   - USB → fill with zeros → smash chip, don’t just format.  
 
 ➡️ *Outcome: No physical compromise leaks into digital OSINT exposure.*
 
@@ -145,7 +145,7 @@ flowchart TD
     A[1. Threat Modeling &<br>OPSEC Baseline] -->|Identify Critical Info| B[2. Self-OSINT Audit<br>Map Your Exposure]
     B -->|Findings Feed| C[3. Profiling Others<br>Structured OSINT Collection]
     
-    C -->|Reveals Adversary<br>TTPs & Capabilities| A
+    A ---|Reveals Adversary<br>TTPs & Capabilities| C
     
     A -->|Informs<br>Countermeasures| D[4. Counter-OSINT<br>Privacy Hardening & Disinformation]
     B -->|Directs Removal &<br>Obfuscation Efforts| D
@@ -154,7 +154,7 @@ flowchart TD
     A -->|Defines Requirements| E
     
     E -->|Secures Foundation| F[6. Continuous Review &<br>PsyOps Awareness]
-    D -->|Maintains<br>Operational Security| F
+    D ---|Maintains<br>Operational Security| F
     
     F -->|Adapt & Re-evaluate| A
 
