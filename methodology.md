@@ -114,7 +114,7 @@ A list of methodologies or a systematic approach. Everything will be found in th
 
 2. **Data-at-Rest Protection**  
    - Encrypt drives (VeraCrypt, LUKS).  
-   - Password management: KeePassXC DB1 (human pw) → unlock DB2 → unlock containers.
+   - Password management: KeePassXC DB1 (human pw) → unlock DB2 → unlock containers (VeraCrypt).
 
 3. **File Transfer OPSEC (Tails)**  
    - OnionShare / Taildrop for online.  
