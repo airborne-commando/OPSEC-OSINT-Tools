@@ -9,6 +9,7 @@
 2. [Suggestions](#Suggestions)
 3. [Why](#why)
 4. [OSINT/OPSEC Tools](#osintopsec-Tools)
+   - [methodology](methodology.md)
 5. [key points](#key-points)
 6. [OPSEC](#operations-security-is-a-systematic-process-for) 
    - [How to OPSEC](#how-to-opsec)
