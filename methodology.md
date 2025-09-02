@@ -145,7 +145,7 @@ flowchart TD
     A[1. Threat Modeling &<br>OPSEC Baseline] -->|Identify Critical Info| B[2. Self-OSINT Audit<br>Map Your Exposure]
     B -->|Findings Feed| C[3. Profiling Others<br>Structured OSINT Collection]
     
-    C -->|Reveals Adversary<br>TTPs & Capabilities| A
+    A ---|Reveals Adversary<br>TTPs & Capabilities| C
     
     A -->|Informs<br>Countermeasures| D[4. Counter-OSINT<br>Privacy Hardening & Disinformation]
     B -->|Directs Removal &<br>Obfuscation Efforts| D
@@ -154,7 +154,7 @@ flowchart TD
     A -->|Defines Requirements| E
     
     E -->|Secures Foundation| F[6. Continuous Review &<br>PsyOps Awareness]
-    D -->|Maintains<br>Operational Security| F
+    D ---|Maintains<br>Operational Security| F
     
     F -->|Adapt & Re-evaluate| A
 
