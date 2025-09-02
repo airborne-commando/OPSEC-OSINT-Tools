@@ -56,7 +56,7 @@ Can you predict someone’s behavior with this? not exactly; people are unpredic
 
 A list of OSINT/OPSEC tools I made, forked, and/or use.
 
-If you want some quick methodology I suggest you read this [markdown](methodology.md) 
+If you want some quick methodology I suggest you read this [markdown](methodology.md).
 
 ## Key points
 
