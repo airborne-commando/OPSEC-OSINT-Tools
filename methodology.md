@@ -1,3 +1,7 @@
+# methodology
+
+A list of methodologies or a systematic approach. Everything will be found in the [main guide](README.md).
+
 # 🔄 Summary: Unified OPSEC–OSINT Cycle
 
 1. **Threat Modeling** → Identify what matters.  
@@ -16,7 +20,7 @@
 
 1. **Identify Critical Information (CII)**  
    - What do you not want adversaries to know? (emails, network access, home address, sensitive ops, habits).  
-   - [Main Guide: CII cycle]
+   - [Main Guide: CII cycle](README.md#operations-security-is-a-systematic-process-for)
 
 2. **Analyze Threats & Vulnerabilities**  
    - Who might target you? Employer, stalker, law enforcement, competitor, criminal groups.  
@@ -85,7 +89,7 @@
 
 2. **Privacy Hardening**  
    - Lock down social media privacy.  
-   - Opt-out of brokers via [Big Ass List] / IntelTechniques workbook.
+   - Opt-out of brokers via [Big Ass List](README.md#curated-lists) / IntelTechniques workbook.
 
 3. **Smokescreen Ops**  
    - Flood decoy identities.  
