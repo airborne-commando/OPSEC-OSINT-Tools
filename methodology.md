@@ -42,7 +42,7 @@ A list of methodologies or a systematic approach. Everything will be found in th
 📍 *Goal: Audit yourself before adversaries do.*
 
 1. **Google Dorks**: `"First Last" "Address"`, `"email.com" site:pastebin.com`  
-2. **Check Google’s "Results About You" Index**  
+2. **Check Google's "Results About You" Index**  
 3. **People Search Aggregators (US only)**: PeekYou, ClustrMaps, Nuwber  
 4. **Breach Data**: HIBP → Pentester.com → LeakPeek  
 5. **Compile Findings in CSV/Excel** (username/email variations, breached accounts, addresses).  
@@ -123,7 +123,7 @@ A list of methodologies or a systematic approach. Everything will be found in th
 4. **Secure Data Destruction Matrix**  
    - HDD → DBAN → drill/hammer/shred platters.  
    - SSD/NVMe → nvme-cli / nvme-sanitize → destroy NAND chips directly.  
-   - USB → fill with zeros → smash chip, don’t just format.  
+   - USB → fill with zeros → smash chip, don't just format.  
 
 ➡️ *Outcome: No physical compromise leaks into digital OSINT exposure.*
 
@@ -137,6 +137,57 @@ A list of methodologies or a systematic approach. Everything will be found in th
 - **PsyOps Awareness**: Recognize manipulation (sales, social media, politics).  
 - **Guard Against Paranoia**: Skeptical without isolating yourself.
 
+## Additional Methodologies from Related Guides
+
+### Digital Profiling Methodology
+From [Digital-Profiling.md](Digital-Profiling.md):
+
+1. **Understand the Basics** - Digital profiling gathers and analyzes online data; behavioral analysis infers motives, habits, and future actions.
+
+2. **Collect Digital Biographical Information** - Gather identifiers, track online activity, search for recurring usernames, document findings.
+
+3. **Analyze Behavioral Patterns** - Look for posting times, topics, language, interaction style, preferred platforms, and social networks.
+
+4. **Assess Competencies and Affinities** - Evaluate technical skill, privacy awareness, sociability, and domain expertise.
+
+5. **Use Analytical Tools** - Employ search engines, data aggregators, visualization/statistics tools and Natural Language Processing (NLPs) for deeper analysis.
+
+6. **Iterate and Refine** - Continuously update the profile as new data emerges; use structured documentation.
+
+### IMINT Methodology
+From [IMINT.md](IMINT.md):
+
+1. **Reverse Image Search** - Use Google Lens or specialized tools to find image sources and related content.
+
+2. **Geolocation Analysis** - Cross-reference public images with mapping tools like Google Maps or Street View.
+
+3. **SOCMINT Integration** - Combine visual intelligence with social data from platforms like Facebook, Instagram, LinkedIn.
+
+4. **Verification** - Validate findings through multiple sources and analytical techniques.
+
+### HUMINT Methodology
+From [HUMINT.md](HUMINT.md):
+
+1. **Direct Engagement** - Use interviews, debriefings, and interpersonal communication.
+
+2. **Rapport Building** - Establish trust through shared interests and gradual disclosure.
+
+3. **Active Listening** - Use body language and verbal cues to encourage information sharing.
+
+4. **Observation** - Notice details about appearance, environment, and behavior.
+
+5. **Ethical Considerations** - Respect privacy boundaries and legal constraints.
+
+### Counter-OSINT Methodology
+From [smokescreen-misinfo.md](smokescreen-misinfo.md):
+
+1. **Information Overload** - Flood open sources with irrelevant or misleading information.
+
+2. **Decoy Accounts** - Create fake social media profiles and websites.
+
+3. **False Attribution** - Plant data pointing to incorrect actors or locations.
+
+4. **Obfuscation Techniques** - Use anonymization and deliberate mislabeling of data.
 
 # 🔄 Unified OPSEC–OSINT Lifecycle
 
@@ -172,4 +223,3 @@ flowchart TD
     subgraph "Meta-Process"
         F
     end
-```
