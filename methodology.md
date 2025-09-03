@@ -140,8 +140,8 @@ flowchart TD
    - [OnionShare](https://onionshare.org/), encrypted USBs, [TailsOS](https://tails.net/)
 4. **Secure Data Destruction**
    - **HDD**: DBAN → drill/hammer/shred
-   - **SSD/NVMe**: Destroy all NAND chips → shred/incinerate
-   - **USB**: Destroy memory chip → shred
+   - **SSD/NVMe**: cli-nvme / nvme-sanitize → Destroy all NAND chips → shred/incinerate
+   - **USB**: fill with zeros → Destroy memory chip → shred
 
 **Guides:**
 - [Physical Destruction Guide](physical-destruction.md)
