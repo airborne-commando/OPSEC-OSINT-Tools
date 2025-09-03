@@ -1,4 +1,4 @@
-# Expanded OPSEC–OSINT Methodology Guide
+# Methodology Guide
 
 ## 🔄 Unified OPSEC–OSINT Lifecycle
 
