@@ -196,17 +196,16 @@ flowchart TD
     A[1. Threat Modeling &<br>OPSEC Baseline] -->|Identify Critical Info| B[2. Self-OSINT Audit<br>Map Your Exposure]
     B -->|Findings Feed| C[3. Profiling Others<br>Structured OSINT Collection]
     
-    A ---|Reveals Adversary<br>TTPs & Capabilities| C
+    A -->|Reveals Adversary<br>TTPs & Capabilities| C
     
     A -->|Informs<br>Countermeasures| D[4. Counter-OSINT<br>Privacy Hardening & Disinformation]
     B -->|Directs Removal &<br>Obfuscation Efforts| D
     
-    D -->|Protects| E[5. Physical & Data<br>Protection]
-    A -->|Defines Requirements| E
+    D -->|Protects & Maintains<br>Operational Security.<br>Defines Requirements| E[5. Physical & Data<br>Protection]
     
     E -->|Secures Foundation| F[6. Continuous Review &<br>PsyOps Awareness]
-    D ---|Maintains<br>Operational Security| F
-    
+    C -->|Provides External<br>Feedback & Data| F
+
     F -->|Adapt & Re-evaluate| A
 
     subgraph "Core Defensive Cycle"
@@ -220,6 +219,7 @@ flowchart TD
         C
     end
 
-    subgraph "Meta-Process"
+    subgraph "Feedback & Adaptation Loop"
         F
     end
+```
