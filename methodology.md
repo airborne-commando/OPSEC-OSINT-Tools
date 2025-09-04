@@ -212,14 +212,8 @@ flowchart TD
         A
         B
         D
-        E
-    end
-
-    subgraph "External & Intelligence Cycle"
         C
-    end
-
-    subgraph "Feedback & Adaptation Loop"
+        E
         F
     end
 ```
