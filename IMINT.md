@@ -27,7 +27,8 @@
    * [Real-World Applications](#real-world-applications)  
 
 4. [10 Practical Use Cases](#10-practical-use-cases)  
-5. [Best Practices & Cautions](#best-practices--cautions)  
+5. [Best Practices & Cautions](#best-practices--cautions)
+6. [reconnaissance framework](IMINT.md#reconnaissance-framework)  
 
 ---
 
