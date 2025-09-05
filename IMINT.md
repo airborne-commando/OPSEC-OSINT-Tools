@@ -194,7 +194,7 @@ flowchart TD
     H --> I
 
 
-    subgraph "Core Defensive Cycle"
+    subgraph "Imagery Intelligence"
         A
         B
         C
