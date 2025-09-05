@@ -176,7 +176,7 @@ flowchart TD
     
     E[5. Reverse Image & Metadata<br/>- <i>Run image through search engines<br/>- Inspect EXIF data if available<br/>- Check historical archives</i>]
     
-    F[6. Cross-Reference with Maps<br/>- <i>Pin images to geospatial tools QGIS<br/>- Match visuals with Street View<br/>- Detect changes over time</i>]
+    F[6. Cross-Reference with Maps<br/>- <i>Pin images to geospatial tools like QGIS<br/>- Match visuals with Street View<br/>- Detect changes over time</i>]
     
     G[7. Verification & Triangulation<br/>- <i>Correlate OSINT, SOCMINT, IMINT<br/>- Flag contradictions for review<br/>- Never trust a single source</i>]
     
