@@ -207,4 +207,18 @@ flowchart TD
     end
 ```
 
+For mobile users:
+
+| Step | Description | Key Actions | Example Output |
+|------|-------------|-------------|---------------|
+| 1. Define Target & Objective | Identify what you need to know for the investigation. | Set objectives, decide format (map, timeline, network). | Target map, timeline draft |
+| 2. Lay Psychological Foundation | Analyze behavioral and emotional content. | NLP tone & sentiment analysis, monitor cues/timing. | Sentiment report |
+| 3. Collect OSINT & SOCMINT | Gather public and social media intelligence. | Collect news, filings, social media; build network graphs. | Network graph |
+| 4. Acquire IMINT | Collect imagery intelligence. | Use satellite maps, drone footage (legally), public photos. | Annotated images |
+| 5. Reverse Image & Metadata | Verify visuals and metadata. | Reverse image search, inspect EXIF, check archives. | Image provenance summary |
+| 6. Cross-Reference with Maps | Geospatially match collected data. | Pin images on QGIS, match with Street View, detect changes. | Map overlays |
+| 7. Verification & Triangulation | Correlate multiple data sources for accuracy. | Compare OSINT, SOCMINT, IMINT; flag contradictions. | Verification matrix |
+| 8. Counter-OSINT Audit | Self-assessment to reduce exposure. | Remove own metadata, audit digital footprint, monitor leaks. | Audit checklist |
+| 9. Compile & Report | Synthesize findings for final output. | Create timeline, maps; document risks; secure report. | Final encrypted report |
+
 back to the readme [main OPSEC-OSINT-Tools repository](README.md).
