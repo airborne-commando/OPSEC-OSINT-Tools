@@ -1,5 +1,5 @@
 <p align="center">
-<img width="865" height="281" alt="OSINT" src="OSINT.png" />
+<img width="865" height="281" alt="OSINT" src="./img/OSINT.png" />
 </p>
 
 ## Table of Contents
