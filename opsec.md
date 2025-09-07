@@ -3,6 +3,7 @@
 A comprehensive guide to operational security tools and techniques.
 
 ## Table of Contents
+- [OPSEC Methods](#opsec-methods)
 - [Content Obfuscation](#content-obfuscation)
 - [Image Generation & Editing](#image-generation--editing)
 - [Anonymity Tools](#anonymity-tools)
@@ -18,6 +19,12 @@ A comprehensive guide to operational security tools and techniques.
 - back to [main guide](README.md)
 
 ---
+
+## OPSEC Methods
+
+<p align="center">
+<img width="auto" height="auto" alt="OPSEC Methods" src="./img/OPSEC-methods.png" />
+</p>
 
 ## Content Obfuscation
 
