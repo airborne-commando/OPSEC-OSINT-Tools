@@ -1,6 +1,7 @@
 # Table of Contents
 
-1. [Reverse Search (Google)](#reverse-search-google)  
+1. [Reverse Search (Google)](#reverse-search-google)
+1a. [reconnaissance framework](IMINT.md#reconnaissance-framework)
    * [How to Use Reverse Image Search](#how-to-use-reverse-image-search)  
      - [On Mobile](#on-mobile)  
      - [On Desktop](#on-desktop)  
@@ -11,7 +12,7 @@
    * [What You Cannot Do](#what-you-cannot-do)  
    * [Extra Tips](#extra-tips)  
 
-2. [IMINT (Imagery Intelligence)](#imint-imagery-intelligence)  
+3. [IMINT (Imagery Intelligence)](#imint-imagery-intelligence)  
    * [Definition](#definition)  
    * [Who Uses IMINT?](#who-uses-imint)  
    * [SOCMINT (Social Intelligence)](#socmint-social-intelligence)  
@@ -19,16 +20,24 @@
    * [Ten Practical Applications](#ten-practical-applications)  
    * [Ethical and Legal Considerations](#ethical-and-legal-considerations)  
 
-3. [Combining IMINT, SOCMINT, and Digital Profiling](#combining-imint-socmint-reverse-search-and-digital-profiling)  
+4. [Combining IMINT, SOCMINT, and Digital Profiling](#combining-imint-socmint-reverse-search-and-digital-profiling)  
    * [Multidimensional Intelligence](#multidimensional-intelligence)  
    * [Enhanced Geolocation](#enhanced-geolocation)  
    * [Improved Digital Profiling](#improved-digital-profiling)  
    * [OPSEC Assessment](#opsec-assessment)  
    * [Real-World Applications](#real-world-applications)  
 
-4. [10 Practical Use Cases](#10-practical-use-cases)  
-5. [Best Practices & Cautions](#best-practices--cautions)
-6. [reconnaissance framework](IMINT.md#reconnaissance-framework)  
+5. [10 Practical Use Cases](#10-practical-use-cases)  
+6. [Best Practices & Cautions](#best-practices--cautions)
+
+---
+
+
+## Reconnaissance Framework
+
+<p align="center">
+<img width="auto" height="auto" alt="IMINT (Imagery Intelligence)" src="./img/Recon.png" />
+</p>
 
 ---
 
@@ -161,11 +170,5 @@ Combining visual intelligence (IMINT) with social data (SOCMINT) and digital pro
 - Protect your own digital footprint and OPSEC during investigations.
 
 ---
-
-## Reconnaissance Framework
-
-<p align="center">
-<img width="865" height="281" alt="IMINT (Imagery Intelligence)" src="./img/Recon.png" />
-</p>
 
 back to the readme [main OPSEC-OSINT-Tools repository](README.md).
