@@ -1,6 +1,6 @@
 # Table of Contents
 
-1. [Reverse Search (Google)](#reverse-search-google)
+1. [Reverse Search (Google)](#reverse-search-google)</br>
 1a. [reconnaissance framework](IMINT.md#reconnaissance-framework)
    * [How to Use Reverse Image Search](#how-to-use-reverse-image-search)  
      - [On Mobile](#on-mobile)  
