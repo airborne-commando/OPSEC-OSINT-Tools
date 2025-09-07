@@ -23,7 +23,7 @@ A comprehensive guide to operational security tools and techniques.
 ## OPSEC Methods
 
 <p align="center">
-<img width="865" height="281" alt="OPSEC Methods" src="./img/OPSEC-methods.png" />
+<img width="auto" height="auto" alt="OPSEC Methods" src="./img/OPSEC-methods.png" />
 </p>
 
 ## Content Obfuscation
