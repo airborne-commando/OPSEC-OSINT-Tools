@@ -1,5 +1,4 @@
 ```mermaid
-%%{init: { 'layout': 'elk', 'fontFamily': 'Sans-serif', 'type': 'bold', 'fontSize': 16 } }%%
 flowchart TD
  subgraph DefensiveMindset["Parallel: Defensive Psyop Mindset"]
         M["Analyze for Manipulation<br>Question Intentions, Dissect Language"]
