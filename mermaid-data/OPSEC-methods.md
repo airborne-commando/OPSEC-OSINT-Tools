@@ -10,6 +10,7 @@ flowchart TD
         C["OnionShare<br>Encryption: Yes Tor<br>Anonymity: Yes<br>Internet: Yes<br>Use: Anonymous sharing"]
         D["Taildrop<br>Encryption: Yes<br>Anonymity: No<br>Internet: Yes<br>Use: Personal device sync"]
         E["Persistent Storage<br>Encryption: Yes<br>Anonymity: N/A<br>Internet: No<br>Use: Secure local storage"]
+        FF[Learn from real world mistakes]
   end
  subgraph Security["Security"]
         Q["Security Contexts"]
@@ -31,7 +32,7 @@ flowchart TD
         XC["keepassxc"]
         J["VeraCrypt Container"]
   end
-    A --> B & C & D & E
+    A --> B & C & D & E & FF
     Q --> R & S
     E1 --> XC & D1 & N
     XC --> G1
