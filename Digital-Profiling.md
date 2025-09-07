@@ -1,6 +1,7 @@
 ## Table of Contents
 
 - [Digital Profiling and Behavioral Analysis Guide](#digital-profiling-and-behavioral-analysis-guide)
+   - [Digital Profiling pipeline](Digital-Profiling-pipeline)  
 - [1. Understand the Basics](#1-understand-the-basics)
 - [2. Collect Digital Biographical Information](#2-collect-digital-biographical-information)
 - [3. Analyze Behavioral Patterns](#3-analyze-behavioral-patterns)
@@ -13,6 +14,12 @@
 - [Applying psyops operations](#applying-psyops)
 - [Best Way to Fight Against OSINT Profiling](#best-way-to-fight-against-osint-profiling)
 - back to [main guide](README.md)
+
+# Digital Profiling pipeline
+
+<p align="center">
+<img width="auto" height="auto" alt="Digital Profiling" src="./img/digi-profiling.png" />
+</p>
 
 # Digital Profiling and Behavioral Analysis Guide
 
