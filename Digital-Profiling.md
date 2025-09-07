@@ -1,7 +1,7 @@
 ## Table of Contents
 
 - [Digital Profiling and Behavioral Analysis Guide](#digital-profiling-and-behavioral-analysis-guide)
-   - [Digital Profiling pipeline](Digital-Profiling-pipeline)  
+   - [Digital Profiling pipeline](#digital-profiling-pipeline)  
 - [1. Understand the Basics](#1-understand-the-basics)
 - [2. Collect Digital Biographical Information](#2-collect-digital-biographical-information)
 - [3. Analyze Behavioral Patterns](#3-analyze-behavioral-patterns)
