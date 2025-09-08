@@ -37,11 +37,9 @@ The user had also posted a picture right next to it's house, which was later con
 
 # Phase 4 5 6:
 
-Verification
+## Verification
 
-The threat actor, as discussed had acquired info about where the user is located, but would still like to verify; the threat actor had used google maps, google earth and even crossed referenced with maps with street view and earth and SOCMINT. The threat actor had also checked some historical archives such parcel addresses.
-
-Multi-sourced:
+The threat actor, as discussed had acquired info about where the user is located, but would still like to verify; the threat actor had used google maps, google earth and even crossed referenced with maps with street view and earth and SOCMINT. The threat actor had also checked some historical archives such parcel addresses. All multi-sourced.
 
 # 7 Verification & Triangulation
 
