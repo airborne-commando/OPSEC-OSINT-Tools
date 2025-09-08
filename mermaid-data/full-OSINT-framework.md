@@ -44,7 +44,7 @@ flowchart TD
     H -->|audit| CI
     CI --> PDP
     PDP -->CR
-    CR -->|sanity check| TM
+    CR --> TM
     I --> PF
     PF --> EC
 
