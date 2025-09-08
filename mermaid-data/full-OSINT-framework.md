@@ -33,11 +33,11 @@ flowchart TD
     C --> D
     D --> E
     E --> F
-    F --> G
+    F -->|multi-sourced| G
     C --> DB
     DB --> BP
     BP --> CA
-    CA --> G
+    CA -->|multi-sourced| G
     G --> H
     H -->|audit| I
     TM --> CI
