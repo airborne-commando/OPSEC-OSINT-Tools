@@ -28,7 +28,7 @@ flowchart TD
 
     %% Connections between phases
     A --> B
-    TM --> B
+    TM -->|sanity check| B
     B --> C
     C --> D
     D --> E
@@ -44,7 +44,7 @@ flowchart TD
     H -->|audit| CI
     CI --> PDP
     PDP -->CR
-    CR --> TM
+    CR -->|sanity check| TM
     I --> PF
     PF --> EC
 
