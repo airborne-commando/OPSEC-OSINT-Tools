@@ -18,37 +18,34 @@ Ok so now what? what can s/he gather? let's refer to this graph.
 <img width="auto" height="auto" alt="Digital Profiling" src="../img/jpg/OSINT-Framework.jpg" />
 </p>
 
-First, start at phase 1: what does the threat actor need to know or what does s/he already know?
+#### **Phase 1: Foundation & Planning**
+The threat actor starts by defining the objective: to collect as much information as possible to understand the target's motives, feelings, and psychological triggers.
 
-# Phase 2:
+#### **Phase 2: Psychological Foundation**
+The actor discovers that the target used the same email as a username on several sites. One of these sites was a Blogspot journal. By analyzing its content, the actor lays a psychological foundation: the user appeared sad or bipolar in the past, and this behavior seems to match their current online output.
 
-Well, from the looks of it; the internet user is a creator, ok now that's part of phase one but that doesn't tell anyone anything...
+#### **Phase 3: Analysis & Processing (OSINT/SOCMINT)**
+This is where the actor collects and analyzes public data:
+*   **(3c) Digital Biography:** The user posted a picture next to their house. This was later confirmed using government data and maps. Other social media posts also confirmed this location.
+*   **(3c) Family & Interests:** A family obituary named the user's child. The user had also mentioned this child's name multiple times online. The user also publicly broadcasted their personal interests.
+*   **(3e) Competencies & Affinities:** The assessment shows the user has poor privacy habits and low technical skill. However, they are highly sociable.
+*   **(3d) Behavioral Patterns:** The user's behavior seems immature. Their old journal entries showed they were upset about uncontrollable issues and obsessed with something, leading to depression—a trait that appears to reflect their current state.
 
-Well now here's the funny part, the user used it's email as a username on some sites (known with blackbird, et al).
+**HUMINT (Human Intelligence):** The threat actor actively engaged with the user, asking about their child to elicit a response. This confirmed the information gathered and provided further insight into their behavior.
 
-Some of those sites contained a blogspot which was treated as a journal for a base of psychological profiling, it's dated; but it matches the current output; user seemed sad or bipolar at the time and current time.
+#### **Phases 4, 5, & 6: Verification (IMINT)**
+The actor moved to verify the collected information:
+*   They used **Google Maps, Google Earth, and Street View** to confirm the user's location.
+*   They **cross-referenced** this with parcel address data from historical archives.
+*   All information was **multi-sourced**, meaning it was confirmed through several independent channels.
 
-ok so that's phase 2 outta the way.
+#### **Phase 7: Verification & Triangulation**
+The actor correlated all the intelligence—OSINT, SOCMINT (Social Media Intelligence), and IMINT (Imagery Intelligence)—to build a verified profile. They knew the user's:
+*   Location
+*   Sensitive family information
+*   Psychological state (past and present)
+*   Interests, digital biography, and career
 
-# phase 3 3c 3d 3e:
-
-The user had also posted a picture right next to it's house, which was later confirmed by govt data + maps (3c)(3). Was also confirmed by other social media postings(3c). Has a family obit for a parent which names the internet users child or family member, the internet users child or family member was named multiple times by the internet user AKA the OP. Interest was also revealed broadcasted from the internet user. it's privacy isn't really that great neither is it's tech skill(3e) and it's behavior patterns seem immature(3d); it does however seems highly sociable(3d). In it's old blogspot, the user seemed upset about issues it cannot control but also seemed obsessed with someone or something leading to a depression(3d) which reflected on what is today(3d). When prodding for info or doing a HUMINT, the threat actor may elicit a response from the internet user by asking about the child or family member in any which way. The threat actor did such thus confirming info(3d).
-
-
-# Phase 4 5 6:
-
-## Verification
-
-The threat actor, as discussed had acquired info about where the user is located, but would still like to verify; the threat actor had used google maps, google earth and even crossed referenced with maps with street view and earth and SOCMINT. The threat actor had also checked some historical archives such parcel addresses. All multi-sourced.
-
-# 7 Verification & Triangulation
-
-The threat actor had as earlier stated done the following.
-
-Had known the users interest; location, sensitve info such as a family member, psychological info (past present), a large digital bio and current career.
-
-The threat actor doesn't need to do step 8; it skipped it.
-
-The threat actor had gone to step 9; compiled a report to document findings.
-
-Seeing how it's a threat actor, it may be dubious (breaches, leaks).
+#### **Conclusion (Phases 8 & 9)**
+The threat actor **skipped Phase 8** (a counter-OSINT audit, which is a defensive step) and went straight to **Phase 9**.
+They compiled a report to document all findings. Since this is a threat actor, their intentions are dubious, and this compiled information could be used for breaches, leaks, or other malicious purposes.
