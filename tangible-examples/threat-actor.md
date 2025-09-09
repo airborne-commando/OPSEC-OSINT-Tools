@@ -22,7 +22,7 @@ Ok so now what? what can s/he gather? let's refer to this graph.
 The threat actor starts by defining the objective: to collect as much information as possible to understand the target's motives, feelings, and psychological triggers.
 
 #### **Phase 2: Psychological Foundation**
-The actor discovers that the target used the same email as a username on several sites. One of these sites was a Blogspot journal. By analyzing its content, the actor lays a psychological foundation: the user appeared sad or bipolar in the past, and this behavior seems to match their current online output. They've also collected other information such as political party. In an obituary, the internet user seems to suffer the same mental ailments just like the person named in the obit.
+The actor discovers that the target used the same email as a username on several sites. One of these sites was a Blogspot journal. By analyzing its content, the actor lays a psychological foundation: the user appeared sad or bipolar in the past, and this behavior seems to match their current online output. They've also collected other information such as political party. In an obituary, the internet user seems to suffer the same mental ailments just like the person named in the obit. Also seems to like drugs, just like the father does.
 
 #### **Phase 3: Analysis & Processing (OSINT/SOCMINT)**
 This is where the actor collects and analyzes public data:
