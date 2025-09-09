@@ -37,7 +37,7 @@ This is where the actor collects and analyzes public data:
 The actor moved to verify the collected information:
 *   They used **Google Maps, Google Earth, and Street View** to confirm the user's location(s) and dwellings.
 *   They **cross-referenced** this with parcel address data from historical archives.
-*   It was further examined by govt records and later confirmed to be a possible dwelling for the father (home) and the daughter lives at a mobile home.
+*   It was further examined by govt records and later confirmed to be a possible dwelling for the father (home) and the daughter possibly lives at a mobile home (public posts, IMINT, HUMINT).
 *   All information was **multi-sourced**, meaning it was confirmed through several independent channels.
 
 #### **Phase 7: Verification & Triangulation**
@@ -45,7 +45,7 @@ The actor correlated all the intelligence—OSINT, SOCMINT (Social Media Intelli
 *   Location(s) and dwellings
 *   Sensitive family information
 *   Psychological state (past and present)
-*   Interests, political leanings, digital biography, and career
+*   Interests, political leanings, digital biography and previous and current career
 
 #### **Conclusion (Phases 8 & 9)**
 The threat actor **skipped Phase 8** (a counter-OSINT audit, which is a defensive step) and went straight to **Phase 9**.
