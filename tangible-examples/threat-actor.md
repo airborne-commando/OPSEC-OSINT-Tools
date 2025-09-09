@@ -26,8 +26,8 @@ The actor discovers that the target used the same email as a username on several
 
 #### **Phase 3: Analysis & Processing (OSINT/SOCMINT)**
 This is where the actor collects and analyzes public data:
-*   **(3c) Digital Biography:** The user posted a picture next to their house. This was later confirmed using government data and maps. Other social media posts also confirmed this location. In another location, there was a mobile home which was either owned by the father or another dwelling; later confirmed by govt records and a public post to be possible.
-*   **(3c) Family & Interests:** A family obituary named the user's child. The user had also mentioned this child's name multiple times online. The user also publicly broadcasted their personal interests. In a news articles, there was a conviction of drugs matching the fathers name but not the address on said name; however it was further examined by govt records and later confirmed.
+*   **(3c) Digital Biography:** The user posted a picture next a house. This was later confirmed using government data and maps. Other social media posts also confirmed this location. In another location, there was a mobile home which was either owned by the father or another dwelling; later confirmed by govt records and a public post to be possible.
+*   **(3c) Family & Interests:** A family obituary named the user's child. The user had also mentioned this child's name multiple times online. The user also publicly broadcasted their personal interests. In a news article, there was a conviction of drugs matching the fathers name. Was confirmed with court docs.
 *   **(3e) Competencies & Affinities:** The assessment shows the user has poor privacy habits and low-moderate technical skill. However, they are highly sociable. In another location, the threat actor confirmed a mobile home with a camera at the doorway.
 *   **(3d) Behavioral Patterns:** The user's behavior seems immature. Their old journal entries showed they were upset about uncontrollable issues and obsessed with something, leading to depression—a trait that appears to reflect their current state.
 
@@ -37,6 +37,7 @@ This is where the actor collects and analyzes public data:
 The actor moved to verify the collected information:
 *   They used **Google Maps, Google Earth, and Street View** to confirm the user's location(s) and dwellings.
 *   They **cross-referenced** this with parcel address data from historical archives.
+*   It was further examined by govt records and later confirmed to be a possible dwelling for the father (home) and the daughter lives at a mobile home.
 *   All information was **multi-sourced**, meaning it was confirmed through several independent channels.
 
 #### **Phase 7: Verification & Triangulation**
