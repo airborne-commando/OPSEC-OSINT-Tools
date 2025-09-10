@@ -2,7 +2,7 @@
 **NOTE: DO NOT DO ANYHING DUMB LOL**
 
 <p align="center">
-<img width="auto" height="auto" alt="Digital Profiling" src="../img/digi-profiling.png" />
+<img width="auto" height="auto" alt="Digital Profiling" src="../img/jpg/digi-profiling.jpg" />
 </p>
 
 You can build a somewhat clear profile on someone; what their motives are, what they are feeling possibly, what makes them tick...
