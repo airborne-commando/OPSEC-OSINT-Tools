@@ -33,7 +33,7 @@ This is where the actor collects and analyzes public data:
 
 **HUMINT (Human Intelligence):** The threat actor actively engaged with the user, asking about their family or child, politics and pointing out interest to elicit a response. This confirmed the information gathered and provided further insight into their behavior. The internet user seems easy to envoke and or to elicit a response.
 
-#### **Phases 4, 5, & 6: Verification (IMINT)**
+#### **Phases 4, 5, & 6: Image Intelligence (IMINT) and cross reference**
 The actor moved to verify the collected information:
 *   They used **Google Maps, Google Earth, and Street View** to confirm the user's location(s) and dwellings.
 *   They **cross-referenced** this with parcel address data from historical archives.
