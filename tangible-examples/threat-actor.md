@@ -15,7 +15,7 @@ Let's say this user has a huge *AND I MEAN HUGE* digital footprint; from older s
 Ok so now what? what can s/he gather? let's refer to this graph.
 
 <p align="center">
-<img width="auto" height="auto" alt="Digital Profiling" src="../img/jpg/OSINT-Framework.jpg" />
+<img width="auto" height="auto" alt="OSINT Framework" src="../img/jpg/OSINT-Framework.jpg" />
 </p>
 
 #### **Phase 1: Foundation & Planning**
@@ -31,7 +31,12 @@ This is where the actor collects and analyzes public data:
 *   **(3e) Competencies & Affinities:** The assessment shows the user has poor privacy habits and low-moderate technical skill. However, they are highly sociable. In another location, the threat actor confirmed a mobile home with a camera at the doorway.
 *   **(3d) Behavioral Patterns:** The user's behavior seems immature. Their old journal entries showed they were upset about uncontrollable issues and obsessed with something, leading to depression—a trait that appears to reflect their current state.
 
-**HUMINT (Human Intelligence):** The threat actor actively engaged with the user, asking about their family or child, politics and pointing out interest to elicit a response. This confirmed the information gathered and provided further insight into their behavior. The internet user seems easy to envoke and or to elicit a response.
+**HUMINT (Human Intelligence):** The threat actor actively engaged with the user, asking about their family or child, politics and pointing out interest to elicit a response. This confirmed the information gathered and provided further insight into their behavior. The internet user seems easy to envoke and or to elicit a response. 
+
+**Much like this graph here:**
+<p align="center">
+<img width="auto" height="auto" alt="OSINT Framework" src="../img/jpg/Recon.jpg" />
+</p>
 
 #### **Phases 4, 5, & 6: Image Intelligence (IMINT) and cross reference**
 The actor moved to verify the collected information:
