@@ -36,7 +36,7 @@
 ## Reconnaissance Framework
 
 <p align="center">
-<img width="auto" height="auto" alt="IMINT (Imagery Intelligence)" src="./img/Recon.png" />
+<img width="auto" height="auto" alt="IMINT (Imagery Intelligence)" src="./img/jpg/Recon.jpg" />
 </p>
 
 ---
