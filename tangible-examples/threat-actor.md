@@ -54,4 +54,4 @@ The actor correlated all the intelligence—OSINT, SOCMINT (Social Media Intelli
 
 #### **Conclusion (Phases 8 & 9)**
 The threat actor **skipped Phase 8** (a counter-OSINT audit, which is a defensive step) and went straight to **Phase 9**.
-They compiled a report to document all findings. Since this is a threat actor, their intentions are dubious, and this compiled information could be used for breaches, leaks, or other malicious purposes such as doxing.
+They compiled a report and archive to document all findings. Since this is a threat actor, their intentions are dubious, and this compiled information could be used for breaches, leaks, or other malicious purposes such as doxing.
