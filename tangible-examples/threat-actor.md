@@ -22,7 +22,7 @@ Ok so now what? what can s/he gather? let's refer to this graph.
 The threat actor starts by defining the objective: to collect as much information as possible to understand the target's motives, feelings, and psychological triggers.
 
 #### **Phase 2: Psychological Foundation**
-The actor discovers that the target used the same email as a username on several sites. One of these sites was a Blogspot journal. By analyzing its content, the actor lays a psychological foundation: the user appeared sad or bipolar in the past, and this behavior seems to match their current online output. They've also collected other information such as political party. In an obituary, the internet user seems to suffer the same mental ailments just like the person named in the obit. Also seems to like drugs, just like the father does.
+The actor discovers that the target used the same email as a username on several sites. One of these sites was a Blogspot journal. By analyzing its content, the actor lays a psychological foundation: the user appeared sad or bipolar in the past, and this behavior seems to match their current online output. They've also collected other information such as political party. In an obituary, the internet user seems to suffer the same mental ailments just like the person named in the obit. Also seems to like drugs, just like the father does. The threat actor used a NLP to analyze the blogspot for a quick glance.
 
 #### **Phase 3: Analysis & Processing (OSINT/SOCMINT)**
 This is where the actor collects and analyzes public data:
@@ -31,7 +31,7 @@ This is where the actor collects and analyzes public data:
 *   **(3e) Competencies & Affinities:** The assessment shows the user has poor privacy habits and low-moderate technical skill. However, they are highly sociable. In another location, the threat actor confirmed a mobile home with a camera at the doorway.
 *   **(3d) Behavioral Patterns:** The user's behavior seems immature. Their old journal entries showed they were upset about uncontrollable issues and obsessed with something, leading to depression—a trait that appears to reflect their current state.
 
-**HUMINT (Human Intelligence):** The threat actor actively engaged with the user, asking about their family or child, politics and pointing out interest to elicit a response. This confirmed the information gathered and provided further insight into their behavior. The internet user seems easy to envoke and or to elicit a response. 
+**HUMINT (Human Intelligence):** The threat actor actively engaged with the user using an alias on a fetish site, asking about their family or child, politics and pointing out interest to elicit a response. This confirmed the information gathered and provided further insight into their behavior. The internet user seems easy to envoke and or to elicit a response. 
 
 **Much like this graph here:**
 <p align="center">
@@ -45,13 +45,22 @@ The actor moved to verify the collected information:
 *   It was further examined by govt records and later confirmed to be a possible dwelling for the father (home) and the daughter possibly lives at a mobile home (public posts, IMINT, HUMINT).
 *   All information was **multi-sourced**, meaning it was confirmed through several independent channels.
 
+#### CSINT (Closed source Intel)
+
+This isn't in the graph, but a threat actor can use CSINT and past databreaches (either from a telegram, github repo, et al) to collect more info about someone.
+
+*   What the actor found was that the internet user also used to use adult hookup sites which fit the profile.
+*   In another databreach, there was a closet site; which the actor already knew about; but it had also confirmed the internet users DOB just like the previous adult sites had.
+
+
 #### **Phase 7: Verification & Triangulation**
-The actor correlated all the intelligence—OSINT, SOCMINT (Social Media Intelligence), and IMINT (Imagery Intelligence)—to build a verified profile. They knew the user's:
+The actor correlated all the intelligence—OSINT, SOCMINT (Social Media Intelligence), CSINT, and IMINT (Imagery Intelligence)—to build a verified profile. They knew the user's:
 *   Location(s) and dwellings
 *   Sensitive family information
 *   Psychological state (past and present)
+*   dating sites (deactivated)
 *   Interests, political leanings, digital biography and previous and current career
 
 #### **Conclusion (Phases 8 & 9)**
-The threat actor **skipped Phase 8** (a counter-OSINT audit, which is a defensive step) and went straight to **Phase 9**.
-They compiled a report and archive to document all findings. Since this is a threat actor, their intentions are dubious, and this compiled information could be used for breaches, leaks, or other malicious purposes such as doxing.
+The threat actor Used Phase 8 (a counter-OSINT audit, which is a defensive step) and used an alias and burner email address on a fetish site that the target was on for HUMINT (earlier step), and also went to **Phase 9**.
+They compiled a report and archive to document all findings. Since this is a threat actor, their intentions are dubious, and this compiled information could be used for malicious purposes such as doxing.
