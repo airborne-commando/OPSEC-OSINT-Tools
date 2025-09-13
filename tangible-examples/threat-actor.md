@@ -62,7 +62,7 @@ The actor correlated all the intelligence—OSINT, SOCMINT (Social Media Intelli
 *   Sensitive family information
 *   Psychological state (past and present)
 *   dating sites (deactivated)
-*   Interests, political leanings, digital biography and previous and current career
+*   Interests, political leanings, digital biography, previous and current career
 
 #### **Conclusion (Phases 8 & 9)**
 The threat actor Used Phase 8 (a counter-OSINT audit, which is a defensive step) and used an alias and burner email address on a fetish site that the target was on for HUMINT (earlier step), and also went to **Phase 9**.
