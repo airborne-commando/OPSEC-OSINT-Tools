@@ -59,10 +59,11 @@ This isn't in the graph, but a threat actor can use CSINT and past databreaches 
 #### **Phase 7: Verification & Triangulation**
 The actor correlated all the intelligence—OSINT, SOCMINT (Social Media Intelligence), CSINT, and IMINT (Imagery Intelligence)—to build a verified profile. They knew the user's:
 *   Location(s) and dwellings
-*   Sensitive family information
+*   Sensitive family information (backed by AI identity enumeration, obits, social media, et al)
 *   Psychological state (past and present)
 *   dating sites (deactivated)
 *   Interests, political leanings, digital biography, previous and current career
+*   This person used 12 different usernames across their accounts, and they were active on 13 distinct platforms.
 
 #### **Conclusion (Phases 8 & 9)**
 The threat actor Used Phase 8 (a counter-OSINT audit, which is a defensive step) and used an alias and burner email address on a fetish site that the target was on for HUMINT (earlier step), and also went to **Phase 9**.
