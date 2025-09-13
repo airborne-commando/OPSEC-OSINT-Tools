@@ -1,4 +1,7 @@
-# As stated in this graph and in the markdown for [Digital Profiling](../Digital-Profiling.md#digital-profiling-pipeline) also need to check out [the main guide](../README.md).
+# Threat actor
+
+As stated in this graph and in the markdown for [Digital Profiling](../Digital-Profiling.md#digital-profiling-pipeline) also need to check out [the main guide](../README.md).
+
 **NOTE: DO NOT DO ANYHING DUMB LOL**
 
 <p align="center">
@@ -63,4 +66,4 @@ The actor correlated all the intelligence—OSINT, SOCMINT (Social Media Intelli
 
 #### **Conclusion (Phases 8 & 9)**
 The threat actor Used Phase 8 (a counter-OSINT audit, which is a defensive step) and used an alias and burner email address on a fetish site that the target was on for HUMINT (earlier step), and also went to **Phase 9**.
-They compiled a report and archived some websites to document all findings. Since this is a threat actor, their intentions are dubious, and this compiled information could be used for malicious purposes such as doxing.
+They compiled a report and archived some websites to document all findings. Since this is a threat actor, their intentions are dubious, and this compiled information could be used for malicious purposes such as doxing or **future psychological warfare**.
