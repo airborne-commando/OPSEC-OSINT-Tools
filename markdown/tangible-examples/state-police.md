@@ -17,8 +17,8 @@ Just like the threat actor, investigators analyze the target's online output to 
 *   **Technical Skill:** Does their tradecraft suggest novice, intermediate, or advanced capabilities? This helps predict their OPSEC mistakes.
 *   **Psychological State:** Language analysis might reveal narcissism, anger, or instability, which helps assess the credibility of any threats made.
 
-#### **Phase 3: Analysis & Processing (OSINT/SOCMINT)**
-This phase is nearly identical in method but distinct in its access to legally-obtained non-public data.
+#### **Phase 3: Analysis & Processing (CSINT)**
+This phase is nearly identical in method but distinct in its access to legally-obtained non-public data **CSINT**.
 *   **(3c) Digital Biography:** Investigators would use the same OSINT tools (Maltego, social media scrapers, etc.) but could also serve a subpoena to the email provider to get account creation details (IP address, recovery phone number).
 *   **(3c) Family & Interests:** The same public obituaries and social connections are analyzed. However, police might interview family or associates (HUMINT) *after* identifying the suspect, using the public information as a starting point for questioning.
 *   **(3e) Competencies & Affinities:** The assessment of the threat actor's technical skill is critical. A low-skill actor might leak their real IP. A high-skill actor might use VPNs and cryptocurrencies, requiring more advanced forensic techniques.
