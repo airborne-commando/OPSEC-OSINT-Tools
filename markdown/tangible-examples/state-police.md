@@ -17,30 +17,30 @@ Just like the threat actor, investigators analyze the target's online output to 
 *   **Technical Skill:** Does their tradecraft suggest novice, intermediate, or advanced capabilities? This helps predict their OPSEC mistakes.
 *   **Psychological State:** Language analysis might reveal narcissism, anger, or instability, which helps assess the credibility of any threats made.
 
-#### **Phase 3: Analysis & Processing (OSINT/SOCMINT)**
-This phase is nearly identical in method but distinct in its access to legally-obtained non-public data.
-*   **(3c) Digital Biography:** Investigators would use the same OSINT tools (Maltego, social media scrapers, etc.) but could also serve a subpoena to the email provider to get account creation details (IP address, recovery phone number).
-*   **(3c) Family & Interests:** The same public obituaries and social connections are analyzed. However, police might interview family or associates (HUMINT) *after* identifying the suspect, using the public information as a starting point for questioning.
+#### **Phase 3: Analysis & Processing (CSINT)**
+This phase is nearly identical in method but distinct in its access to legally-obtained non-public data **CSINT**.
+*   **(3c) Digital Biography:** Investigators would use different tools, but could also serve a subpoena to the email provider to get account creation details (IP address, recovery phone number).
+*   **(3c) Family & Interests:** Police interview family or associates (HUMINT) *after* identifying the suspect, using the information as a starting point for questioning.
 *   **(3e) Competencies & Affinities:** The assessment of the threat actor's technical skill is critical. A low-skill actor might leak their real IP. A high-skill actor might use VPNs and cryptocurrencies, requiring more advanced forensic techniques.
 *   **(3d) Behavioral Patterns:** Police look for the one mistake that breaks anonymity: reusing a username, accidentally posting a unique background, or logging into a personal account from the same IP as the malicious activity.
 
-**HUMINT:** Engagement is extremely risky and rarely done directly by investigators to avoid claims of entrapment. It might be done under strict oversight or not at all, replaced by passive observation.
+**HUMINT:** Engagement is extremely risky and rarely done directly by investigators to avoid claims of entrapment. It might be done under strict oversight or not at all, replaced by passive observation. Can also be done with an interrogation or a phone call "Do you know who X is?"..
 
 #### **Phases 4, 5, & 6: Verification & Evidence Collection (IMINT & Forensics)**
 Verification is about building an evidence chain for court.
-*   They would use **Google Maps/Earth** to corroborate a suspect's location, just like the threat actor.
+*   They would use **Various Technologies** to corroborate a suspect's location, just like the threat actor.
 *   **Cross-referencing** would include law enforcement databases (e.g., DMV records, property deeds) to confirm the identity and details of the person linked to an address.
 *   **Digital Forensics:** This is the key differentiator. Upon serving a warrant, police would seize devices and perform forensic imaging to recover:
-    *   Browser history linking to the malicious accounts.
+    *   Browser history linking to the malicious accounts (fingerprinting, cookies, et al).
     *   Files, logs, or communications related to the activity.
     *   Deleted data that can be recovered.
 *   **ISP Records:** A subpoena to the ISP can link a specific IP address to a subscriber at a specific date and time.
 
 #### **Phase 7: Verification & Triangulation for Evidence**
-All intelligence—OSINT, subpoenaed records, forensic evidence, and witness interviews—is correlated to build an **unassailable case**. The goal is to prove that there is no reasonable alternative explanation for the evidence other than the suspect being the threat actor.
+All intelligence—CSINT, subpoenaed records, forensic evidence, and witness interviews—is correlated to build an **unassailable case**. The goal is to prove that there is no reasonable alternative explanation for the evidence other than the suspect being the threat actor.
 
 #### **Conclusion (Phases 8 & 9)**
-*   **Phase 8 (Counter-OSINT Audit) is CRITICAL for police.** Before any arrest, investigators must audit their own investigation to ensure:
+*   **Phase 8 (Counter Audit) is CRITICAL for police.** Before any arrest, investigators must audit their own investigation to ensure:
     1.  **Evidence is Admissible:** Was it obtained legally? Was the chain of custody preserved?
     2.  **No Bias:** Are they ignoring evidence that points to another suspect?
     3.  **Officer Safety:** Does the suspect have weapons? What are the risks during arrest?
@@ -50,10 +50,10 @@ All intelligence—OSINT, subpoenaed records, forensic evidence, and witness int
 
 | Aspect | Threat Actor | State Police |
 | :--- | :--- | :--- |
-| **Intent** | Malicious: Doxing, blackmail, harassment, breach. | Defensive: Identify, stop, prosecute, protect public. |
+| **Intent** | Malicious: Doxing, blackmail, harassment, breach, PSYOP | Defensive: Identify, stop, prosecute, protect public. |
 | **Constraints** | None (operates illegally). | Bound by constitutional law, privacy statutes, and policy. |
-| **Data Sources** | Purely public information (OSINT). | **OSINT +** legally obtained non-public data via subpoenas/warrants. |
+| **Data Sources** | Private (CSINT) and Public OSINT. | legally obtained non-public data via subpoenas/warrants. **CSINT** |
 | **HUMINT** | Active, deceptive engagement to manipulate target. | Passive observation or formal, recorded interviews. |
 | **Verification** | For personal certainty and exploit planning. | For evidence that meets a legal standard for court. |
 | **Final Output** | A dossier for leverage and attack. | A case file for prosecution and a trial. |
-| **Phase 8** | Skipped (defensive measure). | **Essential** (ensuring integrity and admissibility of evidence). |
+| **Phase 8** | Burner email and alias | **Essential** (ensuring integrity and admissibility of evidence). |
