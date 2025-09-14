@@ -16,14 +16,14 @@ A comprehensive guide to operational security tools and techniques.
 - [Data Destruction](#data-destruction)
 - [Miscellaneous](#miscellaneous)
 - [physical security](#physical-security-in-opsec)
-- back to [main guide](README.md)
+- back to [main guide](../README.md)
 
 ---
 
 ## OPSEC Methods
 
 <p align="center">
-<img width="auto" height="auto" alt="OPSEC Methods" src="./img/jpg/OPSEC-methods.jpg" />
+<img width="auto" height="auto" alt="OPSEC Methods" src="../img/jpg/OPSEC-methods.jpg" />
 </p>
 
 ## Content Obfuscation

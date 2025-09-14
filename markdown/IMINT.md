@@ -36,7 +36,7 @@
 ## Reconnaissance Framework
 
 <p align="center">
-<img width="auto" height="auto" alt="IMINT (Imagery Intelligence)" src="./img/jpg/Recon.jpg" />
+<img width="auto" height="auto" alt="IMINT (Imagery Intelligence)" src="../img/jpg/Recon.jpg" />
 </p>
 
 ---
@@ -171,4 +171,4 @@ Combining visual intelligence (IMINT) with social data (SOCMINT) and digital pro
 
 ---
 
-back to the readme [main OPSEC-OSINT-Tools repository](README.md).
+back to the readme [main OPSEC-OSINT-Tools repository](../README.md).

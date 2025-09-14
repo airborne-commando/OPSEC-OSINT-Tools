@@ -7,7 +7,7 @@
 - [Detailed examples](#Detailed-examples)
 - [RUMINT vs HUMINT](#rumint-vs-humint)
 - [Summary Table](#summary-table)
-- back to [main guide](README.md)
+- back to [main guide](../README.md)
 
 # HUMINT Overview
 

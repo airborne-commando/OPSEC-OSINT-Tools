@@ -10,6 +10,6 @@ In summary:
 - As intelligence, CSINT means collecting confidential, non-public information with legal authority.
 - As an organization, CSINT is a research center focused on security and innovation in technology.
 
-See [HUMINT](HUMINT.md) and [Main Guide/Breached Data](README.md#breached-data) as examples.
+See [HUMINT](HUMINT.md) and [Main Guide/Breached Data](../README.md#breached-data) as examples.
 
-Back to the [main guide](README.md).
+Back to the [main guide](../README.md).

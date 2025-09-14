@@ -6,7 +6,7 @@
   - [Purpose and Use Cases](#purpose-and-use-cases)
   - [Relevance to OSINT Practitioners](#relevance-to-osint-practitioners)
   - [Conclusion](#conclusion)
-  - [main guide](README.md)
+  - [main guide](../README.md)
 
 # Smoke Screen Operation in OSINT
 

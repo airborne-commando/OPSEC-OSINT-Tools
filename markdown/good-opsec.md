@@ -18,7 +18,7 @@ Below are for the normies out there.
 - [Use Privacy Settings on Social Media](#use-privacy-settings-on-social-media)
 - [Be Cautious with Third-Party Apps](#be-cautious-with-third-party-apps)
 - [Practice physical security if you're really paranoid](#practice-physical-security-if-youre-really-paranoid)
-- back to [main guide](README.md)
+- back to [main guide](../README.md)
 ---
 
 ## Use Strong, Unique Passwords
@@ -41,7 +41,7 @@ Below are for the normies out there.
 
 - Limit the personal details shared on social media
 - Be wary of phishing attempts via email or phone
-- [self OSINT](README.md#toolchain-self-osint)
+- [self OSINT](../README.md#toolchain-self-osint)
 
 **Example:** Mike avoids posting his exact birth date, home address, or vacation plans on Facebook to reduce the risk of identity theft or home burglary.
 
@@ -49,7 +49,7 @@ Below are for the normies out there.
 
 - Use screen locks on all devices
 - Never leave devices unattended in public places
-- for SSD's, encrypt drives if storing DoD (Do or Die) data. [Toolchain discussed here](README.md#toolchain-recommendations)
+- for SSD's, encrypt drives if storing DoD (Do or Die) data. [Toolchain discussed here](../README.md#toolchain-recommendations)
 
 **Example:** Lisa always activates her laptop's screen lock when stepping away, even for a quick coffee break at the office.
 
@@ -64,7 +64,7 @@ Below are for the normies out there.
 
 - Be cautious of unexpected attachments or links
 - Verify the sender's identity before responding to requests for sensitive information
-- Be mindful of what is out there, see [people search tools](README.md#people-search-tools-in-the-states) and [self OSINT](README.md#toolchain-self-osint)
+- Be mindful of what is out there, see [people search tools](../README.md#people-search-tools-in-the-states) and [self OSINT](../README.md#toolchain-self-osint)
 
 **Example:** Emma receives an urgent email claiming to be from her bank. Instead of clicking the provided link, she calls the bank directly using their official phone number to verify the request.
 

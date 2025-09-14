@@ -13,12 +13,12 @@
 - [Summary Table: Digital Profiling Process](#summary-table-digital-profiling-process)
 - [Applying psyops operations](#applying-psyops)
 - [Best Way to Fight Against OSINT Profiling](#best-way-to-fight-against-osint-profiling)
-- back to [main guide](README.md)
+- back to [main guide](../README.md)
 
 # Digital Profiling pipeline
 
 <p align="center">
-<img width="auto" height="auto" alt="Digital Profiling" src="./img/jpg/digi-profiling.jpg" />
+<img width="auto" height="auto" alt="Digital Profiling" src="../img/jpg/digi-profiling.jpg" />
 </p>
 
 # Digital Profiling and Behavioral Analysis Guide
@@ -98,7 +98,7 @@ Use a multi-axis profile to evaluate:
 
 - Profiling is an ongoing process. As you gather more data, revisit and refine your profile.
 - New discoveries (e.g., a new username or email) can open up further avenues for investigation.
-- Use text editors and CSV editors (Like Libreoffice cal) to document findings, or other forms such as [IMINT](IMINT.md) or anything discussed in the [main guide](README.md) thats tangible. 
+- Use text editors and CSV editors (Like Libreoffice cal) to document findings, or other forms such as [IMINT](IMINT.md) or anything discussed in the [main guide](../README.md) thats tangible. 
 - Document and compile.
 
 ---
@@ -121,7 +121,7 @@ Use a multi-axis profile to evaluate:
 | Iterate                   | Update profile as new data emerges                                     |
 | Ethics                    | Stay within legal and ethical boundaries                               |
 
-## Applying PsyOPS. 
+## Applying PsyOPS.
 
 Applying Psychological Operations in Civilian Life:
 
@@ -172,5 +172,5 @@ In essence, this mindset places you in a constant state of alert—treating huma
 2. Study [SOCMINT](IMINT.md#socmint-social-intelligence)
 3. Study [HUMINT](HUMINT.md)
 4. Establish a [Smokescreen](smokescreen-misinfo.md)
-5. OSINT yourself as stated in the [Main Guide](README.md)
+5. OSINT yourself as stated in the [Main Guide](../README.md)
 6. set profiles to private. 

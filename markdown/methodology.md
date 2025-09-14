@@ -1,6 +1,6 @@
 # methodology
 
-A list of methodologies or a systematic approach. Everything will be found in the [main guide](README.md).
+A list of methodologies or a systematic approach. Everything will be found in the [main guide](../README.md).
 
 # 🔄 Summary: Unified OPSEC–OSINT Cycle
 
@@ -16,7 +16,7 @@ A list of methodologies or a systematic approach. Everything will be found in th
 # 🔄 Unified OPSEC–OSINT Lifecycle
 
 <p align="center">
-<img width="auto" height="auto" alt="Unified OPSEC–OSINT Lifecycle" src="./img/jpg/lifecycle.jpg" />
+<img width="auto" height="auto" alt="Unified OPSEC–OSINT Lifecycle" src="../img/jpg/lifecycle.jpg" />
 </p>
 
 # 🛡️ OPSEC–OSINT Master Lifecycle
@@ -26,7 +26,7 @@ A list of methodologies or a systematic approach. Everything will be found in th
 
 1. **Identify Critical Information (CII)**  
    - What do you not want adversaries to know? (emails, network access, home address, sensitive ops, habits).  
-   - [Main Guide: CII cycle](README.md#operations-security-is-a-systematic-process-for)
+   - [Main Guide: CII cycle](./markdown/README.md#operations-security-is-a-systematic-process-for)
 
 2. **Analyze Threats & Vulnerabilities**  
    - Who might target you? Employer, stalker, law enforcement, competitor, criminal groups.  

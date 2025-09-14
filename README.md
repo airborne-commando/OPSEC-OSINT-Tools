@@ -9,7 +9,7 @@
 2. [Suggestions](#Suggestions)
 3. [Why](#why)
 4. [OSINT/OPSEC Tools](#osintopsec-Tools)
-   - [methodology](methodology.md)
+   - [methodology](./markdown/methodology.md)
 5. [key points](#key-points)
 6. [OPSEC](#operations-security-is-a-systematic-process-for) 
    - [How to OPSEC](#how-to-opsec)
@@ -20,10 +20,10 @@
 8. [Digital Profiling](#digital-profiling-osint-profiling)
 9. [closed sourced](#closed-sourced-info)
       - [Breached Data](#breached-data)
-      - [CSINT](CSINT.md)
+      - [CSINT](./markdown/CSINT.md)
 10. [IMINT](#IMINT)
-    - [Reverse search](IMINT.md#reverse-search-google)
-    - [SOCMINT](IMINT.md#socmint-social-intelligence)
+    - [Reverse search](./markdown/IMINT.md#reverse-search-google)
+    - [SOCMINT](./markdown/IMINT.md#socmint-social-intelligence)
 11. [Real world examples of OSINT](#real-world-examples-of-osint)
       - [2016 Airstrike Coordination](#in-the-year-2016-a-basket-weaving-image-board-used-osint-to-pay-some-supposed-terrorist-a-vist-from-a-govt-in-russia-resulting-in-airstrikes)
       - [2017 Shia LaBeouf Protest](#in-2017-shia-labeouf-had-a-protest-due-to-trumps-election-this-resulted-in-a-basket-weaving-image-board-using-osint-and-sky-patterns-to-figure-out-where-a-flag-is)
@@ -56,7 +56,7 @@ Can you predict someone’s behavior with this? not exactly; people are unpredic
 
 A list of OSINT/OPSEC tools I made, forked, and/or use.
 
-If you want some quick methodology I suggest you read this [markdown](methodology.md).
+If you want some quick methodology I suggest you read this [markdown](./markdown/methodology.md).
 
 ## Key points
 
@@ -138,8 +138,8 @@ It's a security discipline and operations function that involves a continuous cy
    * [w0rmer](https://opsecfail.github.io/blog.html?filecase=w0rmer)
    * [darknetdiaries](https://darknetdiaries.com/transcript/63/)(article)
 
-* [examples of good and bad opsec and some osint.](examples.md)
-* Also some tangible [examples](tangible-examples/)
+* [examples of good and bad opsec and some osint.](./markdown/examples.md)
+* Also some tangible [examples](./markdown/tangible-examples/)
 
 OPSEC supplements other security disciplines rather than replacing them.
 
@@ -160,13 +160,13 @@ OPSEC supplements other security disciplines rather than replacing them.
 |                            | Word Spinners           | Paraphrase text to avoid detection                                           | Evades plagiarism/identity linking        | May sound unnatural                         |
 |                            | AI-Generated Faces      | Fake profile pictures (e.g., ThisPersonDoesNotExist.com)                     | Hides real identity                        | May look unnatural               |
 | **Self-OSINT**           | Opt-Out Guides          | Remove personal data from people-search sites                                | Reduces digital footprint                 | Time-consuming; not all sites honor requests without payment |
-| **OPSEC Resources**      | Bad OPSEC Examples      | [List of pitfalls](badopsec.md) | Learn from others’ mistakes               | N/A                                        |
-|                            | Good OPSEC Practices    | [Guidelines](good-opsec.md) | Actionable tips                          | Requires discipline                         |
-| **Tool Lists**           | OPSEC Tools             | [Curated list](opsec.md) | Comprehensive resource                   | May need updates                            |
+| **OPSEC Resources**      | Bad OPSEC Examples      | [List of pitfalls](./markdown/badopsec.md) | Learn from others’ mistakes               | N/A                                        |
+|                            | Good OPSEC Practices    | [Guidelines](./markdown/good-opsec.md) | Actionable tips                          | Requires discipline                         |
+| **Tool Lists**           | OPSEC Tools             | [Curated list](./markdown/opsec.md) | Comprehensive resource                   | May need updates                            |
 
 ---
 
-### **Key Takeaways**  
+### **Key Takeaways**
 1. **Messaging**:  
    - **Signal** OR **Simplex** > **Telegram** for privacy.  
 
@@ -176,7 +176,7 @@ OPSEC supplements other security disciplines rather than replacing them.
 2. **Anonymity**:  
    - **Tor** + **Mullvad VPN** + **XMR** = layered protection.  
    - Avoid logging into personal accounts while using these tools.
-   - Pitfalls: you need to use TOR and Mullvad separately for maximum Anonymity, use a [Virtual Machine](opsec.md#virtualization) for VPN's and TOR on another (or the host).
+   - Pitfalls: you need to use TOR and Mullvad separately for maximum Anonymity, use a [Virtual Machine](./markdown/opsec.md#virtualization) for VPN's and TOR on another (or the host).
 
 3. **Identity**:  
    - **Unique usernames** + **AI faces** + **word spinning** = harder to trace.  
@@ -185,7 +185,7 @@ OPSEC supplements other security disciplines rather than replacing them.
    - Regularly **opt out** of data brokers and **[OSINT yourself](#toolchain-self-osint)**.  
 
 5. **OPSEC Mindset**:  
-   - Follow **[good OPSEC](good-opsec.md)** and avoid **[bad habits](badopsec.md)**.
+   - Follow **[good OPSEC](./markdown/good-opsec.md)** and avoid **[bad habits](./markdown/badopsec.md)**.
 
 
 **Note**:
@@ -200,14 +200,14 @@ Check Wikipedia If you're confused on all of these here:
 
 --- 
 
-### **Pro Tips**  
+### **Pro Tips**
 - **Monero Mining**: Run a local node to avoid centralized exchanges tracing purchases.  
 
-For full tool details, see the **[OPSEC Tools List](opsec.md)**.
+For full tool details, see the **[OPSEC Tools List](./markdown/opsec.md)**.
 
 ## Smoke Screen and misinfo
 
-A smoke screen operation in the context of OSINT (Open Source Intelligence) refers to deliberate actions taken to obscure, mislead, or mask the true activities, intentions, or identities of individuals or organizations from those conducting open-source intelligence gathering. The term is borrowed from military tactics, where a smoke screen is used to conceal movements or positions from enemy observation. In cyber and intelligence contexts, the concept is adapted to digital and informational environments. You may read more [here](smokescreen-misinfo.md).
+A smoke screen operation in the context of OSINT (Open Source Intelligence) refers to deliberate actions taken to obscure, mislead, or mask the true activities, intentions, or identities of individuals or organizations from those conducting open-source intelligence gathering. The term is borrowed from military tactics, where a smoke screen is used to conceal movements or positions from enemy observation. In cyber and intelligence contexts, the concept is adapted to digital and informational environments. You may read more [here](./markdown/smokescreen-misinfo.md).
 
 ## Open Source Intelligence (OSINT)
 
@@ -323,15 +323,15 @@ Thus bad opsec.
 
 - In 2017, 4chan users managed to track down and replace Shia LaBeouf's "He Will Not Divide Us" protest flag. Using only the live-stream footage of the flag, they analyzed flight patterns, star positions, and a tweet to locate the flag in Greeneville, Tennessee. A local troll then honked his car horn until the sound was picked up on the live-stream, pinpointing the exact location. The flag was replaced with a Trump hat, marking the end of this elaborate trolling operation.
 
-## Digital profiling (OSINT profiling). 
+## Digital profiling (OSINT profiling).
 
 Digital profiling and behavioral analysis are powerful techniques for understanding individuals based on their online activities and digital footprints. While these methods are often used by professionals, you can apply many of the same principles and processes yourself by following a structured approach. This creates possible interest and hobbies of an individual.
 
-Read more inside this readme on [Digital Profiling](Digital-Profiling.md)
+Read more inside this readme on [Digital Profiling](./markdown/Digital-Profiling.md)
 
 ## Closed Sourced Info
 
-- [HUMINT](HUMINT.md)
+- [HUMINT](./markdown/HUMINT.md)
 
 **HUMINT can be collected overtly (e.g., interviews, debriefings, diplomatic reporting) or covertly (e.g., espionage, clandestine surveillance).**
 
@@ -341,12 +341,12 @@ Read more inside this readme on [Digital Profiling](Digital-Profiling.md)
 
 > And remember, closed sourced info can change depending on context. If it came from social media then it's considered open source as it's already out there. If it's from a closed source document like let's say a USB drive then consider it closed source.
 
-See also **[CSINT](CSINT.md)**
+See also **[CSINT](./markdown/CSINT.md)**
 
 # IMINT
 
-[IMINT](IMINT.md)(Image INTelligence) involves collecting and analyzing visual imagery—satellite, aerial, drone, or ground photos—to extract useful information.
-Contains information such as [SOCMINT](IMINT.md#socmint-social-intelligence) and [Reverse Search](IMINT.md#reverse-search-google).
+[IMINT](./markdown/IMINT.md)(Image INTelligence) involves collecting and analyzing visual imagery—satellite, aerial, drone, or ground photos—to extract useful information.
+Contains information such as [SOCMINT](./markdown/IMINT.md#socmint-social-intelligence) and [Reverse Search](./markdown/IMINT.md#reverse-search-google).
 
 
 ## Tools
@@ -425,7 +425,7 @@ you may also create an additional database, one that has the password you can re
 
 For niche tools, refer to the [Curated Lists](#curated-lists) section.
 
-Pipeline discussed [here](opsec.md#opsec-pipeline-for-secure-files)
+Pipeline discussed [here](./markdown/opsec.md#opsec-pipeline-for-secure-files)
     
 ## People search tools (in the states):
 
@@ -486,7 +486,7 @@ An automtic tool that I've made for [pa voter services](https://github.com/airbo
 
 ---
 
-### **Key Takeaways**:  
+### **Key Takeaways**:
 1. **Free vs. Paid**:  
    - *Free*: HIBP, BreachDirectory, Pentester, Hashes.com.  
    - *Limited Free*: LeakPeek (5 searches), Breach.vip (login required).  
@@ -507,7 +507,7 @@ An automtic tool that I've made for [pa voter services](https://github.com/airbo
 
 ---
 
-### **Additional Resources**:  
+### **Additional Resources**:
 - **Curated Lists**: Check [Curated Lists](#curated-lists) for more niche tools.  
 - **Demo Scripts**: [Icebreaker](https://github.com/airborne-commando/ice-breaker) includes a demo for testing.  
 
