@@ -18,7 +18,7 @@
 # Digital Profiling pipeline
 
 <p align="center">
-<img width="auto" height="auto" alt="Digital Profiling" src="./img/jpg/digi-profiling.jpg" />
+<img width="auto" height="auto" alt="Digital Profiling" src="../img/jpg/digi-profiling.jpg" />
 </p>
 
 # Digital Profiling and Behavioral Analysis Guide
