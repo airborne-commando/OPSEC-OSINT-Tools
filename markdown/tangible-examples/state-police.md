@@ -52,8 +52,8 @@ All intelligence—OSINT, subpoenaed records, forensic evidence, and witness int
 | :--- | :--- | :--- |
 | **Intent** | Malicious: Doxing, blackmail, harassment, breach. | Defensive: Identify, stop, prosecute, protect public. |
 | **Constraints** | None (operates illegally). | Bound by constitutional law, privacy statutes, and policy. |
-| **Data Sources** | Purely public information (OSINT). | **OSINT +** legally obtained non-public data via subpoenas/warrants. |
+| **Data Sources** | Private (CSINT) and Public OSINT. | legally obtained non-public data via subpoenas/warrants. **CSINT** |
 | **HUMINT** | Active, deceptive engagement to manipulate target. | Passive observation or formal, recorded interviews. |
 | **Verification** | For personal certainty and exploit planning. | For evidence that meets a legal standard for court. |
 | **Final Output** | A dossier for leverage and attack. | A case file for prosecution and a trial. |
-| **Phase 8** | Skipped (defensive measure). | **Essential** (ensuring integrity and admissibility of evidence). |
+| **Phase 8** | Burner email and alias | **Essential** (ensuring integrity and admissibility of evidence). |
