@@ -58,6 +58,14 @@ A list of OSINT/OPSEC tools I made, forked, and/or use.
 
 If you want some quick methodology I suggest you read this [markdown](methodology.md).
 
+Directory structure:
+../root-dir = contains the rest of the readme, will probably adjust or organize later into own folders maybe.
+../root-dir/mermaid-data = markdown graphs.
+../root-dir/img = images folder
+../root-dir/img/jpg HQ images from the graphs, used for this readme.
+../root-dir/tangible-examples = examples
+
+
 ## Key points
 
 ## Notable Examples of Bad Tor OPSEC
