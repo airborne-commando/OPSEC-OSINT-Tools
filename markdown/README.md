@@ -52,7 +52,7 @@ This information is for **educational and research purposes only**. The techniqu
 The authors assume no liability for any misuse of the information provided in these guides.
 
 ---
-
+```
 ## 📁 Repository Structure
 
 
@@ -69,3 +69,4 @@ The authors assume no liability for any misuse of the information provided in th
 ├── physical-destruction.md
 ├── smokescreen-misinfo.md
 └── README.md (this file)
+```
