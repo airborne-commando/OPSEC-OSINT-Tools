@@ -18,8 +18,43 @@ The flowchart example provided aligns well with the investigative and operationa
 - Defensive operations focused on privacy hardening, counter-intelligence, and OPSEC (operational security) methods.
 - Continuous reporting and auditing to ensure legality, ethics, and ongoing threat assessment.
 
-This comprehensive cycle mirrors the protective intelligence investigative practices used by agencies, including gathering multi-source data (interviews, records, digital footprints), behavioral analysis, verification, and deploying defensive countermeasures and secure reporting. It also emphasizes OPSEC and legal compliance, which are essential procedural elements for formal sensitive investigations.
+This comprehensive cycle mirrors the protective intelligence investigative practices used by agencies, including gathering multi-source data (interviews, records, digital footprints), behavioral analysis, verification, and deploying defensive countermeasures and secure reporting. It also emphasizes OPSEC and legal compliance, which are essential procedural elements for formal sensitive investigations. A three-letter federal agency (like the FBI, NSA, or CIA in the U.S.) investigating a threat actor would operate with **broader jurisdiction, deeper technical resources, and expanded intelligence authorities** than a state police agency. While state police focus narrowly on admissible evidence for prosecution within their state, federal agencies can employ intelligence-driven methods, international cooperation, and advanced cyber capabilities.  
 
-In essence, your flowchart succinctly captures a holistic operational and investigative methodology used by intelligence/security agencies against threat actors, integrating physical, behavioral, digital, and legal components into an enduring protective intelligence process.
+### Jurisdiction & Authority
+- **State Police:** Limited to their state boundaries, needing coordination with other states or federal partners for cross-border crimes.  
+- **Federal Agency:** Operates across state lines and internationally, often working with foreign intelligence services, Interpol, and allied agencies. They can investigate threat actors targeting national security, critical infrastructure, or transnational crimes.
+
+### Legal & Intelligence Framework
+- **State Police:** Bound strictly to criminal procedure, subpoenas, and warrants, emphasizing courtroom-admissible evidence.  
+- **Federal Agency:** Can use both law enforcement tools (subpoenas, wiretaps under federal statutes) and **classified intelligence collection** under authorities like FISA (Foreign Intelligence Surveillance Act). Evidence and intelligence may be separated (parallel construction) to protect sensitive sources.  
+
+### Intelligence Disciplines & Tools
+- **State Police:** Forensics, subpoenas to ISPs, HUMINT through interviews, limited surveillance.  
+- **Federal Agency:**  
+  - **SIGINT (Signals Intelligence):** Monitoring communications at scale (when legally authorized).  
+  - **FININT (Financial Intelligence):** Tracking cryptocurrency and international money flows.  
+  - **IMINT/GEOINT:** Satellite and geospatial imagery to confirm movements or facilities.  
+  - **SOCMINT/OSINT at scale:** Automated scraping and AI-assisted correlation with government-only datasets.  
+  - **Human Sources:** May deploy clandestine HUMINT assets or flip insiders close to the threat actor.  
+
+### Technical Capability
+- **State Police:** Relies on off-the-shelf digital forensics labs, commercial OSINT tools, cooperation with ISPs.  
+- **Federal Agency:** Access to undisclosed cyber exploitation tools (zero-days, implants), high-budget forensic capabilities, and classified datasets not available to state authorities. Can deanonymize actors who rely on advanced OPSEC with far higher success rates.
+
+### Objectives
+- **State Police:** Prosecute an individual in court, secure a conviction, and protect the public in the immediate jurisdiction.  
+- **Federal Agency:** Broader national security mandate. May prioritize **intelligence collection over immediate prosecution**. They may track the threat actor covertly to map their network, identify sponsors, or exploit them for counterintelligence value instead of arresting them quickly.
+
+### Coordination & Oversight
+- **State Police:** Reports to local DA or state AG, oversight rooted in state law.  
+- **Federal Agency:** Reports to federal prosecutors, national security councils, or even directly to executive leadership. Oversight may involve congressional intelligence committees but allows for classified and covert avenues unavailable to state entities.
+
+### Example Difference in Action
+- If a **threat actor** is a domestic harasser, state police will focus on subpoenas, arrests, and presenting the case to a local prosecutor.  
+- If the **same threat actor** has ties overseas, uses encrypted networks, or threatens critical infrastructure, a federal agency (FBI or NSA) might:  
+  - Use national SIGINT collection to pierce their anonymization.  
+  - Identify whether they are linked to foreign intelligence.  
+  - Run ongoing surveillance instead of immediately disclosing the findings.  
+  - Build a strategic case involving international partners rather than just a local prosecution.  
 
 back to the [main guide](../../README.md)
