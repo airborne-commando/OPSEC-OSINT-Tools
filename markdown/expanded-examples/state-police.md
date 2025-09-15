@@ -50,13 +50,13 @@ All intelligence—CSINT, subpoenaed records, forensic evidence, and witness int
 
 | Aspect | Threat Actor | State Police |
 | :--- | :--- | :--- |
-| **Intent** | Malicious: Doxing, blackmail, harassment, breach, PSYOP | Defensive: Identify, stop, prosecute, protect public. |
-| **Constraints** | None (operates illegally). | Bound by constitutional law, privacy statutes, and policy. |
-| **Data Sources** | Private (CSINT) and Public OSINT. | legally obtained non-public data via subpoenas/warrants. **CSINT** |
-| **HUMINT** | Active, deceptive engagement to manipulate target. | Passive observation or formal, recorded interviews. |
-| **Verification** | For personal certainty and exploit planning. | For evidence that meets a legal standard for court. |
-| **Final Output** | A dossier for leverage and attack. | A case file for prosecution and a trial. |
-| **Phase 8** | Burner email and alias | **Essential** (ensuring integrity and admissibility of evidence). |
+| **Intent** | See [threat-actor.md](./threat-actor.md) | Defensive: Identify, stop, prosecute, protect public. |
+| **Constraints** |  | Bound by constitutional law, privacy statutes, and policy. |
+| **Data Sources** |  | legally obtained non-public data via subpoenas/warrants. **CSINT** |
+| **HUMINT** |  | Passive observation or formal, recorded interviews. |
+| **Verification** |  | For evidence that meets a legal standard for court. |
+| **Final Output** |  | A case file for prosecution and a trial. |
+| **Phase 8** |  | **Essential** (ensuring integrity and admissibility of evidence). |
 
 
 back to the [main guide](../../README.md)
