@@ -139,7 +139,7 @@ It's a security discipline and operations function that involves a continuous cy
    * [darknetdiaries](https://darknetdiaries.com/transcript/63/)(article)
 
 * [examples of good and bad opsec and some osint.](./markdown/examples.md)
-* Also some tangible [examples](./markdown/tangible-examples/)
+* Also some tangible [examples](./markdown/expanded-examples/)
 
 OPSEC supplements other security disciplines rather than replacing them.
 
