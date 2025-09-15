@@ -34,3 +34,5 @@ A **PI operates with legal, ethical, and defensive motivations**:
 
 - The PI must recognize the threat actor may attempt disinformation, OPSEC (operational security), or plant misleading artifacts, so a “trust but verify” approach is mandatory.
 - Defensive review includes stripping metadata, auditing investigative practices, and maintaining confidentiality to protect both the investigator and the integrity of the evidence.
+
+back to the [main guide](../../README.md)

@@ -1,6 +1,6 @@
 # Threat actor
 
-As stated in this graph and in the markdown for [Digital Profiling](../Digital-Profiling.md#digital-profiling-pipeline) also need to check out [the main guide](../README.md).
+As stated in this graph and in the markdown for [Digital Profiling](../Digital-Profiling.md#digital-profiling-pipeline) also need to check out [the main guide](../../README.md).
 
 **NOTE: DO NOT DO ANYHING DUMB LOL**
 

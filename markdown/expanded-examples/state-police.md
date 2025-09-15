@@ -57,3 +57,6 @@ All intelligence—CSINT, subpoenaed records, forensic evidence, and witness int
 | **Verification** | For personal certainty and exploit planning. | For evidence that meets a legal standard for court. |
 | **Final Output** | A dossier for leverage and attack. | A case file for prosecution and a trial. |
 | **Phase 8** | Burner email and alias | **Essential** (ensuring integrity and admissibility of evidence). |
+
+
+back to the [main guide](../../README.md)
