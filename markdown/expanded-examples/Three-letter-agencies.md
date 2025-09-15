@@ -20,6 +20,4 @@ The flowchart example provided aligns well with the investigative and operationa
 
 This comprehensive cycle mirrors the protective intelligence investigative practices used by agencies, including gathering multi-source data (interviews, records, digital footprints), behavioral analysis, verification, and deploying defensive countermeasures and secure reporting. It also emphasizes OPSEC and legal compliance, which are essential procedural elements for formal sensitive investigations.
 
-In essence, your flowchart succinctly captures a holistic operational and investigative methodology used by intelligence/security agencies against threat actors, integrating physical, behavioral, digital, and legal components into an enduring protective intelligence process.
-
 back to the [main guide](../../README.md)
