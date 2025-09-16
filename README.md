@@ -570,6 +570,9 @@ An automtic tool that I've made for [pa voter services](https://github.com/airbo
 - [OSINT Resources](https://sizeof.cat/post/osint-resources/) - Collection of OSINT resources that seems to be more up to date (includes NSFW)
 
   - [Archive](https://archive.ph/rZZf0)
+
+
+- [internet tools](https://fmhy.xyz/internet-tools#open-source-intelligence) 
   
 
 - [OSINT toolbox](https://github.com/The-Osint-Toolbox) 
