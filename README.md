@@ -571,7 +571,8 @@ An automtic tool that I've made for [pa voter services](https://github.com/airbo
 
   - [Archive](https://archive.ph/rZZf0)
 
-  - [internet tools](https://fmhy.xyz/internet-tools#open-source-intelligence) 
+
+- [internet tools](https://fmhy.xyz/internet-tools#open-source-intelligence) 
   
 
 - [OSINT toolbox](https://github.com/The-Osint-Toolbox) 
