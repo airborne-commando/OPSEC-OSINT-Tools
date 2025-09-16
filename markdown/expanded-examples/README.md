@@ -2,7 +2,7 @@
 
 This directory so far provides a concise overview of four related guides detailing different perspectives and methodologies for digital profiling and investigation: Threat Actors, Three-Letter Agencies, Private Investigators (PIs), and State Police; mainly scenarios.
 
-## 1. Threat Actor
+## 1. [Threat Actor](threat-actor.md) 
 
 This guide outlines the process a malicious individual (threat actor) uses to build a comprehensive digital profile on a target for potentially harmful purposes.
 
@@ -16,7 +16,7 @@ This guide outlines the process a malicious individual (threat actor) uses to bu
     *   **CSINT:** Utilizing closed-source intelligence like data breaches from Telegram or GitHub to find additional information (e.g., past usernames, DOB, activity on adult sites).
 *   **Conclusion:** The threat actor compiles a verified profile and archives findings. Their intent is malicious, and the information could be used for attacks.
 
-## 2. Three-Letter Agencies
+## 2. [Three-Letter Agencies](Three-letter-agencies.md)
 
 This guide describes the formal investigative techniques used by agencies like the FBI, CIA, or NSA against threat actors.
 
@@ -26,7 +26,7 @@ This guide describes the formal investigative techniques used by agencies like t
     *   **Cyber Threat Hunting:** Uses analysis of Indicators of Compromise (IOCs), Tactics, Techniques, and Procedures (TTPs), and Digital Forensics and Incident Response (DFIR) to detect and remediate cyber threats.
 *   **Alignment with Profiling Phases:** The structured phases of the profiling pipeline (planning, intelligence gathering, analysis, verification, defensive ops) mirror the holistic methodology used by these agencies, integrating physical, behavioral, digital, and legal components while emphasizing OPSEC and legal compliance.
 
-## 3. Private Investigator (PI)
+## 3. [Private Investigator (PI)](PI.md)
 
 This guide contrasts the methods of a PI with those of a threat actor, highlighting the legal and ethical framework a PI must operate within.
 
@@ -41,7 +41,7 @@ This guide contrasts the methods of a PI with those of a threat actor, highlight
         *   **Counter-OSINT** to protect the investigation and maintain confidentiality.
 *   **Output:** A court-ready report detailing the threat actor's pseudonyms, TTPs, motivations, infrastructure, and digital presence.
 
-## 4. State Police
+## 4. [State Police](state-police.md)
 
 This guide details the specific process and legal constraints under which state police investigate a threat actor.
 
