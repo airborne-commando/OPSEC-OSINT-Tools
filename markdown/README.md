@@ -66,7 +66,8 @@ This guide outlines the process a malicious individual (threat actor) uses to bu
     *   **OSINT/SOCMINT:** Collecting and analyzing public data from social media, government records, news articles, and obituaries to build a digital biography, identify family, interests, and competencies.
     *   **HUMINT:** Actively engaging with the target under an alias to elicit and confirm information.
     *   **IMINT & Verification:** Using imagery intelligence (Google Maps, Street View) to verify locations and cross-reference findings with multiple sources.
-    *   **CSINT:** Utilizing closed-source intelligence like data breaches from Telegram or GitHub to find additional information (e.g., past usernames, DOB, activity on adult sites).
+    *   **BIOMETRICS:** Using Biometrics to gather addtional data on said target (face).
+    *   **CSINT:** Utilizing closed-source intelligence like data breaches from Telegram or GitHub to find additional information (e.g., past usernames, DOB, activity on adult dating sites).
 *   **Conclusion:** The threat actor compiles a verified profile and archives findings. Their intent is malicious, and the information could be used for attacks.
 
 ## 2. [Three-Letter Agencies](./expanded-examples/Three-letter-agencies.md)
