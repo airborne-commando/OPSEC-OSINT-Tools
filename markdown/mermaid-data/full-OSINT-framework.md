@@ -96,5 +96,5 @@ flowchart TB
     classDef security fill:#d4edda,stroke:#155724,stroke-width:2px,color:#000
     classDef defensive fill:#fff3cd,stroke:#856404,stroke-width:2px,color:#000
     classDef data fill:#f8d7da,stroke:#721c24,stroke-width:1px,color:#000
-    classDef audit fill:#e2e3e5,stroke:#383d41,stroke-width:2px,color:#000
+    classDef audit fill:#f8ff1f,stroke:#383d41,stroke-width:2px,color:#000
 ```
