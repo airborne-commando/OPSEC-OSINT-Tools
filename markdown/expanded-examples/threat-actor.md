@@ -46,6 +46,7 @@ The actor moved to verify the collected information:
 *   They used **Google Maps, Google Earth, and Street View** to confirm the user's location(s) and dwellings.
 *   They **cross-referenced** this with parcel address data from historical archives.
 *   It was further examined by govt records and later confirmed to be a possible dwelling for the father (home) and the daughter possibly lives at a mobile home (public posts, IMINT, HUMINT).
+*   They've Used **biometrics** to gather addtional sources and to collect more info to form a complete and refined digital biography.
 *   All information was **multi-sourced**, meaning it was confirmed through several independent channels.
 
 #### CSINT (Closed source Intel)
