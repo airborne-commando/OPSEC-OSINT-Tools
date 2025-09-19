@@ -15,7 +15,7 @@ flowchart LR
  subgraph P1["Phase 1: 
  Planning & Scoping"]
         A@{ label: "<span style=\"padding-left:\">1b. <br/>Threat Modeling <br/>&amp;<br>OPSEC Baseline</span>" }
-        TM@{ label: "<span style=\"padding-left:\">1. Define Target &amp; Objective<br>- What do you need to know?<br>- Define output: <br/>map, timeline, network</span>" }
+        TM@{ label: "<span style=\"padding-left:\">1. Define Target &amp; Objective<br>- What do you need to know?<br>- Define output: <br>map, timeline &amp; network</span>" }
         B["3. 
         Lay Psychological Foundation<br>- Analyze tone 
         &amp; 
@@ -25,34 +25,28 @@ flowchart LR
         C["2. 
         Collect OSINT 
         &amp; 
-        SOCMINT<br>- Gather public data: news, filings, govt<br>- Scrape social media SOCMINT"]
+        SOCMINT<br>- Gather public data:<br>news, filings, govt<br>- Scrape social media SOCMINT"]
         DB["3c. 
-        Digital Biography<br>Gather IDs, emails, social profiles, posts"]
-        BP["3d. 
-        Analyze Behavioral Patterns<br>Find patterns in time, topics, networks"]
+        Digital Biography<br>Gather IDs, emails,<br>social profiles &amp; posts"]
+        BP["3d.<br>Analyze Behavioral Patterns<br>Find patterns in time, topics &amp; networks"]
         CA["3e. 
-        Assess Competencies 
-        &amp; 
-        Affinities<br>Technical skill, 
-        privacy awareness"]
+        Assess Competencies<br>&amp;<br>Affinities<br><br>Technical skill<br>&amp;<br>privacy awareness"]
         D["4. 
-        Acquire IMINT<br>- Satellite: Google Earth, Bing<br>- Drone: Legal flights only<br>- On-foot: Public photography"]
+        Acquire IMINT<br>- Satellite:<br>Google Earth, Bing<br>- Drone:<br>Legal flights only<br>- On-foot:<br>Public photography"]
         E["5. 
-        Reverse Image &amp; Metadata<br>- Run image through search engines<br>- Inspect EXIF data<br>- Check historical archives"]
+        Reverse Image &amp; Metadata<br>- Run image(s)<br>through search engines<br>- Inspect EXIF data<br>- Check historical archives"]
         F["6. 
-        Cross-Reference with Maps<br>- Pin images to geospatial tools<br>- Match with Street View<br>- Detect changes over time"]
+        Cross-Reference with Maps<br>- Pin images to<br>geospatial tools<br>- Match with Street View<br>- Detect changes over time"]
         G["7. 
         Verification &amp; Triangulation<br>- Correlate: 
         OSINT, SOCMINT, IMINT<br>- Flag contradictions for review<br>- Never trust a single source"]
         PF["8. 
         Compile &amp; Report Findings<br>- Synthesize into 
-        timeline, map<br>- List key findings &amp; risks"]
+        timeline &amp; map<br>- List key findings &amp; risks"]
         H["9. 
         Counter-OSINT Audit<br>- Strip metadata from your files<br>- Audit your own digital footprint<br>- Monitor for self-leaks"]
         CI["10. 
-        Counter-Intelligence<br>Privacy Hardening, Disinformation,
-        &amp; 
-        SOCMINT Monitoring"]
+        Counter-Intelligence<br>Privacy Hardening,<br>Disinformation<br>&amp;<br>SOCMINT Monitoring"]
         PDP["11. 
         Physical &amp; Data Protection"]
         I["12. 
@@ -86,8 +80,8 @@ flowchart LR
     A -- "<span style=padding-left:>Phase 2:<br>Passive Collection<br>(SOCMINT &amp; OSINT)</span>" --> C
     C --> B
     B --> DB
-    CA -- "<span style=padding-left:><span style=padding-left:><span style=padding-left:>Phase 3:</br>Active Collection</br>(IMINT &amp; GEOINT)</span></span></span>" --> D
-    END_Bad --> n1["See phase 1 and 1b"]
+    CA -- "<span style=padding-left:><span style=padding-left:><span style=padding-left:>Phase 3:<br>Active Collection<br>(IMINT &amp; GEOINT)</span></span></span>" --> D
+    END_Bad --> n1["See phase 1 &amp; 1b"]
     DM --> n1
     PDP --> n1
     END_Good -. Data is never finished .- n1
