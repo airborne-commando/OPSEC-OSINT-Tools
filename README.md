@@ -50,6 +50,8 @@ To update this guide use:
 ```
 git pull
 ```
+after cloning.
+
 ## Why?
 
 People trust the internet too much. In today’s world, online and offline are practically the same—truth and fiction blur. This README exists to raise awareness. Clone it, fork it, remix it, or even turn it into a [Rentry](https://rentry.co/) page. Spread the knowledge however you like.
