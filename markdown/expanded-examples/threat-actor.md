@@ -5,7 +5,7 @@ As stated in this graph and in the markdown for [Digital Profiling](../Digital-P
 **NOTE: DO NOT DO ANYHING DUMB LOL**
 
 <p align="center">
-<img width="auto" height="auto" alt="Digital Profiling" src="../../img/jpg/digi-profiling.jpg" />
+<img width="auto" height="auto" alt="Digital Profiling" src="https://raw.githubusercontent.com/airborne-commando/OPSEC-OSINT-Tools/refs/heads/main/img/svg/digital-profiling.svg" />
 </p>
 
 You can build a somewhat clear profile on someone; what their motives are, what they are feeling possibly, what makes them tick...
@@ -18,7 +18,7 @@ Let's say this user has a huge *AND I MEAN HUGE* digital footprint; from older s
 Ok so now what? what can s/he gather? let's refer to this graph.
 
 <p align="center">
-<img width="auto" height="auto" alt="OSINT Framework" src="../../img/svg/OSINT-framework.svg" />
+<img width="auto" height="auto" alt="OSINT Framework" src="https://raw.githubusercontent.com/airborne-commando/OPSEC-OSINT-Tools/refs/heads/main/img/svg/OSINT-framework.svg" />
 </p>
 
 #### **Phase 1: Foundation & Planning**
@@ -36,9 +36,9 @@ This is where the actor collects and analyzes public data:
 
 **HUMINT (Human Intelligence):** The threat actor actively engaged with the user using an alias on a fetish site, asking about their family or child, politics and pointing out interest to elicit a response. This confirmed the information gathered and provided further insight into their behavior. The internet user seems easy to envoke and or to elicit a response. 
 
-**Much like this graph here:**
+**Much like this graph here (click or tap to enlarge):**
 <p align="center">
-<img width="2000px" height="2000px" alt="OSINT Framework" src="../../img/svg/Recon.svg" />
+<img src="https://raw.githubusercontent.com/airborne-commando/OPSEC-OSINT-Tools/refs/heads/main/img/svg/Recon.svg" />
 </p>
 
 #### **Phases 4, 5, & 6: Image Intelligence (IMINT) and cross reference**
