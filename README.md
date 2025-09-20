@@ -46,6 +46,10 @@ Note: Some domains (e.g., `exposed.lol`) may be expired. Refer to the curated li
 
 Open an [issue](https://github.com/airborne-commando/OPSEC-OSINT-Tools/issues) for any suggestions or feedback.
 
+To update this guide use:
+```
+git pull
+```
 ## Why?
 
 People trust the internet too much. In today’s world, online and offline are practically the same—truth and fiction blur. This README exists to raise awareness. Clone it, fork it, remix it, or even turn it into a [Rentry](https://rentry.co/) page. Spread the knowledge however you like.
