@@ -20,4 +20,20 @@ flowchart TD
     L --> M
     M --> N
     N --> O
+
+    style DefensiveMindset fill:transparent,stroke:none,color:#000000
+    linkStyle 0 stroke:#000000,fill:none
+    linkStyle 1 stroke:#000000,fill:none
+    linkStyle 2 stroke:#000000,fill:none
+    linkStyle 3 stroke:#000000,fill:none
+    linkStyle 4 stroke:#000000,fill:none
+    linkStyle 5 stroke:#000000,fill:none
+    linkStyle 6 stroke:#000000,fill:none
+    linkStyle 7 stroke:#000000,fill:none
+    linkStyle 8 stroke:#000000,fill:none
+    linkStyle 9 stroke:#000000,fill:none
+    linkStyle 10 stroke:#000000
+    linkStyle 11 stroke:#000000,fill:none
+    linkStyle 12 stroke:#000000,fill:none
+    linkStyle 13 stroke:#000000,fill:none
 ```
