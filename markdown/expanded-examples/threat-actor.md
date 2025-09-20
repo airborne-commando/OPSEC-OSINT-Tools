@@ -36,7 +36,7 @@ This is where the actor collects and analyzes public data:
 
 **HUMINT (Human Intelligence):** The threat actor actively engaged with the user using an alias on a fetish site, asking about their family or child, politics and pointing out interest to elicit a response. This confirmed the information gathered and provided further insight into their behavior. The internet user seems easy to envoke and or to elicit a response. 
 
-**Much like this graph here (click, view raw):**
+**Much like this graph here:**
 <p align="center">
 <img src="../../img/svg/Recon.svg" />
 </p>
