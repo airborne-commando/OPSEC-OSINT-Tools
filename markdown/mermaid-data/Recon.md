@@ -1,6 +1,6 @@
 
 ```mermaid
-flowchart TD
+flowchart LR
     A[1. Define Target & Objective<br/>- <i>What do you need to know?<br/>- Define output: map, timeline, network</i>]
     
     B[2. Lay Psychological Foundation<br/>- <i>Analyze tone & sentiment NLP<br/>- Track behavioral cues & timing</i>]
