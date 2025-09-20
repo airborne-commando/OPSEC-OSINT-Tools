@@ -5,7 +5,7 @@ As stated in this graph and in the markdown for [Digital Profiling](../Digital-P
 **NOTE: DO NOT DO ANYHING DUMB LOL**
 
 <p align="center">
-<img width="auto" height="auto" alt="Digital Profiling" src="../../img/svg/digital-profiling.svg" />
+<img  src="../../img/svg/digital-profiling.svg" alt="Digital Profiling" width="auto" height="auto" />
 </p>
 
 You can build a somewhat clear profile on someone; what their motives are, what they are feeling possibly, what makes them tick...
@@ -18,7 +18,7 @@ Let's say this user has a huge *AND I MEAN HUGE* digital footprint; from older s
 Ok so now what? what can s/he gather? let's refer to this graph.
 
 <p align="center">
-<img width="auto" height="auto" alt="OSINT Framework" src="../../img/svg/OSINT-framework.svg" />
+<img src="../../img/svg/OSINT-framework.svg" alt="OSINT Framework" width="auto" height="auto" />
 </p>
 
 #### **Phase 1: Foundation & Planning**
@@ -38,7 +38,7 @@ This is where the actor collects and analyzes public data:
 
 **Much like this graph here:**
 <p align="center">
-<img src="../../img/svg/Recon.svg" />
+<img src="../../img/svg/Recon.svg" width="300" height="auto" />
 </p>
 
 #### **Phases 4, 5, & 6: Image Intelligence (IMINT) and cross reference**
