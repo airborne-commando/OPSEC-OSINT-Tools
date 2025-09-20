@@ -3,7 +3,7 @@
 config:
   layout: dagre
 ---
-flowchart LR
+flowchart TD
  subgraph LEGEND["Legend"]
         L_Phase["Phase<br>Primary Process"]
         L_Step["Process Step"]
