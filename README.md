@@ -1,5 +1,5 @@
 <p align="center">
-<img width="auto" height="auto" alt="OSINT" src="./img/OSINT.png" />
+<img width="auto" height="auto" alt="OSINT" src="./img/png/OSINT.png" />
 </p>
 
 ## Table of Contents
@@ -617,6 +617,6 @@ Donations:
 
 If you find this useful feel free to donate to this monero address:
 
-<img width="auto" height="auto" alt="monero" src="./img/monero.png" />
+<img width="auto" height="auto" alt="monero" src="./img/png/monero.png" />
 
     8BPdcsLtA5iWLNTWvYzUVyTWtQkM62e8r7xqAuwjXTSC4RcoSWqpmtyLsMYvz3QNZtT1rbgPUnmVpMAudhxTn6zkRxUFcZN
