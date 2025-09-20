@@ -18,7 +18,7 @@ Let's say this user has a huge *AND I MEAN HUGE* digital footprint; from older s
 Ok so now what? what can s/he gather? let's refer to this graph.
 
 <p align="center">
-<img width="auto" height="auto" alt="OSINT Framework" src="../../img/jpg/OSINT-Framework.jpg" />
+<img width="auto" height="auto" alt="OSINT Framework" src="../../img/svg/OSINT-framework.svg" />
 </p>
 
 #### **Phase 1: Foundation & Planning**
