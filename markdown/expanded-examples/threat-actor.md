@@ -38,7 +38,7 @@ This is where the actor collects and analyzes public data:
 
 **Much like this graph here:**
 <p align="center">
-<img width="auto" height="auto" alt="OSINT Framework" src="../../img/jpg/Recon.jpg" />
+<img width="auto" height="auto" alt="OSINT Framework" src="../../img/svg/Recon.svg" />
 </p>
 
 #### **Phases 4, 5, & 6: Image Intelligence (IMINT) and cross reference**
