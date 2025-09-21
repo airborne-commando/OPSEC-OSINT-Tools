@@ -47,4 +47,6 @@ flowchart LR
     J --> L
     P@{ shape: rect}
     style s1 fill:transparent,stroke:none
+    style Security fill:transparent,stroke:none
+    style subGraph0 stroke:none,fill:transparent
 ```
