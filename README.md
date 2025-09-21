@@ -364,7 +364,7 @@ Contains information such as [SOCMINT](./markdown/IMINT.md#socmint-social-intell
 | **Search Engine Queries**  | dorksearch                | [dorksearch](https://dorksearch.com/)        | Advanced Google dorking for targeted searches                                  | AI Doesn't work, have to build manually & internet access.                                              |
 |                            | Google-FU                | [GitHub](https://github.com/airborne-commando/GoogleFU-improved)        | Advanced Google dorking for targeted searches                                  | Rate limits apply; may trigger CAPTCHAs                                              |
 |                            | gdork                | [gist](https://gist.github.com/airborne-commando/d6430788b2c6b786f085a9133e88de52)        | Written in shell script, Gnu Linux                                  | In dev; not sure If I'll finish this.                                              |
-| **Biometric Analysis**     | Facecheck.ID             | [vin3110 repo](https://github.com/vin3110/facecheck.id-results-extractor) and [my repo](https://github.com/airborne-commando/facecheck.id-results-extractor-mobile/tree/main) that includes the [older scripts](https://github.com/airborne-commando/facecheck.id-results-extractor-mobile/tree/old) + [dev](https://github.com/airborne-commando/facecheck.id-results-extractor-mobile/tree/dev)     | Reverse image search bypassing paywalls                                        | Requires Tampermonkey; extracts source links only                                   |
+| **Bio-metric Analysis**     | Facecheck.ID             | [vin3110 repo](https://github.com/vin3110/facecheck.id-results-extractor) and [my repo](https://github.com/airborne-commando/facecheck.id-results-extractor-mobile/tree/main) that includes the [older scripts](https://github.com/airborne-commando/facecheck.id-results-extractor-mobile/tree/old) + [dev](https://github.com/airborne-commando/facecheck.id-results-extractor-mobile/tree/dev)     | Reverse image search bypassing paywalls                                        | Requires Tampermonkey; extracts source links only                                   |
 | **Username/Email Search**  | Blackbird                | [GitHub](https://github.com/p1ngul1n0/blackbird)                       | Fast cross-platform username/email lookup                                      | CLI-only; lightweight                                                               |
 |                            | Crow (GUI for Blackbird) | [GitHub](https://github.com/airborne-commando/crow)                     | GUI version of Blackbird                                                       | Same functionality as CLI                                                           |
 |                            | Sherlock                 | [GitHub](https://github.com/sherlock-project/sherlock)                  | Comprehensive username search across 300+ sites                                | False positives (e.g., Imgur); CLI-based                                            |
@@ -374,12 +374,12 @@ Contains information such as [SOCMINT](./markdown/IMINT.md#socmint-social-intell
 |                            | Holehe                   | [GitHub](https://github.com/megadose/holehe)                            | Checks email usage across sites                                                | Imgur false positives; CLI-based                                                    |
 | **Email Compromises**      | Hudson Rock Extractor    | [GitHub](https://github.com/airborne-commando/hudsonrock-search-extractor)| Manual email breach checker (Flask-based)                                     | Not automated; requires manual input                                                |
 | **Geolocation**            | Google Maps              | [maps.google.com](https://maps.google.com/)                             | Pinpoint locations/compare landmarks                                           | Public data only; no advanced OSINT features                                        |
-|                            | Bing maps              | [bing maps](https://www.bing.com/maps)                             | Birds eye view, sattalite, street view                                          | Quality may differ in birds eye compared to google                                        |
-|                            | Google Earth              | [Google Earth](https://earth.google.com/web)                            | 3D View, 2D view, sattalite, street view, historical views                                          | Use in conjunction with google maps, bing maps or both.                                        |
+|                            | Bing maps              | [bing maps](https://www.bing.com/maps)                             | Birds eye view, satellite, street view                                          | Quality may differ in birds eye compared to google                                        |
+|                            | Google Earth              | [Google Earth](https://earth.google.com/web)                            | 3D View, 2D view, satellite, street view, historical views                                          | Use in conjunction with google maps, bing maps or both.                                        |
 |                            | geohints                     | [geohints](https://geohints.com/)                                     | a curated list that contains the most accurate and detailed information about metas in Geoguessr as possible.| used for Geoguessr, but can be used to give clues in where an image is located.                                 |
 |                            | GeoGuessr GPT              | [GeoGuessr GPT](https://chatgpt.com/g/g-brlHi7t2R-geoguessr-gpt)                             | Use AI to pinpoint a photo                                          | Can give out false info; it's AI so ***it will*** hallucinate! Only 3 uploads for free users.                                        |
 |                            | findpiclocation              | [findpiclocation](https://findpiclocation.com/)                           | Use AI to pinpoint a photo                                          | May not be as accurate as GPT.                                        |
-| **Generalized OSINT**      | OSINT Rocks              | [osint.rocks](https://osint.rocks/)                                     | Multi-tool: Hudson Rock, Holehe, GHunt (Gmail), phone/domain/username lookups  | Web-based; combines multiple tools in one interface                                 |
+| **Generalized OSINT**      | OSINT Rocks              | [osint.rocks](https://osint.rocks/)                                     | Multi-tool: Hudson Rock, Holehe, GHunt (Gmail), phone/domain/username look-ups  | Web-based; combines multiple tools in one interface                                 |
 | **MISC CLI tools**         | zabasearch-auto   | [GitHub](https://github.com/airborne-commando/zabasearch-auto)         | A CLI tool to look up public info on someone in the USA                                                       | CLI, advanced usage                                                     |
 |                            | link extractor and archive   | [GitHub](https://github.com/airborne-commando/link-extractor-and-archive)         | An archive tool for archive.ph, can extract links from a basic webpage                                                       | CLI, advanced usage; basic webpages only, Requires manual intervention (text edits FIND+REPLACE).                                                     |
 |                            | voter reg status   | [GitHub](https://github.com/airborne-commando/voter-reg-status)        | A CLI tool that looks up voter info on an person                                                       | Only in PA, Needs county, zip, first last name, DOB. Advanced usage. Census data may be out of date.                                                  |
@@ -395,7 +395,7 @@ Contains information such as [SOCMINT](./markdown/IMINT.md#socmint-social-intell
 
 2. **GUI vs. CLI**:  
    - **CLI Tools (Blackbird, Sherlock, Maigret)**: requires technical familiarity.  
-   - **GUI Wrappers (Crow, No-Shit-Sherlock)**: Easier for beginners; same backend logic.  
+   - **GUI Wrappers (Crow, No-Shit-Sherlock)**: Easier for beginners; same back-end logic.  
 
 3. **Email Investigations**:  
    - Combine **Holehe** (account detection) + **Hudson Rock Extractor** (breach data) for thorough checks; see [**Toolchain Recommendations**](#Toolchain-Recommendations).  
@@ -410,7 +410,7 @@ Contains information such as [SOCMINT](./markdown/IMINT.md#socmint-social-intell
    - **Rate Limits**: Tools like Google-FU may trigger blocks—use proxies/VPNs.  
    - **Legality**: Avoid scraping private data (e.g., Facebook pro) without consent.  
 
-6. **Biometric Analysis**: You can supplement your biometric analytics with these tools by extracting the results from:
+6. **Bio-metric Analysis**: You can supplement your bio-metric analytics with these tools by extracting the results from:
  - faceonlive.com (3 or 4 search limit, may need TOR)
  - lenso.ai 
 
@@ -419,7 +419,7 @@ After that open image in new tab and save or drag it into facecheck.id and compa
 ---
 
 ### **Toolchain Recommendations**
-- **Quick Username Search**: Crow (GUI for indepth) → Maigret (GUI for indepth) → Sherlock (CLI for depth).  
+- **Quick Username Search**: Crow (GUI for in-depth) → Maigret (GUI for in-depth) → Sherlock (CLI for depth).  
 - **Email Breaches**: Have I Been Pwned → Pentester (freeish) → OSINT Rocks (Hudson Rock/Holehe) → LOLArchiver.  
 - **Images**: Facecheck.ID → Pimeyes → lenso.ai → faceonlive  
 - **Files**: Encrypted drives (LUKS) → veracrypt → keepassxc
@@ -435,7 +435,7 @@ Pipeline discussed [here](./markdown/opsec.md#opsec-pipeline-for-secure-files)
     
 ## People search tools (in the states):
 
-**DISCLAIMER: Most of the email info found on these sites appear to be from a databrech from long ago; subjects on these sites can and possibly will still use their email found on these sites as people will rarely change email providers due to TFA + password managers unless if the email itself has been compromised in any way, shape, or form OR if they've changed emails due to harassment, spam, etc etc.**
+**DISCLAIMER: Most of the email info found on these sites appear to be from a data-breach from long ago; subjects on these sites can and possibly will still use their email found on these sites as people will rarely change email providers due to TFA + password managers unless if the email itself has been compromised in any way, shape, or form OR if they've changed emails due to harassment, spam, etc etc.**
 
 ---
 
@@ -459,18 +459,18 @@ Pipeline discussed [here](./markdown/opsec.md#opsec-pipeline-for-secure-files)
 2. **Data Sources**: Many pull from the same breaches/public records (emails/phones often outdated but still in use).  
 3. **Specializations**:  
    - *Social Media*: PeekYou, IDCrawl.  
-   - *Geolocation*: ClustrMaps.  
+   - *Geo-location*: ClustrMaps.  
    - *Comprehensive*: FastPeopleSearch, Nuwber, fastbackgroundcheck.  
 
 **Disclaimer**: Accuracy varies; users rarely update emails unless compromised. Use ethically!
 
-- For additonal tools see [Curated lists](#curated-lists)
+- For additional tools see [Curated lists](#curated-lists)
 
 ## Grey literature
 
 Use this site; [do not register](https://vote.gov/register), check a voter registration. Will probably need more info in some states; while others need less.
 
-An automtic tool that I've made for [pa voter services](https://github.com/airborne-commando/voter-reg-status). Feel free to fork for other states.
+An automatic tool that I've made for [pa voter services](https://github.com/airborne-commando/voter-reg-status). Feel free to fork for other states.
 
 ## Breached Data:
 ---
@@ -522,16 +522,18 @@ An automtic tool that I've made for [pa voter services](https://github.com/airbo
 
 | **Platform**  | **Tool**               | **URL**                              | **Functionality**                          | **Limitations/Notes**                     |
 |--------------|-----------------------|--------------------------------------|------------------------------------------|------------------------------------------|
-| **General**  | Social Searcher       | [social-searcher.com](https://www.social-searcher.com/) | Searches multiple platforms at once | Free tier has limited searches |
+| **General**  | Social Searcher       | [social-searcher.com](https://www.social-searcher.com/) | Searches multiple platforms at once | navigate public web search results more easily, does not collect, store, or scrape data from any social media platforms, and we do not access private content or use any official or unofficial APIs. [about](https://www.social-searcher.com/about/) |
 | **Snapchat** | Snapchat Map          | [map.snapchat.com](https://map.snapchat.com/) | View public Snapchat location stories | Requires Snapchat account |
 | **Instagram**| Dumpor               | [dumpor.com](https://dumpor.com/)    | View profiles/stories anonymously      | May have rate limits |
-| **Twitter**  | Sotwe                | [sotwe.com](https://www.sotwe.com/)  | Anonymous Twitter browsing             | No login required |
-|              | Xcancel              | [xcancel.com](https://xcancel.com/)  | Alternative Twitter viewer             | Lightweight interface |
-|              | Nitter               | [nitter.net](https://nitter.net/)    | Privacy-focused Twitter front-end      | Avoids Twitter tracking |
+|              | imginn               | [imginn.com](https://imginn.com/)    | View profiles/stories anonymously      |                      |
+| **Twitter**  | Sotwe                | [sotwe.com](https://www.sotwe.com/)  | Privacy-focused Twitter front-end             | No login required |
+|              | Xcancel              | [xcancel.com](https://xcancel.com/)  | Privacy-focused Twitter front-end             | No login required, Lightweight interface, [FF browser addon](https://addons.mozilla.org/en-US/firefox/addon/toxcancel/) and [chrome](https://chromewebstore.google.com/detail/xcancelcom-redirector) |
+|              | Nitter               | [nitter.net](https://nitter.net/)    | Privacy-focused Twitter front-end      |No login required|
 | **Facebook** | Facebook Search      | [facebook.com/search](https://www.facebook.com/search/) | Native Facebook search tool | Limited without login |
 |              | WhoPostedWhat       | [whopostedwhat.com](https://www.whopostedwhat.com/) | Search Facebook posts by date/keyword | Requires precise queries, public accounts |
-| **reddit**   | r00m101.com         | [r00m101](https://r00m101.com/)       | Get info from an active or deleted reddit account                                       | Pricing for full scope possibly
-|              | ihsoyct             | [ihsoyct](https://ihsoyct.github.io/index.html) | Get archived posts from a reddit accout from both APIs                              | 
+| **reddit**   | r00m101.com | [r00m101](https://r00m101.com/)       | Get info from an active or deleted reddit account | Pricing for full scope possibly
+|              | ihsoyct | [ihsoyct](https://ihsoyct.github.io/index.html) | Get archived posts from a reddit account from both APIs | [Host](https://arctic-shift.photon-reddit.com/live-charts/) can be down, [pushpull](https://pullpush.io/) is still non-functional as of writing. see [limitations](https://github.com/Fubs/reddit-uncensored?tab=readme-ov-file#limitations) different repo but raises a good point on archives.
+|              | reddit-uncensored             | [reddit-uncensored](https://github.com/Fubs/reddit-uncensored) | Automatically restores deleted posts and comments on Reddit using the Arctic Shift API                              | Browser addon (firefox, chrome), see [limitations](https://github.com/Fubs/reddit-uncensored?tab=readme-ov-file#limitations)
 
 ---
 
@@ -556,6 +558,9 @@ An automtic tool that I've made for [pa voter services](https://github.com/airbo
    - **Dumpor** bypasses some privacy settings
    - **Quick Use** https://dumpor.io/v/USERNAME replace ``USERNAME`` with the user you are trying to see
    - **Will not work with private accounts**
+   - You may also use https://imginn.com/
+       + [firefox](https://addons.mozilla.org/en-US/firefox/addon/imginn/)
+       + [chrome](https://github.com/claromes/socialswitch) make sure to not use picuki, disable tiktok; use a different profile or browser. Can use firefox.
 
 ---
 
@@ -564,7 +569,7 @@ An automtic tool that I've made for [pa voter services](https://github.com/airbo
 - **Mobile Tricks**: Simulating mobile devices often works better for restricted content
 - **Persistence**: Some platforms (LinkedIn/Facebook) require patience or account creation
 
-- For additonal tools see the Curated Lists section below.
+- For additional tools see the Curated Lists section below.
 
 
 ## Curated lists
@@ -602,13 +607,13 @@ Google dorks: `https://www.google.com/search?q= "first+last" "Street Address" "C
 
 **Notice** 
 
-[Results about you (google index)](https://myactivity.google.com/results-about-you) can also be emailed so keep that in mind when comparing info I.E.: Google will find webistes containing your first-last name and address and will ask to remove it from the index. Before applying the removal process on google search be sure to remove info from the website itself that it's hosted on. Google Dorking seems to be a bit quicker and preemptive on removing info about yourself after you visit said sites (if applicable).
+[Results about you (google index)](https://myactivity.google.com/results-about-you) can also be emailed so keep that in mind when comparing info I.E.: Google will find websites containing your first-last name and address and will ask to remove it from the index. Before applying the removal process on google search be sure to remove info from the website itself that it's hosted on. Google Dorking seems to be a bit quicker and preemptive on removing info about yourself after you visit said sites (if applicable).
 
 Also with doing google dorks the manual way is that you won't get flagged by google itself as a bot.
 
-Additonal tools:
+Additional tools:
 
-- For additonal tools see the curated-lists above
+- For additional tools see the curated-lists above
 
 
 
