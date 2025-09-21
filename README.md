@@ -1,5 +1,5 @@
 <p align="center">
-<img width="auto" height="auto" alt="OSINT" src="./img/OSINT.png" />
+<img width="auto" height="auto" alt="OSINT" src="./img/png/OSINT.png" />
 </p>
 
 ## Table of Contents
@@ -45,6 +45,12 @@ Note: Some domains (e.g., `exposed.lol`) may be expired. Refer to the curated li
 ## Suggestions
 
 Open an [issue](https://github.com/airborne-commando/OPSEC-OSINT-Tools/issues) for any suggestions or feedback.
+
+To update this guide use:
+```
+git pull
+```
+after cloning.
 
 ## Why?
 
@@ -198,7 +204,7 @@ Check Wikipedia If you're confused on all of these here:
 2. [TOR](https://en.wikipedia.org/wiki/Tor_(network)) (What should be used separately)
 3. [XMR](https://en.wikipedia.org/wiki/Monero) (For VPN's that take XMR as payment)
 
---- 
+---
 
 ### **Pro Tips**
 - **Monero Mining**: Run a local node to avoid centralized exchanges tracing purchases.  
@@ -266,7 +272,7 @@ An offical [Justice site](https://www.justice.gov/jmd/ls/state) listing all stat
 - [Grey literature](https://browse.welch.jhmi.edu/c.php?g=1195274)
 
   - Grey literature is "Information produced on all levels of government, academics, business and industry in electronic and print formats not controlled by commercial publishing i.e. where publishing is not the primary activity of the producing body."
-   
+  
   - Grey literature can be useful for your research, but finding resources requires different tactics than you'd use for commercially published materials. This is because many types of grey literature are not indexed in some of the more common research tools like PubMed, CINAHL, Scopus, etc.
 
 - genealogical
@@ -298,7 +304,7 @@ An offical [Justice site](https://www.justice.gov/jmd/ls/state) listing all stat
 | `AND`                 | Both terms must appear (default behavior)       | `username AND password`       |
 | `-`                   | Exclude term                                    | `login -facebook`             |
 | `"`                   | Exact phrase                                    | `"confidential file"`         |
- 
+
 
 
 **Default Behavior**
@@ -574,7 +580,6 @@ An automtic tool that I've made for [pa voter services](https://github.com/airbo
 
 - [internet tools](https://fmhy.xyz/internet-tools#open-source-intelligence) 
   
-
 - [OSINT toolbox](https://github.com/The-Osint-Toolbox) 
 
 - A whole reddit wiki from the [OSINT community](https://www.reddit.com/r/OSINT/wiki/index/)
@@ -611,6 +616,7 @@ Donations:
 
 If you find this useful feel free to donate to this monero address:
 
-<img width="auto" height="auto" alt="monero" src="./img/monero.png" />
-
-    8BPdcsLtA5iWLNTWvYzUVyTWtQkM62e8r7xqAuwjXTSC4RcoSWqpmtyLsMYvz3QNZtT1rbgPUnmVpMAudhxTn6zkRxUFcZN
+<p align="left"><img width="15%" height="auto" alt="monero" src="./img/png/monero.png"/></p>
+<p>
+<code>8BPdcsLtA5iWLNTWvYzUVyTWtQkM62e8r7xqAuwjXTSC4RcoSWqpmtyLsMYvz3QNZtT1rbgPUnmVpMAudhxTn6zkRxUFcZN</code>
+</p>

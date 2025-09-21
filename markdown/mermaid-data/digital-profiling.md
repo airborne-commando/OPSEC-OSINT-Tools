@@ -20,4 +20,6 @@ flowchart TD
     L --> M
     M --> N
     N --> O
+
+    style DefensiveMindset fill:transparent,stroke:none
 ```

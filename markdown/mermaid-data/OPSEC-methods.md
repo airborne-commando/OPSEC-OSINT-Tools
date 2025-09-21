@@ -3,14 +3,14 @@
 config:
   layout: dagre
 ---
-flowchart TD
+flowchart LR
  subgraph subGraph0["OPSEC Methods"]
         A["OPSEC Toolkit Methods"]
         B["Encrypted USB<br>Encryption: Yes<br>Anonymity: ***No**<br>Internet: No<br>Use: Offline transfers"]
         C["OnionShare<br>Encryption: Yes Tor<br>Anonymity: Yes<br>Internet: Yes<br>Use: Anonymous sharing"]
         D["Taildrop<br>Encryption: Yes<br>Anonymity: No<br>Internet: Yes<br>Use: Personal device sync"]
         E["Persistent Storage<br>Encryption: Yes<br>Anonymity: N/A<br>Internet: No<br>Use: Secure local storage"]
-        FF[Learn from real world mistakes]
+        FF["Learn from real world mistakes"]
   end
  subgraph Security["Security"]
         Q["Security Contexts"]
@@ -46,4 +46,7 @@ flowchart TD
     K --> J
     J --> L
     P@{ shape: rect}
+    style s1 fill:transparent,stroke:none
+    style Security fill:transparent,stroke:none
+    style subGraph0 stroke:none,fill:transparent
 ```

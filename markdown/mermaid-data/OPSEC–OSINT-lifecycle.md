@@ -1,31 +1,26 @@
 ```mermaid
 flowchart TD
-    A[1. Threat Modeling &<br>OPSEC Baseline] -->|Identifies Critical<br>Info & Personnel| B[2. Self-OSINT/SOCMINT Audit<br>Map Your Exposure]
-    B -->|Findings Feed| C[3. Target Profiling<br>Structured OSINT/SOCMINT Collection]
-    
-    A -->|Reveals Adversary<br>TTPs & Capabilities| C
+ subgraph subGraph0["Core Defensive Cycle"]
+        A["1. Threat Modeling &amp;<br>OPSEC Baseline"]
+        B["2. Self-OSINT/SOCMINT Audit<br>Map Your Exposure"]
+        C["3. Target Profiling<br>Structured OSINT/SOCMINT Collection"]
+        H["3b. HUMINT Operations<br>Elicitation, Recruitment,<br>&amp; Undercover Engagement"]
+        D["4. Counter-Intelligence<br>Privacy Hardening, Disinformation,<br>&amp; SOCMINT Monitoring"]
+        E["5. Physical &amp; Data<br>Protection"]
+        F["6. Continuous Review &amp;<br>PsyOps Awareness"]
+  end
+    A -- Identifies Critical<br>Info &amp; Personnel --> B
+    B -- Findings Feed --> C
+    A -- Reveals Adversary<br>TTPs &amp; Capabilities --> C
+    C -- Generates Leads<br>for Human Targeting --> H
+    H -- Provides Insider<br>Perspective &amp; Validation --> C
+    A -- Informs<br>Countermeasures --> D
+    B -- Directs Removal &amp;<br>Obfuscation Efforts --> D
+    D -- "Protects &amp; Maintains<br>Operational Security.<br>Defines Requirements" --> E
+    E -- Secures Foundation --> F
+    C -- Provides External<br>Feedback &amp; Data --> F
+    H -- Provides Deep<br>Adversary Insight --> F
+    F -- "Adapt & Re-evaluate" --> A
 
-    C -->|Generates Leads<br>for Human Targeting| H[3b. HUMINT Operations<br>Elicitation, Recruitment,<br>& Undercover Engagement]
-    H -->|Provides Insider<br>Perspective & Validation| C
-
-    A -->|Informs<br>Countermeasures| D[4. Counter-Intelligence<br>Privacy Hardening, Disinformation,<br>& SOCMINT Monitoring]
-    B -->|Directs Removal &<br>Obfuscation Efforts| D
-    
-    D -->|Protects & Maintains<br>Operational Security.<br>Defines Requirements| E[5. Physical & Data<br>Protection]
-    
-    E -->|Secures Foundation| F[6. Continuous Review &<br>PsyOps Awareness]
-    C -->|Provides External<br>Feedback & Data| F
-    H -->|Provides Deep<br>Adversary Insight| F
-
-    F -->|Adapt & Re-evaluate| A
-
-    subgraph "Core Defensive Cycle"
-        A
-        B
-        C
-        H
-        D
-        E
-        F
-    end
+    style subGraph0 fill:transparent,stroke:none
 ```
