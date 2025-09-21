@@ -616,9 +616,10 @@ Donations:
 
 If you find this useful feel free to donate to this monero address:
 
-<p align="left">
-    <img width="15%" height="auto" alt="monero" src="./img/png/monero.png"/>
+<header></header>
+<h1><img width="15%" height="auto" alt="monero" src="./img/png/monero.png"/></h1>
+<p>
+<code>
+8BPdcsLtA5iWLNTWvYzUVyTWtQkM62e8r7xqAuwjXTSC4RcoSWqpmtyLsMYvz3QNZtT1rbgPUnmVpMAudhxTn6zkRxUFcZN
+</code>
 </p>
-
-
-    8BPdcsLtA5iWLNTWvYzUVyTWtQkM62e8r7xqAuwjXTSC4RcoSWqpmtyLsMYvz3QNZtT1rbgPUnmVpMAudhxTn6zkRxUFcZN
