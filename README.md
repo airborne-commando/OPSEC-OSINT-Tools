@@ -525,13 +525,15 @@ An automtic tool that I've made for [pa voter services](https://github.com/airbo
 | **General**  | Social Searcher       | [social-searcher.com](https://www.social-searcher.com/) | Searches multiple platforms at once | Free tier has limited searches |
 | **Snapchat** | Snapchat Map          | [map.snapchat.com](https://map.snapchat.com/) | View public Snapchat location stories | Requires Snapchat account |
 | **Instagram**| Dumpor               | [dumpor.com](https://dumpor.com/)    | View profiles/stories anonymously      | May have rate limits |
+|              | imginn               | [imginn.com](https://imginn.com/)    | View profiles/stories anonymously      |                      |
 | **Twitter**  | Sotwe                | [sotwe.com](https://www.sotwe.com/)  | Anonymous Twitter browsing             | No login required |
-|              | Xcancel              | [xcancel.com](https://xcancel.com/)  | Alternative Twitter viewer             | Lightweight interface |
+|              | Xcancel              | [xcancel.com](https://xcancel.com/)  | Alternative Twitter viewer             | Lightweight interface, [FF browser addon](https://addons.mozilla.org/en-US/firefox/addon/toxcancel/) and [chrome](https://chromewebstore.google.com/detail/xcancelcom-redirector) |
 |              | Nitter               | [nitter.net](https://nitter.net/)    | Privacy-focused Twitter front-end      | Avoids Twitter tracking |
 | **Facebook** | Facebook Search      | [facebook.com/search](https://www.facebook.com/search/) | Native Facebook search tool | Limited without login |
 |              | WhoPostedWhat       | [whopostedwhat.com](https://www.whopostedwhat.com/) | Search Facebook posts by date/keyword | Requires precise queries, public accounts |
 | **reddit**   | r00m101.com         | [r00m101](https://r00m101.com/)       | Get info from an active or deleted reddit account                                       | Pricing for full scope possibly
-|              | ihsoyct             | [ihsoyct](https://ihsoyct.github.io/index.html) | Get archived posts from a reddit accout from both APIs                              | 
+|              | ihsoyct             | [ihsoyct](https://ihsoyct.github.io/index.html) | Get archived posts from a reddit accout from both APIs                              | [Host](https://arctic-shift.photon-reddit.com/live-charts/) can be down, [pushpull](https://pullpush.io/) is still non-functional as of writing.
+|              | reddit-uncensored             | [reddit-uncensored](https://github.com/Fubs/reddit-uncensored) | Automatically restores deleted posts and comments on Reddit using the Arctic Shift API                              | Browser addon (firefox, chrome)
 
 ---
 
@@ -556,6 +558,9 @@ An automtic tool that I've made for [pa voter services](https://github.com/airbo
    - **Dumpor** bypasses some privacy settings
    - **Quick Use** https://dumpor.io/v/USERNAME replace ``USERNAME`` with the user you are trying to see
    - **Will not work with private accounts**
+   - You may also use https://imginn.com/
+       + [firefox](https://addons.mozilla.org/en-US/firefox/addon/imginn/)
+       + [chrome](https://github.com/claromes/socialswitch) make sure to not use picuki, disable tiktok; use a different profile or browser. Can use firefox.
 
 ---
 
