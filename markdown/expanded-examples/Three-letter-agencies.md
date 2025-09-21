@@ -55,6 +55,31 @@ This comprehensive cycle mirrors the protective intelligence investigative pract
   - Use national SIGINT collection to pierce their anonymization.  
   - Identify whether they are linked to foreign intelligence.  
   - Run ongoing surveillance instead of immediately disclosing the findings.  
-  - Build a strategic case involving international partners rather than just a local prosecution.  
+  - Build a strategic case involving international partners rather than just a local prosecution.
+    
+
+In additon:
+
+### Common Investigative Techniques
+
+- **Confidential Informants:** The use of civilian informants who covertly provide information to law enforcement is closely regulated. Agencies like the FBI have to comply with formal guidelines on recruitment, handling, and validation of informants to ensure reliability and legal compliance.
+
+- **Undercover Operations:** These involve agents assuming fictitious identities to infiltrate criminal groups or networks. Undercover work is only undertaken when traditional investigative methods are insufficient, and each operation requires rigorous justification and supervision.
+
+- **Physical and Electronic Surveillance:** Surveillance techniques range from in-person stakeouts (physical surveillance) to technical approaches like wiretaps or electronic monitoring, which require specialized protocols and court authorization. For example, Title III wiretaps under 18 U.S.C. § 2518 demand evidence that other methods have failed or are too dangerous.
+
+- **Polygraph Examinations:** Federal agencies may use polygraphs as an investigatory tool, especially for assessing the reliability of informants, though use is limited and results are not typically admissible in court.
+
+- **Subpoenas and Legal Process:** Agencies use subpoenas to obtain testimony or records crucial to investigations. Subpoenas can require individuals to appear before a court (testimonial) or submit documents (records subpoenas).
+
+- **Non-consensual Monitoring and Title III Orders:** When monitoring private communications, special procedures including affidavits and judicial review are necessary. Agencies must provide a detailed rationale and show why less intrusive means cannot achieve investigative goals.
+
+### Special Considerations
+
+- **Attorney-Client and Media Protections:** Searches that could involve privileged materials (for example, those belonging to attorneys or journalists) require “filter teams” and additional safeguards to respect legal privileges, with oversight as codified in DOJ policy and regulation.
+
+- **Coordination and Task Forces:** These agencies often participate in interagency collaborations such as Joint Terrorism Task Forces or Financial Investigative Task Forces, which combine resources and techniques from multiple agencies to pursue complex investigations.
+
+All of the above techniques are strictly regulated, requiring documentation, judicial oversight, and compliance with specific guidelines to protect individual constitutional rights and the integrity of investigations.
 
 back to the [main guide](../../README.md)
