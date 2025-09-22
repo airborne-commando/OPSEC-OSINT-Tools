@@ -199,19 +199,22 @@ OPSEC supplements other security disciplines rather than replacing them.
 By TOR I mean Tor Browser, VPN as in Virtual Private Network, and by Virtual Private Network I mean by Virtual Private Network Service - IE: Mullvad (though it can be other types of VPN's out there as long as it's safe to use and vetted by privacy experts). XMR is Monero Coin or Monero for short, a Privacy Coin.
 
 Check Wikipedia If you're confused on all of these here:
-1. [VPN](https://en.wikipedia.org/wiki/Virtual_private_network) (What we don't use here)
-   - [VPN service](https://en.wikipedia.org/wiki/VPN_service) (What we're gonna use here)
-2. [TOR](https://en.wikipedia.org/wiki/Tor_(network)) (What should be used separately)
-3. [XMR](https://en.wikipedia.org/wiki/Monero) (For VPN's that take XMR as payment)
+1. VPN service, what we're gonna use here.[^watechvpn] [^njcybervpn]
+2. TOR, What should be used separately.[^cisa][^nyutor][^cia]
+3. XMR, for VPN's that take XMR as payment [^monero]
+
+
+
+
 
 ---
 
 ### **Pro Tips**
-- **Monero Mining**: Run a local node to avoid centralized exchanges tracing purchases.  
+- **Monero Mining**: Run a local node to avoid centralized exchanges tracing purchases. [^arxiv]
 
 For full tool details, see the **[OPSEC Tools List](./markdown/opsec.md)**.
 
-## Smoke Screen and misinfo
+## Smoke Screen and misinfo [^misinformation] [^pmc]
 
 A smoke screen operation in the context of OSINT (Open Source Intelligence) refers to deliberate actions taken to obscure, mislead, or mask the true activities, intentions, or identities of individuals or organizations from those conducting open-source intelligence gathering. The term is borrowed from military tactics, where a smoke screen is used to conceal movements or positions from enemy observation. In cyber and intelligence contexts, the concept is adapted to digital and informational environments. You may read more [here](./markdown/smokescreen-misinfo.md).
 
@@ -692,3 +695,24 @@ sources:
 [^hnthread]: User chasd00 et al. "Discussion on Imgur Image Links and Redirect Solutions." *Hacker News*, 8 Dec. 2022, https://news.ycombinator.com/item?id=33913443. Accessed 22 Sept. 2025.
 
 [^pezle]: Pezle. "The Time 4Chan Called in an Airstrike." *YouTube*, 17 Aug. 2023, www.youtube.com/watch?v=OR6epSP_Xlw. Accessed 22 Sept. 2025.
+
+[^watechvpn]: Washington State Technology. "What is a VPN, and How Does It Work?" *WA Tech*, https://watech.wa.gov/what-vpn-and-how-does-it-work. Accessed 22 Sept. 2025.
+
+[^njcybervpn]: New Jersey Cybersecurity and Communications Integration Cell. "Virtual Private Networks." *Cyber NJ*, https://www.cyber.nj.gov/guidance-and-best-practices/wi-fi-network-security/virtual-private-networks. Accessed 22 Sept. 2025.
+
+
+[^nyutor]: New York University, Interactive Telecommunications Program. "Demystifying the Dark Web: An Introduction to Tor and Onion Routing." *ITP*, https://itp.nyu.edu/networks/explanations/demystifying-the-dark-web-an-introduction-to-tor-and-onion-routing/. Accessed 22 Sept. 2025.
+
+[^cisa]: Cybersecurity and Infrastructure Security Agency. "AA20-183A: Virtual Private Network (VPN) Security." *CISA*, https://www.cisa.gov/news-events/cybersecurity-advisories/aa20-183a. Accessed 22 Sept. 2025.
+
+[^cia]: Central Intelligence Agency. "CIA’s Latest Layer: An Onion Site." *CIA.gov*, https://www.cia.gov/stories/story/cias-latest-layer-an-onion-site/. Accessed 22 Sept. 2025.
+
+[^monero]: Canul, Mario, and Saxon Knight. *Introduction to Monero and How It’s Different*. University of Hawai’i at Mānoa, Jan. 2019. https://maui.hawaii.edu/wp-content/uploads/sites/13/2019/01/Monero.pdf. Accessed 22 Sept. 2025.
+
+
+[^arxiv]: Ren, Huan, et al. "On the Exploration of Reinforcement Learning Agents with Curiosity." *arXiv*, Cornell University, 24 Aug. 2018, arxiv.org/abs/1808.00811. Accessed 22 Sept. 2025.
+
+
+[^misinformation]: "Misinformation and Disinformation." *CSI Library, College of Staten Island (CUNY)*, City University of New York, library.csi.cuny.edu/misinformation. Accessed 22 Sept. 2025.
+
+[^pmc]: Ghenai, Amira, and Yelena Mejova. "Catching Fire: Identifying Propaganda on Social Media in the Context of the Russia-Ukraine War." *PLOS ONE*, vol. 17, no. 2, Feb. 2022, p. e0263421. *PubMed Central*, doi:10.1371/journal.pone.0263421. Accessed 22 Sept. 2025.
