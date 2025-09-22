@@ -189,16 +189,6 @@ back to the readme [main OPSEC-OSINT-Tools repository](../README.md).
 
 sources:
 
-For the ODNI webpage[^odni].
-
-For the RIT working paper PDF[^rit].
-
-For the article on professional digital profiles[^kraakevik].
-
-For the HHS OSINT How-To analyst note PDF[^hhs].
-
----
-
 [^odni]: Office of the Director of National Intelligence. "Intelligence Community." *ODNI*, https://www.odni.gov/index.php/ncsc-what-we-do/121-dni/intelligence-community. Accessed 22 Sept. 2025.
 
 [^rit]: Scott, Jason, and Chloe Sitton. *Social Media Intelligence Best Practices*. Center for Public Safety Initiatives, Rochester Institute of Technology, 2023. PDF file. https://www.rit.edu/liberalarts/sites/rit.edu.liberalarts/files/docs/CRIM%20Resources/2023-10_CPSI%20Working%20Paper_Social%20Media%20Intelligence%20Best%20Practices.pdf.
