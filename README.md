@@ -77,7 +77,7 @@ If you want some quick methodology I suggest you read this [markdown](./markdown
     - Members exposed themselves by discussing ops in public IRC, revealing personal info, using stolen cards to home addresses, and trusting informants.
 - **General Bad OPSEC Practices**
     - Poor compartmentalization, leaking sensitive info, predictable naming, traceable work hours, and unsecured servers.
-- **Mullvad VPN: Security Contrast**
+- **Mullvad VPN: Security Contrast**[^nsfpar] [^iugl]
     - Features: anonymous accounts, strong encryption, no-logs, lockdown mode, DNS blockers, open-source, accepts Monero/cash.
     - **Caution:** No tool is foolproof; human error remains the weakest link.
 
@@ -114,10 +114,10 @@ If you want some quick methodology I suggest you read this [markdown](./markdown
     - *BBC Cameroon Investigation:* Used metadata and geolocation to verify military abuses.
 - **Law Enforcement**
     - *Tracking Stolen Property:* Monitored online marketplaces to recover stolen goods.
-    - *ShadowDragon’s SocialNet:* Mapped social networks from 200+ sources to aid investigations.
+    - *ShadowDragon’s SocialNet:* Mapped social networks from 200+ sources to aid investigations. [^dhsfoia]
 - **OPSEC Failures**
-    - *Guccifer 2.0:* Forgot to activate VPN, exposing real IP and identity.
-    - *Silk Road’s Ross Ulbricht:* Used personal email and left digital traces, leading to arrest.
+    - *Guccifer 2.0:* Forgot to activate VPN, exposing real IP and identity. [^doj]
+    - *Silk Road’s Ross Ulbricht:* Used personal email and left digital traces, leading to arrest. [^ulbricht]
 
 These guides collectively highlight the importance of strong operational security, the power and risks of OSINT, and the need for continuous vigilance and ethical conduct in information gathering and online behavior.
 
@@ -671,3 +671,19 @@ If you find this useful feel free to donate to this monero address:
 <p>
 <code>8BPdcsLtA5iWLNTWvYzUVyTWtQkM62e8r7xqAuwjXTSC4RcoSWqpmtyLsMYvz3QNZtT1rbgPUnmVpMAudhxTn6zkRxUFcZN</code>
 </p>
+
+
+sources:
+
+[^nsfpar]: National Science Foundation. *NSF Public Access Repository*. https://par.nsf.gov/servlets/purl/10100952. Accessed 22 Sept. 2025.
+
+
+[^iugl]: Indiana University Libraries. "Digital Privacy: Digital Privacy Practices." *Indiana University*, https://guides.libraries.indiana.edu/c.php?g=1325689&p=9771453. Accessed 22 Sept. 2025.
+
+
+[^doj]: United States, Department of Justice. "Grand Jury Indicts 12 Russian Intelligence Officers for Hacking Offenses Related to 2016 Election." *Justice.gov*, https://www.justice.gov/archives/opa/pr/grand-jury-indicts-12-russian-intelligence-officers-hacking-offenses-related-2016-election. Accessed 22 Sept. 2025.
+
+[^dhsfoia]: U.S. Department of Homeland Security, Privacy Office. *Freedom of Information Act (FOIA) Activity for the Week of March 31, 2025 to June 30, 2025* [PDF]. 31 March 2025. https://www.dhs.gov/sites/default/files/2025-07/25_0731_PRIV_Chief_FOIA_Officers_Weekly_Report_March_31_25_to_June_30_25.pdf. Accessed 22 Sept. 2025.
+
+
+[^ulbricht]: United States, Department of Justice. "Ross Ulbricht, A/K/A “Dread Pirate Roberts,” Sentenced In Manhattan Federal Court To Life In Prison." *Justice.gov*, 29 May 2015, https://www.justice.gov/usao-sdny/pr/ross-ulbricht-aka-dread-pirate-roberts-sentenced-manhattan-federal-court-life-prison. Accessed 22 Sept. 2025.

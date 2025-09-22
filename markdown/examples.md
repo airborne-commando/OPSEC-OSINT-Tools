@@ -20,49 +20,61 @@
 
 ## Criminals: Leveraging OSINT for Malicious Activities
 
-### **Sony Pictures Hack (2014)**
-Attackers conducted extensive OSINT to gather information about Sony's network infrastructure and employees. They utilized publicly available data from social media profiles and company websites to craft targeted phishing emails, leading to a significant data breach. ([Cobalt][1])
+### **Sony Pictures Hack (2014)** [^dojnk]
+Attackers conducted extensive OSINT to gather information about Sony's network infrastructure and employees. They utilized publicly available data from social media profiles and company websites to craft targeted phishing emails, leading to a significant data breach. 
 
-### **Ashley Madison Breach (2015)**
-The "Impact Team" exploited OSINT techniques to access and leak sensitive user data from the Ashley Madison website. The breach exposed personal information of millions, leading to blackmail and public shaming. ([Cobalt][1])
+### **Ashley Madison Breach (2015)**[^ftcamd]
+The "Impact Team" exploited OSINT techniques to access and leak sensitive user data from the Ashley Madison website. The breach exposed personal information of millions, leading to blackmail and public shaming. 
 
 ---
 
 ## Civilians: Utilizing OSINT for Advocacy and Investigation
 
-**Identification of Russian Soldiers in Ukraine Conflict**
-Online investigators used facial recognition tools like FindClone and PimEyes to identify Russian soldiers involved in the Ukraine conflict. By analyzing publicly available images and videos, they were able to match faces and uncover identities. ([WIRED][2])
+**Identification of Russian Soldiers in Ukraine Conflict** [^guardian]
+Online investigators used facial recognition tools like FindClone and PimEyes to identify Russian soldiers involved in the Ukraine conflict. By analyzing publicly available images and videos, they were able to match faces and uncover identities. 
 
-### **BBC Investigation into Cameroonian Military Abuses**
-The BBC employed OSINT techniques to verify the authenticity of a video showing Cameroonian soldiers executing civilians. By analyzing metadata, geolocation, and other open-source information, they confirmed the video's legitimacy. ([Reddit][3])
+### **BBC Investigation into Cameroonian Military Abuses** [^hrwcam]
+The BBC employed OSINT techniques to verify the authenticity of a video showing Cameroonian soldiers executing civilians. By analyzing metadata, geolocation, and other open-source information, they confirmed the video's legitimacy. 
 
 ---
 
 ## Law Enforcement: Applying OSINT in Investigations
 
-### **Tracking Stolen Property Online**
-Law enforcement agencies have increasingly used OSINT to monitor online marketplaces like Facebook Marketplace and OfferUp for stolen goods. By analyzing listings and user information, they can trace and recover stolen items. ([Police1][4])
+### **Tracking Stolen Property Online** [^police1]
+Law enforcement agencies have increasingly used OSINT to monitor online marketplaces like Facebook Marketplace and OfferUp for stolen goods. By analyzing listings and user information, they can trace and recover stolen items. 
 
-### **Use of ShadowDragon's SocialNet**
-Agencies utilize tools like ShadowDragon's SocialNet to collect data from over 200 online sources. This assists in mapping social networks and identifying relationships between individuals, aiding in criminal investigations. ([Wikipedia][5])
+### **Use of ShadowDragon's SocialNet**[^dhsfoia]
+Agencies utilize tools like ShadowDragon's SocialNet to collect data from over 200 online sources. This assists in mapping social networks and identifying relationships between individuals, aiding in criminal investigations. 
 
 ---
 
 ## OPSEC Failures: Lessons from Real-World Mistakes
 
-### **Guccifer 2.0's VPN Error**
-The hacker known as Guccifer 2.0 failed to activate a VPN before logging into a social media account, inadvertently revealing their real IP address. This mistake led to the identification of the hacker as a Russian GRU agent. ([WIRED][6])
+### **Guccifer 2.0's VPN Error**[^doj]
+The hacker known as Guccifer 2.0 failed to activate a VPN before logging into a social media account, inadvertently revealing their real IP address. This mistake led to the identification of the hacker as a Russian GRU agent. 
 
-### **Silk Road's Ross Ulbricht**
-Ross Ulbricht, the founder of the Silk Road marketplace, made critical OPSEC errors, such as using his personal email address in early communications. These mistakes facilitated law enforcement's efforts to trace and apprehend him. ([WIRED][6])
+### **Silk Road's Ross Ulbricht**[^ulbricht]
+Ross Ulbricht, the founder of the Silk Road marketplace, made critical OPSEC errors, such as using his personal email address in early communications. These mistakes facilitated law enforcement's efforts to trace and apprehend him. 
 
 ---
 
 These examples underscore the dual-edged nature of OSINT and OPSEC tools. While they offer powerful capabilities for information gathering and security, improper use or lapses in operational security can lead to significant consequences. Whether employed for malicious purposes, civic investigations, or law enforcement, adherence to best practices in OPSEC is crucial to safeguard individuals and operations.
 
-[1]: https://www.cobalt.io/blog/security-breaches-open-source-intelligence-osint-oversights?utm_source=chatgpt.com "Largest Security Breaches Caused by Open Source Intelligence ..."
-[2]: https://www.wired.com/story/facial-recognition-identify-russian-soldiers?utm_source=chatgpt.com "Online Sleuths Are Using Face Recognition to ID Russian Soldiers"
-[3]: https://www.reddit.com/r/OSINT/comments/14ylf2l/what_are_your_best_examples_of_how_osint_has_been/?utm_source=chatgpt.com "What are your best examples of how OSINT has been used? - Reddit"
-[4]: https://www.police1.com/investigations/thinking-like-a-criminal-how-osint-can-take-your-investigations-further?utm_source=chatgpt.com "OSINT tools for investigators to track criminal activity online - Police1"
-[5]: https://en.wikipedia.org/wiki/ShadowDragon?utm_source=chatgpt.com "ShadowDragon"
-[6]: https://www.wired.com/story/guccifer-elite-hackers-mistakes?utm_source=chatgpt.com "Yes, Even Elite Hackers Make Dumb Mistakes"
+
+https://www.wired.com/story/facial-recognition-identify-russian-soldiers 
+
+[^hrwcam]: Human Rights Watch. "Cameroon: Soldiers Get 10 Years for Murder of Civilians." *Human Rights Watch*, 23 Sept. 2020, https://www.hrw.org/news/2020/09/23/cameroon-soldiers-get-10-years-murder-civilians. Accessed 22 Sept. 2025.
+
+[^police1]: Author Unknown. "Thinking Like a Criminal: How OSINT Can Take Your Investigations Further." *Police1*, https://www.police1.com/investigations/thinking-like-a-criminal-how-osint-can-take-your-investigations-further. Accessed 22 Sept. 2025.
+
+[^dhsfoia]: U.S. Department of Homeland Security, Privacy Office. *Freedom of Information Act (FOIA) Activity for the Week of March 31, 2025 to June 30, 2025* [PDF]. 31 March 2025. https://www.dhs.gov/sites/default/files/2025-07/25_0731_PRIV_Chief_FOIA_Officers_Weekly_Report_March_31_25_to_June_30_25.pdf. Accessed 22 Sept. 2025.
+
+[^doj]: United States, Department of Justice. "Grand Jury Indicts 12 Russian Intelligence Officers for Hacking Offenses Related to 2016 Election." *Justice.gov*, https://www.justice.gov/archives/opa/pr/grand-jury-indicts-12-russian-intelligence-officers-hacking-offenses-related-2016-election. Accessed 22 Sept. 2025.
+
+[^ftcamd]: Federal Trade Commission. "Ashley Madison Settles with FTC over Data Security." *FTC*, 23 May 2022, https://www.ftc.gov/business-guidance/blog/2016/12/ashley-madison-settles-ftc-over-data-security. Accessed 22 Sept. 2025.
+
+[^dojnk]: United States, Department of Justice. "North Korean Regime-Backed Programmer Charged in Conspiracy to Conduct Multiple Cyber-Attacks and Intrusions." *Justice.gov*, https://www.justice.gov/archives/opa/pr/north-korean-regime-backed-programmer-charged-conspiracy-conduct-multiple-cyber-attacks-and. Accessed 22 Sept. 2025.
+
+[^guardian]: Hern, Alex. "Ukraine Uses Facial Recognition to Identify Russian Soldiers." *The Guardian*, 24 Mar. 2022, https://www.theguardian.com/technology/2022/mar/24/ukraine-facial-recognition-identify-russian-soldiers. Accessed 22 Sept. 2025.
+
+[^ulbricht]: United States, Department of Justice. "Ross Ulbricht, A/K/A “Dread Pirate Roberts,” Sentenced In Manhattan Federal Court To Life In Prison." *Justice.gov*, 29 May 2015, https://www.justice.gov/usao-sdny/pr/ross-ulbricht-aka-dread-pirate-roberts-sentenced-manhattan-federal-court-life-prison. Accessed 22 Sept. 2025.
