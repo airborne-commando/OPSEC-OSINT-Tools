@@ -576,8 +576,7 @@ An automatic tool that I've made for [pa voter services](https://github.com/airb
    - HWID/IP tracking may block repeated searches
 
 3. **Twitter Alternatives**:
-   - Use **Nitter**/**Xcancel** to avoid rate limits/tracking
-   - **Sotwe** work without login
+   - Use **Nitter**/**Xcancel**/**Sotwe** to browse anonymously.
 
 4. **Instagram**:
    - **Dumpor** bypasses some privacy settings
