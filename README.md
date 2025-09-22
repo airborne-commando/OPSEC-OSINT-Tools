@@ -637,7 +637,7 @@ example:
 
 Google dorks: 
 
-<p align="center"><img width="50%" height="auto" alt="people-search" src="./img/svg/toolset-search.svg"/></p>
+<p align="center"><img width="25%" height="auto" alt="people-search" src="./img/svg/toolset-search.svg"/></p>
 
 **Notice** 
 
