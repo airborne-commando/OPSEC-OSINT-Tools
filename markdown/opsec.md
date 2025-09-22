@@ -235,7 +235,7 @@ Core to cloud computing and enterprise IT, enabling efficient, scalable infrastr
 ---
 
 ## Cryptocurrency
-- [Monero (XMR)](https://www.getmonero.org/) - Privacy-focused cryptocurrency
+- [Monero (XMR)](https://www.getmonero.org/) - Privacy-focused cryptocurrency.
 
 ---
 
@@ -318,9 +318,9 @@ What I tend to do is save this in private notes inside simplex, I'd also recomme
 Then if i need, I share it with another simplex note on my phone by connecting my own phone instance and the desktop as a chat. Then forwarding it to private notes.
 After that is done, I delete the convo for both but keep private notes for both adding in redundancy. just save inside simplex and desktop to reduce data remnants.
 
-For SSD's I'd recommend using LUK's or a container as securely erasing in traditional means is basically useless if you want to format the entire drive.
+For SSD's I'd recommend using LUK's or a container as securely erasing in traditional means is basically useless if you want to format the entire drive.[^sciencedirect]
 
-# Physical Security in OPSEC
+# Physical Security[^tfd] in OPSEC
 
 **Physical security** is a core component of Operations Security (OPSEC) and refers to the measures taken to protect personnel, equipment, facilities, and information from physical threats such as unauthorized access, theft, vandalism, espionage, sabotage, terrorism, and natural disasters. In the context of OPSEC, physical security is about preventing adversaries from gaining physical access to sensitive information or critical infrastructure that could be exploited.
 
@@ -361,7 +361,7 @@ However, the inclusion of firearms in physical security is subject to strict pol
 
 ---
 
-## Physical Security and Chemical Protection
+## Physical Security and Chemical Protection[^tfd]
 
 **Physical security** in the context of OPSEC (Operational Security) refers to measures that protect physical assets, spaces, and people from unauthorized access, theft, or harm. This includes barriers, locks, surveillance, guards, and other tangible protections.
 
@@ -395,3 +395,11 @@ Yes, using chemicals to protect yourself (such as defensive sprays) can be consi
 
 **Remember:** The best OPSEC sometimes means not interacting with your target at all to avoid alerting them.
 And again [You Didn't Have to Post That](https://www.youtube.com/watch?v=AkQaL9SU2BY).
+
+---
+
+Sources:
+
+[^sciencedirect]: "Layered Security." *ScienceDirect*, Elsevier B.V., 2025, www.sciencedirect.com/topics/computer-science/layered-security. Accessed 22 Sept. 2025.
+
+[^tfd]: "Physical Security." *TheFreeDictionary*, Farlex, en.thefreedictionary.com/physical%2Bsecurity. Accessed 22 Sept. 2025.

@@ -68,16 +68,15 @@ If you want some quick methodology I suggest you read this [markdown](./markdown
 
 ## Notable Examples of Bad Tor OPSEC
 
-- **School Bomb Threats**
-    - Florida student caught after bragging, repeating offenses, leaving evidence, and confessing.
+- **School Bomb Threats**[^doj-15]
     - Harvard’s Eldo Kim identified for using Tor on school network as the only user and admitting guilt.
-- **Silk Road Case**
+- **Silk Road Case**[^ulbricht]
     - Ross Ulbricht linked to Silk Road by using his real name/email, posting about Tor, and failing to hide server IPs.
-- **LulzSec Hacking Group**
+- **LulzSec Hacking Group**[^purdue][^fbi]
     - Members exposed themselves by discussing ops in public IRC, revealing personal info, using stolen cards to home addresses, and trusting informants.
 - **General Bad OPSEC Practices**
     - Poor compartmentalization, leaking sensitive info, predictable naming, traceable work hours, and unsecured servers.
-- **Mullvad VPN: Security Contrast**
+- **Mullvad VPN: Security Contrast**[^nsfpar] [^iugl]
     - Features: anonymous accounts, strong encryption, no-logs, lockdown mode, DNS blockers, open-source, accepts Monero/cash.
     - **Caution:** No tool is foolproof; human error remains the weakest link.
 
@@ -107,17 +106,17 @@ If you want some quick methodology I suggest you read this [markdown](./markdown
 ## Real-World OSINT and OPSEC Examples
 
 - **Criminals**
-    - *Sony Pictures Hack (2014):* Used OSINT on staff and infrastructure for phishing and breach.
-    - *Ashley Madison Breach (2015):* Used OSINT to leak sensitive user data, causing blackmail and public exposure.
+    - *Sony Pictures Hack (2014):* Used OSINT on staff and infrastructure for phishing and breach. [^dojnk]
+    - *Ashley Madison Breach (2015):* Used OSINT to leak sensitive user data, causing blackmail and public exposure. [^ftcamd]
 - **Civilians**
-    - *Identifying Russian Soldiers:* Used facial recognition and open-source images to ID participants in conflicts.
-    - *BBC Cameroon Investigation:* Used metadata and geolocation to verify military abuses.
+    - *Identifying Russian Soldiers:* Used facial recognition and open-source images to ID participants in conflicts. [^guardian]
+    - *Cameroon Investigation:* Used metadata and geolocation to verify military abuses. [^hrwcam]
 - **Law Enforcement**
-    - *Tracking Stolen Property:* Monitored online marketplaces to recover stolen goods.
-    - *ShadowDragon’s SocialNet:* Mapped social networks from 200+ sources to aid investigations.
+    - *Tracking Stolen Property:* Monitored online marketplaces to recover stolen goods. [^police1]
+    - *ShadowDragon’s SocialNet:* Mapped social networks from 200+ sources to aid investigations. [^dhsfoia]
 - **OPSEC Failures**
-    - *Guccifer 2.0:* Forgot to activate VPN, exposing real IP and identity.
-    - *Silk Road’s Ross Ulbricht:* Used personal email and left digital traces, leading to arrest.
+    - *Guccifer 2.0:* Forgot to activate VPN, exposing real IP and identity. [^doj]
+    - *Silk Road’s Ross Ulbricht:* Used personal email and left digital traces, leading to arrest. [^ulbricht]
 
 These guides collectively highlight the importance of strong operational security, the power and risks of OSINT, and the need for continuous vigilance and ethical conduct in information gathering and online behavior.
 
@@ -199,19 +198,22 @@ OPSEC supplements other security disciplines rather than replacing them.
 By TOR I mean Tor Browser, VPN as in Virtual Private Network, and by Virtual Private Network I mean by Virtual Private Network Service - IE: Mullvad (though it can be other types of VPN's out there as long as it's safe to use and vetted by privacy experts). XMR is Monero Coin or Monero for short, a Privacy Coin.
 
 Check Wikipedia If you're confused on all of these here:
-1. [VPN](https://en.wikipedia.org/wiki/Virtual_private_network) (What we don't use here)
-   - [VPN service](https://en.wikipedia.org/wiki/VPN_service) (What we're gonna use here)
-2. [TOR](https://en.wikipedia.org/wiki/Tor_(network)) (What should be used separately)
-3. [XMR](https://en.wikipedia.org/wiki/Monero) (For VPN's that take XMR as payment)
+1. VPN service, what we're gonna use here.[^watechvpn] [^njcybervpn]
+2. TOR, What should be used separately.[^cisa][^nyutor][^cia]
+3. XMR, for VPN's that take XMR as payment [^monero]
+
+
+
+
 
 ---
 
 ### **Pro Tips**
-- **Monero Mining**: Run a local node to avoid centralized exchanges tracing purchases.  
+- **Monero Mining**: Run a local node to avoid centralized exchanges tracing purchases. [^arxiv]
 
 For full tool details, see the **[OPSEC Tools List](./markdown/opsec.md)**.
 
-## Smoke Screen and misinfo
+## Smoke Screen and misinfo [^misinformation] [^pmc]
 
 A smoke screen operation in the context of OSINT (Open Source Intelligence) refers to deliberate actions taken to obscure, mislead, or mask the true activities, intentions, or identities of individuals or organizations from those conducting open-source intelligence gathering. The term is borrowed from military tactics, where a smoke screen is used to conceal movements or positions from enemy observation. In cyber and intelligence contexts, the concept is adapted to digital and informational environments. You may read more [here](./markdown/smokescreen-misinfo.md).
 
@@ -316,16 +318,14 @@ These operators are not used unless you include them in your query—Google’s 
 
 ### Real world examples of OSINT
 
-## In the year 2016, a basket weaving image board used OSINT to pay some supposed terrorist a visit from a [govt in Russia resulting in airstrikes.](https://imgur.com/pol-helps-coordinate-airstrike-on-moderate-syrian-rebels-N7DwWP1)
-
-- [A video detailing the events](https://www.youtube.com/watch?v=OR6epSP_Xlw)
+## In the year 2016, a basket weaving image board used OSINT to pay some supposed terrorist a visit from a govt in Russia resulting in airstrikes.[^pezle][^hnthread]
 
   - In 2016, during the complex Syrian Civil War, various rebel groups—some with good intentions and others with nefarious motives—sought to overthrow President Assad. The chaos allowed terrorist groups to flourish, prompting intervention from the United States and Russia, with the former supporting rebels and the latter aiding Assad. An anonymous user on 4chan's Syria General board (SG) claimed that a Syrian rebel group, Jaysh al-Izza, posted a video on YouTube revealing their secret encampment. The group, linked to Al-Qaeda, was seen by 4chan users as a target. A notable 4chan user, Ivan Sirenko, who had connections with the Russian military, received the coordinates from the 4chan community and tweeted them to the Russian Ministry of Defense. This led to an airstrike on the encampment. Two months later, the same rebel group posted another video showing a new training camp. 4chan users once again pinpointed the location using landmarks seen in the video. After thorough verification, they sent the coordinates to Ivan, who facilitated another Russian airstrike.
 
-UPDATE: Turns out it was a really complex war the 4chan got involved in, still keeping this up as a key example however; the main issue is that they exposed their training locations with geographic locations to the internet like complete morons.
+UPDATE: Turns out it was a really complex war [^cbsnews] the 4chan got involved in, still keeping this up as a key example however; the main issue is that they exposed their training locations with geographic locations to the internet like complete morons.
 Thus bad opsec.
 
-## In 2017, Shia LaBeouf had a protest due to Trumps election; this resulted in a basket weaving image board using OSINT and [sky patterns to figure out where a flag is.](https://www.vice.com/en/article/4chan-does-first-good-thing-pulls-off-the-heist-of-the-century1/)
+## In 2017, Shia LaBeouf had a protest due to Trumps election; this resulted in a basket weaving image board using OSINT and [sky patterns to figure out where a flag is[^vice4chan].
 
 - In 2017, 4chan users managed to track down and replace Shia LaBeouf's "He Will Not Divide Us" protest flag. Using only the live-stream footage of the flag, they analyzed flight patterns, star positions, and a tweet to locate the flag in Greeneville, Tennessee. A local troll then honked his car horn until the sound was picked up on the live-stream, pinpointing the exact location. The flag was replaced with a Trump hat, marking the end of this elaborate trolling operation.
 
@@ -410,7 +410,7 @@ Three examples of GEOINT tools that you can access right now:
 
             https://calendar.google.com/calendar/u/0/embed?src=youremail@gmail.com
 
-From this [linkedin post](https://www.linkedin.com/posts/forensicosint_in-a-clever-linkedin-post-yoni-shares-activity-7359045935919755266-JdTX/?utm_source=share&utm_medium=member_ios&rcm=ACoAABq6F0oBbmG93OZu2jSa-VZL4TF8Qv14q1Y):
+From this linkedin post[^Yoni]:
 
 In a clever LinkedIn post, 🔐Yoni  shares a privacy insight and a practical OSINT technique worth bookmarking.
 
@@ -671,3 +671,69 @@ If you find this useful feel free to donate to this monero address:
 <p>
 <code>8BPdcsLtA5iWLNTWvYzUVyTWtQkM62e8r7xqAuwjXTSC4RcoSWqpmtyLsMYvz3QNZtT1rbgPUnmVpMAudhxTn6zkRxUFcZN</code>
 </p>
+
+
+sources:
+
+[^nsfpar]: National Science Foundation. *NSF Public Access Repository*. https://par.nsf.gov/servlets/purl/10100952. Accessed 22 Sept. 2025.
+
+
+[^iugl]: Indiana University Libraries. "Digital Privacy: Digital Privacy Practices." *Indiana University*, https://guides.libraries.indiana.edu/c.php?g=1325689&p=9771453. Accessed 22 Sept. 2025.
+
+
+[^doj]: United States, Department of Justice. "Grand Jury Indicts 12 Russian Intelligence Officers for Hacking Offenses Related to 2016 Election." *Justice.gov*, https://www.justice.gov/archives/opa/pr/grand-jury-indicts-12-russian-intelligence-officers-hacking-offenses-related-2016-election. Accessed 22 Sept. 2025.
+
+[^dhsfoia]: U.S. Department of Homeland Security, Privacy Office. *Freedom of Information Act (FOIA) Activity for the Week of March 31, 2025 to June 30, 2025* [PDF]. 31 March 2025. https://www.dhs.gov/sites/default/files/2025-07/25_0731_PRIV_Chief_FOIA_Officers_Weekly_Report_March_31_25_to_June_30_25.pdf. Accessed 22 Sept. 2025.
+
+
+[^ulbricht]: United States, Department of Justice. "Ross Ulbricht, A/K/A “Dread Pirate Roberts,” Sentenced In Manhattan Federal Court To Life In Prison." *Justice.gov*, 29 May 2015, https://www.justice.gov/usao-sdny/pr/ross-ulbricht-aka-dread-pirate-roberts-sentenced-manhattan-federal-court-life-prison. Accessed 22 Sept. 2025.
+
+[^vice4chan]: Lamoureux Mack. "How 4Chan's Worst Trolls Pulled Off the Heist of the Century." *VICE*, https://www.vice.com/en/article/4chan-does-first-good-thing-pulls-off-the-heist-of-the-century1/. Accessed 22 Sept. 2025.
+
+
+[^hnthread]: User chasd00 et al. "Discussion on Imgur Image Links and Redirect Solutions." *Hacker News*, 8 Dec. 2022, https://news.ycombinator.com/item?id=33913443. Accessed 22 Sept. 2025.
+
+[^pezle]: Pezle. "The Time 4Chan Called in an Airstrike." *YouTube*, 17 Aug. 2023, www.youtube.com/watch?v=OR6epSP_Xlw. Accessed 22 Sept. 2025.
+
+[^watechvpn]: Washington State Technology. "What is a VPN, and How Does It Work?" *WA Tech*, https://watech.wa.gov/what-vpn-and-how-does-it-work. Accessed 22 Sept. 2025.
+
+[^njcybervpn]: New Jersey Cybersecurity and Communications Integration Cell. "Virtual Private Networks." *Cyber NJ*, https://www.cyber.nj.gov/guidance-and-best-practices/wi-fi-network-security/virtual-private-networks. Accessed 22 Sept. 2025.
+
+
+[^nyutor]: New York University, Interactive Telecommunications Program. "Demystifying the Dark Web: An Introduction to Tor and Onion Routing." *ITP*, https://itp.nyu.edu/networks/explanations/demystifying-the-dark-web-an-introduction-to-tor-and-onion-routing/. Accessed 22 Sept. 2025.
+
+[^cisa]: Cybersecurity and Infrastructure Security Agency. "AA20-183A: Virtual Private Network (VPN) Security." *CISA*, https://www.cisa.gov/news-events/cybersecurity-advisories/aa20-183a. Accessed 22 Sept. 2025.
+
+[^cia]: Central Intelligence Agency. "CIA’s Latest Layer: An Onion Site." *CIA.gov*, https://www.cia.gov/stories/story/cias-latest-layer-an-onion-site/. Accessed 22 Sept. 2025.
+
+[^monero]: Canul, Mario, and Saxon Knight. *Introduction to Monero and How It’s Different*. University of Hawai’i at Mānoa, Jan. 2019. https://maui.hawaii.edu/wp-content/uploads/sites/13/2019/01/Monero.pdf. Accessed 22 Sept. 2025.
+
+
+[^arxiv]: Ren, Huan, et al. "On the Exploration of Reinforcement Learning Agents with Curiosity." *arXiv*, Cornell University, 24 Aug. 2018, arxiv.org/abs/1808.00811. Accessed 22 Sept. 2025.
+
+
+[^misinformation]: "Misinformation and Disinformation." *CSI Library, College of Staten Island (CUNY)*, City University of New York, library.csi.cuny.edu/misinformation. Accessed 22 Sept. 2025.
+
+[^pmc]: Ghenai, Amira, and Yelena Mejova. "Catching Fire: Identifying Propaganda on Social Media in the Context of the Russia-Ukraine War." *PLOS ONE*, vol. 17, no. 2, Feb. 2022, p. e0263421. *PubMed Central*, doi:10.1371/journal.pone.0263421. Accessed 22 Sept. 2025.
+
+
+[^Yoni]: Solomon, Yoni. In a clever LinkedIn post, Yoni shares a simple but effective method for identifying fake profiles. *LinkedIn*, 17 June 2024, www.linkedin.com/posts/forensicosint_in-a-clever-linkedin-post-yoni-shares-activity-7359045935919755266-JdTX.
+
+[^cbsnews]: "Syrian War: Aleppo Airstrikes from Russia, Assad Pummel Rebels." *CBS News*, CBS Interactive, 28 Sept. 2016, www.cbsnews.com/news/syria-war-aleppo-airstrikes-russia-assad-rebels-offensive/.
+
+[^fbi]: "Leading Member of the International Cyber Criminal Group 'LulzSec' Sentenced in Manhattan Federal Court." *Federal Bureau of Investigation*, U.S. Department of Justice, Field Office: New York, 18 May 2016, www.fbi.gov/contact-us/field-offices/newyork/news/press-releases/leading-member-of-the-international-cyber-criminal-group-lulzsec-sentenced-in-manhattan-federal-court.
+
+[^purdue]: "Hacktivism: The Short Life of LulzSec." *Purdue Cybersecurity Blog*, Purdue University, 15 Mar. 2023, cyber.tap.purdue.edu/blog/articles/hacktivism-the-short-life-of-lulzsec/.
+
+[^doj-15]: "Harvard Student Charged with Making Hoax Bomb Threat." *United States Department of Justice*, U.S. Attorney's Office, District of Massachusetts, 22 Apr. 2015, www.justice.gov/usao-ma/pr/harvard-student-charged-making-hoax-bomb-threat.
+
+
+[^hrwcam]: Human Rights Watch. "Cameroon: Soldiers Get 10 Years for Murder of Civilians." *Human Rights Watch*, 23 Sept. 2020, https://www.hrw.org/news/2020/09/23/cameroon-soldiers-get-10-years-murder-civilians. Accessed 22 Sept. 2025.
+
+[^police1]: Burley, Brandon. "Thinking Like a Criminal: How OSINT Can Take Your Investigations Further." *Police1*, https://www.police1.com/investigations/thinking-like-a-criminal-how-osint-can-take-your-investigations-further. Accessed 22 Sept. 2025.
+
+[^ftcamd]: Federal Trade Commission. "Ashley Madison Settles with FTC over Data Security." *FTC*, 23 May 2022, https://www.ftc.gov/business-guidance/blog/2016/12/ashley-madison-settles-ftc-over-data-security. Accessed 22 Sept. 2025.
+
+[^dojnk]: United States, Department of Justice. "North Korean Regime-Backed Programmer Charged in Conspiracy to Conduct Multiple Cyber-Attacks and Intrusions." *Justice.gov*, https://www.justice.gov/archives/opa/pr/north-korean-regime-backed-programmer-charged-conspiracy-conduct-multiple-cyber-attacks-and. Accessed 22 Sept. 2025.
+
+[^guardian]: Hern, Alex. "Ukraine Uses Facial Recognition to Identify Russian Soldiers." *The Guardian*, 24 Mar. 2022, https://www.theguardian.com/technology/2022/mar/24/ukraine-facial-recognition-identify-russian-soldiers. Accessed 22 Sept. 2025.

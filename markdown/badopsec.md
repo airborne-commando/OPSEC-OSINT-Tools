@@ -21,20 +21,9 @@ In short
 
 [You Didn't Have to Post That](https://www.youtube.com/watch?v=AkQaL9SU2BY)
 
-## School Bomb Threats
-
-### Florida High School Student
-
-A high school student in Florida used Tor to access a dark web marketplace and purchase bomb threat services. His OPSEC failures included:
-
-1. Bragging about his actions to friends
-2. Repeating the offense multiple times
-3. Leaving evidence of dark web access on his phone
-4. Confessing to the police when confronted
-
 ### Harvard Student Eldo Kim
 
-Eldo Kim, a Harvard student, emailed bomb threats over Tor to avoid taking exams. His OPSEC mistakes were:
+Eldo Kim, a Harvard student, emailed bomb threats over Tor to avoid taking exams[^doj]. His OPSEC mistakes were:
 
 1. Using the school network to access Tor
 2. Being the only Tor user on the network at the time of the threat
@@ -42,7 +31,7 @@ Eldo Kim, a Harvard student, emailed bomb threats over Tor to avoid taking exams
 
 ## Silk Road Case
 
-Ross Ulbricht, alleged operator of the Silk Road dark web marketplace, made several OPSEC blunders:
+Ross Ulbricht, alleged operator of the Silk Road dark web marketplace, made several OPSEC blunders[^ulbricht]:
 
 1. Using his real name email ([email protected]) in forum posts seeking IT help
 2. Posting on Stack Overflow about Tor hidden services under a username later linked to Silk Road
@@ -51,7 +40,7 @@ Ross Ulbricht, alleged operator of the Silk Road dark web marketplace, made seve
 
 ## LulzSec Hacking Group
 
-Members of the LulzSec hacking group made various OPSEC mistakes:
+Members of the LulzSec hacking group made various OPSEC mistakes [^fbi] [^purdue]:
 
 1. Discussing operational activities in IRC channels
 2. Revealing personal information, allowing profiling
@@ -96,3 +85,14 @@ Mullvad VPN offers several features that prioritize user privacy and security:
 
 However I'd like to point out that even with services like mullvad you'd still get caught on some circumstances even with a no log policy. Humans can deduce and figure stuff out on their own machines cannot and have to be guided. None of these tools are fullproof and the issue will exist between user and keyboard. See also the [main guide](../README.md#how-to-opsec).
 
+
+sources:
+
+[^ulbricht]: United States, Department of Justice. "Ross Ulbricht, A/K/A “Dread Pirate Roberts,” Sentenced In Manhattan Federal Court To Life In Prison." *Justice.gov*, 29 May 2015, https://www.justice.gov/usao-sdny/pr/ross-ulbricht-aka-dread-pirate-roberts-sentenced-manhattan-federal-court-life-prison. Accessed 22 Sept. 2025.
+
+[^doj]: "Harvard Student Charged with Making Hoax Bomb Threat." *United States Department of Justice*, U.S. Attorney's Office, District of Massachusetts, 22 Apr. 2015, www.justice.gov/usao-ma/pr/harvard-student-charged-making-hoax-bomb-threat.
+
+
+[^fbi]: "Leading Member of the International Cyber Criminal Group 'LulzSec' Sentenced in Manhattan Federal Court." *Federal Bureau of Investigation*, U.S. Department of Justice, Field Office: New York, 18 May 2016, www.fbi.gov/contact-us/field-offices/newyork/news/press-releases/leading-member-of-the-international-cyber-criminal-group-lulzsec-sentenced-in-manhattan-federal-court.
+
+[^purdue]: "Hacktivism: The Short Life of LulzSec." *Purdue Cybersecurity Blog*, Purdue University, 15 Mar. 2023, cyber.tap.purdue.edu/blog/articles/hacktivism-the-short-life-of-lulzsec/.

@@ -34,7 +34,7 @@ This is where the actor collects and analyzes public data:
 *   **(3e) Competencies & Affinities:** The assessment shows the user has poor privacy habits and low-moderate technical skill. However, they are highly sociable. In another location, the threat actor confirmed a mobile home with a camera at the doorway.
 *   **(3d) Behavioral Patterns:** The user's behavior seems immature. Their old journal entries showed they were upset about uncontrollable issues and obsessed with something, leading to depression—a trait that appears to reflect their current state.
 
-**HUMINT (Human Intelligence):** The threat actor actively engaged with the user using an alias on a fetish site, asking about their family or child, politics and pointing out interest to elicit a response. This confirmed the information gathered and provided further insight into their behavior. The internet user seems easy to envoke and or to elicit a response. 
+**HUMINT (Human Intelligence):** The threat actor actively engaged with the user using an alias on a fetish site, asking about their family or child, politics and pointing out interest to elicit a response. This confirmed the information gathered and provided further insight into their behavior. The internet user seems easy to evoke and or to elicit a response. 
 
 **Much like this graph here:**
 <p align="center">
@@ -43,28 +43,32 @@ This is where the actor collects and analyzes public data:
 
 #### **Phases 4, 5, & 6: Image Intelligence (IMINT) and cross reference**
 The actor moved to verify the collected information:
-*   They used **Google Maps, Google Earth, and Street View** to confirm the user's location(s) and dwellings.
+*   They used **Google Maps, Google Earth, and Street View** to confirm the user's location(s) and dwellings **GEOSPITAL/GEOINT**.
 *   They **cross-referenced** this with parcel address data from historical archives.
 *   It was further examined by govt records and later confirmed to be a possible dwelling for the father (home) and the daughter possibly lives at a mobile home (public posts, IMINT, HUMINT).
-*   They've Used **biometrics** to gather addtional sources and to collect more info to form a complete and refined digital biography.
+*   They've Used **bio-metrics** to gather additional sources and to collect more info to form a complete and refined digital biography.
 *   All information was **multi-sourced**, meaning it was confirmed through several independent channels.
 
 #### CSINT (Closed source Intel)
 
-This isn't in the graph, but a threat actor can use CSINT and past databreaches (either from a telegram, github repo, et al) to collect more info about someone.
+This isn't in the graph, but a threat actor can use CSINT and past data breaches (either from a telegram, github repo, et al) to collect more info about someone.
 
 *   What the actor found was that the internet user also used to use adult hookup sites which fit the profile.
-*   In another databreach, there was a closet site; which the actor already knew about; but it had also confirmed the internet users DOB just like the previous adult sites had.
+*   In another data breach, there was a closet site; which the actor already knew about; but it had also confirmed the internet users DOB just like the previous adult sites had.
 
 
 #### **Phase 7: Verification & Triangulation**
-The actor correlated all the intelligence—OSINT, SOCMINT (Social Media Intelligence), CSINT, and IMINT (Imagery Intelligence)—to build a verified profile. They knew the user's:
-*   Location(s) and dwellings
+The actor correlated all the intelligence—OSINT, SOCMINT (Social Media Intelligence), CSINT, IMINT (Imagery Intelligence),GEOSPITAL and GEOINT—to build a verified profile. They knew the user's:
+*   Location(s) and dwellings (possibly backed by GOV info).
 *   Sensitive family information (backed by AI identity enumeration, obits, social media, et al)
-*   Psychological state (past and present)
-*   dating sites (deactivated)
-*   Interests, political leanings, digital biography, previous and current career
-*   This person used 12 different usernames across their accounts, and they were active on 13 distinct platforms.
+*   Psychological state (past and present), blogspot/Snapchat.
+*   dating sites (deactivated), pentester/breaches.
+*   Interests, political leanings (including fathers, explained below), digital biography, previous and current career (archived websites and social media posts).
+*   This person used 12 different usernames across their accounts, and they were active on 13 distinct platforms VIA [crow](https://github.com/airborne-commando/Crow) (a blackbird GUI) and [facecheck](https://facecheck.id/) which is bio-metrics.
+
+Explanation on political leanings:
+
+The political leanings were all figured out with this script named [voter reg status](https://github.com/airborne-commando/voter-reg-status), all it does it guess the DOB of someone if you have enough info (such as zip and county)
 
 #### **Conclusion (Phases 8 & 9)**
 The threat actor Used Phase 8 (a counter-OSINT audit, which is a defensive step) and used an alias and burner email address on a fetish site that the target was on for HUMINT (earlier step), and also went to **Phase 9**.

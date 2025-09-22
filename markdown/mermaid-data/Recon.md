@@ -1,7 +1,7 @@
 
 ```mermaid
 flowchart LR
- subgraph subGraph0["Imagery Intelligence"]
+ subgraph subGraph0["IMINT/GEOINT"]
         A["1. Define Target &amp; Objective<br>- <i>What do you need to know?<br>- Define output: map, timeline, network</i>"]
         B["2. Lay Psychological Foundation<br>- <i>Analyze tone &amp; sentiment NLP<br>- Track behavioral cues &amp; timing</i>"]
         C["3. Collect OSINT &amp; SOCMINT<br>- <i>Gather public data: news, filings, govt<br>- Scrape social media SOCMINT<br>- Build network graphs</i>"]
@@ -20,6 +20,5 @@ flowchart LR
     F --> G
     G --> H
     H --> I
-
     style subGraph0 fill:transparent,stroke:none
 ```

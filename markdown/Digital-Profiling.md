@@ -29,12 +29,12 @@ Digital profiling and behavioral analysis are powerful techniques for understand
 
 ## 1. Understand the Basics
 
-- **Digital Profiling** is the process of gathering and analyzing information about an individual that exists online, including social media activity, website visits, and more.
-- **Behavioral Analysis** involves examining patterns in this data to infer motives, preferences, habits, and even potential future behavior.
+- **Digital Profiling**  is the process of gathering and analyzing information about an individual that exists online, including social media activity, website visits, and more.[^kraakevik]
+- **Behavioral Analysis** involves examining patterns in this data to infer motives, preferences, habits, and even potential future behavior.[^fbi]
 
 ---
 
-## 2. Collect Digital Biographical Information
+## 2. Collect Digital Biographical Information [^usf][^muse]
 
 Start by building a **digital biography** of the subject:
 
@@ -121,7 +121,7 @@ Use a multi-axis profile to evaluate:
 | Iterate                   | Update profile as new data emerges                                     |
 | Ethics                    | Stay within legal and ethical boundaries                               |
 
-## Applying PsyOPS.
+## Applying PsyOPS [^survivalgear].
 
 Applying Psychological Operations in Civilian Life:
 
@@ -149,8 +149,6 @@ Guarding Against Manipulation:
 
 6. Awareness of psychological operations is not only about utilizing them ethically but also guarding against manipulation. Civilians can learn to recognize manipulative tactics employed by others, whether in marketing, politics, or personal relationships. This knowledge empowers individuals to make informed decisions and resist undue influence.
 
-https://www.survivalgear.us/blogs/guides/the-art-and-impact-of-psychological-operations-on-civilians 
-
 Viewing every relationship as a potential **psychological operation (psyop)** against you involves engaging with others through a lens of intense suspicion. This mindset assumes that people may be deliberately trying to manipulate, deceive, or influence you for purposes that don't align with your best interests. As a result, you may:
 
 * **Question people's intentions**: You assume that others could have hidden motives—seeking to gather intel, steer your choices, or subtly shape your worldview.
@@ -174,3 +172,19 @@ In essence, this mindset places you in a constant state of alert—treating huma
 4. Establish a [Smokescreen](smokescreen-misinfo.md)
 5. OSINT yourself as stated in the [Main Guide](../README.md)
 6. set profiles to private. 
+
+--------------
+
+sources:
+
+[^kraakevik]: Kraakevik, Jeff. "Crafting a Positive Professional Digital Profile to Augment Your Practice." *Neurology: Clinical Practice*, vol. 6, no. 1, 2016, pp. 87–93. PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC5765898/. 
+
+
+[^fbi]: Federal Bureau of Investigation. "Behavioral Analysis." *FBI*, 12 Apr. 2023, https://www.fbi.gov/how-we-investigate/behavioral-analysis. Accessed 22 Sept. 2025.
+
+
+[^usf]: University of South Florida, Office of University Communications and Marketing. "Introduction to Social Media." *USF*, https://www.usf.edu/ucm/social-media/intro-social-media.aspx. Accessed 22 Sept. 2025.
+
+[^muse]: Arthur, Paul Longley. "Digital Biography: Capturing Lives Online." a/b: Auto/Biography Studies, vol. 24 no. 1, 2009, p. 74-92. Project MUSE, https://muse.jhu.edu/article/394172.
+
+[^survivalgear]: "The Art and Impact of Psychological Operations on Civilians." *Survival Gear BSO*, https://www.survivalgear.us/blogs/guides/the-art-and-impact-of-psychological-operations-on-civilians. Accessed 22 Sept. 2025.
