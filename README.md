@@ -649,7 +649,6 @@ flowchart TD
     click B "https://myactivity.google.com/results-about-you"
     click C "https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List"
     click D "https://inteltechniques.com/workbook.html"
-    click E "#people-search-tools-in-the-states"
 ```
 
 
