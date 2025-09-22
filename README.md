@@ -359,6 +359,7 @@ GEOINT is information on geographic locations. Geospatial data may also be calle
 Two examples of GEOINT tools that you can access right now:
 - [Earth](https://earth.google.com/web/)
 - [Maps](https://www.google.com/maps)
+- [bing maps](https://www.bing.com/maps)
 
 ## Tools
 
