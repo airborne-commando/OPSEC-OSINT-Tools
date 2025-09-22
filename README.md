@@ -68,12 +68,11 @@ If you want some quick methodology I suggest you read this [markdown](./markdown
 
 ## Notable Examples of Bad Tor OPSEC
 
-- **School Bomb Threats**
-    - Florida student caught after bragging, repeating offenses, leaving evidence, and confessing.
+- **School Bomb Threats**[^doj-15]
     - Harvard’s Eldo Kim identified for using Tor on school network as the only user and admitting guilt.
-- **Silk Road Case**
+- **Silk Road Case**[^ulbricht]
     - Ross Ulbricht linked to Silk Road by using his real name/email, posting about Tor, and failing to hide server IPs.
-- **LulzSec Hacking Group**
+- **LulzSec Hacking Group**[^purdue][^fbi]
     - Members exposed themselves by discussing ops in public IRC, revealing personal info, using stolen cards to home addresses, and trusting informants.
 - **General Bad OPSEC Practices**
     - Poor compartmentalization, leaking sensitive info, predictable naming, traceable work hours, and unsecured servers.
@@ -107,13 +106,13 @@ If you want some quick methodology I suggest you read this [markdown](./markdown
 ## Real-World OSINT and OPSEC Examples
 
 - **Criminals**
-    - *Sony Pictures Hack (2014):* Used OSINT on staff and infrastructure for phishing and breach.
-    - *Ashley Madison Breach (2015):* Used OSINT to leak sensitive user data, causing blackmail and public exposure.
+    - *Sony Pictures Hack (2014):* Used OSINT on staff and infrastructure for phishing and breach. [^dojnk]
+    - *Ashley Madison Breach (2015):* Used OSINT to leak sensitive user data, causing blackmail and public exposure. [^ftcamd]
 - **Civilians**
-    - *Identifying Russian Soldiers:* Used facial recognition and open-source images to ID participants in conflicts.
-    - *BBC Cameroon Investigation:* Used metadata and geolocation to verify military abuses.
+    - *Identifying Russian Soldiers:* Used facial recognition and open-source images to ID participants in conflicts. [^guardian]
+    - *Cameroon Investigation:* Used metadata and geolocation to verify military abuses. [^hrwcam]
 - **Law Enforcement**
-    - *Tracking Stolen Property:* Monitored online marketplaces to recover stolen goods.
+    - *Tracking Stolen Property:* Monitored online marketplaces to recover stolen goods. [^police1]
     - *ShadowDragon’s SocialNet:* Mapped social networks from 200+ sources to aid investigations. [^dhsfoia]
 - **OPSEC Failures**
     - *Guccifer 2.0:* Forgot to activate VPN, exposing real IP and identity. [^doj]
@@ -721,3 +720,20 @@ sources:
 [^Yoni]: Solomon, Yoni. In a clever LinkedIn post, Yoni shares a simple but effective method for identifying fake profiles. *LinkedIn*, 17 June 2024, www.linkedin.com/posts/forensicosint_in-a-clever-linkedin-post-yoni-shares-activity-7359045935919755266-JdTX.
 
 [^cbsnews]: "Syrian War: Aleppo Airstrikes from Russia, Assad Pummel Rebels." *CBS News*, CBS Interactive, 28 Sept. 2016, www.cbsnews.com/news/syria-war-aleppo-airstrikes-russia-assad-rebels-offensive/.
+
+[^fbi]: "Leading Member of the International Cyber Criminal Group 'LulzSec' Sentenced in Manhattan Federal Court." *Federal Bureau of Investigation*, U.S. Department of Justice, Field Office: New York, 18 May 2016, www.fbi.gov/contact-us/field-offices/newyork/news/press-releases/leading-member-of-the-international-cyber-criminal-group-lulzsec-sentenced-in-manhattan-federal-court.
+
+[^purdue]: "Hacktivism: The Short Life of LulzSec." *Purdue Cybersecurity Blog*, Purdue University, 15 Mar. 2023, cyber.tap.purdue.edu/blog/articles/hacktivism-the-short-life-of-lulzsec/.
+
+[^doj-15]: "Harvard Student Charged with Making Hoax Bomb Threat." *United States Department of Justice*, U.S. Attorney's Office, District of Massachusetts, 22 Apr. 2015, www.justice.gov/usao-ma/pr/harvard-student-charged-making-hoax-bomb-threat.
+
+
+[^hrwcam]: Human Rights Watch. "Cameroon: Soldiers Get 10 Years for Murder of Civilians." *Human Rights Watch*, 23 Sept. 2020, https://www.hrw.org/news/2020/09/23/cameroon-soldiers-get-10-years-murder-civilians. Accessed 22 Sept. 2025.
+
+[^police1]: Author Unknown. "Thinking Like a Criminal: How OSINT Can Take Your Investigations Further." *Police1*, https://www.police1.com/investigations/thinking-like-a-criminal-how-osint-can-take-your-investigations-further. Accessed 22 Sept. 2025.
+
+[^ftcamd]: Federal Trade Commission. "Ashley Madison Settles with FTC over Data Security." *FTC*, 23 May 2022, https://www.ftc.gov/business-guidance/blog/2016/12/ashley-madison-settles-ftc-over-data-security. Accessed 22 Sept. 2025.
+
+[^dojnk]: United States, Department of Justice. "North Korean Regime-Backed Programmer Charged in Conspiracy to Conduct Multiple Cyber-Attacks and Intrusions." *Justice.gov*, https://www.justice.gov/archives/opa/pr/north-korean-regime-backed-programmer-charged-conspiracy-conduct-multiple-cyber-attacks-and. Accessed 22 Sept. 2025.
+
+[^guardian]: Hern, Alex. "Ukraine Uses Facial Recognition to Identify Russian Soldiers." *The Guardian*, 24 Mar. 2022, https://www.theguardian.com/technology/2022/mar/24/ukraine-facial-recognition-identify-russian-soldiers. Accessed 22 Sept. 2025.
