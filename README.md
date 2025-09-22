@@ -356,6 +356,10 @@ Contains information such as [SOCMINT](./markdown/IMINT.md#socmint-social-intell
 
 GEOINT is information on geographic locations. Geospatial data may also be called GEOINT data. It's to understand human activity or events and to layer that with data along with geolocations and timing. It has non-military uses as well, example would be for first responders issuing an emergency for a wildfire.
 
+Two examples of GEOINT tools that you can access right now:
+- [Earth](https://earth.google.com/web/)
+- [Maps](https://www.google.com/maps)
+
 ## Tools
 
 ---
