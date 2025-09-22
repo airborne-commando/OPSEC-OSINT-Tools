@@ -459,7 +459,7 @@ Pipeline discussed [here](./markdown/opsec.md#opsec-pipeline-for-secure-files)
     
 ## People search tools (in the states):
 
-**DISCLAIMER: Most of info found on these sites appear to from other data brokers, social media profiles that are public or viewable by everyone, compiled data/info from federal, state, and local government public records.**
+**DISCLAIMER: The type of info found on these sites appear to from other data brokers, social media profiles that are public or viewable by everyone, compiled data/info from federal, state, and local government public records.**
 
 ---
 
