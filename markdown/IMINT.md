@@ -12,7 +12,11 @@
    * [What You Cannot Do](#what-you-cannot-do)  
    * [Extra Tips](#extra-tips)  
 
-3. [IMINT (Imagery Intelligence)](#imint-imagery-intelligence)  
+
+3 [GEOINT (Geographical Intelligence)](#GEOINT)
+   * [What is GEOINT]()
+
+4. [IMINT (Imagery Intelligence)](#imint-imagery-intelligence)  
    * [Definition](#definition)  
    * [Who Uses IMINT?](#who-uses-imint)  
    * [SOCMINT (Social Intelligence)](#socmint-social-intelligence)  
@@ -20,15 +24,15 @@
    * [Ten Practical Applications](#ten-practical-applications)  
    * [Ethical and Legal Considerations](#ethical-and-legal-considerations)  
 
-4. [Combining IMINT, SOCMINT, and Digital Profiling](#combining-imint-socmint-reverse-search-and-digital-profiling)  
+5. [Combining IMINT, SOCMINT, and Digital Profiling](#combining-imint-socmint-reverse-search-and-digital-profiling)  
    * [Multidimensional Intelligence](#multidimensional-intelligence)  
    * [Enhanced Geolocation](#enhanced-geolocation)  
    * [Improved Digital Profiling](#improved-digital-profiling)  
    * [OPSEC Assessment](#opsec-assessment)  
    * [Real-World Applications](#real-world-applications)  
 
-5. [10 Practical Use Cases](#10-practical-use-cases)  
-6. [Best Practices & Cautions](#best-practices--cautions)
+6. [10 Practical Use Cases](#10-practical-use-cases)  
+7. [Best Practices & Cautions](#best-practices--cautions)
 
 ---
 
@@ -75,16 +79,26 @@ Reverse image search tools like **Google Image Search** and **Google Lens** enab
 
 ---
 
-# IMINT (Imagery Intelligence)
+
+
+# GEOINT
+
+What is GEOINT?[^odni]
+
+Geospatial Intelligence is the analysis and visual representation of security related activities on the earth. It is produced through an integration of imagery, imagery intelligence, and geospatial information.
+
+
+
+# IMINT (Imagery Intelligence)[^odni]
 
 ### Definition
 IMINT is the collection and analysis of visual imagery — from satellites, drones, aerial or ground photography — to extract actionable intelligence.
 
 ### Who Uses IMINT?
-- **Civilians:** Disaster tracking, social media verification, urban planning.
-- **Law Enforcement:** Surveillance, crime investigation, missing persons search.
+- **Civilians:** Disaster tracking, social media verification, urban planning (unclassified).
+- **Law Enforcement:** Surveillance, crime investigation, missing persons search (classified).
 
-### SOCMINT (Social Intelligence)
+### SOCMINT (Social Intelligence)[^hhs][^rit]
 
 SOCMINT refers to collecting and analyzing digital data about social relationships and networks, primarily through metadata, social media activity, and geolocation data. It focuses on:
 
@@ -131,7 +145,7 @@ Combining visual intelligence (IMINT) with social data (SOCMINT) and digital pro
 - Identify landmarks in images via IMINT.
 - Cross-reference with social data and OSINT tools to connect locations with people or events.
 
-### Improved Digital Profiling
+### Improved Digital Profiling [^kraakevik]
 - Analyze social media images with IMINT location verification.
 - Use Google reverse search to figure out a device and a users ecosystem (android, apple, mac) and to find landmarks or brands (a restaurant, a landmark, et al).
 - Layer data from emails, usernames, and phone lookups to build comprehensive profiles.
@@ -172,3 +186,23 @@ Combining visual intelligence (IMINT) with social data (SOCMINT) and digital pro
 ---
 
 back to the readme [main OPSEC-OSINT-Tools repository](../README.md).
+
+sources:
+
+For the ODNI webpage[^odni].
+
+For the RIT working paper PDF[^rit].
+
+For the article on professional digital profiles[^kraakevik].
+
+For the HHS OSINT How-To analyst note PDF[^hhs].
+
+---
+
+[^odni]: Office of the Director of National Intelligence. "Intelligence Community." *ODNI*, https://www.odni.gov/index.php/ncsc-what-we-do/121-dni/intelligence-community. Accessed 22 Sept. 2025.
+
+[^rit]: Scott, Jason, and Chloe Sitton. *Social Media Intelligence Best Practices*. Center for Public Safety Initiatives, Rochester Institute of Technology, 2023. PDF file. https://www.rit.edu/liberalarts/sites/rit.edu.liberalarts/files/docs/CRIM%20Resources/2023-10_CPSI%20Working%20Paper_Social%20Media%20Intelligence%20Best%20Practices.pdf.
+
+[^kraakevik]: Kraakevik, Jeff. "Crafting a Positive Professional Digital Profile to Augment Your Practice." *Neurology: Clinical Practice*, vol. 6, no. 1, 2016, pp. 87–93. PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC5765898/.
+
+[^hhs]: U.S. Department of Health and Human Services, Health Sector Cybersecurity Coordination Center. *OSINT How-To*. Analyst Note: TLP White, 9 Aug. 2022. PDF file. https://www.hhs.gov/sites/default/files/osint-how-to-analyst-note-tlpwhite.pdf.
