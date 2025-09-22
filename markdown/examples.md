@@ -60,8 +60,9 @@ Ross Ulbricht, the founder of the Silk Road marketplace, made critical OPSEC err
 
 These examples underscore the dual-edged nature of OSINT and OPSEC tools. While they offer powerful capabilities for information gathering and security, improper use or lapses in operational security can lead to significant consequences. Whether employed for malicious purposes, civic investigations, or law enforcement, adherence to best practices in OPSEC is crucial to safeguard individuals and operations.
 
+---
 
-https://www.wired.com/story/facial-recognition-identify-russian-soldiers 
+Sources:
 
 [^hrwcam]: Human Rights Watch. "Cameroon: Soldiers Get 10 Years for Murder of Civilians." *Human Rights Watch*, 23 Sept. 2020, https://www.hrw.org/news/2020/09/23/cameroon-soldiers-get-10-years-murder-civilians. Accessed 22 Sept. 2025.
 
