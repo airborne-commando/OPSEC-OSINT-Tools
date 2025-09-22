@@ -636,6 +636,7 @@ example:
 ## Toolchain (self-OSINT):
 
 Google dorks: 
+
 `https://www.google.com/search?q= "first+last" "Street Address" "City state" "age"` -> [Results about you (google index)](https://myactivity.google.com/results-about-you) -> [big ass list](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) -> [inteltechniques opt out workbook](https://inteltechniques.com/workbook.html) -> [People Search tools](README.md#people-search-tools-in-the-states)
 
 **Notice** 
