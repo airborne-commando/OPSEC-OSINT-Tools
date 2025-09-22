@@ -406,6 +406,24 @@ Three examples of GEOINT tools that you can access right now:
 3. **Email Investigations**:  
    - Combine **Holehe** (account detection) + **Hudson Rock Extractor** (breach data) for thorough checks; see [**Toolchain Recommendations**](#Toolchain-Recommendations).  
    - For Gmail-specific OSINT, use **GHunt** (via OSINT Rocks).  
+   - Verify a google email, you'll need to be logged in to your own:
+
+            https://calendar.google.com/calendar/u/0/embed?src=youremail@gmail.com
+
+From this [linkedin post](https://www.linkedin.com/posts/forensicosint_in-a-clever-linkedin-post-yoni-shares-activity-7359045935919755266-JdTX/?utm_source=share&utm_medium=member_ios&rcm=ACoAABq6F0oBbmG93OZu2jSa-VZL4TF8Qv14q1Y):
+
+In a clever LinkedIn post, 🔐Yoni  shares a privacy insight and a practical OSINT technique worth bookmarking.
+
+First, the Gmail dot trick: Google ignores dots in addresses, so variations like davidsmith@gmail[.]com, d.a.v.i.d.s.m.i.t.h[@]gmail[.]com, and david.smith[@]gmail[.]com all route to the same inbox, a fact that’s often misunderstood in email investigations.
+
+More importantly for OSINT work, Yoni highlights a method to check if an email is linked to a Google account using Google Calendar. Just plug the email into this URL while logged into your own Google account:
+
+https[:]//calendar[.]google[.]com/calendar/u/0/embed?src=youremail@example[.]com
+
+If the address is connected to a Google account, the calendar interface loads and displays the bolded email address in the bottom left. If it doesn’t exist, it simply shows “Google Calendar.”
+
+🔍 Why It Matters:
+This is a quick, non-intrusive way to validate if an email is active on Google’s ecosystem, especially helpful when vetting aliases, burner accounts, or verifying user identities in investigations.
 
 4. **Geolocation**:  
    - Use **Google Maps Street View** to verify addresses/landmarks from other tools (e.g., ClustrMaps).
@@ -600,6 +618,13 @@ An automatic tool that I've made for [pa voter services](https://github.com/airb
 
 - bellingcat [toolkit](https://bellingcat.gitbook.io/toolkit)
 
+- [OSINT news letter](https://osintnewsletter.com) Protip: use "topic" site:https://osintnewsletter.com
+
+example: 
+
+    "facecheck.id" site:https://osintnewsletter.com
+
+
 **OPT OUT**
 
 - A whole [big ass list](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) to opt out and to compare info.
@@ -610,7 +635,9 @@ An automatic tool that I've made for [pa voter services](https://github.com/airb
 
 ## Toolchain (self-OSINT):
 
-Google dorks: `https://www.google.com/search?q= "first+last" "Street Address" "City state" "age"` -> [Results about you (google index)](https://myactivity.google.com/results-about-you) -> [big ass list](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) -> [inteltechniques opt out workbook](https://inteltechniques.com/workbook.html) -> [People Search tools](README.md#people-search-tools-in-the-states)
+Google dorks: 
+
+<p align="center"><img width="50%" height="auto" alt="people-search" src="./img/svg/toolset-search.svg"/></p>
 
 **Notice** 
 
