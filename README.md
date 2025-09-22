@@ -323,7 +323,7 @@ These operators are not used unless you include them in your query—Google’s 
 
   - In 2016, during the complex Syrian Civil War, various rebel groups—some with good intentions and others with nefarious motives—sought to overthrow President Assad. The chaos allowed terrorist groups to flourish, prompting intervention from the United States and Russia, with the former supporting rebels and the latter aiding Assad. An anonymous user on 4chan's Syria General board (SG) claimed that a Syrian rebel group, Jaysh al-Izza, posted a video on YouTube revealing their secret encampment. The group, linked to Al-Qaeda, was seen by 4chan users as a target. A notable 4chan user, Ivan Sirenko, who had connections with the Russian military, received the coordinates from the 4chan community and tweeted them to the Russian Ministry of Defense. This led to an airstrike on the encampment. Two months later, the same rebel group posted another video showing a new training camp. 4chan users once again pinpointed the location using landmarks seen in the video. After thorough verification, they sent the coordinates to Ivan, who facilitated another Russian airstrike.
 
-UPDATE: Turns out it was a really complex war the 4chan got involved in, still keeping this up as a key example however; the main issue is that they exposed their training locations with geographic locations to the internet like complete morons.
+UPDATE: Turns out it was a really complex war [^cbsnews] the 4chan got involved in, still keeping this up as a key example however; the main issue is that they exposed their training locations with geographic locations to the internet like complete morons.
 Thus bad opsec.
 
 ## In 2017, Shia LaBeouf had a protest due to Trumps election; this resulted in a basket weaving image board using OSINT and [sky patterns to figure out where a flag is[^vice4chan].
@@ -411,7 +411,7 @@ Three examples of GEOINT tools that you can access right now:
 
             https://calendar.google.com/calendar/u/0/embed?src=youremail@gmail.com
 
-From this [linkedin post](https://www.linkedin.com/posts/forensicosint_in-a-clever-linkedin-post-yoni-shares-activity-7359045935919755266-JdTX/?utm_source=share&utm_medium=member_ios&rcm=ACoAABq6F0oBbmG93OZu2jSa-VZL4TF8Qv14q1Y):
+From this linkedin post[^Yoni]:
 
 In a clever LinkedIn post, 🔐Yoni  shares a privacy insight and a practical OSINT technique worth bookmarking.
 
@@ -716,3 +716,8 @@ sources:
 [^misinformation]: "Misinformation and Disinformation." *CSI Library, College of Staten Island (CUNY)*, City University of New York, library.csi.cuny.edu/misinformation. Accessed 22 Sept. 2025.
 
 [^pmc]: Ghenai, Amira, and Yelena Mejova. "Catching Fire: Identifying Propaganda on Social Media in the Context of the Russia-Ukraine War." *PLOS ONE*, vol. 17, no. 2, Feb. 2022, p. e0263421. *PubMed Central*, doi:10.1371/journal.pone.0263421. Accessed 22 Sept. 2025.
+
+
+[^Yoni]: Solomon, Yoni. In a clever LinkedIn post, Yoni shares a simple but effective method for identifying fake profiles. *LinkedIn*, 17 June 2024, www.linkedin.com/posts/forensicosint_in-a-clever-linkedin-post-yoni-shares-activity-7359045935919755266-JdTX.
+
+[^cbsnews]: "Syrian War: Aleppo Airstrikes from Russia, Assad Pummel Rebels." *CBS News*, CBS Interactive, 28 Sept. 2016, www.cbsnews.com/news/syria-war-aleppo-airstrikes-russia-assad-rebels-offensive/.
