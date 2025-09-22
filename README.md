@@ -618,6 +618,13 @@ An automatic tool that I've made for [pa voter services](https://github.com/airb
 
 - bellingcat [toolkit](https://bellingcat.gitbook.io/toolkit)
 
+- [OSINT news letter](https://osintnewsletter.com) Protip: use "topic" site:https://osintnewsletter.com
+
+example: 
+
+    "facecheck.id" site:https://osintnewsletter.com
+
+
 **OPT OUT**
 
 - A whole [big ass list](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) to opt out and to compare info.
