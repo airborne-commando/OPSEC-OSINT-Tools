@@ -351,9 +351,15 @@ See also **[CSINT](./markdown/CSINT.md)**
 
 # IMINT
 
-[IMINT](./markdown/IMINT.md)(Image INTelligence) involves collecting and analyzing visual imagery—satellite, aerial, drone, or ground photos—to extract useful information.
+[IMINT](./markdown/IMINT.md)(Image Intelligence) involves collecting and analyzing visual imagery—satellite, aerial, drone, or ground photos—to extract useful information.
 Contains information such as [SOCMINT](./markdown/IMINT.md#socmint-social-intelligence) and [Reverse Search](./markdown/IMINT.md#reverse-search-google).
 
+GEOINT is information on geographic locations. Geospatial data may also be called GEOINT data. It's to understand human activity or events and to layer that with data along with geolocations and timing. It has non-military uses as well, example would be for first responders issuing an emergency for a wildfire.
+
+Three examples of GEOINT tools that you can access right now:
+- [Earth](https://earth.google.com/web/)
+- [Maps](https://www.google.com/maps)
+- [bing maps](https://www.bing.com/maps)
 
 ## Tools
 
@@ -373,7 +379,7 @@ Contains information such as [SOCMINT](./markdown/IMINT.md#socmint-social-intell
 |                            | Maigret-Night (GUI)      | [GitHub](https://github.com/airborne-commando/maigret-night)            | GUI for Maigret                                                                | Same as Maigret CLI                                                                 |
 |                            | Holehe                   | [GitHub](https://github.com/megadose/holehe)                            | Checks email usage across sites                                                | Imgur false positives; CLI-based                                                    |
 | **Email Compromises**      | Hudson Rock Extractor    | [GitHub](https://github.com/airborne-commando/hudsonrock-search-extractor)| Manual email breach checker (Flask-based)                                     | Not automated; requires manual input                                                |
-| **Geolocation**            | Google Maps              | [maps.google.com](https://maps.google.com/)                             | Pinpoint locations/compare landmarks                                           | Public data only; no advanced OSINT features                                        |
+| **Geolocation/GEOINT**            | Google Maps              | [maps.google.com](https://maps.google.com/)                             | Pinpoint locations/compare landmarks                                           | Public data only; no advanced OSINT features                                        |
 |                            | Bing maps              | [bing maps](https://www.bing.com/maps)                             | Birds eye view, satellite, street view                                          | Quality may differ in birds eye compared to google                                        |
 |                            | Google Earth              | [Google Earth](https://earth.google.com/web)                            | 3D View, 2D view, satellite, street view, historical views                                          | Use in conjunction with google maps, bing maps or both.                                        |
 |                            | geohints                     | [geohints](https://geohints.com/)                                     | a curated list that contains the most accurate and detailed information about metas in Geoguessr as possible.| used for Geoguessr, but can be used to give clues in where an image is located.                                 |
