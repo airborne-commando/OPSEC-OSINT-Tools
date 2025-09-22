@@ -459,7 +459,7 @@ Pipeline discussed [here](./markdown/opsec.md#opsec-pipeline-for-secure-files)
     
 ## People search tools (in the states):
 
-**DISCLAIMER: Most of the email info found on these sites appear to be from a data-breach from long ago; subjects on these sites can and possibly will still use their email found on these sites as people will rarely change email providers due to TFA + password managers unless if the email itself has been compromised in any way, shape, or form OR if they've changed emails due to harassment, spam, etc etc.**
+**DISCLAIMER: The type of info found on these sites appear to from other data brokers, social media profiles that are public or viewable by everyone, compiled data/info from federal, state, and local government public records.**
 
 ---
 
