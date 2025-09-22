@@ -23,7 +23,7 @@
 
 # Digital Profiling and Behavioral Analysis Guide
 
-Digital profiling and behavioral analysis are powerful techniques for understanding individuals based on their online activities and digital footprints. While these methods are often used by professionals, you can apply many of the same principles and processes yourself by following a structured approach.
+Digital profiling and behavioral analysis[^fbi_behavioral] are powerful techniques for understanding individuals based on their online activities and digital footprints. While these methods are often used by professionals, you can apply many of the same principles and processes yourself by following a structured approach.
 
 ---
 
@@ -188,3 +188,5 @@ sources:
 [^muse]: Arthur, Paul Longley. "Digital Biography: Capturing Lives Online." a/b: Auto/Biography Studies, vol. 24 no. 1, 2009, p. 74-92. Project MUSE, https://muse.jhu.edu/article/394172.
 
 [^survivalgear]: "The Art and Impact of Psychological Operations on Civilians." *Survival Gear BSO*, https://www.survivalgear.us/blogs/guides/the-art-and-impact-of-psychological-operations-on-civilians. Accessed 22 Sept. 2025.
+
+[^fbi_behavioral]: "Behavioral Analysis." *Federal Bureau of Investigation*, U.S. Department of Justice, www.fbi.gov/how-we-investigate/behavioral-analysis. Accessed 22 Sept. 2025.
