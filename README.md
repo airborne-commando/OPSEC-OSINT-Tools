@@ -71,7 +71,7 @@ If you want some quick methodology I suggest you read this [markdown](./markdown
 - **School Bomb Threats**
     - Harvard’s Eldo Kim[^doj-15] identified for using Tor on school network as the only user and admitting guilt.
 - **Silk Road Case**
-    - Ross Ulbricht[^ulbricht] linked to Silk Road by using his real name/email, posting about Tor, and failing to hide server IPs.
+    - Ross Ulbricht[^ulbricht][^fordham] linked to Silk Road by using his real name/email, posting about Tor, and failing to hide server IPs.
 - **LulzSec Hacking Group**
     - Members exposed themselves by discussing ops in public IRC[^archives-fbi][^Ackroyd][^purdue][^fbi], revealing personal info, using stolen cards[^archives-fbi1] to home addresses, and trusting informants.<br>
 `Spitler admitted to communicating during the data breach with his co-defendant, Andrew Auernheimer, 25, who was arrested January 18, 2011, in Fayetteville, Ark., while appearing in state court on unrelated drug charges. The two wrote each other during the breach using Internet Relay Chat, an Internet instant messaging program. Those chats included discussions between Spitler, Auernheimer, and other Goatse Security members about the best way to take advantage of the breach and associated theft.`[^archives-fbi]
@@ -805,3 +805,5 @@ sources:
 [^archives-fbi1]: Six Hackers in the United States and Abroad Charged for Crimes Affecting Over One Million Victims." FBI, 5 Mar. 2012, https://archives.fbi.gov/archives/newyork/press-releases/2012/six-hackers-in-the-united-states-and-abroad-charged-for-crimes-affecting-over-one-million-victims. Accessed 23 Sept. 2025.
 
 [^Ackroyd]: "Ackroyd et al. Indictment." U.S. Department of Justice, Southern District of New York, https://www.justice.gov/archive/usao/nys/pressreleases/March12/hackers/ackroydetalindictment.pdf. Accessed 23 Sept. 2025.
+
+[^fordham]: Adler, David. "Silk Road: The Dark Side of Cryptocurrency." Fordham Journal of Corporate and Financial Law, 21 Feb. 2018, news.law.fordham.edu/jcfl/2018/02/21/silk-road-the-dark-side-of-cryptocurrency/. Accessed 23 Sept. 2025.
