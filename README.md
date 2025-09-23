@@ -56,6 +56,8 @@ after cloning.
 
 People trust the internet too much. In today’s world, online and offline are practically the same—truth and fiction blur. This README exists to raise awareness. Clone it, fork it, remix it, or even turn it into a [Rentry](https://rentry.co/) page. Spread the knowledge however you like.
 
+Also this guide can help prevent issues such as doxing. The obvious way is to follow [Key-Takeaways](#Key-Takeaways) and use [people search tools](#people-search-tools-in-the-states) with a self audit to reduce the amount of info you have on yourself publicly[^EFF_doxing_tips][^deleteme].
+
 Can you predict someone’s behavior with this? not exactly; people are unpredictable at times.
 
 # OSINT/OPSEC Tools
@@ -68,16 +70,22 @@ If you want some quick methodology I suggest you read this [markdown](./markdown
 
 ## Notable Examples of Bad Tor OPSEC
 
-- **School Bomb Threats**[^doj-15]
-    - Harvard’s Eldo Kim identified for using Tor on school network as the only user and admitting guilt.
-- **Silk Road Case**[^ulbricht]
-    - Ross Ulbricht linked to Silk Road by using his real name/email, posting about Tor, and failing to hide server IPs.
-- **LulzSec Hacking Group**[^purdue][^fbi]
-    - Members exposed themselves by discussing ops in public IRC, revealing personal info, using stolen cards to home addresses, and trusting informants.
+- **School Bomb Threats**
+    - Harvard’s Eldo Kim[^doj-15] identified for using Tor on school network as the only user and admitting guilt.
+- **Silk Road Case**
+    - Ross Ulbricht[^ulbricht][^fordham] linked to Silk Road by using his real name/email, posting about Tor, and failing to hide server IPs. The laptop was basically seized.[^FBI1]
+`On Oct. 1, 2013, an F.B.I. operation in a public library in San Francisco ended with the arrest of Ross Ulbricht, who was the brain behind Silk Road. One of the breakthroughs made by the federal agents was that they had traced Ulbricht's movements and found out that he was running the Silk Road from his laptop in public places, possibly to use public Wi-Fi networks for added anonymity. The arrest was not a matter of luck but rather a meticulously planned operation to catch Ulbricht logged into Silk Road as its administrator, a critical factor for proving his identity as Dread Pirate Roberts. Using a tricky ploy, two agents performing as a couple faked a quarrel nearby, distracting Ulbricht from his laptop. At that moment, another agent took the open laptop while logged into the Silk Road administrator's panel. This quick action prevented Ulbricht from locking the laptop or triggering security measures that would have encrypted or deleted crucial evidence.`[^plasbit][^Investopedia]
+
+Ross was pardoned[^doj1][^BBC1] in 2025.
+
+- **LulzSec Hacking Group**
+    - Members exposed themselves by discussing ops in public IRC[^archives-fbi][^Ackroyd][^purdue][^fbi], revealing personal info, using stolen cards[^archives-fbi1] to home addresses, and trusting informants.<br>
+`Spitler admitted to communicating during the data breach with his co-defendant, Andrew Auernheimer, 25, who was arrested January 18, 2011, in Fayetteville, Ark., while appearing in state court on unrelated drug charges. The two wrote each other during the breach using Internet Relay Chat, an Internet instant messaging program. Those chats included discussions between Spitler, Auernheimer, and other Goatse Security members about the best way to take advantage of the breach and associated theft.`[^archives-fbi]
+
 - **General Bad OPSEC Practices**
     - Poor compartmentalization, leaking sensitive info, predictable naming, traceable work hours, and unsecured servers.
 - **Mullvad VPN: Security Contrast**[^nsfpar] [^iugl]
-    - Features: anonymous accounts, strong encryption, no-logs, lockdown mode, DNS blockers, open-source, accepts Monero/cash.
+    - Features: anonymous accounts, strong encryption, no-logs, lockdown mode, DNS blockers, open-source, accepts Monero/cash and is independently audited[^MullvadVPNAudits][^WhyMullvad]. Mullvad collects little user information[^1umd].
     - **Caution:** No tool is foolproof; human error remains the weakest link.
 
 
@@ -202,7 +210,7 @@ OPSEC supplements other security disciplines rather than replacing them.
 
 By TOR I mean Tor Browser, VPN as in Virtual Private Network, and by Virtual Private Network I mean by Virtual Private Network Service - IE: Mullvad (though it can be other types of VPN's out there as long as it's safe to use and vetted by privacy experts). XMR is Monero Coin or Monero for short, a Privacy Coin.
 
-Check Wikipedia If you're confused on all of these here:
+Check Wikipedia or the sources cited If you're confused on all of these here:
 1. VPN service[^watechvpn][^njcybervpn], what we're gonna use here.
 2. TOR[^cisa][^nyutor][^cia], What should be used separately.
 3. XMR[^monero], for VPN's that take XMR[^monero] as payment.
@@ -633,6 +641,8 @@ example:
 - [inteltechniques opt out workbook](https://inteltechniques.com/workbook.html)
 
 - [Results about you (google index)](https://myactivity.google.com/results-about-you) - Check what google emails you; actually visit the website and see about doing an opt-out there.
+  
+- [people search tools](#people-search-tools-in-the-states)
 
 ## Toolchain (self-OSINT):
 
@@ -655,7 +665,7 @@ flowchart TD
 
 **Notice** 
 
-[Results about you (google index)](https://myactivity.google.com/results-about-you) can also be emailed so keep that in mind when comparing info I.E.: Google will find websites containing your first-last name and address and will ask to remove it from the index. Before applying the removal process on google search be sure to remove info from the website itself that it's hosted on. Google Dorking seems to be a bit quicker and preemptive on removing info about yourself after you visit said sites (if applicable).
+[Results about you (google index)](https://myactivity.google.com/results-about-you) can also be emailed so keep that in mind when comparing info from these sources such as: [(OPT OUT)](#people-search-tools-in-the-states), [osint resources](https://sizeof.cat/post/osint-resources/), [osintframework](https://osintframework.com/), [awesome osint](https://github.com/jivoi/awesome-osint?tab=readme-ov-file#-people-investigations), [Internet tools](https://fmhy.xyz/internet-tools#open-source-intelligence), [The Osint Toolbox](https://github.com/The-Osint-Toolbox/People-Search-OSINT), [osint stuff tool collection](https://github.com/cipher387/osint_stuff_tool_collection?tab=readme-ov-file#universal-contact-search-and-leaks-search) Google will find websites containing your first-last name and address and will ask to remove it from the index. Before applying the removal process on google search be sure to remove info from the website itself that it's hosted on. Google Dorking seems to be a bit quicker and preemptive on removing info about yourself after you visit said sites (if applicable).
 
 Also with doing google dorks the manual way is that you won't get flagged by google itself as a bot.
 
@@ -797,3 +807,31 @@ sources:
 [^ftcgov]: "What To Know About People Search Sites That Sell Your Information." Federal Trade Commission, https://consumer.ftc.gov/articles/what-know-about-people-search-sites-sell-your-information. Accessed 23 Sept. 2025.
 
 [^guardian]: Hern, Alex. "Ukraine Uses Facial Recognition to Identify Russian Soldiers." The Guardian, 24 Mar. 2022, https://www.theguardian.com/technology/2022/mar/24/ukraine-facial-recognition-identify-russian-soldiers. Archive.ph, https://archive.ph/PGrf0. Accessed 23 Sept. 2025.
+
+[^archives-fbi]: "FBI — Hacker Pleads Guilty to Infiltrating AT&T Servers, iPad Data Breach." FBI, 23 June. 2011, https://archives.fbi.gov/archives/newark/press-releases/2011/hacker-pleads-guilty-to-infiltrating-at-t-servers-ipad-data-breach. Accessed 23 Sept. 2025.
+
+[^archives-fbi1]: Six Hackers in the United States and Abroad Charged for Crimes Affecting Over One Million Victims." FBI, 5 Mar. 2012, https://archives.fbi.gov/archives/newyork/press-releases/2012/six-hackers-in-the-united-states-and-abroad-charged-for-crimes-affecting-over-one-million-victims. Accessed 23 Sept. 2025.
+
+[^Ackroyd]: "Ackroyd et al. Indictment." U.S. Department of Justice, Southern District of New York, https://www.justice.gov/archive/usao/nys/pressreleases/March12/hackers/ackroydetalindictment.pdf. Accessed 23 Sept. 2025.
+
+[^fordham]: Adler, David. "Silk Road: The Dark Side of Cryptocurrency." Fordham Journal of Corporate and Financial Law, 21 Feb. 2018, news.law.fordham.edu/jcfl/2018/02/21/silk-road-the-dark-side-of-cryptocurrency/. Accessed 23 Sept. 2025.
+
+[^FBI1]: FBI. "Ross William Ulbricht's Laptop." FBI History: Artifacts, Federal Bureau of Investigation, www.fbi.gov/history/artifacts/ross-william-ulbrichts-laptop. Accessed 23 Sept. 2025.
+
+[^plasbit]: Oliyaee, Ali. "Ross Ulbricht's Laptop: The Heart of the Silk Road." PlasBit Blog, 31 Mar. 2024, www.plasbit.com/blog/ross-ulbricht-laptop. Accessed 23 Sept. 2025.
+
+[^Investopedia]: Reiff, Nathan. "Who Is Ross Ulbricht?" Investopedia, updated 24 Jan. 2025, https://www.investopedia.com/tech/ross-ulbricht-dark-net-pirate/. Accessed 23 Sept. 2025.
+
+[^BBC1]: BBC News. "Ross Ulbricht: Silk Road Founder Pardoned by Trump." BBC News, 21 Jan. 2025, https://www.bbc.com/news/articles/cz7e0jve875o. Accessed 23 Sept. 2025.
+
+[^doj1]: United States, Department of Justice. Pardon Warrant for Ross William Ulbricht, signed by President Donald J. Trump, 21 Jan. 2025. U.S. Department of Justice, https://www.justice.gov/pardon/media/1386096/dl?inline. Accessed 23 Sept. 2025.
+
+[^1umd]: Consumer Reports. Consumer Reports’ VPN White Paper. University of Maryland, Fall 2023, www.cs.umd.edu/class/fall2023/cmsc614/papers/consumer-reports-vpn.pdf. Accessed 23 Sept. 2025.
+
+Mullvad VPN. “No-Logging of User Activity Policy.” Mullvad VPN, Mullvad, mullvad.net/en/help/no-logging-data-policy. Accessed 23 Sept. 2025.
+
+[^MullvadVPNAudits]: Mullvad VPN. “Audits.” Mullvad VPN Blog, Mullvad, mullvad.net/en/blog/tag/audits. Accessed 23 Sept. 2025.
+
+[^WhyMullvad]: Mullvad VPN. “Why Mullvad VPN.” Mullvad VPN, Mullvad, mullvad.net/en/why-mullvad-vpn. Accessed 23 Sept. 2025.
+
+[^EFF_doxing_tips]: Electronic Frontier Foundation. "Doxxing: Tips To Protect Yourself Online & How to Minimize Harm." Electronic Frontier Foundation, 14 Dec. 2020, www.eff.org/deeplinks/2020/12/doxxing-tips-protect-yourself-online-how-minimize-harm. Accessed 23 Sept. 2025.
