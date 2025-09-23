@@ -208,7 +208,7 @@ OPSEC supplements other security disciplines rather than replacing them.
 
 By TOR I mean Tor Browser, VPN as in Virtual Private Network, and by Virtual Private Network I mean by Virtual Private Network Service - IE: Mullvad (though it can be other types of VPN's out there as long as it's safe to use and vetted by privacy experts). XMR is Monero Coin or Monero for short, a Privacy Coin.
 
-Check Wikipedia If you're confused on all of these here:
+Check Wikipedia or the sources cited If you're confused on all of these here:
 1. VPN service[^watechvpn][^njcybervpn], what we're gonna use here.
 2. TOR[^cisa][^nyutor][^cia], What should be used separately.
 3. XMR[^monero], for VPN's that take XMR[^monero] as payment.
