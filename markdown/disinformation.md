@@ -8,14 +8,14 @@
   - [Conclusion](#conclusion)
   - [main guide](../README.md)
 
-# Disinformation operation Operation in OSINT
+# Disinformation in OSINT
 
-A **Disinformation operation** in the context of OSINT (Open Source Intelligence) refers to deliberate actions taken to obscure, mislead, or mask the true activities, intentions, or identities of individuals or organizations from those conducting open-source intelligence gathering.[^cisa_disinfo]
+Disinformation in the context of OSINT (Open Source Intelligence) refers to deliberate actions taken to obscure, mislead, or mask the true activities, intentions, or identities of individuals or organizations from those conducting open-source intelligence gathering.[^cisa_disinfo]
 
-## **What is a Disinformation Operation?**
+## **What is a Disinformation?**
 * In the digital realm, a "disinformation" involves creating false leads, decoy data, or misleading signals to confuse or distract adversaries, making it harder for them to gather accurate intelligence or track real activities.[^cisa_disinfo][^stanford]
 
-## **How Does a Disinformation Operation Operation Work in OSINT?**
+## **How Does a Disinformation Work in OSINT?**
 
 * **Information Overload:** Flooding open sources with irrelevant, redundant, or misleading information to drown out genuine signals and make analysis more difficult.[^stanford][^cisa_disinfo]
 * **Decoy Accounts and Content:** fabricated or deliberately manipulated audio/visual content. Intentionally created conspiracy theories or rumours. This type of "wrong" information is deliberately shared to harm or deceive a person.[^misinformation][^stanford][^cisa_disinfo]
