@@ -89,18 +89,18 @@ Geospatial Intelligence is the analysis and visual representation of security re
 
 
 
-# IMINT (Imagery Intelligence)[^odni][^odni_intel]
+# IMINT (Imagery Intelligence)
 
-### Definition[^odni_intel][^odni]
-IMINT—Imagery Intelligence includes representations of objects reproduced electronically or by optical means on film, electronic display devices, or other media. Imagery can be derived from visual photography, radar sensors, and electro-optics. NGA is the manager for all imagery intelligence activities, both classified and unclassified, within the government, including requirements, collection, processing, exploitation, dissemination, archiving, and retrieval.[^odni][^odni_intel]
+### Definition
+IMINT—Imagery Intelligence[^odni][^odni_intel] includes representations of objects reproduced electronically or by optical means on film, electronic display devices, or other media. Imagery can be derived from visual photography, radar sensors, and electro-optics. NGA is the manager for all imagery intelligence activities, both classified and unclassified, within the government, including requirements, collection, processing, exploitation, dissemination, archiving, and retrieval.[^odni][^odni_intel]
 
 ### Who Uses IMINT?
 - **Civilians:** Disaster tracking, social media verification, urban planning (unclassified).[^govinfo]
 - **Law Enforcement:** Surveillance, crime investigation, missing persons search (classified).[^odni]
 
-### SOCMINT (Social Intelligence)[^hhs][^rit]
+### SOCMINT (Social Intelligence)
 
-SOCMINT refers to collecting and analyzing digital data about social relationships and networks, primarily through metadata, social media activity, and geolocation data. It focuses on:
+SOCMINT[^hhs][^rit] refers to collecting and analyzing digital data about social relationships and networks, primarily through metadata, social media activity, and geolocation data. It focuses on:
 
 - **Social Networks:** Mapping social dynamics and connections.
 - **Data Sources:** Social platforms (Facebook, Instagram, LinkedIn), communications metadata, location info.
@@ -145,8 +145,8 @@ Combining visual intelligence (IMINT) with social data (SOCMINT) and digital pro
 - Identify landmarks in images via IMINT.[^pezle][^vice4chan]
 - Cross-reference with social data and OSINT tools to connect locations with people or events.[^pezle][^vice4chan]
 
-### Improved Digital Profiling [^kraakevik]
-- Analyze social media images with IMINT location verification.[^pezle][^vice4chan]
+### Improved Digital Profiling
+- Analyze social media[^kraakevik] images with IMINT location verification.[^pezle][^vice4chan]
 - Use Google reverse search to figure out a device and a users ecosystem (android, apple, mac) and to find landmarks or brands (a restaurant, a landmark, et al).[^bellingcat_reverse][^bellingcat_newtech][^vice4chan]
 - Layer data from emails, usernames, and phone lookups to build comprehensive profiles.[^dol]
 

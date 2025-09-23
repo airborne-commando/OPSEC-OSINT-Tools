@@ -20,11 +20,11 @@
 
 ## Criminals: Leveraging OSINT for Malicious Activities
 
-### **Sony Pictures Hack (2014)** [^dojnk]
-Attackers conducted extensive OSINT to gather information about Sony's network infrastructure and employees. They utilized publicly available data from social media profiles and company websites to craft targeted phishing emails, leading to a significant data breach. 
+### **Sony Pictures Hack (2014)**
+Attackers conducted extensive OSINT to gather information about Sony's network infrastructure and employees[^dojnk]. They utilized publicly available data from social media profiles and company websites to craft targeted phishing emails, leading to a significant data breach. 
 
-### **Ashley Madison Breach (2015)**[^ftcamd]
-The "Impact Team" exploited OSINT techniques to access and leak sensitive user data from the Ashley Madison website. The breach exposed personal information of millions, leading to blackmail and public shaming. 
+### **Ashley Madison Breach (2015)**
+The "Impact Team"[^ftcamd] exploited OSINT techniques to access and leak sensitive user data from the Ashley Madison website. The breach exposed personal information of millions, leading to blackmail and public shaming. 
 
 ---
 
@@ -33,28 +33,28 @@ The "Impact Team" exploited OSINT techniques to access and leak sensitive user d
 **Identification of Russian Soldiers in Ukraine Conflict** [^guardian]
 Online investigators used facial recognition tools like FindClone and PimEyes to identify Russian soldiers involved in the Ukraine conflict. By analyzing publicly available images and videos, they were able to match faces and uncover identities. 
 
-### **BBC Investigation into Cameroonian Military Abuses** [^hrwcam]
-The BBC employed OSINT techniques to verify the authenticity of a video showing Cameroonian soldiers executing civilians. By analyzing metadata, geolocation, and other open-source information, they confirmed the video's legitimacy. 
+### **BBC Investigation into Cameroonian Military Abuses**
+The BBC[^hrwcam] employed OSINT techniques to verify the authenticity of a video showing Cameroonian soldiers executing civilians. By analyzing metadata, geolocation, and other open-source information, they confirmed the video's legitimacy. 
 
 ---
 
 ## Law Enforcement: Applying OSINT in Investigations
 
-### **Tracking Stolen Property Online** [^police1]
-Law enforcement agencies have increasingly used OSINT to monitor online marketplaces like Facebook Marketplace and OfferUp for stolen goods. By analyzing listings and user information, they can trace and recover stolen items. 
+### **Tracking Stolen Property Online**
+Law enforcement agencies[^police1] have increasingly used OSINT to monitor online marketplaces like Facebook Marketplace and OfferUp for stolen goods. By analyzing listings and user information, they can trace and recover stolen items. 
 
-### **Use of ShadowDragon's SocialNet**[^dhsfoia]
-Agencies utilize tools like ShadowDragon's SocialNet to collect data from over 200 online sources. This assists in mapping social networks and identifying relationships between individuals, aiding in criminal investigations. 
+### **Use of ShadowDragon's SocialNet**
+Agencies utilize tools like ShadowDragon's SocialNet[^dhsfoia] to collect data from over 200 online sources. This assists in mapping social networks and identifying relationships between individuals, aiding in criminal investigations. 
 
 ---
 
 ## OPSEC Failures: Lessons from Real-World Mistakes
 
-### **Guccifer 2.0's VPN Error**[^doj]
-The hacker known as Guccifer 2.0 failed to activate a VPN before logging into a social media account, inadvertently revealing their real IP address. This mistake led to the identification of the hacker as a Russian GRU agent. 
+### **Guccifer 2.0's VPN Error**
+The hacker known as Guccifer 2.0[^doj] failed to activate a VPN before logging into a social media account, inadvertently revealing their real IP address. This mistake led to the identification of the hacker as a Russian GRU agent. 
 
-### **Silk Road's Ross Ulbricht**[^ulbricht]
-Ross Ulbricht, the founder of the Silk Road marketplace, made critical OPSEC errors, such as using his personal email address in early communications. These mistakes facilitated law enforcement's efforts to trace and apprehend him. 
+### **Silk Road's Ross Ulbricht**
+Ross Ulbricht[^ulbricht], the founder of the Silk Road marketplace, made critical OPSEC errors, such as using his personal email address in early communications. These mistakes facilitated law enforcement's efforts to trace and apprehend him. 
 
 ---
 

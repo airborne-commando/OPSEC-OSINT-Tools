@@ -34,9 +34,9 @@ Digital profiling and behavioral analysis[^fbi][^pmc] are powerful techniques fo
 
 ---
 
-## 2. Collect Digital Biographical Information [^usf][^muse]
+## 2. Collect Digital Biographical Information
 
-Start by building a **digital biography** of the subject:
+Start by building a **digital biography**[^usf][^muse] of the subject:
 
 - Gather identifiers (usernames, email addresses, phone numbers).
 - Track websites visited, forum posts, social media profiles, and public comments.
@@ -121,9 +121,9 @@ Use a multi-axis profile to evaluate:
 | Iterate                   | Update profile as new data emerges                                     |
 | Ethics                    | Stay within legal and ethical boundaries                               |
 
-## Applying PsyOPS [^survivalgear].
+## Applying PsyOPS.
 
-Applying Psychological Operations in Civilian Life:
+Applying Psychological Operations[^survivalgear] in Civilian Life:
 
 Building Rapport and Influence:
 
