@@ -173,7 +173,7 @@ OPSEC supplements other security disciplines rather than replacing them.
 
 ### **Key Takeaways**
 1. **Messaging**:  
-   - **Signal** OR **Simplex** > **Telegram** for privacy.  
+   - **Signal** OR **Simplex** > **Telegram** for privacy.[^ieee][^signal][^simplex]
 
    - Remember: E2E ≠ total anonymity (metadata leaks/habits matter).
 
@@ -198,7 +198,7 @@ OPSEC supplements other security disciplines rather than replacing them.
 By TOR I mean Tor Browser, VPN as in Virtual Private Network, and by Virtual Private Network I mean by Virtual Private Network Service - IE: Mullvad (though it can be other types of VPN's out there as long as it's safe to use and vetted by privacy experts). XMR is Monero Coin or Monero for short, a Privacy Coin.
 
 Check Wikipedia If you're confused on all of these here:
-1. VPN service, what we're gonna use here.[^watechvpn] [^njcybervpn]
+1. VPN service, what we're gonna use here.[^watechvpn][^njcybervpn]
 2. TOR, What should be used separately.[^cisa][^nyutor][^cia]
 3. XMR, for VPN's that take XMR as payment [^monero]
 
@@ -209,7 +209,7 @@ Check Wikipedia If you're confused on all of these here:
 ---
 
 ### **Pro Tips**
-- **Monero Mining**: Run a local node to avoid centralized exchanges tracing purchases. [^arxiv]
+- **Monero Mining**: Run a local node to avoid centralized exchanges tracing purchases.[^arxiv]
 
 For full tool details, see the **[OPSEC Tools List](./markdown/opsec.md)**.
 
@@ -749,3 +749,9 @@ sources:
 [^govinfo]: *U.S. Intelligence Community 21 (IC21): Intelligence Community in the 21st Century*. U.S. Government Publishing Office, 1996, www.govinfo.gov/content/pkg/GPO-IC21/html/GPO-IC21-6.html. Accessed 22 Sept. 2025.
 
 [^nctc]: *Intelligence Guide*. National Counterterrorism Center, Office of the Director of National Intelligence, www.dni.gov/nctc/jcat/jcat_ctguide/intel_guide.html. Accessed 22 Sept. 2025.
+
+[^ieee]: Greenberg, Andy. "Telegram's Security Flaws Could Make It a Tool for Attackers." *IEEE Spectrum*, 2 Aug. 2024, spectrum.ieee.org/telegram-security.
+
+[^signal]: "Is it private? Can I trust it?" *Signal Support*, Signal Messenger LLC, support.signal.org/hc/en-us/articles/360007320391-Is-it-private-Can-I-trust-it. Accessed 22 Sept. 2025.
+
+[^simplex]: "Simplex: Redefining Privacy with Hard Choices." *Simplex Chat Blog*, 16 May 2024, simplex.chat/blog/20240516-simplex-redefining-privacy-hard-choices.html.
