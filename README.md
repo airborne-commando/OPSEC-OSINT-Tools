@@ -56,7 +56,7 @@ after cloning.
 
 People trust the internet too much. In today’s world, online and offline are practically the same—truth and fiction blur. This README exists to raise awareness. Clone it, fork it, remix it, or even turn it into a [Rentry](https://rentry.co/) page. Spread the knowledge however you like.
 
-Also this guide can help prevent issues such as doxing. The obvious way is to follow [Key-Takeaways](#Key-Takeaways) with a self audit and to reduce the amount of info you have on yourself publicly[^EFF_doxing_tips][^deleteme].
+Also this guide can help prevent issues such as doxing. The obvious way is to follow [Key-Takeaways](#Key-Takeaways) and use [people search tools](#people-search-tools-in-the-states) with a self audit to reduce the amount of info you have on yourself publicly[^EFF_doxing_tips][^deleteme].
 
 Can you predict someone’s behavior with this? not exactly; people are unpredictable at times.
 
@@ -641,6 +641,8 @@ example:
 - [inteltechniques opt out workbook](https://inteltechniques.com/workbook.html)
 
 - [Results about you (google index)](https://myactivity.google.com/results-about-you) - Check what google emails you; actually visit the website and see about doing an opt-out there.
+  
+- [people search tools](#people-search-tools-in-the-states)
 
 ## Toolchain (self-OSINT):
 
