@@ -733,8 +733,6 @@ sources:
 
 [^dojnk]: United States, Department of Justice. "North Korean Regime-Backed Programmer Charged in Conspiracy to Conduct Multiple Cyber-Attacks and Intrusions." *Justice.gov*, https://www.justice.gov/archives/opa/pr/north-korean-regime-backed-programmer-charged-conspiracy-conduct-multiple-cyber-attacks-and. Accessed 22 Sept. 2025.
 
-[^guardian]: Hern, Alex. "Ukraine Uses Facial Recognition to Identify Russian Soldiers." *The Guardian*, 24 Mar. 2022, https://www.theguardian.com/technology/2022/mar/24/ukraine-facial-recognition-identify-russian-soldiers. Accessed 22 Sept. 2025.
-
 [^odni-cia]: "ODNI and CIA Release the Intelligence Community OSINT Strategy for 2024-2026." *Office of the Director of National Intelligence*, 16 July 2024, www.dni.gov/index.php/newsroom/press-releases/press-releases-2024/3784-odni-and-cia-release-the-intelligence-community-osint-strategy-for-2024-2026.
 
 [^dia]: *Open Source Intelligence (OSINT) Strategy*. Defense Intelligence Agency, U.S. Department of Defense, 4 Mar. 2021, www.dia.mil/Portals/110/Documents/OSINT-Strategy.pdf.
@@ -795,3 +793,5 @@ sources:
 [^MNHouse]: "List of 'People Searching' websites." Minnesota House of Representatives, https://www.house.mn.gov/comm/docs/6d27576c-8677-4541-b7c5-7be3a375a72c.pdf. Accessed 23 Sept. 2025.
 
 [^ftcgov]: "What To Know About People Search Sites That Sell Your Information." Federal Trade Commission, https://consumer.ftc.gov/articles/what-know-about-people-search-sites-sell-your-information. Accessed 23 Sept. 2025.
+
+[^guardian]: Hern, Alex. "Ukraine Uses Facial Recognition to Identify Russian Soldiers." The Guardian, 24 Mar. 2022, https://www.theguardian.com/technology/2022/mar/24/ukraine-facial-recognition-identify-russian-soldiers. Archive.ph, https://archive.ph/PGrf0. Accessed 22 Sept. 2025.
