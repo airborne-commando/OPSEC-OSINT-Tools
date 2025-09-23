@@ -20,7 +20,7 @@ This collection provides methodologies, toolkits, real-world examples, and best 
 ### Security Practices
 *   **[OPSEC Toolkit (`opsec.md`)](./opsec.md)** - A comprehensive list of tools and techniques for anonymity, encryption, obfuscation, and physical security.
 *   **[Good OPSEC Practices (`good-opsec.md`)](./good-opsec.md)** - Fundamental security hygiene for everyday personal digital safety.
-*   **[Smoke Screen Operations (`smokescreen-misinfo.md`)](./smokescreen-misinfo.md)** - How to obfuscate activities and mislead adversaries conducting OSINT against you.
+*   **[disinformation (`disinformation.md`)](./disinformation.md)** - How to obfuscate activities and mislead adversaries conducting OSINT against you.
 
 ### Practical Applications & Lessons
 *   **[Real-World Examples (`examples.md`)](./examples.md)** - Case studies showing how OSINT and OPSEC failures played out for criminals, civilians, and law enforcement.
@@ -37,7 +37,7 @@ This repository is built on the principle that effective security (**OPSEC**) an
 
 1.  **Threat Model & Self-Audit:** Identify what to protect and analyze your own exposure.
 2.  **Profile & Gather Intelligence:** Understand your target or adversary using structured INTs.
-3.  **Implement Countermeasures:** Harden your privacy and employ deception (smokescreens).
+3.  **Implement Countermeasures:** Harden your privacy and employ deception (disinformation).
 4.  **Protect & Destroy:** Secure data at rest and ensure its safe disposal.
 5.  **Repeat:** Continuously review and adapt your posture.
 
@@ -55,7 +55,7 @@ The authors assume no liability for any misuse of the information provided in th
 
 This directory so far provides a concise overview of four related guides detailing different perspectives and methodologies for digital profiling and investigation: Threat Actors, Three-Letter Agencies, Private Investigators (PIs), and State Police; mainly scenarios.
 
-## 1. [Threat Actor](./expanded-examples/threat-actor.md) 
+## 1. [Threat Actor](./expanded-examples/threat-actor.md)
 
 This guide outlines the process a malicious individual (threat actor) uses to build a comprehensive digital profile on a target for potentially harmful purposes.
 
@@ -140,7 +140,7 @@ This DIR contains the mermaid data for graphs for markdowns.
 ../markdown/methodology.md
 ../markdown/opsec.md
 ../markdown/physical-destruction.md
-../markdown/smokescreen-misinfo.md
+../markdown/disinformation.md
 ../markdown/expanded-examples/PI.md
 ../markdown/expanded-examples/Three-letter-agencies.md
 ../markdown/expanded-examples/state-police.md
