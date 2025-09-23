@@ -83,7 +83,7 @@ Ross was pardoned[^doj1][^BBC1] in 2025.
 - **General Bad OPSEC Practices**
     - Poor compartmentalization, leaking sensitive info, predictable naming, traceable work hours, and unsecured servers.
 - **Mullvad VPN: Security Contrast**[^nsfpar] [^iugl]
-    - Features: anonymous accounts, strong encryption, no-logs, lockdown mode, DNS blockers, open-source, accepts Monero/cash and is independently audited[^MullvadVPNAudits][^Why Mullvad]. Mullvad collects little user information[^1umd].
+    - Features: anonymous accounts, strong encryption, no-logs, lockdown mode, DNS blockers, open-source, accepts Monero/cash and is independently audited[^MullvadVPNAudits][^WhyMullvad]. Mullvad collects little user information[^1umd].
     - **Caution:** No tool is foolproof; human error remains the weakest link.
 
 
@@ -828,4 +828,4 @@ Mullvad VPN. “No-Logging of User Activity Policy.” Mullvad VPN, Mullvad, mul
 
 [^MullvadVPNAudits]: Mullvad VPN. “Audits.” Mullvad VPN Blog, Mullvad, mullvad.net/en/blog/tag/audits. Accessed 23 Sept. 2025.
 
-[^Why Mullvad]: Mullvad VPN. “Why Mullvad VPN.” Mullvad VPN, Mullvad, mullvad.net/en/why-mullvad-vpn. Accessed 23 Sept. 2025.
+[^WhyMullvad]: Mullvad VPN. “Why Mullvad VPN.” Mullvad VPN, Mullvad, mullvad.net/en/why-mullvad-vpn. Accessed 23 Sept. 2025.
