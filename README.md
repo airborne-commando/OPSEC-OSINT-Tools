@@ -665,7 +665,7 @@ flowchart TD
 
 **Notice** 
 
-[Results about you (google index)](https://myactivity.google.com/results-about-you) can also be emailed so keep that in mind when comparing info I.E.: Google will find websites containing your first-last name and address and will ask to remove it from the index. Before applying the removal process on google search be sure to remove info from the website itself that it's hosted on. Google Dorking seems to be a bit quicker and preemptive on removing info about yourself after you visit said sites (if applicable).
+[Results about you (google index)](https://myactivity.google.com/results-about-you) can also be emailed so keep that in mind when [comparing info](#people-search-tools-in-the-states) I.E.: Google will find websites containing your first-last name and address and will ask to remove it from the index. Before applying the removal process on google search be sure to remove info from the website itself that it's hosted on. Google Dorking seems to be a bit quicker and preemptive on removing info about yourself after you visit said sites (if applicable).
 
 Also with doing google dorks the manual way is that you won't get flagged by google itself as a bot.
 
