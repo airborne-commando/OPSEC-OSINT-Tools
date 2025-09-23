@@ -56,6 +56,8 @@ after cloning.
 
 People trust the internet too much. In today’s world, online and offline are practically the same—truth and fiction blur. This README exists to raise awareness. Clone it, fork it, remix it, or even turn it into a [Rentry](https://rentry.co/) page. Spread the knowledge however you like.
 
+Also this guide can help prevent issues such as doxxing (or is it doxing?). The obvious way is to follow [Key-Takeaways](#Key-Takeaways) and to reduce the amount of info you have on yourself publicly[^EFF_doxing_tips][^deleteme].
+
 Can you predict someone’s behavior with this? not exactly; people are unpredictable at times.
 
 # OSINT/OPSEC Tools
@@ -829,3 +831,5 @@ Mullvad VPN. “No-Logging of User Activity Policy.” Mullvad VPN, Mullvad, mul
 [^MullvadVPNAudits]: Mullvad VPN. “Audits.” Mullvad VPN Blog, Mullvad, mullvad.net/en/blog/tag/audits. Accessed 23 Sept. 2025.
 
 [^WhyMullvad]: Mullvad VPN. “Why Mullvad VPN.” Mullvad VPN, Mullvad, mullvad.net/en/why-mullvad-vpn. Accessed 23 Sept. 2025.
+
+[^EFF_doxing_tips]: Electronic Frontier Foundation. "Doxxing: Tips To Protect Yourself Online & How to Minimize Harm." Electronic Frontier Foundation, 14 Dec. 2020, www.eff.org/deeplinks/2020/12/doxxing-tips-protect-yourself-online-how-minimize-harm. Accessed 23 Sept. 2025.
