@@ -794,4 +794,4 @@ sources:
 
 [^ftcgov]: "What To Know About People Search Sites That Sell Your Information." Federal Trade Commission, https://consumer.ftc.gov/articles/what-know-about-people-search-sites-sell-your-information. Accessed 23 Sept. 2025.
 
-[^guardian]: Hern, Alex. "Ukraine Uses Facial Recognition to Identify Russian Soldiers." The Guardian, 24 Mar. 2022, https://www.theguardian.com/technology/2022/mar/24/ukraine-facial-recognition-identify-russian-soldiers. Archive.ph, https://archive.ph/PGrf0. Accessed 22 Sept. 2025.
+[^guardian]: Hern, Alex. "Ukraine Uses Facial Recognition to Identify Russian Soldiers." The Guardian, 24 Mar. 2022, https://www.theguardian.com/technology/2022/mar/24/ukraine-facial-recognition-identify-russian-soldiers. Archive.ph, https://archive.ph/PGrf0. Accessed 23 Sept. 2025.
