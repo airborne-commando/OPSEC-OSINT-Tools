@@ -14,6 +14,6 @@ Back to the [main guide](../README.md).
 
 source:
 
-[^psu]: "What is Open Source Intelligence (OSINT)?" *GEOINT Mooc*, Penn State College of Earth and Mineral Sciences, www.e-education.psu.edu/geointmooc/node/2016. Accessed 22 Sept. 2025.
+[^psu]: "What is Open Source Intelligence (OSINT)?" *GEOINT Mooc*, Penn State College of Earth and Mineral Sciences, www.e-education.psu.edu/geointmooc/node/2016. Accessed 23 Sept. 2025.
 
-[^azdps]: *Criminal Intelligence Manual for Analysts*. Arizona Department of Public Safety, July 2023, www.azdps.gov/sites/default/files/2023-07/Criminal_Intelligence_Manual_for_Analysts.pdf. Accessed 22 Sept. 2025. P. 12.
+[^azdps]: *Criminal Intelligence Manual for Analysts*. Arizona Department of Public Safety, July 2023, www.azdps.gov/sites/default/files/2023-07/Criminal_Intelligence_Manual_for_Analysts.pdf. Accessed 23 Sept. 2025. P. 12.
