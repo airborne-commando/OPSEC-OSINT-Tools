@@ -36,7 +36,7 @@ Digital profiling and behavioral analysis[^fbi][^pmc] are powerful techniques fo
 
 ## 2. Collect Digital Biographical Information
 
-Start by building a **digital biography**[^usf][^muse] of the subject:
+Start by building a **digital biography**[^usf][^muse][^Veletsianos] of the subject:
 
 - Gather identifiers (usernames, email addresses, phone numbers).
 - Track websites visited, forum posts, social media profiles, and public comments.
@@ -190,3 +190,5 @@ sources:
 [^survivalgear]: "The Art and Impact of Psychological Operations on Civilians." *Survival Gear BSO*, https://www.survivalgear.us/blogs/guides/the-art-and-impact-of-psychological-operations-on-civilians. Accessed 22 Sept. 2025.
 
 [^pmc]: Bada, Maria, and Angela M. Sasse. "Cyber Security Awareness Campaigns: Why Do They Fail to Change Behaviour?" *International Conference on Cyber Security for Sustainable Society*, 2015, pp. 1-10. *PubMed Central*, doi:10.1093/cybsec/tyv007. Accessed 22 Sept. 2025.
+
+[^Veletsianos]: Veletsianos, George. *Understanding your Online Identity: An Overview of Identity*. 2021. University of Arizona, opentextbooks.library.arizona.edu/app/uploads/sites/151/2021/12/Understanding-your-Online-Identity-An-Overview-of-Identity.pdf. Accessed 23 Sept. 2025.
