@@ -135,13 +135,24 @@ It's a security discipline and operations function that involves a continuous cy
 
 **Examples of OPSEC mistakes include:**
 * Over-sharing personal information online
-   * [Chris Chan](https://www.youtube.com/playlist?list=PLABqEYq6H3vpCmsmyUnHnfMOeAnjBdSNm)
-   * [suspectAGB](https://opsecfail.github.io/blog.html?filecase=suspectAGB)
+
+   * Chris Chan: 
+     has a huge digital footprint and was/is easily fooled by trolls online.[^youtube][^businessinsider][^imdb]
+
+   * suspectAGB:
+    Tariq Monteiro, 23, and Siyad Mohamud, 24, were part of a group which targeted Alex Smith over a gang-based feud as he left a restaurant near Euston station on 12 August 2019.
+    
+    The pair fled to Kenya immediately after the incident and were arrested in Nairobi last year.
+    
+    They both refused to appear for their sentencing hearing at the Old Bailey.
+    
+    Monteiro, of no fixed address, was ordered to serve a minimum of 24 years in prison, while Mohamud, of Barker Drive, Camden, will serve at least 23 years.[^opsecfail][^bbc]
 
 * Leaving unused social media online
 * interacting with a target on social media
-   * [w0rmer](https://opsecfail.github.io/blog.html?filecase=w0rmer)
-   * [darknetdiaries](https://darknetdiaries.com/transcript/63/)(article)
+   * w0rmer:
+     His OSF was kinda unbelievably dumb, but maybe at that time it was not well known, the photo you see on this post is the one that led to his OSF, w0rmer took a picture of his girlfriend displaying that message, which had exif data on it, so the feds visited his girlfriend who without hesitation said his bf asked him to take the picture.
+     `I have a way of also inciting anger in people and I think that’s obvious too, in what I was doing.  I was egging everybody on.  But a little backstory on that; so as you can see, all of them are pretty in-your-face and they’re trying to get and investigate or really after me.  I already knew the GPS Exif data was in them and so I had a whole workflow for that.  I had my dirty images and then I would clean them and put them in another file.  When I went to publish that, I went one, two, three, and so, man, I need one more photo.  I grabbed the wrong one, put it in there, and hit tweet.`[^opsecfail_w0rmer][^darknetdiaries]
 
 * [examples of good and bad opsec and some osint.](./markdown/examples.md)
 * Also some expanded [examples](./markdown/expanded-examples/)
@@ -768,3 +779,14 @@ sources:
 [^umd]: "Publicly Available Data." *University of Maryland Libraries Research Guides*, University of Maryland, lib.guides.umd.edu/c.php?g=326980&p=2198795. Accessed 22 Sept. 2025.
 
 [^vt]: "Genealogy." *University Libraries Research Guides*, Virginia Tech, guides.lib.vt.edu/topics/genealogy. Accessed 22 Sept. 2025.
+[^youtube]: *The Comprehensive Chris Chan Documentary*. Created by GenoSamuel2.1, YouTube, www.youtube.com/playlist?list=PLABqEYq6H3vpCmsmyUnHnfMOeAnjBdSNm. Accessed 22 Sept. 2025.
+[^businessinsider]: Tenbarge, Ken. "A Comprehensive Timeline of the Chris Chan Saga, Which Now Includes Incest Charges." *Business Insider*, 2 Aug. 2021, www.businessinsider.com/chris-chan-saga-timeline-incest-charges-arrest-2021-8.
+[^imdb]: "Chris Chan." *IMDb*, Amazon.com, www.imdb.com/name/nm4813395/. Accessed 22 Sept. 2025.
+
+[^opsecfail]: "Operation OPSEC FAIL: Suspect AGB." *OPSEC FAIL Blog*, opsecfail.github.io/blog.html?filecase=suspectAGB. Accessed 22 Sept. 2025.
+
+[^bbc]: "Met Police Officer Admits Being in Neo-Nazi Group." *BBC News*, 17 May 2023, www.bbc.com/news/uk-england-london-65570367.
+
+[^opsecfail_w0rmer]: "Operation OPSEC FAIL: w0rmer." *OPSEC FAIL Blog*, opsecfail.github.io/blog.html?filecase=w0rmer. Accessed 22 Sept. 2025.
+
+[^darknetdiaries]: "Transcript for Episode 63: w0rmer." *Darknet Diaries*, darknetdiaries.com/transcript/63/. Accessed 22 Sept. 2025.
