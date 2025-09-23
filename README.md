@@ -83,7 +83,7 @@ Ross was pardoned[^doj1][^BBC1] in 2025.
 - **General Bad OPSEC Practices**
     - Poor compartmentalization, leaking sensitive info, predictable naming, traceable work hours, and unsecured servers.
 - **Mullvad VPN: Security Contrast**[^nsfpar] [^iugl]
-    - Features: anonymous accounts, strong encryption, no-logs, lockdown mode, DNS blockers, open-source, accepts Monero/cash.
+    - Features: anonymous accounts, strong encryption, no-logs, lockdown mode, DNS blockers, open-source, accepts Monero/cash and is independently audited[^MullvadVPNAudits][^Why Mullvad]. Mullvad collects little user information[^1umd].
     - **Caution:** No tool is foolproof; human error remains the weakest link.
 
 
@@ -821,3 +821,11 @@ sources:
 [^BBC1]: BBC News. "Ross Ulbricht: Silk Road Founder Pardoned by Trump." BBC News, 21 Jan. 2025, https://www.bbc.com/news/articles/cz7e0jve875o. Accessed 23 Sept. 2025.
 
 [^doj1]: United States, Department of Justice. Pardon Warrant for Ross William Ulbricht, signed by President Donald J. Trump, 21 Jan. 2025. U.S. Department of Justice, https://www.justice.gov/pardon/media/1386096/dl?inline. Accessed 23 Sept. 2025.
+
+[^1umd]: Consumer Reports. Consumer Reports’ VPN White Paper. University of Maryland, Fall 2023, www.cs.umd.edu/class/fall2023/cmsc614/papers/consumer-reports-vpn.pdf. Accessed 23 Sept. 2025.
+
+Mullvad VPN. “No-Logging of User Activity Policy.” Mullvad VPN, Mullvad, mullvad.net/en/help/no-logging-data-policy. Accessed 23 Sept. 2025.
+
+[^MullvadVPNAudits]: Mullvad VPN. “Audits.” Mullvad VPN Blog, Mullvad, mullvad.net/en/blog/tag/audits. Accessed 23 Sept. 2025.
+
+[^Why Mullvad]: Mullvad VPN. “Why Mullvad VPN.” Mullvad VPN, Mullvad, mullvad.net/en/why-mullvad-vpn. Accessed 23 Sept. 2025.
