@@ -74,6 +74,8 @@ If you want some quick methodology I suggest you read this [markdown](./markdown
     - Ross Ulbricht[^ulbricht][^fordham] linked to Silk Road by using his real name/email, posting about Tor, and failing to hide server IPs. The laptop was basically seized.[^FBI1]
 `On Oct. 1, 2013, an F.B.I. operation in a public library in San Francisco ended with the arrest of Ross Ulbricht, who was the brain behind Silk Road. One of the breakthroughs made by the federal agents was that they had traced Ulbricht's movements and found out that he was running the Silk Road from his laptop in public places, possibly to use public Wi-Fi networks for added anonymity. The arrest was not a matter of luck but rather a meticulously planned operation to catch Ulbricht logged into Silk Road as its administrator, a critical factor for proving his identity as Dread Pirate Roberts. Using a tricky ploy, two agents performing as a couple faked a quarrel nearby, distracting Ulbricht from his laptop. At that moment, another agent took the open laptop while logged into the Silk Road administrator's panel. This quick action prevented Ulbricht from locking the laptop or triggering security measures that would have encrypted or deleted crucial evidence.`[^plasbit][^Investopedia]
 
+Ross was pardoned[^doj1][^BBC1] in 2025.
+
 - **LulzSec Hacking Group**
     - Members exposed themselves by discussing ops in public IRC[^archives-fbi][^Ackroyd][^purdue][^fbi], revealing personal info, using stolen cards[^archives-fbi1] to home addresses, and trusting informants.<br>
 `Spitler admitted to communicating during the data breach with his co-defendant, Andrew Auernheimer, 25, who was arrested January 18, 2011, in Fayetteville, Ark., while appearing in state court on unrelated drug charges. The two wrote each other during the breach using Internet Relay Chat, an Internet instant messaging program. Those chats included discussions between Spitler, Auernheimer, and other Goatse Security members about the best way to take advantage of the breach and associated theft.`[^archives-fbi]
@@ -815,3 +817,7 @@ sources:
 [^plasbit]: Oliyaee, Ali. "Ross Ulbricht's Laptop: The Heart of the Silk Road." PlasBit Blog, 31 Mar. 2024, www.plasbit.com/blog/ross-ulbricht-laptop. Accessed 23 Sept. 2025.
 
 [^Investopedia]: Reiff, Nathan. "Who Is Ross Ulbricht?" Investopedia, updated 24 Jan. 2025, https://www.investopedia.com/tech/ross-ulbricht-dark-net-pirate/. Accessed 23 Sept. 2025.
+
+[^BBC1]: BBC News. "Ross Ulbricht: Silk Road Founder Pardoned by Trump." BBC News, 21 Jan. 2025, https://www.bbc.com/news/articles/cz7e0jve875o. Accessed 23 Sept. 2025.
+
+[^doj1]: United States, Department of Justice. Pardon Warrant for Ross William Ulbricht, signed by President Donald J. Trump, 21 Jan. 2025. U.S. Department of Justice, https://www.justice.gov/pardon/media/1386096/dl?inline. Accessed 23 Sept. 2025.
