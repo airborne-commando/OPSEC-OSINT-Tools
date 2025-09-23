@@ -5,8 +5,7 @@ CSINT[^psu][^azdps] refers to "Closed-Source Intelligence." It is the process of
 CSINT access is typically regulated legally, requiring court orders, warrants, or special permissions, and it involves a structured process of accessing, collecting, and analyzing this restricted information safely and ethically. It provides insights that are often unavailable through public or open sources, making it valuable in cases like criminal investigations, national security, and corporate fraud. Its use is bound by strict legal and ethical considerations to protect privacy and avoid misuse.
 
 In summary:
-- As intelligence, CSINT means collecting confidential, non-public information with legal authority.
-- As an organization, CSINT is a research center focused on security and innovation in technology.
+- As intelligence, CSINT means collecting confidential, non-public information with legal authority or illegal depending on context such as hacking.
 
 See [HUMINT](HUMINT.md) and [Main Guide/Breached Data](../README.md#breached-data) as examples.
 
