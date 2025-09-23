@@ -23,7 +23,7 @@
 
 # Digital Profiling and Behavioral Analysis Guide
 
-Digital profiling and behavioral analysis are powerful techniques for understanding individuals based on their online activities and digital footprints. While these methods are often used by professionals, you can apply many of the same principles and processes yourself by following a structured approach.
+Digital profiling and behavioral analysis[^fbi][^pmc] are powerful techniques for understanding individuals based on their online activities and digital footprints. While these methods are often used by professionals, you can apply many of the same principles and processes yourself by following a structured approach.
 
 ---
 
@@ -34,9 +34,9 @@ Digital profiling and behavioral analysis are powerful techniques for understand
 
 ---
 
-## 2. Collect Digital Biographical Information [^usf][^muse]
+## 2. Collect Digital Biographical Information
 
-Start by building a **digital biography** of the subject:
+Start by building a **digital biography**[^usf][^muse] of the subject:
 
 - Gather identifiers (usernames, email addresses, phone numbers).
 - Track websites visited, forum posts, social media profiles, and public comments.
@@ -121,9 +121,9 @@ Use a multi-axis profile to evaluate:
 | Iterate                   | Update profile as new data emerges                                     |
 | Ethics                    | Stay within legal and ethical boundaries                               |
 
-## Applying PsyOPS [^survivalgear].
+## Applying PsyOPS.
 
-Applying Psychological Operations in Civilian Life:
+Applying Psychological Operations[^survivalgear] in Civilian Life:
 
 Building Rapport and Influence:
 
@@ -169,7 +169,7 @@ In essence, this mindset places you in a constant state of alert—treating huma
 1. Practice good [OPSEC](opsec.md)
 2. Study [SOCMINT](IMINT.md#socmint-social-intelligence)
 3. Study [HUMINT](HUMINT.md)
-4. Establish a [Smokescreen](smokescreen-misinfo.md)
+4. Establish some [disinformation](disinformation.md)
 5. OSINT yourself as stated in the [Main Guide](../README.md)
 6. set profiles to private. 
 
@@ -188,3 +188,5 @@ sources:
 [^muse]: Arthur, Paul Longley. "Digital Biography: Capturing Lives Online." a/b: Auto/Biography Studies, vol. 24 no. 1, 2009, p. 74-92. Project MUSE, https://muse.jhu.edu/article/394172.
 
 [^survivalgear]: "The Art and Impact of Psychological Operations on Civilians." *Survival Gear BSO*, https://www.survivalgear.us/blogs/guides/the-art-and-impact-of-psychological-operations-on-civilians. Accessed 22 Sept. 2025.
+
+[^pmc]: Bada, Maria, and Angela M. Sasse. "Cyber Security Awareness Campaigns: Why Do They Fail to Change Behaviour?" *International Conference on Cyber Security for Sustainable Society*, 2015, pp. 1-10. *PubMed Central*, doi:10.1093/cybsec/tyv007. Accessed 22 Sept. 2025.

@@ -13,7 +13,7 @@
 5. [key points](#key-points)
 6. [OPSEC](#operations-security-is-a-systematic-process-for) 
    - [How to OPSEC](#how-to-opsec)
-      - [Smoke Screen and misinfo](#Smoke-Screen-and-misinfo) 
+      - [Smoke Screen and disinformation](#Smoke-Screen-and-disinformation) 
 7. [Open Source Intelligence (OSINT)](#open-source-intelligence-osint)
    - [Who uses Open-Source Intelligence (OSINT)?](#who-uses-open-source-intelligence-osint)
    - [Sources of OSINT](#sources-of-osint)
@@ -100,7 +100,7 @@ If you want some quick methodology I suggest you read this [markdown](./markdown
 - **Ethical and Legal Considerations**
     - Only use legally accessible data; respect privacy and avoid harassment.
 - **Defending Against OSINT Profiling**
-    - Practice good OPSEC, use misinformation, audit yourself, and set profiles to private.
+    - Practice good OPSEC, use disinformation, audit yourself, and set profiles to private.
 
 
 ## Real-World OSINT and OPSEC Examples
@@ -121,8 +121,8 @@ If you want some quick methodology I suggest you read this [markdown](./markdown
 These guides collectively highlight the importance of strong operational security, the power and risks of OSINT, and the need for continuous vigilance and ethical conduct in information gathering and online behavior.
 
 ## (Operations Security) is a systematic process for:
-1. Identifying
-2. Protecting and controlling critical information
+1. Identifying[^nist]
+2. Protecting and controlling critical information[^nist][^dol_opsec]
 
 It's a security discipline and operations function that involves a continuous cycle of:
 * Identifying critical information and indicators (CII)
@@ -135,13 +135,18 @@ It's a security discipline and operations function that involves a continuous cy
 
 **Examples of OPSEC mistakes include:**
 * Over-sharing personal information online
-   * [Chris Chan](https://www.youtube.com/playlist?list=PLABqEYq6H3vpCmsmyUnHnfMOeAnjBdSNm)
-   * [suspectAGB](https://opsecfail.github.io/blog.html?filecase=suspectAGB)
+
+   * Chris Chan:<br>
+     has a huge digital footprint and is easily fooled by trolls online.[^youtube][^businessinsider][^imdb]
+
+   * suspectAGB:<br>
+`Tariq Monteiro, 23, and Siyad Mohamud, 24, were part of a group which targeted Alex Smith over a gang-based feud as he left a restaurant near Euston station on 12 August 2019.The pair fled to Kenya immediately after the incident and were arrested in Nairobi last year.They both refused to appear for their sentencing hearing at the Old Bailey. Monteiro, of no fixed address, was ordered to serve a minimum of 24 years in prison, while Mohamud, of Barker Drive, Camden, will serve at least 23 years.`Shared a kitchen photo.[^opsecfail][^bbc]
 
 * Leaving unused social media online
 * interacting with a target on social media
-   * [w0rmer](https://opsecfail.github.io/blog.html?filecase=w0rmer)
-   * [darknetdiaries](https://darknetdiaries.com/transcript/63/)(article)
+   * w0rmer:<br>
+     w0rmer took a picture of his girlfriend, which had exif data on it, so the feds visited his girlfriend who without hesitation said his bf asked him to take the picture.
+     `I have a way of also inciting anger in people and I think that’s obvious too, in what I was doing. I was egging everybody on. But a little backstory on that; so as you can see, all of them are pretty in-your-face and they’re trying to get and investigate or really after me.I already knew the GPS Exif data was in them and so I had a whole workflow for that. I had my dirty images and then I would clean them and put them in another file. When I went to publish that, I went one, two, three, and so, man, I need one more photo. I grabbed the wrong one, put it in there, and hit tweet.`[^opsecfail_w0rmer][^darknetdiaries]
 
 * [examples of good and bad opsec and some osint.](./markdown/examples.md)
 * Also some expanded [examples](./markdown/expanded-examples/)
@@ -173,9 +178,9 @@ OPSEC supplements other security disciplines rather than replacing them.
 
 ### **Key Takeaways**
 1. **Messaging**:  
-   - **Signal** OR **Simplex** > **Telegram** for privacy.  
+   - **Signal** OR **Simplex** > **Telegram** for privacy.[^ieee][^signal][^simplex]
 
-   - Remember: E2E ≠ total anonymity (metadata leaks/habits matter).
+   - Remember: E2E ≠ total anonymity (metadata leaks/habits matter)[^opsecfail_w0rmer][^darknetdiaries][^youtube][^opsecfail].
 
 
 2. **Anonymity**:  
@@ -198,7 +203,7 @@ OPSEC supplements other security disciplines rather than replacing them.
 By TOR I mean Tor Browser, VPN as in Virtual Private Network, and by Virtual Private Network I mean by Virtual Private Network Service - IE: Mullvad (though it can be other types of VPN's out there as long as it's safe to use and vetted by privacy experts). XMR is Monero Coin or Monero for short, a Privacy Coin.
 
 Check Wikipedia If you're confused on all of these here:
-1. VPN service, what we're gonna use here.[^watechvpn] [^njcybervpn]
+1. VPN service, what we're gonna use here.[^watechvpn][^njcybervpn]
 2. TOR, What should be used separately.[^cisa][^nyutor][^cia]
 3. XMR, for VPN's that take XMR as payment [^monero]
 
@@ -209,13 +214,13 @@ Check Wikipedia If you're confused on all of these here:
 ---
 
 ### **Pro Tips**
-- **Monero Mining**: Run a local node to avoid centralized exchanges tracing purchases. [^arxiv]
+- **Monero Mining**: Run a local node to avoid centralized exchanges tracing purchases.[^arxiv]
 
 For full tool details, see the **[OPSEC Tools List](./markdown/opsec.md)**.
 
-## Smoke Screen and misinfo [^misinformation] [^pmc]
+## Smoke Screen and disinformation
 
-A smoke screen operation in the context of OSINT (Open Source Intelligence) refers to deliberate actions taken to obscure, mislead, or mask the true activities, intentions, or identities of individuals or organizations from those conducting open-source intelligence gathering. The term is borrowed from military tactics, where a smoke screen is used to conceal movements or positions from enemy observation. In cyber and intelligence contexts, the concept is adapted to digital and informational environments. You may read more [here](./markdown/smokescreen-misinfo.md).
+A smoke screen operation in the context of OSINT (Open Source Intelligence) refers to deliberate actions taken to obscure, mislead, or mask the true activities, intentions, or identities of individuals or organizations from those conducting open-source intelligence gathering. The term is borrowed from military tactics, where a smoke screen is used to conceal movements or positions from enemy observation. In cyber and intelligence contexts, the concept is adapted to digital and informational environments. You may read more [here](./markdown/disinformation.md).[^misinformation] [^pmc]
 
 ## Open Source Intelligence (OSINT)
 
@@ -237,33 +242,33 @@ A smoke screen operation in the context of OSINT (Open Source Intelligence) refe
 
 - National Security and Intelligence Agencies, Law Enforcement, Businesses, Cybersecurity and Cyber-crime Groups, Privacy-Conscious People, Non-Governmental Organizations
 
-  - The CIA, Defense Intelligence Agency (DIA), and Office of the Director of National Intelligence (ODNI) all use OSINT.
-  - OSINT can protect citizens (private or otherwise) from identity theft, sexual violence, and abuse.
-  - OSINT can monitor competitors, investigate new markets, and plan marketing activities.
+  - The CIA[^odni-cia], Defense Intelligence Agency (DIA)[^dia], and Office of the Director of National Intelligence (ODNI) all use OSINT[^odni].
+  - OSINT can protect citizens (private or otherwise) from identity theft, sexual violence, and abuse.[^fbi_behavioral][^bellingcat_sgbv]
+  - OSINT can monitor competitors, investigate new markets, and plan marketing activities.[^sba]
   - OSINT can gather intelligence about specific targets online.
-  - OSINT can check how outsiders can break into their computing devices.
-  - OSINT can be used on oneself to secure privacy.
-  - Bellingcat, the Center for Information Resilience, and Oryx use OSINT.
+  - OSINT can check how outsiders can break into their computing devices.[^ibm]
+  - OSINT can be used on oneself to secure privacy.[^deleteme]
+  - Bellingcat and the Center for Information Resilience use OSINT.[^infores][^bellingcat_toolkit]
   - And you! Yes, you can use OSINT.
 
 ## Sources of OSINT
 OSINT can gather information from various sources, including:
-- [Public government data](https://www.opendatasoft.com/en/glossary/public-data/)
+- Public government data
 
-  - Public data refers to all information made freely available by government bodies or local collectivities. This data is in the public domain. It is different to open data, which is a subset of public data. Open data is structured and well-maintained data that is therefore easier to understand, access and consume. By contrast public data can be difficult to find, or (in the case of public bodies), require the submission of a Freedom of Information Act to retrieve it.
+  - Public data is data that can be used, reused, or redistributed. Government entities at all levels (municipal, state, federal, and international) produce large amounts of public data. Typically this data is accessible without restrictions. There may be instances where terms of use must be agreed to or approval must be granted before accessing datasets, such as health or education data.[^unt]
 
 Such can include for example [casesearch](https://ujsportal.pacourts.us/casesearch) in Pennsylvania Courts; landlord, criminal, civil et al should have an address as that's public govt info. 
 
 A Parcel search for [tax history](https://public.eriecountypa.gov/property-tax-records/property-records/property-tax-search/search-by-parcel.aspx).
 
-An offical [Justice site](https://www.justice.gov/jmd/ls/state) listing all states and their Local Courts. Case search should be in State Judiciary, also for other information such as tax records and property records.
+An official [Justice site](https://www.justice.gov/jmd/ls/state) listing all states and their Local Courts. Case search should be in State Judiciary, also for other information such as tax records and property records.
 
 - [Professional and academic publications](https://www.lawinsider.com/dictionary/academic-publication)
 
   - Academic Publication means the publication of an abstract, article or paper in a journal or electronic repository, or its presentation at a conference or seminar.
 
 
-- [Commercial data](https://www.lawinsider.com/dictionary/commercial-data)
+- Commercial data[^lawinsider]
 
   - Commercial Data means any and all data and information relating to an identified or identifiable Person (whether the information is accurate or not), alone or in combination with other information, which Person is or was an actual or prospective customer of, or consumer of products offered by, the VS Business or L Brands Business, as applicable.
 
@@ -271,13 +276,13 @@ An offical [Justice site](https://www.justice.gov/jmd/ls/state) listing all stat
 
   - Commercial Data means any and all data collected or otherwise processed by the Seller Entities relating to a customer of the Business.
 
-- [Grey literature](https://browse.welch.jhmi.edu/c.php?g=1195274)
-
+- Grey literature[^welch]
+  
   - Grey literature is "Information produced on all levels of government, academics, business and industry in electronic and print formats not controlled by commercial publishing i.e. where publishing is not the primary activity of the producing body."
   
   - Grey literature can be useful for your research, but finding resources requires different tactics than you'd use for commercially published materials. This is because many types of grey literature are not indexed in some of the more common research tools like PubMed, CINAHL, Scopus, etc.
 
-- genealogical
+- genealogical[^vt][^umd]
 
    - Genealogy: Using family history research and genealogy databases as an intelligence-gathering tool.
    - Death records: Gathering intelligence from records such as death notices, obituaries, gravestone databases, and burial registries.
@@ -318,16 +323,16 @@ These operators are not used unless you include them in your query—Google’s 
 
 ### Real world examples of OSINT
 
-## In the year 2016, a basket weaving image board used OSINT to pay some supposed terrorist a visit from a govt in Russia resulting in airstrikes.[^pezle][^hnthread]
+## In the year 2016, a basket weaving image board used OSINT to pay some supposed terrorist a visit from a govt in Russia resulting in airstrikes.
 
-  - In 2016, during the complex Syrian Civil War, various rebel groups—some with good intentions and others with nefarious motives—sought to overthrow President Assad. The chaos allowed terrorist groups to flourish, prompting intervention from the United States and Russia, with the former supporting rebels and the latter aiding Assad. An anonymous user on 4chan's Syria General board (SG) claimed that a Syrian rebel group, Jaysh al-Izza, posted a video on YouTube revealing their secret encampment. The group, linked to Al-Qaeda, was seen by 4chan users as a target. A notable 4chan user, Ivan Sirenko, who had connections with the Russian military, received the coordinates from the 4chan community and tweeted them to the Russian Ministry of Defense. This led to an airstrike on the encampment. Two months later, the same rebel group posted another video showing a new training camp. 4chan users once again pinpointed the location using landmarks seen in the video. After thorough verification, they sent the coordinates to Ivan, who facilitated another Russian airstrike.
+  - In 2016, during the complex Syrian Civil War, various rebel groups—some with good intentions and others with nefarious motives—sought to overthrow President Assad. The chaos allowed terrorist groups to flourish, prompting intervention from the United States and Russia, with the former supporting rebels and the latter aiding Assad. An anonymous user on 4chan's Syria General board (SG) claimed that a Syrian rebel group, Jaysh al-Izza, posted a video on YouTube revealing their secret encampment. The group, linked to Al-Qaeda, was seen by 4chan users as a target. A notable 4chan user, Ivan Sirenko, who had connections with the Russian military, received the coordinates from the 4chan community and tweeted them to the Russian Ministry of Defense. This led to an airstrike on the encampment. Two months later, the same rebel group posted another video showing a new training camp. 4chan users once again pinpointed the location using landmarks seen in the video. After thorough verification, they sent the coordinates to Ivan, who facilitated another Russian airstrike.[^pezle][^hnthread]
 
 UPDATE: Turns out it was a really complex war [^cbsnews] the 4chan got involved in, still keeping this up as a key example however; the main issue is that they exposed their training locations with geographic locations to the internet like complete morons.
 Thus bad opsec.
 
-## In 2017, Shia LaBeouf had a protest due to Trumps election; this resulted in a basket weaving image board using OSINT and [sky patterns to figure out where a flag is[^vice4chan].
+## In 2017, Shia LaBeouf had a protest due to Trumps election; this resulted in a basket weaving image board using OSINT and [sky patterns to figure out where a flag is.
 
-- In 2017, 4chan users managed to track down and replace Shia LaBeouf's "He Will Not Divide Us" protest flag. Using only the live-stream footage of the flag, they analyzed flight patterns, star positions, and a tweet to locate the flag in Greeneville, Tennessee. A local troll then honked his car horn until the sound was picked up on the live-stream, pinpointing the exact location. The flag was replaced with a Trump hat, marking the end of this elaborate trolling operation.
+- In 2017, 4chan users managed to track down and replace Shia LaBeouf's "He Will Not Divide Us" protest flag. Using only the live-stream footage of the flag, they analyzed flight patterns, star positions, and a tweet to locate the flag in Greeneville, Tennessee. A local troll then honked his car horn until the sound was picked up on the live-stream, pinpointing the exact location. The flag was replaced with a Trump hat, marking the end of this elaborate trolling operation.[^vice4chan]
 
 ## Digital profiling (OSINT profiling).
 
@@ -341,8 +346,6 @@ Read more inside this readme on [Digital Profiling](./markdown/Digital-Profiling
 
 **HUMINT can be collected overtly (e.g., interviews, debriefings, diplomatic reporting) or covertly (e.g., espionage, clandestine surveillance).**
 
-**Buying from databrokers can be closed sourced if the info isn't freely available IF not cross referenced VIA the [Curated Lists](#curated-lists) OR the [Toolchain](#toolchain-self-osint) for self OSINT**
-
 [Breached Data](#breached-data)
 
 > And remember, closed sourced info can change depending on context. If it came from social media then it's considered open source as it's already out there. If it's from a closed source document like let's say a USB drive then consider it closed source.
@@ -351,10 +354,10 @@ See also **[CSINT](./markdown/CSINT.md)**
 
 # IMINT
 
-[IMINT](./markdown/IMINT.md)(Image Intelligence) involves collecting and analyzing visual imagery—satellite, aerial, drone, or ground photos—to extract useful information.
+[IMINT](./markdown/IMINT.md)(Image Intelligence) involves collecting and analyzing visual imagery—satellite, aerial, drone, or ground photos—to extract useful information.[^odni_intel][^odni][^govinfo]
 Contains information such as [SOCMINT](./markdown/IMINT.md#socmint-social-intelligence) and [Reverse Search](./markdown/IMINT.md#reverse-search-google).
 
-GEOINT is information on geographic locations. Geospatial data may also be called GEOINT data. It's to understand human activity or events and to layer that with data along with geolocations and timing. It has non-military uses as well, example would be for first responders issuing an emergency for a wildfire.
+GEOINT[^odni_intel][^odni][^govinfo] is information on geographic locations. Geospatial data may also be called GEOINT data. It's to understand human activity or events and to layer that with data along with geolocations and timing. It has non-military uses as well, example would be for first responders issuing an emergency for a wildfire[^nctc].
 
 Three examples of GEOINT tools that you can access right now:
 - [Earth](https://earth.google.com/web/)
@@ -675,21 +678,21 @@ If you find this useful feel free to donate to this monero address:
 
 sources:
 
+[^odni_intel]: "What is Intelligence?" *Office of the Director of National Intelligence*, www.dni.gov/index.php/what-we-do/what-is-intelligence. Accessed 22 Sept. 2025.
+
+[^odni]: Office of the Director of National Intelligence. "Intelligence Community." *ODNI*, https://www.odni.gov/index.php/ncsc-what-we-do/121-dni/intelligence-community. Accessed 22 Sept. 2025.
+
 [^nsfpar]: National Science Foundation. *NSF Public Access Repository*. https://par.nsf.gov/servlets/purl/10100952. Accessed 22 Sept. 2025.
 
-
 [^iugl]: Indiana University Libraries. "Digital Privacy: Digital Privacy Practices." *Indiana University*, https://guides.libraries.indiana.edu/c.php?g=1325689&p=9771453. Accessed 22 Sept. 2025.
-
 
 [^doj]: United States, Department of Justice. "Grand Jury Indicts 12 Russian Intelligence Officers for Hacking Offenses Related to 2016 Election." *Justice.gov*, https://www.justice.gov/archives/opa/pr/grand-jury-indicts-12-russian-intelligence-officers-hacking-offenses-related-2016-election. Accessed 22 Sept. 2025.
 
 [^dhsfoia]: U.S. Department of Homeland Security, Privacy Office. *Freedom of Information Act (FOIA) Activity for the Week of March 31, 2025 to June 30, 2025* [PDF]. 31 March 2025. https://www.dhs.gov/sites/default/files/2025-07/25_0731_PRIV_Chief_FOIA_Officers_Weekly_Report_March_31_25_to_June_30_25.pdf. Accessed 22 Sept. 2025.
 
-
 [^ulbricht]: United States, Department of Justice. "Ross Ulbricht, A/K/A “Dread Pirate Roberts,” Sentenced In Manhattan Federal Court To Life In Prison." *Justice.gov*, 29 May 2015, https://www.justice.gov/usao-sdny/pr/ross-ulbricht-aka-dread-pirate-roberts-sentenced-manhattan-federal-court-life-prison. Accessed 22 Sept. 2025.
 
 [^vice4chan]: Lamoureux Mack. "How 4Chan's Worst Trolls Pulled Off the Heist of the Century." *VICE*, https://www.vice.com/en/article/4chan-does-first-good-thing-pulls-off-the-heist-of-the-century1/. Accessed 22 Sept. 2025.
-
 
 [^hnthread]: User chasd00 et al. "Discussion on Imgur Image Links and Redirect Solutions." *Hacker News*, 8 Dec. 2022, https://news.ycombinator.com/item?id=33913443. Accessed 22 Sept. 2025.
 
@@ -699,7 +702,6 @@ sources:
 
 [^njcybervpn]: New Jersey Cybersecurity and Communications Integration Cell. "Virtual Private Networks." *Cyber NJ*, https://www.cyber.nj.gov/guidance-and-best-practices/wi-fi-network-security/virtual-private-networks. Accessed 22 Sept. 2025.
 
-
 [^nyutor]: New York University, Interactive Telecommunications Program. "Demystifying the Dark Web: An Introduction to Tor and Onion Routing." *ITP*, https://itp.nyu.edu/networks/explanations/demystifying-the-dark-web-an-introduction-to-tor-and-onion-routing/. Accessed 22 Sept. 2025.
 
 [^cisa]: Cybersecurity and Infrastructure Security Agency. "AA20-183A: Virtual Private Network (VPN) Security." *CISA*, https://www.cisa.gov/news-events/cybersecurity-advisories/aa20-183a. Accessed 22 Sept. 2025.
@@ -708,14 +710,11 @@ sources:
 
 [^monero]: Canul, Mario, and Saxon Knight. *Introduction to Monero and How It’s Different*. University of Hawai’i at Mānoa, Jan. 2019. https://maui.hawaii.edu/wp-content/uploads/sites/13/2019/01/Monero.pdf. Accessed 22 Sept. 2025.
 
-
 [^arxiv]: Ren, Huan, et al. "On the Exploration of Reinforcement Learning Agents with Curiosity." *arXiv*, Cornell University, 24 Aug. 2018, arxiv.org/abs/1808.00811. Accessed 22 Sept. 2025.
-
 
 [^misinformation]: "Misinformation and Disinformation." *CSI Library, College of Staten Island (CUNY)*, City University of New York, library.csi.cuny.edu/misinformation. Accessed 22 Sept. 2025.
 
 [^pmc]: Ghenai, Amira, and Yelena Mejova. "Catching Fire: Identifying Propaganda on Social Media in the Context of the Russia-Ukraine War." *PLOS ONE*, vol. 17, no. 2, Feb. 2022, p. e0263421. *PubMed Central*, doi:10.1371/journal.pone.0263421. Accessed 22 Sept. 2025.
-
 
 [^Yoni]: Solomon, Yoni. In a clever LinkedIn post, Yoni shares a simple but effective method for identifying fake profiles. *LinkedIn*, 17 June 2024, www.linkedin.com/posts/forensicosint_in-a-clever-linkedin-post-yoni-shares-activity-7359045935919755266-JdTX.
 
@@ -727,7 +726,6 @@ sources:
 
 [^doj-15]: "Harvard Student Charged with Making Hoax Bomb Threat." *United States Department of Justice*, U.S. Attorney's Office, District of Massachusetts, 22 Apr. 2015, www.justice.gov/usao-ma/pr/harvard-student-charged-making-hoax-bomb-threat.
 
-
 [^hrwcam]: Human Rights Watch. "Cameroon: Soldiers Get 10 Years for Murder of Civilians." *Human Rights Watch*, 23 Sept. 2020, https://www.hrw.org/news/2020/09/23/cameroon-soldiers-get-10-years-murder-civilians. Accessed 22 Sept. 2025.
 
 [^police1]: Burley, Brandon. "Thinking Like a Criminal: How OSINT Can Take Your Investigations Further." *Police1*, https://www.police1.com/investigations/thinking-like-a-criminal-how-osint-can-take-your-investigations-further. Accessed 22 Sept. 2025.
@@ -737,3 +735,60 @@ sources:
 [^dojnk]: United States, Department of Justice. "North Korean Regime-Backed Programmer Charged in Conspiracy to Conduct Multiple Cyber-Attacks and Intrusions." *Justice.gov*, https://www.justice.gov/archives/opa/pr/north-korean-regime-backed-programmer-charged-conspiracy-conduct-multiple-cyber-attacks-and. Accessed 22 Sept. 2025.
 
 [^guardian]: Hern, Alex. "Ukraine Uses Facial Recognition to Identify Russian Soldiers." *The Guardian*, 24 Mar. 2022, https://www.theguardian.com/technology/2022/mar/24/ukraine-facial-recognition-identify-russian-soldiers. Accessed 22 Sept. 2025.
+
+[^odni-cia]: "ODNI and CIA Release the Intelligence Community OSINT Strategy for 2024-2026." *Office of the Director of National Intelligence*, 16 July 2024, www.dni.gov/index.php/newsroom/press-releases/press-releases-2024/3784-odni-and-cia-release-the-intelligence-community-osint-strategy-for-2024-2026.
+
+[^dia]: *Open Source Intelligence (OSINT) Strategy*. Defense Intelligence Agency, U.S. Department of Defense, 4 Mar. 2021, www.dia.mil/Portals/110/Documents/OSINT-Strategy.pdf.
+
+[^govinfo]: *U.S. Intelligence Community 21 (IC21): Intelligence Community in the 21st Century*. U.S. Government Publishing Office, 1996, www.govinfo.gov/content/pkg/GPO-IC21/html/GPO-IC21-6.html. Accessed 22 Sept. 2025.
+
+[^nctc]: *Intelligence Guide*. National Counterterrorism Center, Office of the Director of National Intelligence, www.dni.gov/nctc/jcat/jcat_ctguide/intel_guide.html. Accessed 22 Sept. 2025.
+
+[^ieee]: Greenberg, Andy. "Telegram's Security Flaws Could Make It a Tool for Attackers." *IEEE Spectrum*, 2 Aug. 2024, spectrum.ieee.org/telegram-security.
+
+[^signal]: "Is it private? Can I trust it?" *Signal Support*, Signal Messenger LLC, support.signal.org/hc/en-us/articles/360007320391-Is-it-private-Can-I-trust-it. Accessed 22 Sept. 2025.
+
+[^simplex]: "Simplex: Redefining Privacy with Hard Choices." *Simplex Chat Blog*, 16 May 2024, simplex.chat/blog/20240516-simplex-redefining-privacy-hard-choices.html.
+
+[^nist]: "Operations Security (OPSEC)." *Computer Security Resource Center Glossary*, National Institute of Standards and Technology (NIST), U.S. Department of Commerce, csrc.nist.gov/glossary/term/operations_security. Accessed 22 Sept. 2025.
+
+[^dol_opsec]: "Operations Security (OPSEC)." *U.S. Department of Labor*, www.dol.gov/agencies/oasam/centers-offices/emergency-management-center/operations-security. Accessed 22 Sept. 2025.
+
+
+[^unt]: "Public Data Sources." *UNT Libraries Research Guides*, University of North Texas Libraries, guides.library.unt.edu/datasets/public-data-sources. Accessed 22 Sept. 2025.
+
+[^lawinsider]: "Commercial Data Definition." *Law Insider*, lawinsider.com/dictionary/commercial-data. Accessed 22 Sept. 2025.
+
+[^welch]: "Publicly Available Data & Statistics." *Welch Medical Library Guides*, Johns Hopkins University, browse.welch.jhmi.edu/c.php?g=1195274. Accessed 22 Sept. 2025.
+
+[^umd]: "Publicly Available Data." *University of Maryland Libraries Research Guides*, University of Maryland, lib.guides.umd.edu/c.php?g=326980&p=2198795. Accessed 22 Sept. 2025.
+
+[^vt]: "Genealogy." *University Libraries Research Guides*, Virginia Tech, guides.lib.vt.edu/topics/genealogy. Accessed 22 Sept. 2025.
+
+[^youtube]: *The Comprehensive Chris Chan Documentary*. Created by GenoSamuel2.1, YouTube, www.youtube.com/playlist?list=PLABqEYq6H3vpCmsmyUnHnfMOeAnjBdSNm. Accessed 22 Sept. 2025.
+
+[^businessinsider]: Tenbarge, Ken. "A Comprehensive Timeline of the Chris Chan Saga, Which Now Includes Incest Charges." *Business Insider*, 2 Aug. 2021, www.businessinsider.com/chris-chan-saga-timeline-incest-charges-arrest-2021-8.
+
+[^imdb]: "Chris Chan." *IMDb*, Amazon.com, www.imdb.com/name/nm4813395/. Accessed 22 Sept. 2025.
+
+[^opsecfail]: "Operation OPSEC FAIL: Suspect AGB." *OPSEC FAIL Blog*, opsecfail.github.io/blog.html?filecase=suspectAGB. Accessed 22 Sept. 2025.
+
+[^bbc]: "Met Police Officer Admits Being in Neo-Nazi Group." *BBC News*, 17 May 2023, www.bbc.com/news/uk-england-london-65570367.
+
+[^opsecfail_w0rmer]: "Operation OPSEC FAIL: w0rmer." *OPSEC FAIL Blog*, opsecfail.github.io/blog.html?filecase=w0rmer. Accessed 22 Sept. 2025.
+
+[^darknetdiaries]: "Transcript for Episode 63: w0rmer." *Darknet Diaries*, darknetdiaries.com/transcript/63/. Accessed 22 Sept. 2025.
+
+[^infores]: "OSINT 101: What is Open-Source Intelligence (OSINT)?" *Info Res*, 17 Jan. 2024, www.info-res.org/afghan-witness/articles/osint-101-what-is-open-source-intelligence-osint/.
+
+[^bellingcat_toolkit]: "Bellingcat Online Investigations Toolkit." *Bellingcat*, 24 Sept. 2024, www.bellingcat.com/resources/2024/09/24/bellingcat-online-investigations-toolkit/.
+
+[^ibm]: "What is Penetration Testing?" *IBM*, www.ibm.com/think/topics/penetration-testing. Accessed 22 Sept. 2025.
+
+[^deleteme]: "A Guide to Doxxing Yourself on the Internet." *DeleteMe*, Joindeleteme.com, joindeleteme.com/doxxing/a-guide-to-doxxing-yourself-on-the-internet/. Accessed 22 Sept. 2025. 
+
+[^sba]: "Market Research and Competitive Analysis." *U.S. Small Business Administration*, www.sba.gov/business-guide/plan-your-business/market-research-competitive-analysis. Accessed 22 Sept. 2025.
+
+[^fbi_behavioral]: Federal Bureau of Investigation. "Behavioral Analysis." *FBI*, 12 Apr. 2023, https://www.fbi.gov/how-we-investigate/behavioral-analysis. Accessed 22 Sept. 2025.
+
+[^bellingcat_sgbv]: "Sexual and Gender-Based Violence Open Source Research (OSINT) Digital." *Bellingcat*, 3 Mar. 2023, www.bellingcat.com/resources/2023/03/03/sexual-and-gender-based-violence-open-source-researche-osint-digital/.

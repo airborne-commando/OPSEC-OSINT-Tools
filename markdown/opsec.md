@@ -320,9 +320,9 @@ After that is done, I delete the convo for both but keep private notes for both 
 
 For SSD's I'd recommend using LUK's or a container as securely erasing in traditional means is basically useless if you want to format the entire drive.[^sciencedirect]
 
-# Physical Security[^tfd] in OPSEC
+# Physical Security in OPSEC
 
-**Physical security** is a core component of Operations Security (OPSEC) and refers to the measures taken to protect personnel, equipment, facilities, and information from physical threats such as unauthorized access, theft, vandalism, espionage, sabotage, terrorism, and natural disasters. In the context of OPSEC, physical security is about preventing adversaries from gaining physical access to sensitive information or critical infrastructure that could be exploited.
+**Physical security**[^tfd] is a core component of Operations Security (OPSEC) and refers to the measures taken to protect personnel, equipment, facilities, and information from physical threats such as unauthorized access, theft, vandalism, espionage, sabotage, terrorism, and natural disasters. In the context of OPSEC, physical security is about preventing adversaries from gaining physical access to sensitive information or critical infrastructure that could be exploited.
 
 Physical security typically involves a layered approach, often called "security-in-depth," which integrates multiple active and passive controls such as:
 

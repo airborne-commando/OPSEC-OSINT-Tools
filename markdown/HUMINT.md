@@ -119,7 +119,7 @@ HUMINT isn't limited to espionage—it appears in many civilian and professional
 
 | Pros                                | Cons                                            |
 | ----------------------------------- | ----------------------------------------------- |
-| Early warnings and hidden leads     | [Unverified and easily manipulated](smokescreen-misinfo.md)               |
+| Early warnings and hidden leads     | [Unverified and easily manipulated](disinformation.md)               |
 | Gauges public sentiment             | May waste resources or damage credibility       |
 
 ### HUMINT (Human Intelligence)
@@ -133,7 +133,7 @@ HUMINT isn't limited to espionage—it appears in many civilian and professional
 
 | Intelligence Type | Pros                                        | Cons                                                  |
 | ----------------- | ------------------------------------------- | ----------------------------------------------------- |
-| RUMINT            | Early warnings, new leads, public sentiment | Unverified, unreliable, risk of [disinformation](smokescreen-misinfo.md)        |
+| RUMINT            | Early warnings, new leads, public sentiment | Unverified, unreliable, risk of [disinformation](disinformation.md)        |
 | HUMINT            | In-depth, contextual, adaptable             | Source-dependent, risk of deception, operational risk |
 
 ---
