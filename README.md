@@ -145,8 +145,8 @@ It's a security discipline and operations function that involves a continuous cy
 * Leaving unused social media online
 * interacting with a target on social media
    * w0rmer:<br>
-     w0rmer took a picture of his girlfriend, which had exif data on it, so the feds visited his girlfriend who without hesitation said his bf asked him to take the picture.
-     `I have a way of also inciting anger in people and I think that’s obvious too, in what I was doing. I was egging everybody on. But a little backstory on that; so as you can see, all of them are pretty in-your-face and they’re trying to get and investigate or really after me.I already knew the GPS Exif data was in them and so I had a whole workflow for that. I had my dirty images and then I would clean them and put them in another file. When I went to publish that, I went one, two, three, and so, man, I need one more photo. I grabbed the wrong one, put it in there, and hit tweet.`[^opsecfail_w0rmer][^darknetdiaries]
+     w0rmer took a picture of his girlfriend, which had exif data on it, so the feds visited his girlfriend who without hesitation said his bf asked him to take the picture.[^opsecfail_w0rmer]
+     `I have a way of also inciting anger in people and I think that’s obvious too, in what I was doing. I was egging everybody on. But a little backstory on that; so as you can see, all of them are pretty in-your-face and they’re trying to get and investigate or really after me.I already knew the GPS Exif data was in them and so I had a whole workflow for that. I had my dirty images and then I would clean them and put them in another file. When I went to publish that, I went one, two, three, and so, man, I need one more photo. I grabbed the wrong one, put it in there, and hit tweet.`[^darknetdiaries]
 
 * [examples of good and bad opsec and some osint.](./markdown/examples.md)
 * Also some expanded [examples](./markdown/expanded-examples/)
