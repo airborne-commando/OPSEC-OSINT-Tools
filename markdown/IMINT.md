@@ -70,7 +70,7 @@ Reverse image search tools like **Google Image Search** and **Google Lens** enab
 
 ### What You Cannot Do
 - **Reverse search people:** Not designed for facial recognition or identifying individuals.
-- If you wanted to reverse search people, please use this tool for [facecheck.id](https://github.com/vin3110/facecheck.id-results-extractor).
+- If you wanted to reverse search people, please use this tool for [facecheck.id](https://github.com/vin3110/facecheck.id-results-extractor).[^osint45][^osint_aug23][^osint_apr23]
 
 ### Extra Tips
 - On mobile browsers, request the desktop site for full features.
@@ -214,3 +214,10 @@ sources:
 [^dol]: "Youth." *U.S. Department of Labor*, Employment and Training Administration, 2000, www.dol.gov/sites/dolgov/files/ETA/advisories/TEIN/2000/youth.htm. Accessed 22 Sept. 2025.
 
 [^govinfo]: *U.S. Intelligence Community 21 (IC21): Intelligence Community in the 21st Century*. U.S. Government Publishing Office, 1996, www.govinfo.gov/content/pkg/GPO-IC21/html/GPO-IC21-6.html. Accessed 22 Sept. 2025.
+
+[^osint45]: "45." *The OSINT Newsletter*, 19 July 2023. *archive.ph*, archive.ph/7koNk. Accessed 22 Sept. 2025.
+
+
+[^osint_aug23]: "The OSINT Newsletter: August 2023." *The OSINT Newsletter*, 30 Aug. 2023. *archive.ph*, archive.ph/dZdBA. Accessed 22 Sept. 2025.
+
+[^osint_apr23]: "April OSINT 2023." *The OSINT Newsletter*, 28 Apr. 2023. *archive.ph*, archive.ph/BPW3U. Accessed 22 Sept. 2025.
