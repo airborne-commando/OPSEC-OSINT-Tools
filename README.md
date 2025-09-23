@@ -288,8 +288,7 @@ An official [Justice site](https://www.justice.gov/jmd/ls/state) listing all sta
    - Death records: Gathering intelligence from records such as death notices, obituaries, gravestone databases, and burial registries.
    - Obituary: Systematically using obituaries to collect personal and relational data for investigations. (news papers or local news sites) 
 
-- people search aggregators[^MNHouse], typically used in the united states. can give you information on someone such as an email, home address, date of birth, etc.
-
+- people search aggregators[^MNHouse][^ftcgov], typically used in the united states. can give you information on someone such as an email, home address, date of birth, etc.
 
 - Google Dorks:
 
@@ -794,3 +793,5 @@ sources:
 [^bellingcat_sgbv]: "Sexual and Gender-Based Violence Open Source Research (OSINT) Digital." *Bellingcat*, 3 Mar. 2023, www.bellingcat.com/resources/2023/03/03/sexual-and-gender-based-violence-open-source-researche-osint-digital/.
 
 [^MNHouse]: "List of 'People Searching' websites." Minnesota House of Representatives, https://www.house.mn.gov/comm/docs/6d27576c-8677-4541-b7c5-7be3a375a72c.pdf. Accessed 23 Sept. 2025.
+
+[^ftcgov]: "What To Know About People Search Sites That Sell Your Information." Federal Trade Commission, https://consumer.ftc.gov/articles/what-know-about-people-search-sites-sell-your-information. Accessed 23 Sept. 2025.
