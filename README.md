@@ -288,7 +288,7 @@ An official [Justice site](https://www.justice.gov/jmd/ls/state) listing all sta
    - Death records: Gathering intelligence from records such as death notices, obituaries, gravestone databases, and burial registries.
    - Obituary: Systematically using obituaries to collect personal and relational data for investigations. (news papers or local news sites) 
 
-- people search aggregators, typically used in the united states. can give you information on someone such as an email, home address, date of birth, etc.
+- people search aggregators[^MNHouse], typically used in the united states. can give you information on someone such as an email, home address, date of birth, etc.
 
 
 - Google Dorks:
@@ -792,3 +792,5 @@ sources:
 [^fbi_behavioral]: Federal Bureau of Investigation. "Behavioral Analysis." *FBI*, 12 Apr. 2023, https://www.fbi.gov/how-we-investigate/behavioral-analysis. Accessed 22 Sept. 2025.
 
 [^bellingcat_sgbv]: "Sexual and Gender-Based Violence Open Source Research (OSINT) Digital." *Bellingcat*, 3 Mar. 2023, www.bellingcat.com/resources/2023/03/03/sexual-and-gender-based-violence-open-source-researche-osint-digital/.
+
+[^MNHouse]: "List of 'People Searching' websites." Minnesota House of Representatives, https://www.house.mn.gov/comm/docs/6d27576c-8677-4541-b7c5-7be3a375a72c.pdf. Accessed 23 Sept. 2025.
