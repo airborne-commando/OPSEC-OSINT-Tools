@@ -203,9 +203,9 @@ OPSEC supplements other security disciplines rather than replacing them.
 By TOR I mean Tor Browser, VPN as in Virtual Private Network, and by Virtual Private Network I mean by Virtual Private Network Service - IE: Mullvad (though it can be other types of VPN's out there as long as it's safe to use and vetted by privacy experts). XMR is Monero Coin or Monero for short, a Privacy Coin.
 
 Check Wikipedia If you're confused on all of these here:
-1. VPN service, what we're gonna use here.[^watechvpn][^njcybervpn]
-2. TOR, What should be used separately.[^cisa][^nyutor][^cia]
-3. XMR, for VPN's that take XMR as payment [^monero]
+1. VPN service[^watechvpn][^njcybervpn], what we're gonna use here.
+2. TOR[^cisa][^nyutor][^cia], What should be used separately.
+3. XMR[^monero], for VPN's that take XMR[^monero] as payment.
 
 
 
@@ -243,12 +243,12 @@ Disinformation[^misinformation][^pmc] in the context of OSINT (Open Source Intel
 - National Security and Intelligence Agencies, Law Enforcement, Businesses, Cybersecurity and Cyber-crime Groups, Privacy-Conscious People, Non-Governmental Organizations
 
   - The CIA[^odni-cia], Defense Intelligence Agency (DIA)[^dia], and Office of the Director of National Intelligence (ODNI) all use OSINT[^odni].
-  - OSINT can protect citizens (private or otherwise) from identity theft, sexual violence, and abuse.[^fbi_behavioral][^bellingcat_sgbv]
-  - OSINT can monitor competitors, investigate new markets, and plan marketing activities.[^sba]
+  - OSINT can protect citizens (private or otherwise) from identity theft, sexual violence[^bellingcat_sgbv][^fbi_behavioral], and abuse[^fbi_behavioral][^bellingcat_sgbv].
+  - OSINT can monitor competitors[^sba], investigate new markets[^sba], and plan marketing activities[^sba].
   - OSINT can gather intelligence about specific targets online.
   - OSINT can check how outsiders can break into their computing devices.[^ibm]
   - OSINT can be used on oneself to secure privacy.[^deleteme]
-  - Bellingcat and the Center for Information Resilience use OSINT.[^infores][^bellingcat_toolkit]
+  - Bellingcat[^bellingcat_toolkit] and the Center for Information Resilience[^infores] use OSINT.
   - And you! Yes, you can use OSINT.
 
 ## Sources of OSINT
