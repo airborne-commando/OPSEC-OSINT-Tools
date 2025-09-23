@@ -146,7 +146,7 @@ It's a security discipline and operations function that involves a continuous cy
 * interacting with a target on social media
    * w0rmer:<br>
      w0rmer took a picture of his girlfriend, which had exif data on it, so the feds visited his girlfriend who without hesitation said his bf asked him to take the picture.
-     `I have a way of also inciting anger in people and I think that’s obvious too, in what I was doing.  I was egging everybody on.  But a little backstory on that; so as you can see, all of them are pretty in-your-face and they’re trying to get and investigate or really after me.  I already knew the GPS Exif data was in them and so I had a whole workflow for that.  I had my dirty images and then I would clean them and put them in another file.  When I went to publish that, I went one, two, three, and so, man, I need one more photo.  I grabbed the wrong one, put it in there, and hit tweet.`[^opsecfail_w0rmer][^darknetdiaries]
+     `I have a way of also inciting anger in people and I think that’s obvious too, in what I was doing. I was egging everybody on. But a little backstory on that; so as you can see, all of them are pretty in-your-face and they’re trying to get and investigate or really after me.I already knew the GPS Exif data was in them and so I had a whole workflow for that. I had my dirty images and then I would clean them and put them in another file. When I went to publish that, I went one, two, three, and so, man, I need one more photo. I grabbed the wrong one, put it in there, and hit tweet.`[^opsecfail_w0rmer][^darknetdiaries]
 
 * [examples of good and bad opsec and some osint.](./markdown/examples.md)
 * Also some expanded [examples](./markdown/expanded-examples/)
@@ -180,7 +180,7 @@ OPSEC supplements other security disciplines rather than replacing them.
 1. **Messaging**:  
    - **Signal** OR **Simplex** > **Telegram** for privacy.[^ieee][^signal][^simplex]
 
-   - Remember: E2E ≠ total anonymity (metadata leaks/habits matter).
+   - Remember: E2E ≠ total anonymity (metadata leaks/habits matter)[^opsecfail_w0rmer][^darknetdiaries][^youtube][^opsecfail].
 
 
 2. **Anonymity**:  
@@ -246,9 +246,9 @@ A smoke screen operation in the context of OSINT (Open Source Intelligence) refe
   - OSINT can protect citizens (private or otherwise) from identity theft, sexual violence, and abuse.
   - OSINT can monitor competitors, investigate new markets, and plan marketing activities.
   - OSINT can gather intelligence about specific targets online.
-  - OSINT can check how outsiders can break into their computing devices.
-  - OSINT can be used on oneself to secure privacy.
-  - Bellingcat, the Center for Information Resilience, and Oryx use OSINT.
+  - OSINT can check how outsiders can break into their computing devices.[^ibm]
+  - OSINT can be used on oneself to secure privacy.[^deleteme]
+  - Bellingcat and the Center for Information Resilience use OSINT.[^infores][^bellingcat_toolkit]
   - And you! Yes, you can use OSINT.
 
 ## Sources of OSINT
@@ -684,19 +684,15 @@ sources:
 
 [^nsfpar]: National Science Foundation. *NSF Public Access Repository*. https://par.nsf.gov/servlets/purl/10100952. Accessed 22 Sept. 2025.
 
-
 [^iugl]: Indiana University Libraries. "Digital Privacy: Digital Privacy Practices." *Indiana University*, https://guides.libraries.indiana.edu/c.php?g=1325689&p=9771453. Accessed 22 Sept. 2025.
-
 
 [^doj]: United States, Department of Justice. "Grand Jury Indicts 12 Russian Intelligence Officers for Hacking Offenses Related to 2016 Election." *Justice.gov*, https://www.justice.gov/archives/opa/pr/grand-jury-indicts-12-russian-intelligence-officers-hacking-offenses-related-2016-election. Accessed 22 Sept. 2025.
 
 [^dhsfoia]: U.S. Department of Homeland Security, Privacy Office. *Freedom of Information Act (FOIA) Activity for the Week of March 31, 2025 to June 30, 2025* [PDF]. 31 March 2025. https://www.dhs.gov/sites/default/files/2025-07/25_0731_PRIV_Chief_FOIA_Officers_Weekly_Report_March_31_25_to_June_30_25.pdf. Accessed 22 Sept. 2025.
 
-
 [^ulbricht]: United States, Department of Justice. "Ross Ulbricht, A/K/A “Dread Pirate Roberts,” Sentenced In Manhattan Federal Court To Life In Prison." *Justice.gov*, 29 May 2015, https://www.justice.gov/usao-sdny/pr/ross-ulbricht-aka-dread-pirate-roberts-sentenced-manhattan-federal-court-life-prison. Accessed 22 Sept. 2025.
 
 [^vice4chan]: Lamoureux Mack. "How 4Chan's Worst Trolls Pulled Off the Heist of the Century." *VICE*, https://www.vice.com/en/article/4chan-does-first-good-thing-pulls-off-the-heist-of-the-century1/. Accessed 22 Sept. 2025.
-
 
 [^hnthread]: User chasd00 et al. "Discussion on Imgur Image Links and Redirect Solutions." *Hacker News*, 8 Dec. 2022, https://news.ycombinator.com/item?id=33913443. Accessed 22 Sept. 2025.
 
@@ -706,7 +702,6 @@ sources:
 
 [^njcybervpn]: New Jersey Cybersecurity and Communications Integration Cell. "Virtual Private Networks." *Cyber NJ*, https://www.cyber.nj.gov/guidance-and-best-practices/wi-fi-network-security/virtual-private-networks. Accessed 22 Sept. 2025.
 
-
 [^nyutor]: New York University, Interactive Telecommunications Program. "Demystifying the Dark Web: An Introduction to Tor and Onion Routing." *ITP*, https://itp.nyu.edu/networks/explanations/demystifying-the-dark-web-an-introduction-to-tor-and-onion-routing/. Accessed 22 Sept. 2025.
 
 [^cisa]: Cybersecurity and Infrastructure Security Agency. "AA20-183A: Virtual Private Network (VPN) Security." *CISA*, https://www.cisa.gov/news-events/cybersecurity-advisories/aa20-183a. Accessed 22 Sept. 2025.
@@ -715,14 +710,11 @@ sources:
 
 [^monero]: Canul, Mario, and Saxon Knight. *Introduction to Monero and How It’s Different*. University of Hawai’i at Mānoa, Jan. 2019. https://maui.hawaii.edu/wp-content/uploads/sites/13/2019/01/Monero.pdf. Accessed 22 Sept. 2025.
 
-
 [^arxiv]: Ren, Huan, et al. "On the Exploration of Reinforcement Learning Agents with Curiosity." *arXiv*, Cornell University, 24 Aug. 2018, arxiv.org/abs/1808.00811. Accessed 22 Sept. 2025.
-
 
 [^misinformation]: "Misinformation and Disinformation." *CSI Library, College of Staten Island (CUNY)*, City University of New York, library.csi.cuny.edu/misinformation. Accessed 22 Sept. 2025.
 
 [^pmc]: Ghenai, Amira, and Yelena Mejova. "Catching Fire: Identifying Propaganda on Social Media in the Context of the Russia-Ukraine War." *PLOS ONE*, vol. 17, no. 2, Feb. 2022, p. e0263421. *PubMed Central*, doi:10.1371/journal.pone.0263421. Accessed 22 Sept. 2025.
-
 
 [^Yoni]: Solomon, Yoni. In a clever LinkedIn post, Yoni shares a simple but effective method for identifying fake profiles. *LinkedIn*, 17 June 2024, www.linkedin.com/posts/forensicosint_in-a-clever-linkedin-post-yoni-shares-activity-7359045935919755266-JdTX.
 
@@ -733,7 +725,6 @@ sources:
 [^purdue]: "Hacktivism: The Short Life of LulzSec." *Purdue Cybersecurity Blog*, Purdue University, 15 Mar. 2023, cyber.tap.purdue.edu/blog/articles/hacktivism-the-short-life-of-lulzsec/.
 
 [^doj-15]: "Harvard Student Charged with Making Hoax Bomb Threat." *United States Department of Justice*, U.S. Attorney's Office, District of Massachusetts, 22 Apr. 2015, www.justice.gov/usao-ma/pr/harvard-student-charged-making-hoax-bomb-threat.
-
 
 [^hrwcam]: Human Rights Watch. "Cameroon: Soldiers Get 10 Years for Murder of Civilians." *Human Rights Watch*, 23 Sept. 2020, https://www.hrw.org/news/2020/09/23/cameroon-soldiers-get-10-years-murder-civilians. Accessed 22 Sept. 2025.
 
@@ -773,8 +764,11 @@ sources:
 [^umd]: "Publicly Available Data." *University of Maryland Libraries Research Guides*, University of Maryland, lib.guides.umd.edu/c.php?g=326980&p=2198795. Accessed 22 Sept. 2025.
 
 [^vt]: "Genealogy." *University Libraries Research Guides*, Virginia Tech, guides.lib.vt.edu/topics/genealogy. Accessed 22 Sept. 2025.
+
 [^youtube]: *The Comprehensive Chris Chan Documentary*. Created by GenoSamuel2.1, YouTube, www.youtube.com/playlist?list=PLABqEYq6H3vpCmsmyUnHnfMOeAnjBdSNm. Accessed 22 Sept. 2025.
+
 [^businessinsider]: Tenbarge, Ken. "A Comprehensive Timeline of the Chris Chan Saga, Which Now Includes Incest Charges." *Business Insider*, 2 Aug. 2021, www.businessinsider.com/chris-chan-saga-timeline-incest-charges-arrest-2021-8.
+
 [^imdb]: "Chris Chan." *IMDb*, Amazon.com, www.imdb.com/name/nm4813395/. Accessed 22 Sept. 2025.
 
 [^opsecfail]: "Operation OPSEC FAIL: Suspect AGB." *OPSEC FAIL Blog*, opsecfail.github.io/blog.html?filecase=suspectAGB. Accessed 22 Sept. 2025.
@@ -784,3 +778,11 @@ sources:
 [^opsecfail_w0rmer]: "Operation OPSEC FAIL: w0rmer." *OPSEC FAIL Blog*, opsecfail.github.io/blog.html?filecase=w0rmer. Accessed 22 Sept. 2025.
 
 [^darknetdiaries]: "Transcript for Episode 63: w0rmer." *Darknet Diaries*, darknetdiaries.com/transcript/63/. Accessed 22 Sept. 2025.
+
+[^infores]: "OSINT 101: What is Open-Source Intelligence (OSINT)?" *Info Res*, 17 Jan. 2024, www.info-res.org/afghan-witness/articles/osint-101-what-is-open-source-intelligence-osint/.
+
+[^bellingcat_toolkit]: "Bellingcat Online Investigations Toolkit." *Bellingcat*, 24 Sept. 2024, www.bellingcat.com/resources/2024/09/24/bellingcat-online-investigations-toolkit/.
+
+[^ibm]: "What is Penetration Testing?" *IBM*, www.ibm.com/think/topics/penetration-testing. Accessed 22 Sept. 2025.
+
+[^deleteme]: "A Guide to Doxxing Yourself on the Internet." *DeleteMe*, Joindeleteme.com, joindeleteme.com/doxxing/a-guide-to-doxxing-yourself-on-the-internet/. Accessed 22 Sept. 2025. 
