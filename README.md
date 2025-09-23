@@ -56,7 +56,7 @@ after cloning.
 
 People trust the internet too much. In today’s world, online and offline are practically the same—truth and fiction blur. This README exists to raise awareness. Clone it, fork it, remix it, or even turn it into a [Rentry](https://rentry.co/) page. Spread the knowledge however you like.
 
-Also this guide can help prevent issues such as doxing. The obvious way is to follow [Key-Takeaways](#Key-Takeaways) and to reduce the amount of info you have on yourself publicly[^EFF_doxing_tips][^deleteme].
+Also this guide can help prevent issues such as doxing. The obvious way is to follow [Key-Takeaways](#Key-Takeaways) with a self audit and to reduce the amount of info you have on yourself publicly[^EFF_doxing_tips][^deleteme].
 
 Can you predict someone’s behavior with this? not exactly; people are unpredictable at times.
 
