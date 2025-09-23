@@ -38,7 +38,7 @@ A list of methodologies or a systematic approach. Everything will be found in th
    Example: Old breached email reused across accounts → high risk.
 
 4. **Develop Countermeasures**  
-   - Use anonymization, encryption, compartmentalization, and **smokescreens**.
+   - Use anonymization, encryption, compartmentalization, and **disinfo**.
 
 ➡️ **Cycle**: *Identify → Analyze → Assess → Protect → Re-evaluate*  
 *(Classic OPSEC process).*
@@ -59,7 +59,7 @@ A list of methodologies or a systematic approach. Everything will be found in th
 
 ***
 
-### **Phase 3. Profiling Others (Digital Profiling Cycle)**  
+### **Phase 3. Profiling Others (Digital Profiling Cycle)**
 📍 *Goal: OSINT workflow for targets, investigations, or red-teaming.*
 
 1. **Collect Digital Biography**  
@@ -87,7 +87,7 @@ A list of methodologies or a systematic approach. Everything will be found in th
 
 ***
 
-### **Phase 4. Counter-OSINT (Defensive Playbook)**  
+### **Phase 4. Counter-OSINT (Defensive Playbook)**
 📍 *Goal: Reduce footprint & mislead hostile collectors.*
 
 1. **Compartmentalization**  
@@ -98,7 +98,7 @@ A list of methodologies or a systematic approach. Everything will be found in th
    - Lock down social media privacy.  
    - Opt-out of brokers via [Big Ass List](README.md#curated-lists) / IntelTechniques workbook.
 
-3. **Smokescreen Ops**  
+3. **disinfo Ops**  
    - Flood decoy identities.  
    - Redirect investigators with misinformation.  
    - Create false ties (dummy handles, meaningless patterns).
@@ -112,7 +112,7 @@ A list of methodologies or a systematic approach. Everything will be found in th
 
 ***
 
-### **Phase 5. Physical & Data Protection**  
+### **Phase 5. Physical & Data Protection**
 📍 *Goal: Eliminate vulnerabilities in hardware, files, and physical space.*
 
 1. **Physical Security**  
@@ -186,7 +186,7 @@ From [HUMINT.md](HUMINT.md):
 5. **Ethical Considerations** - Respect privacy boundaries and legal constraints.
 
 ### Counter-OSINT Methodology
-From [smokescreen-misinfo.md](smokescreen-misinfo.md):
+From [disinformation.md](disinformation.md):
 
 1. **Information Overload** - Flood open sources with irrelevant or misleading information.
 

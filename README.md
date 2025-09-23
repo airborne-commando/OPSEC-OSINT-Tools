@@ -13,7 +13,7 @@
 5. [key points](#key-points)
 6. [OPSEC](#operations-security-is-a-systematic-process-for) 
    - [How to OPSEC](#how-to-opsec)
-      - [Smoke Screen and misinfo](#Smoke-Screen-and-misinfo) 
+      - [Smoke Screen and disinformation](#Smoke-Screen-and-disinformation) 
 7. [Open Source Intelligence (OSINT)](#open-source-intelligence-osint)
    - [Who uses Open-Source Intelligence (OSINT)?](#who-uses-open-source-intelligence-osint)
    - [Sources of OSINT](#sources-of-osint)
@@ -100,7 +100,7 @@ If you want some quick methodology I suggest you read this [markdown](./markdown
 - **Ethical and Legal Considerations**
     - Only use legally accessible data; respect privacy and avoid harassment.
 - **Defending Against OSINT Profiling**
-    - Practice good OPSEC, use misinformation, audit yourself, and set profiles to private.
+    - Practice good OPSEC, use disinformation, audit yourself, and set profiles to private.
 
 
 ## Real-World OSINT and OPSEC Examples
@@ -218,9 +218,9 @@ Check Wikipedia If you're confused on all of these here:
 
 For full tool details, see the **[OPSEC Tools List](./markdown/opsec.md)**.
 
-## Smoke Screen and misinfo [^misinformation] [^pmc]
+## Smoke Screen and disinformation [^misinformation] [^pmc]
 
-A smoke screen operation in the context of OSINT (Open Source Intelligence) refers to deliberate actions taken to obscure, mislead, or mask the true activities, intentions, or identities of individuals or organizations from those conducting open-source intelligence gathering. The term is borrowed from military tactics, where a smoke screen is used to conceal movements or positions from enemy observation. In cyber and intelligence contexts, the concept is adapted to digital and informational environments. You may read more [here](./markdown/smokescreen-misinfo.md).
+A smoke screen operation in the context of OSINT (Open Source Intelligence) refers to deliberate actions taken to obscure, mislead, or mask the true activities, intentions, or identities of individuals or organizations from those conducting open-source intelligence gathering. The term is borrowed from military tactics, where a smoke screen is used to conceal movements or positions from enemy observation. In cyber and intelligence contexts, the concept is adapted to digital and informational environments. You may read more [here](./markdown/disinformation.md).
 
 ## Open Source Intelligence (OSINT)
 
