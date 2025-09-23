@@ -243,8 +243,8 @@ A smoke screen operation in the context of OSINT (Open Source Intelligence) refe
 - National Security and Intelligence Agencies, Law Enforcement, Businesses, Cybersecurity and Cyber-crime Groups, Privacy-Conscious People, Non-Governmental Organizations
 
   - The CIA[^odni-cia], Defense Intelligence Agency (DIA)[^dia], and Office of the Director of National Intelligence (ODNI) all use OSINT[^odni].
-  - OSINT can protect citizens (private or otherwise) from identity theft, sexual violence, and abuse.
-  - OSINT can monitor competitors, investigate new markets, and plan marketing activities.
+  - OSINT can protect citizens (private or otherwise) from identity theft, sexual violence, and abuse.[^fbi_behavioral][^bellingcat_sgbv]
+  - OSINT can monitor competitors, investigate new markets, and plan marketing activities.[^sba]
   - OSINT can gather intelligence about specific targets online.
   - OSINT can check how outsiders can break into their computing devices.[^ibm]
   - OSINT can be used on oneself to secure privacy.[^deleteme]
@@ -786,3 +786,9 @@ sources:
 [^ibm]: "What is Penetration Testing?" *IBM*, www.ibm.com/think/topics/penetration-testing. Accessed 22 Sept. 2025.
 
 [^deleteme]: "A Guide to Doxxing Yourself on the Internet." *DeleteMe*, Joindeleteme.com, joindeleteme.com/doxxing/a-guide-to-doxxing-yourself-on-the-internet/. Accessed 22 Sept. 2025. 
+
+[^sba]: "Market Research and Competitive Analysis." *U.S. Small Business Administration*, www.sba.gov/business-guide/plan-your-business/market-research-competitive-analysis. Accessed 22 Sept. 2025.
+
+[^fbi_behavioral]: Federal Bureau of Investigation. "Behavioral Analysis." *FBI*, 12 Apr. 2023, https://www.fbi.gov/how-we-investigate/behavioral-analysis. Accessed 22 Sept. 2025.
+
+[^bellingcat_sgbv]: "Sexual and Gender-Based Violence Open Source Research (OSINT) Digital." *Bellingcat*, 3 Mar. 2023, www.bellingcat.com/resources/2023/03/03/sexual-and-gender-based-violence-open-source-researche-osint-digital/.
