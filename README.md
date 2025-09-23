@@ -218,9 +218,9 @@ Check Wikipedia If you're confused on all of these here:
 
 For full tool details, see the **[OPSEC Tools List](./markdown/opsec.md)**.
 
-## Smoke Screen and disinformation [^misinformation] [^pmc]
+## Smoke Screen and disinformation
 
-A smoke screen operation in the context of OSINT (Open Source Intelligence) refers to deliberate actions taken to obscure, mislead, or mask the true activities, intentions, or identities of individuals or organizations from those conducting open-source intelligence gathering. The term is borrowed from military tactics, where a smoke screen is used to conceal movements or positions from enemy observation. In cyber and intelligence contexts, the concept is adapted to digital and informational environments. You may read more [here](./markdown/disinformation.md).
+A smoke screen operation in the context of OSINT (Open Source Intelligence) refers to deliberate actions taken to obscure, mislead, or mask the true activities, intentions, or identities of individuals or organizations from those conducting open-source intelligence gathering. The term is borrowed from military tactics, where a smoke screen is used to conceal movements or positions from enemy observation. In cyber and intelligence contexts, the concept is adapted to digital and informational environments. You may read more [here](./markdown/disinformation.md).[^misinformation] [^pmc]
 
 ## Open Source Intelligence (OSINT)
 
