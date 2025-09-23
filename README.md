@@ -71,7 +71,9 @@ If you want some quick methodology I suggest you read this [markdown](./markdown
 - **School Bomb Threats**
     - Harvard’s Eldo Kim[^doj-15] identified for using Tor on school network as the only user and admitting guilt.
 - **Silk Road Case**
-    - Ross Ulbricht[^ulbricht][^fordham] linked to Silk Road by using his real name/email, posting about Tor, and failing to hide server IPs.
+    - Ross Ulbricht[^ulbricht][^fordham] linked to Silk Road by using his real name/email, posting about Tor, and failing to hide server IPs. The laptop was basically seized.[^FBI1]
+`On Oct. 1, 2013, an F.B.I. operation in a public library in San Francisco ended with the arrest of Ross Ulbricht, who was the brain behind Silk Road. One of the breakthroughs made by the federal agents was that they had traced Ulbricht's movements and found out that he was running the Silk Road from his laptop in public places, possibly to use public Wi-Fi networks for added anonymity. The arrest was not a matter of luck but rather a meticulously planned operation to catch Ulbricht logged into Silk Road as its administrator, a critical factor for proving his identity as Dread Pirate Roberts. Using a tricky ploy, two agents performing as a couple faked a quarrel nearby, distracting Ulbricht from his laptop. At that moment, another agent took the open laptop while logged into the Silk Road administrator's panel. This quick action prevented Ulbricht from locking the laptop or triggering security measures that would have encrypted or deleted crucial evidence.`[^plasbit][^Investopedia]
+
 - **LulzSec Hacking Group**
     - Members exposed themselves by discussing ops in public IRC[^archives-fbi][^Ackroyd][^purdue][^fbi], revealing personal info, using stolen cards[^archives-fbi1] to home addresses, and trusting informants.<br>
 `Spitler admitted to communicating during the data breach with his co-defendant, Andrew Auernheimer, 25, who was arrested January 18, 2011, in Fayetteville, Ark., while appearing in state court on unrelated drug charges. The two wrote each other during the breach using Internet Relay Chat, an Internet instant messaging program. Those chats included discussions between Spitler, Auernheimer, and other Goatse Security members about the best way to take advantage of the breach and associated theft.`[^archives-fbi]
@@ -807,3 +809,9 @@ sources:
 [^Ackroyd]: "Ackroyd et al. Indictment." U.S. Department of Justice, Southern District of New York, https://www.justice.gov/archive/usao/nys/pressreleases/March12/hackers/ackroydetalindictment.pdf. Accessed 23 Sept. 2025.
 
 [^fordham]: Adler, David. "Silk Road: The Dark Side of Cryptocurrency." Fordham Journal of Corporate and Financial Law, 21 Feb. 2018, news.law.fordham.edu/jcfl/2018/02/21/silk-road-the-dark-side-of-cryptocurrency/. Accessed 23 Sept. 2025.
+
+[^FBI1]: FBI. "Ross William Ulbricht's Laptop." FBI History: Artifacts, Federal Bureau of Investigation, www.fbi.gov/history/artifacts/ross-william-ulbrichts-laptop. Accessed 23 Sept. 2025.
+
+[^plasbit]: Oliyaee, Ali. "Ross Ulbricht's Laptop: The Heart of the Silk Road." PlasBit Blog, 31 Mar. 2024, www.plasbit.com/blog/ross-ulbricht-laptop. Accessed 23 Sept. 2025.
+
+[^Investopedia]: Reiff, Nathan. "Who Is Ross Ulbricht?" Investopedia, updated 24 Jan. 2025, https://www.investopedia.com/tech/ross-ulbricht-dark-net-pirate/. Accessed 23 Sept. 2025.
