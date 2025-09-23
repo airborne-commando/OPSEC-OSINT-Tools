@@ -142,4 +142,4 @@ HUMINT isn't limited to espionage—it appears in many civilian and professional
 
 > It is also good to remember that loose lips sink ships.
 
-[^encyclopedia]: "HUMINT (Human Intelligence)." *Encyclopedia.com*, 2025, www.encyclopedia.com/politics/encyclopedias-almanacs-transcripts-and-maps/humint-human-intelligence. Accessed 22 Sept. 2025.
+[^encyclopedia]: "HUMINT (Human Intelligence) ." Encyclopedia of Espionage, Intelligence, and Security. . Encyclopedia.com. 2 Sep. 2025 <https://www.encyclopedia.com>. Accessed 23 Sept. 2025.
