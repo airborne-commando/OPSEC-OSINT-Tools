@@ -11,7 +11,7 @@
 
 # HUMINT Overview
 
-**HUMINT (Human Intelligence)** refers to intelligence gathered through direct human interaction, such as interviews, observation, and interpersonal communication. Unlike technical intelligence (e.g., [SIGINT](https://www.emsopedia.org/entries/signal-intelligence-sigint/) or [IMINT](https://www.emsopedia.org/entries/image-intelligence-imint/)), HUMINT relies on people as both sources and collectors of information.
+**HUMINT (Human Intelligence)** refers to intelligence gathered through direct human interaction, such as interviews, observation, and interpersonal communication. Unlike technical intelligence (e.g., [SIGINT](https://www.emsopedia.org/entries/signal-intelligence-sigint/) or [IMINT](https://www.emsopedia.org/entries/image-intelligence-imint/)), HUMINT is decidedly low-tech. It is a matter, ultimately, of personal interaction, and practitioners of HUMINT are "spies" in the purest sense of the word. The more closely an operative functions in the community, the more his or her information comes from word of mouth, and the more he or she is practicing true HUMINT.[^encyclopedia]
 
 ## What is HUMINT?
 
@@ -141,3 +141,5 @@ HUMINT isn't limited to espionage—it appears in many civilian and professional
 > HUMINT is a critical component of both professional intelligence operations and everyday information gathering. It emphasizes the power of direct human engagement in understanding environments, people, and events.
 
 > It is also good to remember that loose lips sink ships.
+
+[^encyclopedia]: "HUMINT (Human Intelligence)." *Encyclopedia.com*, 2025, www.encyclopedia.com/politics/encyclopedias-almanacs-transcripts-and-maps/humint-human-intelligence. Accessed 22 Sept. 2025.
