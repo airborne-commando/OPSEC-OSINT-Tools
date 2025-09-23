@@ -6,7 +6,6 @@ CSINT access is typically regulated legally, requiring court orders, warrants, o
 
 In summary:
 - As intelligence, CSINT means collecting confidential, non-public information with legal authority.
-- As an organization, CSINT is a research center focused on security and innovation in technology.
 
 See [HUMINT](HUMINT.md) and [Main Guide/Breached Data](../README.md#breached-data) as examples.
 
