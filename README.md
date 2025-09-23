@@ -121,8 +121,8 @@ If you want some quick methodology I suggest you read this [markdown](./markdown
 These guides collectively highlight the importance of strong operational security, the power and risks of OSINT, and the need for continuous vigilance and ethical conduct in information gathering and online behavior.
 
 ## (Operations Security) is a systematic process for:
-1. Identifying
-2. Protecting and controlling critical information
+1. Identifying[^nist]
+2. Protecting and controlling critical information[^nist][^dol_opsec]
 
 It's a security discipline and operations function that involves a continuous cycle of:
 * Identifying critical information and indicators (CII)
@@ -248,22 +248,22 @@ A smoke screen operation in the context of OSINT (Open Source Intelligence) refe
 
 ## Sources of OSINT
 OSINT can gather information from various sources, including:
-- [Public government data](https://www.opendatasoft.com/en/glossary/public-data/)
+- Public government data
 
-  - Public data refers to all information made freely available by government bodies or local collectivities. This data is in the public domain. It is different to open data, which is a subset of public data. Open data is structured and well-maintained data that is therefore easier to understand, access and consume. By contrast public data can be difficult to find, or (in the case of public bodies), require the submission of a Freedom of Information Act to retrieve it.
+  - Public data is data that can be used, reused, or redistributed. Government entities at all levels (municipal, state, federal, and international) produce large amounts of public data. Typically this data is accessible without restrictions. There may be instances where terms of use must be agreed to or approval must be granted before accessing datasets, such as health or education data.[^unt]
 
 Such can include for example [casesearch](https://ujsportal.pacourts.us/casesearch) in Pennsylvania Courts; landlord, criminal, civil et al should have an address as that's public govt info. 
 
 A Parcel search for [tax history](https://public.eriecountypa.gov/property-tax-records/property-records/property-tax-search/search-by-parcel.aspx).
 
-An offical [Justice site](https://www.justice.gov/jmd/ls/state) listing all states and their Local Courts. Case search should be in State Judiciary, also for other information such as tax records and property records.
+An official [Justice site](https://www.justice.gov/jmd/ls/state) listing all states and their Local Courts. Case search should be in State Judiciary, also for other information such as tax records and property records.
 
 - [Professional and academic publications](https://www.lawinsider.com/dictionary/academic-publication)
 
   - Academic Publication means the publication of an abstract, article or paper in a journal or electronic repository, or its presentation at a conference or seminar.
 
 
-- [Commercial data](https://www.lawinsider.com/dictionary/commercial-data)
+- Commercial data[^lawinsider]
 
   - Commercial Data means any and all data and information relating to an identified or identifiable Person (whether the information is accurate or not), alone or in combination with other information, which Person is or was an actual or prospective customer of, or consumer of products offered by, the VS Business or L Brands Business, as applicable.
 
@@ -271,13 +271,13 @@ An offical [Justice site](https://www.justice.gov/jmd/ls/state) listing all stat
 
   - Commercial Data means any and all data collected or otherwise processed by the Seller Entities relating to a customer of the Business.
 
-- [Grey literature](https://browse.welch.jhmi.edu/c.php?g=1195274)
-
+- Grey literature[^welch]
+  
   - Grey literature is "Information produced on all levels of government, academics, business and industry in electronic and print formats not controlled by commercial publishing i.e. where publishing is not the primary activity of the producing body."
   
   - Grey literature can be useful for your research, but finding resources requires different tactics than you'd use for commercially published materials. This is because many types of grey literature are not indexed in some of the more common research tools like PubMed, CINAHL, Scopus, etc.
 
-- genealogical
+- genealogical[^vt][^umd]
 
    - Genealogy: Using family history research and genealogy databases as an intelligence-gathering tool.
    - Death records: Gathering intelligence from records such as death notices, obituaries, gravestone databases, and burial registries.
@@ -340,8 +340,6 @@ Read more inside this readme on [Digital Profiling](./markdown/Digital-Profiling
 - [HUMINT](./markdown/HUMINT.md)
 
 **HUMINT can be collected overtly (e.g., interviews, debriefings, diplomatic reporting) or covertly (e.g., espionage, clandestine surveillance).**
-
-**Buying from databrokers can be closed sourced if the info isn't freely available IF not cross referenced VIA the [Curated Lists](#curated-lists) OR the [Toolchain](#toolchain-self-osint) for self OSINT**
 
 [Breached Data](#breached-data)
 
@@ -755,3 +753,18 @@ sources:
 [^signal]: "Is it private? Can I trust it?" *Signal Support*, Signal Messenger LLC, support.signal.org/hc/en-us/articles/360007320391-Is-it-private-Can-I-trust-it. Accessed 22 Sept. 2025.
 
 [^simplex]: "Simplex: Redefining Privacy with Hard Choices." *Simplex Chat Blog*, 16 May 2024, simplex.chat/blog/20240516-simplex-redefining-privacy-hard-choices.html.
+
+[^nist]: "Operations Security (OPSEC)." *Computer Security Resource Center Glossary*, National Institute of Standards and Technology (NIST), U.S. Department of Commerce, csrc.nist.gov/glossary/term/operations_security. Accessed 22 Sept. 2025.
+
+[^dol_opsec]: "Operations Security (OPSEC)." *U.S. Department of Labor*, www.dol.gov/agencies/oasam/centers-offices/emergency-management-center/operations-security. Accessed 22 Sept. 2025.
+
+
+[^unt]: "Public Data Sources." *UNT Libraries Research Guides*, University of North Texas Libraries, guides.library.unt.edu/datasets/public-data-sources. Accessed 22 Sept. 2025.
+
+[^lawinsider]: "Commercial Data Definition." *Law Insider*, lawinsider.com/dictionary/commercial-data. Accessed 22 Sept. 2025.
+
+[^welch]: "Publicly Available Data & Statistics." *Welch Medical Library Guides*, Johns Hopkins University, browse.welch.jhmi.edu/c.php?g=1195274. Accessed 22 Sept. 2025.
+
+[^umd]: "Publicly Available Data." *University of Maryland Libraries Research Guides*, University of Maryland, lib.guides.umd.edu/c.php?g=326980&p=2198795. Accessed 22 Sept. 2025.
+
+[^vt]: "Genealogy." *University Libraries Research Guides*, Virginia Tech, guides.lib.vt.edu/topics/genealogy. Accessed 22 Sept. 2025.
