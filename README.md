@@ -140,13 +140,13 @@ It's a security discipline and operations function that involves a continuous cy
      has a huge digital footprint and is easily fooled by trolls online.[^youtube][^businessinsider][^imdb]
 
    * suspectAGB:<br>
-`Tariq Monteiro, 23, and Siyad Mohamud, 24, were part of a group which targeted Alex Smith over a gang-based feud as he left a restaurant near Euston station on 12 August 2019.The pair fled to Kenya immediately after the incident and were arrested in Nairobi last year.They both refused to appear for their sentencing hearing at the Old Bailey. Monteiro, of no fixed address, was ordered to serve a minimum of 24 years in prison, while Mohamud, of Barker Drive, Camden, will serve at least 23 years.`Shared a kitchen photo.[^opsecfail][^bbc]
+`Tariq Monteiro, 23, and Siyad Mohamud, 24, were part of a group which targeted Alex Smith over a gang-based feud as he left a restaurant near Euston station on 12 August 2019.The pair fled to Kenya immediately after the incident and were arrested in Nairobi last year.They both refused to appear for their sentencing hearing at the Old Bailey. Monteiro, of no fixed address, was ordered to serve a minimum of 24 years in prison, while Mohamud, of Barker Drive, Camden, will serve at least 23 years.`[^bbc]Shared a kitchen photo.[^opsecfail]
 
 * Leaving unused social media online
 * interacting with a target on social media
    * w0rmer:<br>
-     w0rmer took a picture of his girlfriend, which had exif data on it, so the feds visited his girlfriend who without hesitation said his bf asked him to take the picture.
-     `I have a way of also inciting anger in people and I think that’s obvious too, in what I was doing. I was egging everybody on. But a little backstory on that; so as you can see, all of them are pretty in-your-face and they’re trying to get and investigate or really after me.I already knew the GPS Exif data was in them and so I had a whole workflow for that. I had my dirty images and then I would clean them and put them in another file. When I went to publish that, I went one, two, three, and so, man, I need one more photo. I grabbed the wrong one, put it in there, and hit tweet.`[^opsecfail_w0rmer][^darknetdiaries]
+     w0rmer took a picture of his girlfriend, which had exif data on it, so the feds visited his girlfriend who without hesitation said his bf asked him to take the picture.[^opsecfail_w0rmer]
+     `I have a way of also inciting anger in people and I think that’s obvious too, in what I was doing. I was egging everybody on. But a little backstory on that; so as you can see, all of them are pretty in-your-face and they’re trying to get and investigate or really after me.I already knew the GPS Exif data was in them and so I had a whole workflow for that. I had my dirty images and then I would clean them and put them in another file. When I went to publish that, I went one, two, three, and so, man, I need one more photo. I grabbed the wrong one, put it in there, and hit tweet.`[^darknetdiaries]
 
 * [examples of good and bad opsec and some osint.](./markdown/examples.md)
 * Also some expanded [examples](./markdown/expanded-examples/)
@@ -203,9 +203,9 @@ OPSEC supplements other security disciplines rather than replacing them.
 By TOR I mean Tor Browser, VPN as in Virtual Private Network, and by Virtual Private Network I mean by Virtual Private Network Service - IE: Mullvad (though it can be other types of VPN's out there as long as it's safe to use and vetted by privacy experts). XMR is Monero Coin or Monero for short, a Privacy Coin.
 
 Check Wikipedia If you're confused on all of these here:
-1. VPN service, what we're gonna use here.[^watechvpn][^njcybervpn]
-2. TOR, What should be used separately.[^cisa][^nyutor][^cia]
-3. XMR, for VPN's that take XMR as payment [^monero]
+1. VPN service[^watechvpn][^njcybervpn], what we're gonna use here.
+2. TOR[^cisa][^nyutor][^cia], What should be used separately.
+3. XMR[^monero], for VPN's that take XMR[^monero] as payment.
 
 
 
@@ -243,12 +243,12 @@ Disinformation[^misinformation][^pmc] in the context of OSINT (Open Source Intel
 - National Security and Intelligence Agencies, Law Enforcement, Businesses, Cybersecurity and Cyber-crime Groups, Privacy-Conscious People, Non-Governmental Organizations
 
   - The CIA[^odni-cia], Defense Intelligence Agency (DIA)[^dia], and Office of the Director of National Intelligence (ODNI) all use OSINT[^odni].
-  - OSINT can protect citizens (private or otherwise) from identity theft, sexual violence, and abuse.[^fbi_behavioral][^bellingcat_sgbv]
-  - OSINT can monitor competitors, investigate new markets, and plan marketing activities.[^sba]
+  - OSINT can protect citizens (private or otherwise) from identity theft, sexual violence[^bellingcat_sgbv][^fbi_behavioral], and abuse[^fbi_behavioral][^bellingcat_sgbv].
+  - OSINT can monitor competitors[^sba], investigate new markets[^sba], and plan marketing activities[^sba].
   - OSINT can gather intelligence about specific targets online.
   - OSINT can check how outsiders can break into their computing devices.[^ibm]
   - OSINT can be used on oneself to secure privacy.[^deleteme]
-  - Bellingcat and the Center for Information Resilience use OSINT.[^infores][^bellingcat_toolkit]
+  - Bellingcat[^bellingcat_toolkit] and the Center for Information Resilience[^infores] use OSINT.
   - And you! Yes, you can use OSINT.
 
 ## Sources of OSINT
