@@ -220,7 +220,7 @@ For full tool details, see the **[OPSEC Tools List](./markdown/opsec.md)**.
 
 ## disinformation
 
-Disinformation in the context of OSINT (Open Source Intelligence) refers to deliberate actions taken to obscure, mislead, or mask the true activities, intentions, or identities of individuals or organizations from those conducting open-source intelligence gathering. [here](./markdown/disinformation.md).[^misinformation] [^pmc]
+Disinformation[^misinformation][^pmc] in the context of OSINT (Open Source Intelligence) refers to deliberate actions taken to obscure, mislead, or mask the true activities, intentions, or identities of individuals or organizations from those conducting open-source intelligence gathering. [here](./markdown/disinformation.md).
 
 ## Open Source Intelligence (OSINT)
 
