@@ -136,6 +136,8 @@ HUMINT isn't limited to espionage—it appears in many civilian and professional
 | RUMINT            | Early warnings, new leads, public sentiment | Unverified, unreliable, risk of [disinformation](disinformation.md)        |
 | HUMINT            | In-depth, contextual, adaptable             | Source-dependent, risk of deception, operational risk |
 
+`To be clear, RUMINT is not, we repeat NOT, a real INT. Agency RUMINT typically revolves around close-held personnel decisions, upcoming policy announcements that will impact the workforce, or some juicy gossip.`[^CIA]
+
 ---
 
 > HUMINT is a critical component of both professional intelligence operations and everyday information gathering. It emphasizes the power of direct human engagement in understanding environments, people, and events.
@@ -143,3 +145,5 @@ HUMINT isn't limited to espionage—it appears in many civilian and professional
 > It is also good to remember that loose lips sink ships.
 
 [^encyclopedia]: "HUMINT (Human Intelligence) ." Encyclopedia of Espionage, Intelligence, and Security. . Encyclopedia.com. 2 Sep. 2025 <https://www.encyclopedia.com>. Accessed 23 Sept. 2025.
+
+[^CIA]: Central Intelligence Agency. "How To Sound Like A Spy: Five Colloquialisms at CIA." CIA.gov, 19 Sept. 2024, www.cia.gov/stories/story/how-to-sound-like-a-spy-five-colloquialisms-at-cia/. Accessed 23 Sept. 2025.
