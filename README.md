@@ -420,6 +420,7 @@ Three examples of GEOINT tools that you can access right now:
 
             https://calendar.google.com/calendar/u/0/embed?src=youremail@gmail.com
 
+
 From this linkedin post[^Yoni]:
 
 In a clever LinkedIn post, 🔐Yoni  shares a privacy insight and a practical OSINT technique worth bookmarking.

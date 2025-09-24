@@ -13,6 +13,8 @@
 
 **HUMINT (Human Intelligence)** refers to intelligence gathered through direct human interaction, such as interviews, observation, and interpersonal communication. Unlike technical intelligence (e.g., [SIGINT](https://www.emsopedia.org/entries/signal-intelligence-sigint/) or [IMINT](https://www.emsopedia.org/entries/image-intelligence-imint/)), HUMINT is decidedly low-tech. It is a matter, ultimately, of personal interaction, and practitioners of HUMINT are "spies" in the purest sense of the word. The more closely an operative functions in the community, the more his or her information comes from word of mouth, and the more he or she is practicing true HUMINT.[^encyclopedia]
 
+According to Ouellette, HUMINT collectors must identify individuals with intelligence value in the local populace and track routine travelers in order to build efficient operations and gather information from areas inaccessible to friendly forces [^Ouellette].
+
 ## What is HUMINT?
 
 HUMINT involves collecting information through direct contact with individuals. It can be:
@@ -24,19 +26,14 @@ HUMINT involves collecting information through direct contact with individuals. 
 HUMINT isn't limited to espionage—it appears in many civilian and professional settings:
 
 - **Law Enforcement:** Police interviewing witnesses or suspects.[^FBI]
-- **Business Intelligence:** Gathering market data through conversations at events.
-- **Traveler Debriefings:** Agencies debriefing returning travelers.
-- **Military Patrols:** Soldiers gathering info from local populations.
-- **Cybersecurity:** Engaging in forums to learn about cyber threats.
-- **Everyday Life:** A friend or a family member asking about someone.
+- **Traveler Debriefings:** Agencies debriefing returning travelers.[^Ouellette]
+- **Military Patrols:** Soldiers gathering info from local populations.[^Ouellette]
+- **Cybersecurity:** Engaging in forums to learn about cyber threats.[^armywarcollege]
 
 ## Civilian Examples
 
-- **Job Networking:** Asking for job leads and insider knowledge.
-- **Market Research:** Talking to customers/competitors at trade shows.
-- **Journalism:** Interviewing sources for news stories.
-- **Community Policing:** Officers gathering local intel from residents.
-- **Social Engineering:** Using manipulation to extract sensitive data.
+- **Community Policing:** Officers gathering local intel from residents[^encyclopedia].
+- **Social Engineering:** Using manipulation to extract sensitive data[^NPS].
 
 ## Detailed examples
 
@@ -149,3 +146,9 @@ HUMINT isn't limited to espionage—it appears in many civilian and professional
 [^CIA]: Central Intelligence Agency. "How To Sound Like A Spy: Five Colloquialisms at CIA." CIA.gov, 19 Sept. 2024, www.cia.gov/stories/story/how-to-sound-like-a-spy-five-colloquialisms-at-cia/. Accessed 23 Sept. 2025.
 
 [^FBI]: Vincent, Jim. "Using Human Sources in Counterterrorism Operations: Understanding the Motivations and Political Impact." FBI Law Enforcement Bulletin, Federal Bureau of Investigation, 13 Mar. 2013, leb.fbi.gov/articles/featured-articles/using-human-sources-in-counterterrorism-operations-understanding-the-motivations-and-political-impact. Accessed 23 Sept. 2025.
+
+[^armywarcollege]: Cunningham, Alan. “Countering Cyber Threats in Finance.” War Room: U.S. Army War College, 19 July 2022, https://warroom.armywarcollege.edu/articles/cyber-threats-finance/. Accessed 24 Sept. 2025.
+
+[^NPS]: Hyatt, Kathleen, and Zachary Levenson. Social Engineering Impacts on Government Acquisition. Acquisition Research Program, 1 May 2023. Annual Acquisition Research Symposium Proceedings & Presentations. Naval Postgraduate School. Web. 24 Sept. 2025. https://dair.nps.edu/handle/123456789/4858.
+
+[^Ouellette]: Ouellette, Joseph. "The Foundations of HUMINT Collection Training at CTCs." Center for Army Lessons Learned Quarterly Newsletter, 2nd Quarter FY22, Center for Army Lessons Learned, 2022, pp. 5. University of Florida Digital Collections, https://ufdcimages.uflib.ufl.edu/AA/00/06/78/27/00034/2nd%20Quarter-2022.pdf. Accessed 24 Sept. 2025.
