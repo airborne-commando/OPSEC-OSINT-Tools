@@ -15,6 +15,8 @@
 
 According to Ouellette, HUMINT collectors must identify individuals with intelligence value in the local populace and track routine travelers in order to build efficient operations and gather information from areas inaccessible to friendly forces [^Ouellette].
 
+In HUMINT you may also use this to elicit information from a human source[^DoS].
+
 ## What is HUMINT?
 
 HUMINT involves collecting information through direct contact with individuals. It can be:
@@ -26,7 +28,6 @@ HUMINT involves collecting information through direct contact with individuals. 
 HUMINT isn't limited to espionage—it appears in many civilian and professional settings:
 
 - **Law Enforcement:** Police interviewing witnesses or suspects.[^FBI]
-- **Traveler Debriefings:** Agencies debriefing returning travelers.[^Ouellette]
 - **Military Patrols:** Soldiers gathering info from local populations.[^Ouellette]
 - **Cybersecurity:** Engaging in forums to learn about cyber threats.[^armywarcollege]
 
@@ -141,7 +142,7 @@ HUMINT isn't limited to espionage—it appears in many civilian and professional
 
 > It is also good to remember that loose lips sink ships.
 
-[^encyclopedia]: "HUMINT (Human Intelligence) ." Encyclopedia of Espionage, Intelligence, and Security. . Encyclopedia.com. 2 Sep. 2025 <https://www.encyclopedia.com>. Accessed 23 Sept. 2025.
+[^encyclopedia]: "HUMINT (Human Intelligence) ." Encyclopedia of Espionage, Intelligence, and Security. . Encyclopedia.com. 2 Sep. 2025 <https://www.encyclopedia.com>.
 
 [^CIA]: Central Intelligence Agency. "How To Sound Like A Spy: Five Colloquialisms at CIA." CIA.gov, 19 Sept. 2024, www.cia.gov/stories/story/how-to-sound-like-a-spy-five-colloquialisms-at-cia/. Accessed 23 Sept. 2025.
 
@@ -152,3 +153,5 @@ HUMINT isn't limited to espionage—it appears in many civilian and professional
 [^NPS]: Hyatt, Kathleen, and Zachary Levenson. Social Engineering Impacts on Government Acquisition. Acquisition Research Program, 1 May 2023. Annual Acquisition Research Symposium Proceedings & Presentations. Naval Postgraduate School. Web. 24 Sept. 2025. https://dair.nps.edu/handle/123456789/4858.
 
 [^Ouellette]: Ouellette, Joseph. "The Foundations of HUMINT Collection Training at CTCs." Center for Army Lessons Learned Quarterly Newsletter, 2nd Quarter FY22, Center for Army Lessons Learned, 2022, pp. 5. University of Florida Digital Collections, https://ufdcimages.uflib.ufl.edu/AA/00/06/78/27/00034/2nd%20Quarter-2022.pdf. Accessed 24 Sept. 2025.
+
+[^DoS]: U.S. Department of State. Human Intelligence. Bureau of Intelligence and Research, 2009, pp. 1-4. U.S. Department of State, https://2009-2017.state.gov/documents/organization/150085.pdf. Accessed 24 Sept. 2025.
