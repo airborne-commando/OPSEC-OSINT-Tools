@@ -36,7 +36,8 @@ HUMINT involves collecting information through direct contact with individuals. 
 HUMINT isn't limited to espionage—it appears in many civilian and professional settings:
 
 - **Law Enforcement:** Police interviewing witnesses or suspects[^FBI][^Fong].
-- **Military Patrols:** Soldiers gathering info from local populations[^Ouellette].
+- **Traveler Debriefings:** Agencies debriefing returning travelers[^Ouellette].
+- **Military Patrols:** Soldiers gathering info from local populations[^Ouellette][^encyclopedia].
 - **Cybersecurity:** Engaging in forums to learn about cyber threats[^armywarcollege].
 
 ## Civilian Examples
