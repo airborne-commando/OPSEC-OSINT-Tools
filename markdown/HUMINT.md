@@ -23,7 +23,7 @@ HUMINT involves collecting information through direct contact with individuals. 
 
 HUMINT isn't limited to espionage—it appears in many civilian and professional settings:
 
-- **Law Enforcement:** Police interviewing witnesses or suspects.
+- **Law Enforcement:** Police interviewing witnesses or suspects.[^FBI]
 - **Business Intelligence:** Gathering market data through conversations at events.
 - **Traveler Debriefings:** Agencies debriefing returning travelers.
 - **Military Patrols:** Soldiers gathering info from local populations.
@@ -147,3 +147,5 @@ HUMINT isn't limited to espionage—it appears in many civilian and professional
 [^encyclopedia]: "HUMINT (Human Intelligence) ." Encyclopedia of Espionage, Intelligence, and Security. . Encyclopedia.com. 2 Sep. 2025 <https://www.encyclopedia.com>. Accessed 23 Sept. 2025.
 
 [^CIA]: Central Intelligence Agency. "How To Sound Like A Spy: Five Colloquialisms at CIA." CIA.gov, 19 Sept. 2024, www.cia.gov/stories/story/how-to-sound-like-a-spy-five-colloquialisms-at-cia/. Accessed 23 Sept. 2025.
+
+[^FBI]: Vincent, Jim. "Using Human Sources in Counterterrorism Operations: Understanding the Motivations and Political Impact." FBI Law Enforcement Bulletin, Federal Bureau of Investigation, 13 Mar. 2013, leb.fbi.gov/articles/featured-articles/using-human-sources-in-counterterrorism-operations-understanding-the-motivations-and-political-impact. Accessed 23 Sept. 2025.
