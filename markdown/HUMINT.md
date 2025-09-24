@@ -17,6 +17,14 @@ According to Ouellette, HUMINT collectors must identify individuals with intelli
 
 In HUMINT you may also use this to elicit information from a human source[^DoS].
 
+"A HUMINT source is a person from whom information can be obtained.
+The source may either possess first- or second-hand knowledge normally
+obtained through sight or hearing. Potential HUMINT sources include
+threat, neutral, and friendly military and civilian personnel. Categories of
+HUMINT sources include but are not limited to detainees, refugees, DPs,
+local inhabitants, friendly forces, and members of foreign governmental and
+non-governmental organizations (NGOs).[^DoS]"
+
 ## What is HUMINT?
 
 HUMINT involves collecting information through direct contact with individuals. It can be:
