@@ -525,6 +525,16 @@ An automatic tool that I've made for [pa voter services](https://github.com/airb
 | **[archive.trace.rip](https://archive.trace.rip/)**          | detailed information    | user submitted     | Historical Data Breaches Archive                           | data breaches and scrapes throughout history                    |
 
 
+## Breach VIP API curl commands
+
+    curl -X POST https://breach.vip/api/search -H "Content-Type: application/json" -d '{"term": "test@*.com","fields": ["email"],"wildcard": false, "case_sensitive": false}' > results-email.txt
+    
+    curl -X POST https://breach.vip/api/search -H "Content-Type: application/json" -d '{"term": "test","fields": ["username"],"wildcard": false, "case_sensitive": true}' > results-user.txt
+    
+    curl -X POST https://breach.vip/api/search -H "Content-Type: application/json" -d '{"term": "000-*","fields": ["phone"],"wildcard": true, "case_sensitive": false}' > results-phone.txt
+    
+    curl -X POST https://breach.vip/api/search -H "Content-Type: application/json" -d '{"term": "john-doe","fields": ["name"],"wildcard": false, "case_sensitive": true}' > results-name.txt
+
 
 ---
 
