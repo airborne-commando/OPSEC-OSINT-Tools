@@ -1,8 +1,8 @@
 ## Table of Contents
 
-- [disinformation Operation in OSINT](#Disinformation-screen-operation-in-osint)
-  - [What is a disinformation Operation?](#what-is-a-smoke-screen-operation)
-  - [How Does a disinformation Operation Work in OSINT?](#how-does-a-Disinformation-screen-operation-work-in-osint)
+- [Disinformation in OSINT](#Disinformation-in-OSINT)
+  - [What is a Disinformation?](#What-is-a-Disinformation?)
+  - [How Does a Disinformation Work in OSINT?](How-Does-a-Disinformation-Work-in-OSINT?)
   - [Purpose and Use Cases](#purpose-and-use-cases)
   - [Relevance to OSINT Practitioners](#relevance-to-osint-practitioners)
   - [Conclusion](#conclusion)
