@@ -13,14 +13,14 @@
 Disinformation in the context of OSINT (Open Source Intelligence) refers to deliberate actions taken to obscure, mislead, or mask the true activities, intentions, or identities of individuals or organizations from those conducting open-source intelligence gathering.[^cisa_disinfo]
 
 ## **What is a Disinformation?**
-* In the digital realm, a "disinformation" involves creating false leads, decoy data, or misleading signals to confuse or distract adversaries, making it harder for them to gather accurate intelligence or track real activities.[^cisa_disinfo][^stanford]
+* In the digital realm, a "disinformation" involves creating false leads, decoy data, or misleading signals to confuse or distract adversaries, making it harder for them to gather accurate intelligence or track real activities.[^cisa_disinfo]
 
 ## **How Does a Disinformation Work in OSINT?**
 
-* **Information Overload:** Flooding open sources with irrelevant, redundant, or misleading information to drown out genuine signals and make analysis more difficult.[^stanford][^cisa_disinfo]
-* **Decoy Accounts and Content:** fabricated or deliberately manipulated audio/visual content. Intentionally created conspiracy theories or rumours. This type of "wrong" information is deliberately shared to harm or deceive a person.[^misinformation][^stanford][^cisa_disinfo]
-* **False Attribution:** Planting data or digital artifacts that point to incorrect actors, locations, or intentions.[^stanford]
-* **Obfuscation Techniques:** Using anonymization, encryption, or deliberate mislabeling of data to mask true activities.[^stanford]
+* **Information Overload:** Flooding open sources with irrelevant, redundant, or misleading information to drown out genuine signals and make analysis more difficult.[^cisa_disinfo]
+* **Decoy Accounts and Content:** fabricated or deliberately manipulated audio/visual content. Intentionally created conspiracy theories or rumours. This type of "wrong" information is deliberately shared to harm or deceive a person.[^misinformation][^cisa_disinfo]
+* **False Attribution:** Planting data or digital artifacts that point to incorrect actors, locations, or intentions.[^cisa_disinfo]
+* **Obfuscation Techniques:** Using anonymization, encryption, or deliberate mislabeling of data to mask true activities.[^cisa_disinfo]
 
 ## **Purpose and Use Cases**
 
@@ -41,10 +41,8 @@ Disinformation in the context of OSINT (Open Source Intelligence) refers to deli
 
 Recognizing and countering such operations is a critical skill for OSINT practitioners, who must distinguish between genuine intelligence and deliberate deception.
 
-> "disinformation is to intentionally mislead."[^cisa_disinfo][^stanford][^misinformation]
+> "disinformation is to intentionally mislead."[^cisa_disinfo][^misinformation]
 
-[^cisa_disinfo]: *Tactics of Disinformation*. Cybersecurity and Infrastructure Security Agency, U.S. Department of Homeland Security, Sept. 2020, www.cisa.gov/sites/default/files/publications/tactics-of-disinformation_508.pdf.
+[^cisa_disinfo]: CISA. “Tactics of Disinformation.” https://www.cisa.gov, 18 Oct. 2022, web.archive.org/web/20230804043427/https://www.cisa.gov/resources-tools/resources/tactics-disinformation.
 
-[^misinformation]: "Misinformation and Disinformation." *CSI Library, College of Staten Island (CUNY)*, City University of New York, library.csi.cuny.edu/misinformation. Accessed 22 Sept. 2025.
-
-[^stanford]: *Tactics of Disinformation*. Center for Internet and Society, Stanford Law School, June 2020, cyberlaw.stanford.edu/content/files/sites/default/files/publications/tactics-of-disinformation_508.pdf.
+[^misinformation]: College of Staten Island. “CSI Library: Misinformation and Disinformation: Thinking Critically About Information Sources: Misinformation, Disinformation, and Malinformation.” https://library.csi.cuny.edu, uploaded by College of Staten Island, 25 Aug. 2025, library.csi.cuny.edu/misinformation.

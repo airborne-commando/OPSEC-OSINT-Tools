@@ -11,32 +11,31 @@
 
 # HUMINT Overview
 
-**HUMINT (Human Intelligence)** refers to intelligence gathered through direct human interaction, such as interviews, observation, and interpersonal communication. Unlike technical intelligence (e.g., [SIGINT](https://www.emsopedia.org/entries/signal-intelligence-sigint/) or [IMINT](https://www.emsopedia.org/entries/image-intelligence-imint/)), HUMINT is decidedly low-tech. It is a matter, ultimately, of personal interaction, and practitioners of HUMINT are "spies" in the purest sense of the word. The more closely an operative functions in the community, the more his or her information comes from word of mouth, and the more he or she is practicing true HUMINT.[^encyclopedia]
+**HUMINT (Human Intelligence)** refers to intelligence gathered through direct human interaction, such as interviews, observation, and interpersonal communication. Unlike technical intelligence (e.g., [SIGINT](https://www.emsopedia.org/entries/signal-intelligence-sigint/) or [IMINT](https://www.emsopedia.org/entries/image-intelligence-imint/)), HUMINT is decidedly low-tech. It is a matter, ultimately, of personal interaction, and practitioners of HUMINT are "spies" in the purest sense of the word. The more closely an operative functions in the community, the more his or her information comes from word of mouth, and the more he or she is practicing true HUMINT[^encyclopedia].
+
+Performing source operations, communicating with host nation (HN) officials and allied counterparts, extracting information from specific sources, debriefing US and allied forces and civilian personnel, including refugees, displaced persons (DPs), third-country nationals, and local residents, questioning EPWs and other detainees, and initially taking advantage of documents, media, and materiel are just a few of the tasks that fall under the purview of HUMINT[^DoS].
+
+Potential HUMINT sources include friendly, neutral, and threat military and civilian personnel; potential HUMINT sources include detainees, refugees, DPs, local residents, friendly forces, and members of foreign governmental and non-governmental organizations (NGOs). A HUMINT source is a person from whom information can be obtained; the source may have first- or second-hand knowledge typically obtained through sight or hearing[^DoS].
 
 ## What is HUMINT?
 
 HUMINT involves collecting information through direct contact with individuals. It can be:
-- **Overt:** Interviews, debriefings, diplomatic reporting
-- **Covert:** Espionage, clandestine surveillance
+- **Overt:** Interviews, debriefings, diplomatic reporting[^odni_intel][^encyclopedia].
+- **Covert:** Espionage, clandestine surveillance[^odni_intel][^encyclopedia].
 
 ## Everyday Examples of HUMINT
 
 HUMINT isn't limited to espionage—it appears in many civilian and professional settings:
 
-- **Law Enforcement:** Police interviewing witnesses or suspects.
-- **Business Intelligence:** Gathering market data through conversations at events.
+- **Law Enforcement:** Police interviewing witnesses or suspects[^FBI][^Fong].
 - **Traveler Debriefings:** Agencies debriefing returning travelers.
-- **Military Patrols:** Soldiers gathering info from local populations.
-- **Cybersecurity:** Engaging in forums to learn about cyber threats.
-- **Everyday Life:** A friend or a family member asking about someone.
+- **Military Patrols:** Soldiers gathering info from local populations[^encyclopedia].
+- **Cybersecurity:** Engaging in forums to learn about cyber threats[^armywarcollege].
 
 ## Civilian Examples
 
-- **Job Networking:** Asking for job leads and insider knowledge.
-- **Market Research:** Talking to customers/competitors at trade shows.
-- **Journalism:** Interviewing sources for news stories.
-- **Community Policing:** Officers gathering local intel from residents.
-- **Social Engineering:** Using manipulation to extract sensitive data.
+- **Community Policing:** Officers gathering local intel from residents[^encyclopedia].
+- **Social Engineering:** Using manipulation to extract sensitive data[^NPS].
 
 ## Detailed examples
 
@@ -45,12 +44,12 @@ HUMINT isn't limited to espionage—it appears in many civilian and professional
 
 ### 1. **Open-Ended Questions**
 - Use questions that require more than a yes/no answer.
-- Example: “How did you get interested in that?” or “What was your experience like with…?”
+- Example: “How did you get interested in that?” or “What was your experience with...?”
 - This encourages the other person to share stories and details.
 
 ### 2. **Mirroring and Paraphrasing**
 - Repeat or rephrase what the person just said.
-- Example: If they mention a hobby, reply: “You said you love hiking—what’s your favorite trail?”
+- Example: If they mention a hobby, reply: “You said you love...?”
 - This shows interest and prompts elaboration.
 
 ### 3. **Building Rapport**
@@ -58,15 +57,15 @@ HUMINT isn't limited to espionage—it appears in many civilian and professional
 - People are more likely to open up if they feel comfortable and understood.
 
 ### 4. **Gradual Disclosure**
-- Share a little about yourself first (“I’ve always wanted to visit Japan—have you ever been?”).
+- Share a little about yourself first (“I’ve always wanted to visit...—have you ever been to?”).
 - Reciprocity often encourages others to reveal similar information.
 
 ### 5. **Casual “Assumptions”**
 - Make a gentle assumption and let them correct you.
-- Example: “So you must be from the West Coast?” If not, they’ll clarify, often with extra details.
+- Example: “So you must be from...?” If not, they’ll clarify, often with extra details.
 
 ### 6. **Use of Flattery or Curiosity**
-- Compliment their knowledge or experience (“You seem to know a lot about this—how did you learn so much?”).
+- Compliment their knowledge or experience (“You seem to know a lot about this...how did you learn so much?”).
 - People enjoy talking about their expertise.
   
 ---
@@ -74,12 +73,12 @@ HUMINT isn't limited to espionage—it appears in many civilian and professional
 ---
 
 ### 1. **Active Listening**
-- Use body language (nod, eye contact) and verbal cues (“Interesting, tell me more…”).
+- Use body language (nod, eye contact) and verbal cues (“Interesting, tell me more...”).
 - People tend to share more when they feel heard.
 
 ### 2. **Observation**
 - Notice details (clothing, accessories, accent) and ask about them.
-- “That’s a unique necklace—does it have a story?”
+- “That’s a unique necklace, where did you get it from?”
 
 ### 3. **Strategic Silence**
 - After asking a question, pause. People often fill silences by elaborating.
@@ -95,13 +94,13 @@ HUMINT isn't limited to espionage—it appears in many civilian and professional
 
 - **Foot-in-the-door:** Start with a small, easy question, then ask for more.
 - **Anchoring:** Mention a detail to “anchor” the conversation, making it easier to ask related questions.
-- **Social Proof:** Reference mutual friends or communities (“I heard from X that you’re into photography…”).
+- **Social Proof:** Reference mutual friends or communities (“I heard from X that you’re into photography...”).
 
 ## Ethical Considerations
 
 - **Consent:** Never push for information someone is reluctant to share.
 - **Respect Privacy:** Don’t use deception or manipulation for sensitive or confidential details.
-- **Legality:** Ensure you’re not violating privacy laws or ethical boundaries.
+- **Legality:** Ensure you are not violating privacy laws or ethical boundaries.
 
 ## Quick Reference Table
 
@@ -111,7 +110,7 @@ HUMINT isn't limited to espionage—it appears in many civilian and professional
 | Mirroring             | “So you work in tech?”                  | “You mentioned hiking—where?”    |
 | Gradual disclosure    | “I love movies—what’s your favorite?”   | “I grew up here—how about you?”  |
 | Strategic silence     | (Wait after a question)                 | (Pause, let them fill silence)   |
-| Observation           | “Cool profile pic—where was that?”      | “That’s a neat watch—story?”     |
+| Observation           | “Cool profile pic—where was that taken?”      | “That’s a neat watch..”     |
 
 ## RUMINT vs HUMINT
 
@@ -136,10 +135,26 @@ HUMINT isn't limited to espionage—it appears in many civilian and professional
 | RUMINT            | Early warnings, new leads, public sentiment | Unverified, unreliable, risk of [disinformation](disinformation.md)        |
 | HUMINT            | In-depth, contextual, adaptable             | Source-dependent, risk of deception, operational risk |
 
+`To be clear, RUMINT is not, we repeat NOT, a real INT. Agency RUMINT typically revolves around close-held personnel decisions, upcoming policy announcements that will impact the workforce, or some juicy gossip.`[^CIA]
+
 ---
 
 > HUMINT is a critical component of both professional intelligence operations and everyday information gathering. It emphasizes the power of direct human engagement in understanding environments, people, and events.
 
 > It is also good to remember that loose lips sink ships.
 
-[^encyclopedia]: "HUMINT (Human Intelligence) ." Encyclopedia of Espionage, Intelligence, and Security. . Encyclopedia.com. 2 Sep. 2025 <https://www.encyclopedia.com>. Accessed 23 Sept. 2025.
+[^encyclopedia]: "HUMINT (Human Intelligence) ." Encyclopedia of Espionage, Intelligence, and Security. . Encyclopedia.com. 2 Sep. 2025 <https://www.encyclopedia.com>.
+
+[^CIA]: CIA. How to Sound Like a Spy: Five Colloquialisms at CIA - CIA. 19 Sept. 2024, www.cia.gov/stories/story/how-to-sound-like-a-spy-five-colloquialisms-at-cia. Accessed 24 Sept. 2025.
+
+[^FBI]: FBI, and Simon Block. “Using Human Sources in Counterterrorism Operations.” Leb, 8 Apr. 2016, leb.fbi.gov/articles/featured-articles/using-human-sources-in-counterterrorism-operations-understanding-the-motivations-and-political-impact. Accessed 24 Sept. 2025.
+
+[^armywarcollege]: Cunningham, Alan. “THE HUMAN SOLUTION: COUNTERING CYBER THREATS IN FINANCE.” War Room - U.S. Army War College, 21 Sept. 2023, warroom.armywarcollege.edu/articles/cyber-threats-finance. Accessed 24 Sept. 2025.
+
+[^NPS]: Levenson, Kathleen Hyatt Zachary. Social Engineering Impacts on Government Acquisition. 1 May 2023, dair.nps.edu/handle/123456789/4858. Accessed 24 Sept. 2025.
+
+[^DoS]: Army, Department of Department of The. FM 2-22. 3 Human Intelligence Collector Operations. US Dept Of The Army, 2006, www.amazon.com/2-22-3-Human-Intelligence-Collector-Operations/dp/B08NDR1BBM.
+
+[^Fong]: See Allan Fong, Interrogations and False Confessions: How the Innocent Are Made Guilty, 30 S. Cal. Rev. L. & Soc. Just. 363, 388
+
+[^odni_intel]: ---. “What Is Intelligence?” www.dni.gov, www.dni.gov/index.php/what-we-do/what-is-intelligence. Accessed 24 Sept. 2025. (Office of the Director of National Intelligence, “What Is Intelligence?,” sec.HUMINT)

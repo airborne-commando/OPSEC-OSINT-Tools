@@ -193,31 +193,31 @@ sources:
 
 [^odni_intel]: "What is Intelligence?" *Office of the Director of National Intelligence*, www.dni.gov/index.php/what-we-do/what-is-intelligence. Accessed 22 Sept. 2025.
 
-[^rit]: "2023-10_CPSI Working Paper_Social Media Intelligence Best Practices.pdf." Rochester Institute of Technology, 23 Sept. 2025, https://www.rit.edu/liberalarts/sites/rit.edu.liberalarts/files/docs/CRIM%20Resources/2023-10_CPSI%20Working%20Paper_Social%20Media%20Intelligence%20Best%20Practices.pdf. Web. Accessed 23 Sept. 2025.
+[^rit]: “Social Media Intelligence Best Practices.” rit.edu, 2023-10_CPSI, Rochester Institute of Technology, Oct. 2023, www.rit.edu/liberalarts/sites/rit.edu.liberalarts/files/docs/CRIM%20Resources/2023-10_CPSI%20Working%20Paper_Social%20Media%20Intelligence%20Best%20Practices.pdf.
 
-[^kraakevik]: Kraakevik, Jeff. "Crafting a Positive Professional Digital Profile to Augment Your Practice." *Neurology: Clinical Practice*, vol. 6, no. 1, 2016, pp. 87–93. PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC5765898/.
+[^kraakevik]: Kraakevik, Jeff. “Crafting a positive professional digital profile to augment your practice.” Neurology. Clinical practice vol. 6,1 (2016): 87-93. doi:10.1212/CPJ.0000000000000211
 
-[^hhs]: U.S. Department of Health and Human Services, Health Sector Cybersecurity Coordination Center. *OSINT How-To*. Analyst Note: TLP White, 9 Aug. 2022. PDF file. https://www.hhs.gov/sites/default/files/osint-how-to-analyst-note-tlpwhite.pdf.
+[^hhs]: “HC3: Analyst Note.” hhs.gov, 202208091700, Washington D.C., United States of America, Health and Human Services, 9 Aug. 2022, web.archive.org/web/20230617000751/https://www.hhs.gov/sites/default/files/osint-how-to-analyst-note-tlpwhite.pdf.
 
-[^maltego]: "How OSINT Helps Find Missing Persons." *Maltego Blog*, Maltego Technologies GmbH, 29 Aug. 2023, www.maltego.com/blog/how-osint-helps-find-missing-persons/.
+[^maltego]: Mathieu Gaucheler. “How OSINT Helps Find Missing Persons.” maltego.com, 2 May 2025, www.maltego.com/blog/how-osint-helps-find-missing-persons.
 
-[^NIJ]: Johnson, Tracey L., et al. Introducing the NIJ Forensic Intelligence Framework: Pillars and Guiding Principles for Successful Implementation. U.S. Department of Justice, National Institute of Justice, Nov. 2024, p. 6. https://www.ojp.gov/pdffiles1/nij/309128.pdf
+[^NIJ]: Tracey L. Johnson, Basia E. Lopez, Jonathan McGrath, Caleb D. Hudgins, Meaghan L. Pimsler, and Veronica White, "Introducing the NIJ Forensic Intelligence Framework: Pillars and Guiding Principles for Successful Implementation," National Institute of Justice, NCJ 309128, November 2024.
 
-[^pezle]: Pezle. "The Time 4Chan Called in an Airstrike." *YouTube*, 17 Aug. 2023, www.youtube.com/watch?v=OR6epSP_Xlw. Accessed 22 Sept. 2025.
+[^pezle]: “The Time 4Chan Called in an Airstrike.” Youtube.com, uploaded by Pezle, 17 Aug. 2023, www.youtube.com/watch?v=OR6epSP_Xlw.
 
-[^vice4chan]: Lamoureux Mack. "How 4Chan's Worst Trolls Pulled Off the Heist of the Century." *VICE*, https://www.vice.com/en/article/4chan-does-first-good-thing-pulls-off-the-heist-of-the-century1/. Accessed 22 Sept. 2025.
+[^vice4chan]: Lamoureux, Mack, and Mack Lamoureux. “How 4Chan’s Worst Trolls Pulled off the Heist of the Century.” VICE, 27 July 2024, www.vice.com/en/article/4chan-does-first-good-thing-pulls-off-the-heist-of-the-century1.
 
-[^bellingcat_newtech]: "Using New Tech to Investigate Old Photographs." *Bellingcat*, 9 Aug. 2022, www.bellingcat.com/resources/2022/08/09/using-new-tech-to-investigate-old-photographs/.
+[^bellingcat_newtech]: Postma, Foeke. “Using New Tech to Investigate Old Photographs - Bellingcat.” Bellingcat, 9 Aug. 2022, www.bellingcat.com/resources/2022/08/09/using-new-tech-to-investigate-old-photographs.
 
-[^bellingcat_reverse]: "Guide to Using Reverse Image Search for Investigations." *Bellingcat*, 26 Dec. 2019, www.bellingcat.com/resources/how-tos/2019/12/26/guide-to-using-reverse-image-search-for-investigations/.
+[^bellingcat_reverse]: Toler, Aric. “Guide to Using Reverse Image Search for Investigations - Bellingcat.” Bellingcat, 27 Dec. 2019, www.bellingcat.com/resources/how-tos/2019/12/26/guide-to-using-reverse-image-search-for-investigations.
 
-[^dol]: "Youth." *U.S. Department of Labor*, Employment and Training Administration, 2000, www.dol.gov/sites/dolgov/files/ETA/advisories/TEIN/2000/youth.htm. Accessed 22 Sept. 2025.
+[^dol]: Jain, Shefali. “10 Best Background Check Sites In 2022.” dol.gov, 6 Jan. 2022, www.dol.gov/sites/dolgov/files/ETA/advisories/TEIN/2000/youth.htm.
 
-[^govinfo]: *U.S. Intelligence Community 21 (IC21): Intelligence Community in the 21st Century*. U.S. Government Publishing Office, 1996, www.govinfo.gov/content/pkg/GPO-IC21/html/GPO-IC21-6.html. Accessed 22 Sept. 2025.
+[^govinfo]: “IC21: The Intelligence Community in the 21st Century.” govinfo.gov, www.govinfo.gov/content/pkg/GPO-IC21/html/GPO-IC21-6.html. Accessed 25 Sept. 2025.
 
-[^osint45]: "45." *The OSINT Newsletter*, 19 July 2023. *archive.ph*, archive.ph/7koNk. Accessed 22 Sept. 2025.
+[^osint45]: Creps, Jake. “The OSINT Newsletter - Issue #45.” The OSINT Newsletter, 4 Mar. 2024, osintnewsletter.com/p/45. https://archive.ph/7koNk
 
 
-[^osint_aug23]: "The OSINT Newsletter: August 2023." *The OSINT Newsletter*, 30 Aug. 2023. *archive.ph*, archive.ph/dZdBA. Accessed 22 Sept. 2025.
+[^osint_aug23]: Creps, Jake. “The OSINT Newsletter - August 2023 OSINT Review.” The OSINT Newsletter, 14 Aug. 2023, osintnewsletter.com/p/the-osint-newsletter-august-2023. https://archive.ph/dZdBA
 
-[^osint_apr23]: "April OSINT 2023." *The OSINT Newsletter*, 28 Apr. 2023. *archive.ph*, archive.ph/BPW3U. Accessed 22 Sept. 2025.
+[^osint_apr23]: Creps, Jake. “The OSINT Newsletter - April 2023 OSINT Review.” The OSINT Newsletter, 15 Apr. 2023, osintnewsletter.com/p/april-osint-2023. https://archive.ph/BPW3U
