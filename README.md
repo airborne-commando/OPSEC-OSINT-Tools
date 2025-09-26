@@ -535,6 +535,7 @@ An automatic tool that I've made for [pa voter services](https://github.com/airb
     
     curl -X POST https://breach.vip/api/search -H "Content-Type: application/json" -d '{"term": "john-doe","fields": ["name"],"wildcard": false, "case_sensitive": true}' > results-name.txt
 
+Take a look at the documents which I will [link here](https://breach.vip/api/docs)
 
 ---
 
