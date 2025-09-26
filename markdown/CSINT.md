@@ -10,13 +10,17 @@ CSINT access is typically regulated legally, requiring court orders, warrants, o
 
 "throughout history there have been many examples of military, religious and community leaders actively seeking and or tasking individuals with gathering of information skill sets and then basing their decisions on the information obtained in this way. The earliest and most recognized historical text on the subject of gathering of information and actions based on intelligence is “The Art of War, The Art of Strategy” written by Sun Tzu in the 5th Century Before Christ, a Chinese warlord and a mercenary. He was widely acclaimed and highly honored for his possession, means, and skill to command a series of military operations whose success owed a lot to his effective gathering of information and intelligence-led decision-making. It says much for the characteristic and standard of this work that it still remains in circulation, and it is absolutely necessary; extremely important reading for military and corporate strategists and intelligence operatives worldwide. Throughout Employing gatherers of information for a military operation is something frequently encountered or ordinary." As described on page 3 (United Nations Office on Drugs and Crime, 2011)[^azdps]
 
+**In historical context for CSINT:**
 
 "All warfare is based on deception" and "As a result, only an enlightened ruler and a wise general will use the army's highest intelligence for spying purposes, achieving great success. Spies are a critical element in water because they determine an army's ability to move." As described on page 3 and 62 (Sun-Tzu on the Art of War, 1910)[^Tzu]
 
+Meaning that [HUMINT](HUMINT.md) is also CSINT, least historically and in the modern world.
+
 In summary:
 - As intelligence, CSINT means collecting confidential, non-public information with legal authority or illegal depending on context such as hacking.
+- It also can come from Human Sources, like an interrogation or an interview.
 
-See [HUMINT](HUMINT.md) and [Main Guide/Breached Data](../README.md#breached-data) as examples.
+See [HUMINT](HUMINT.md) and [Main Guide/Breached Data](../README.md#breached-data) as examples. But you need to be aware of rumors or "spilling the tea".
 
 Back to the [main guide](../README.md).
 
