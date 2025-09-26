@@ -12,19 +12,18 @@ CSINT access is typically regulated legally, requiring court orders, warrants, o
 
 **In historical context for CSINT:**
 
-"All warfare is based on deception" and "As a result, only an enlightened ruler and a wise general will use the army's highest intelligence for spying purposes, achieving great success. Spies are a critical element in water because they determine an army's ability to move." As described on page 3 and 62 (Sun-Tzu on the Art of War, 1910)[^Tzu]
+"All warfare is based on deception" and "As a result, only an enlightened ruler and a wise general will use the army's highest intelligence for spying purposes, achieving great success. Spies are a critical element in water (warfare) because they determine an army's ability to move." As described on page 3 and 62 (Sun-Tzu on the Art of War, 1910)[^Tzu]
 
 Meaning that [HUMINT](HUMINT.md) is also CSINT, both historically and in the modern world.
 
 In summary:
 - CSINT involves collecting confidential, non-public information through methods that may be legal (with proper authority) or illegal (such as hacking), depending on the context.
-- It also can come from Human Sources, like an interrogation or an interview.
-- Can also be in a civilian setting, such as job interviews or businesses.
+- CSINT may derive from human sources, such as interrogations, interviews, or insider reporting. This includes both government and civilian contexts—for example, corporate due diligence, employee vetting, or business negotiations.
 - HUMINT and CSINT overlap, but can be separate; it again all depends on the context. Was it a secret operation or an interview?
 
-See [HUMINT](HUMINT.md) and [Main Guide/Breached Data](../README.md#breached-data) as examples. But you need to be aware of rumors.
+See [HUMINT](HUMINT.md) and [Breached Data](../README.md#breached-data) for related examples. Analysts should be cautious: while closed sources are often more reliable, they are not immune to rumor or bias. As the CIA notes, restricted information “typically involves confidential personnel decisions, upcoming policy announcements relevant to staff, or compelling rumors” (CIA, 2024)[^CIA].  
 
-"typically revolves around close-held personnel decisions, upcoming policy announcements that will impact the workforce, or some juicy gossip." (CIA, Sept 19 2024)[^CIA]
+Rumors can undermine or compromise the credibility of a human source, a risk particularly relevant when HUMINT and CSINT intersect.
 
 Back to the [main guide](../README.md).
 
