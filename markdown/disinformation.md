@@ -1,8 +1,8 @@
 ## Table of Contents
 
 - [Disinformation in OSINT](#disinformation-in-osint)
-  - [What is a Disinformation?](#what-is-a-disinformation?)
-  - [How Does a Disinformation Work in OSINT?](#how-does-a-disinformation-work-in-osint?)
+  - [What is a Disinformation?](#what-is-a-disinformation)
+  - [How Does Disinformation Work in OSINT?](#how-does-disinformation-work-in-osint)
   - [Purpose and Use Cases](#purpose-and-use-cases)
   - [Relevance to OSINT Practitioners](#relevance-to-osint-practitioners)
   - [Conclusion](#conclusion)
@@ -16,7 +16,7 @@ Disinformation in the context of OSINT (Open Source Intelligence) refers to deli
 ## **What is a Disinformation?**
 * In the digital realm, a "disinformation" involves creating false leads, decoy data, or misleading signals to confuse or distract adversaries, making it harder for them to gather accurate intelligence or track real activities.[^cisa_disinfo]
 
-## **How Does a Disinformation Work in OSINT?**
+## **How does Disinformation work in OSINT?**
 
 * **Information Overload:** Flooding open sources with irrelevant, redundant, or misleading information to drown out genuine signals and make analysis more difficult.[^cisa_disinfo]
 * **Decoy Accounts and Content:** fabricated or deliberately manipulated audio/visual content. Intentionally created conspiracy theories or rumours. This type of "wrong" information is deliberately shared to harm or deceive a person.[^misinformation][^cisa_disinfo]
