@@ -145,13 +145,13 @@ HUMINT isn't limited to espionage—it appears in many civilian and professional
 
 [^encyclopedia]: "HUMINT (Human Intelligence) ." Encyclopedia of Espionage, Intelligence, and Security. . Encyclopedia.com. 2 Sep. 2025 <https://www.encyclopedia.com>.
 
-[^CIA]: CIA. How to Sound Like a Spy: Five Colloquialisms at CIA - CIA. 19 Sept. 2024, www.cia.gov/stories/story/how-to-sound-like-a-spy-five-colloquialisms-at-cia. Accessed 24 Sept. 2025.
+[^CIA]: CIA. How to Sound Like a Spy: Five Colloquialisms at CIA - CIA. 19 Sept. 2024, www.cia.gov/stories/story/how-to-sound-like-a-spy-five-colloquialisms-at-cia.
 
-[^FBI]: FBI, and Simon Block. “Using Human Sources in Counterterrorism Operations.” Leb, 8 Apr. 2016, leb.fbi.gov/articles/featured-articles/using-human-sources-in-counterterrorism-operations-understanding-the-motivations-and-political-impact. Accessed 24 Sept. 2025.
+[^FBI]: FBI, and Simon Block. “Using Human Sources in Counterterrorism Operations.” Leb, 8 Apr. 2016, leb.fbi.gov/articles/featured-articles/using-human-sources-in-counterterrorism-operations-understanding-the-motivations-and-political-impact.
 
-[^armywarcollege]: Cunningham, Alan. “THE HUMAN SOLUTION: COUNTERING CYBER THREATS IN FINANCE.” War Room - U.S. Army War College, 21 Sept. 2023, warroom.armywarcollege.edu/articles/cyber-threats-finance. Accessed 24 Sept. 2025.
+[^armywarcollege]: Cunningham, Alan. “THE HUMAN SOLUTION: COUNTERING CYBER THREATS IN FINANCE.” War Room - U.S. Army War College, 21 Sept. 2023, warroom.armywarcollege.edu/articles/cyber-threats-finance.
 
-[^NPS]: Levenson, Kathleen Hyatt Zachary. Social Engineering Impacts on Government Acquisition. 1 May 2023, dair.nps.edu/handle/123456789/4858. Accessed 24 Sept. 2025.
+[^NPS]: Levenson, Kathleen Hyatt Zachary. Social Engineering Impacts on Government Acquisition. 1 May 2023, dair.nps.edu/handle/123456789/4858.
 
 [^DoS]: Army, Department of Department of The. FM 2-22. 3 Human Intelligence Collector Operations. US Dept Of The Army, 2006, www.amazon.com/2-22-3-Human-Intelligence-Collector-Operations/dp/B08NDR1BBM.
 
