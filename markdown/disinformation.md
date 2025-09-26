@@ -43,6 +43,8 @@ Recognizing and countering such operations is a critical skill for OSINT practit
 
 > "disinformation is to intentionally mislead."[^cisa_disinfo][^misinformation]
 
+## References:
+
 [^cisa_disinfo]: CISA. “Tactics of Disinformation.” https://www.cisa.gov, 18 Oct. 2022, web.archive.org/web/20230804043427/https://www.cisa.gov/resources-tools/resources/tactics-disinformation.
 
 [^misinformation]: College of Staten Island. “CSI Library: Misinformation and Disinformation: Thinking Critically About Information Sources: Misinformation, Disinformation, and Malinformation.” https://library.csi.cuny.edu, uploaded by College of Staten Island, 25 Aug. 2025, library.csi.cuny.edu/misinformation.

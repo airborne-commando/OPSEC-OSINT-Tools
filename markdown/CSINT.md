@@ -27,7 +27,7 @@ Rumors can undermine or compromise the credibility of a human source, a risk par
 
 Back to the [main guide](../README.md).
 
-source:
+## References:
 
 [^psu]: Pennsylvania State University, et al. “L3.09: Closed Source Data.” psu.edu, 2016, [www.e-education.psu.edu/geointmooc/node/2016](https://www.e-education.psu.edu/geointmooc/node/2016).
 

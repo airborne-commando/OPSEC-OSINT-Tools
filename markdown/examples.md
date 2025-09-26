@@ -62,7 +62,7 @@ These examples underscore the dual-edged nature of OSINT and OPSEC tools. While 
 
 ---
 
-Sources:
+## References:
 
 [^hrwcam]: Human Rights Watch. "Cameroon: Soldiers Get 10 Years for Murder of Civilians." *Human Rights Watch*, 23 Sept. 2020, https://www.hrw.org/news/2020/09/23/cameroon-soldiers-get-10-years-murder-civilians. Accessed 22 Sept. 2025.
 

@@ -175,7 +175,7 @@ In essence, this mindset places you in a constant state of alert—treating huma
 
 --------------
 
-sources:
+## References:
 
 [^kraakevik]: Kraakevik, Jeff. "Crafting a Positive Professional Digital Profile to Augment Your Practice." *Neurology: Clinical Practice*, vol. 6, no. 1, 2016, pp. 87–93. PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC5765898/. 
 

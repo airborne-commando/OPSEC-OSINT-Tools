@@ -143,6 +143,8 @@ HUMINT isn't limited to espionage—it appears in many civilian and professional
 
 > It is also good to remember that loose lips sink ships.
 
+## References:
+
 [^encyclopedia]: "HUMINT (Human Intelligence) ." Encyclopedia of Espionage, Intelligence, and Security. . Encyclopedia.com. 2 Sep. 2025 <https://www.encyclopedia.com>.
 
 [^CIA]: CIA. How to Sound Like a Spy: Five Colloquialisms at CIA - CIA. 19 Sept. 2024, www.cia.gov/stories/story/how-to-sound-like-a-spy-five-colloquialisms-at-cia.

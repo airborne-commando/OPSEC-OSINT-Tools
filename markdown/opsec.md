@@ -398,7 +398,7 @@ And again [You Didn't Have to Post That](https://www.youtube.com/watch?v=AkQaL9S
 
 ---
 
-Sources:
+## References:
 
 [^sciencedirect]: "Layered Security." *ScienceDirect*, Elsevier B.V., 2025, www.sciencedirect.com/topics/computer-science/layered-security. Accessed 22 Sept. 2025.
 

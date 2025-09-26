@@ -187,7 +187,7 @@ Combining visual intelligence (IMINT) with social data (SOCMINT) and digital pro
 
 back to the readme [main OPSEC-OSINT-Tools repository](../README.md).
 
-sources:
+## References:
 
 [^odni]: Office of the Director of National Intelligence. "Intelligence Community." *ODNI*, https://www.odni.gov/index.php/ncsc-what-we-do/121-dni/intelligence-community. Accessed 22 Sept. 2025.
 

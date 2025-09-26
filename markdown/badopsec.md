@@ -86,7 +86,7 @@ Mullvad VPN offers several features that prioritize user privacy and security:
 However I'd like to point out that even with services like mullvad you'd still get caught on some circumstances even with a no log policy. Humans can deduce and figure stuff out on their own machines cannot and have to be guided. None of these tools are fullproof and the issue will exist between user and keyboard. See also the [main guide](../README.md#how-to-opsec).
 
 
-sources:
+## References:
 
 [^ulbricht]: United States, Department of Justice. "Ross Ulbricht, A/K/A “Dread Pirate Roberts,” Sentenced In Manhattan Federal Court To Life In Prison." *Justice.gov*, 29 May 2015, https://www.justice.gov/usao-sdny/pr/ross-ulbricht-aka-dread-pirate-roberts-sentenced-manhattan-federal-court-life-prison. Accessed 22 Sept. 2025.
 
