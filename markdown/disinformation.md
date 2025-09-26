@@ -1,12 +1,12 @@
 ## Table of Contents
 
-- [Disinformation in OSINT](#Disinformation-in-OSINT)
-  - [What is a Disinformation?](#What-is-a-Disinformation?)
-  - [How Does a Disinformation Work in OSINT?](#How-Does-a-Disinformation-Work-in-OSINT?)
+- [Disinformation in OSINT](#disinformation-in-osint)
+  - [What is a Disinformation?](#what-is-a-disinformation?)
+  - [How Does a Disinformation Work in OSINT?](#how-does-a-disinformation-work-in-osint?)
   - [Purpose and Use Cases](#purpose-and-use-cases)
   - [Relevance to OSINT Practitioners](#relevance-to-osint-practitioners)
   - [Conclusion](#conclusion)
-  - [References](#References)
+  - [References](#references)
   - [main guide](../README.md)
 
 # Disinformation in OSINT
