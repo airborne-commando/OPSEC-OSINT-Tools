@@ -7,6 +7,7 @@
 - [Detailed examples](#Detailed-examples)
 - [RUMINT vs HUMINT](#rumint-vs-humint)
 - [Summary Table](#summary-table)
+- [References](#References)
 - back to [main guide](../README.md)
 
 # HUMINT Overview
@@ -142,6 +143,8 @@ HUMINT isn't limited to espionage—it appears in many civilian and professional
 > HUMINT is a critical component of both professional intelligence operations and everyday information gathering. It emphasizes the power of direct human engagement in understanding environments, people, and events.
 
 > It is also good to remember that loose lips sink ships.
+
+## References:
 
 [^encyclopedia]: "HUMINT (Human Intelligence) ." Encyclopedia of Espionage, Intelligence, and Security. . Encyclopedia.com. 2 Sep. 2025 <https://www.encyclopedia.com>.
 

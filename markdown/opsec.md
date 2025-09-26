@@ -16,6 +16,7 @@ A comprehensive guide to operational security tools and techniques.
 - [Data Destruction](#data-destruction)
 - [Miscellaneous](#miscellaneous)
 - [physical security](#physical-security-in-opsec)
+- [References](#References)
 - back to [main guide](../README.md)
 
 ---
@@ -398,7 +399,7 @@ And again [You Didn't Have to Post That](https://www.youtube.com/watch?v=AkQaL9S
 
 ---
 
-Sources:
+## References:
 
 [^sciencedirect]: "Layered Security." *ScienceDirect*, Elsevier B.V., 2025, www.sciencedirect.com/topics/computer-science/layered-security. Accessed 22 Sept. 2025.
 

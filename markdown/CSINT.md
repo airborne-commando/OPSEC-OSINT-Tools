@@ -1,3 +1,8 @@
+## Table of Contents
+- [Closed-Source Intelligence](#Closed-Source-Intelligence-(CSINT))
+- [In historical context for CSINT](#In-historical-context-for-CSINT)
+- [References](#References)
+- back to [main guide](../README.md)
 ## Closed-Source Intelligence (CSINT)
 
 CSINT[^psu][^azdps] refers to "Closed-Source Intelligence." It is the process of collecting and analyzing information from non-public, restricted, or confidential sources. These sources can include classified government documents, proprietary corporate data, internal communications, or data obtained through confidential agreements or intelligence networks. CSINT is used in investigations where sensitive or confidential information is critical, such as in law enforcement, intelligence organizations, corporate security, and private investigations.
@@ -10,7 +15,7 @@ CSINT access is typically regulated legally, requiring court orders, warrants, o
 
 "Throughout history, military, religious and community leaders have actively sought individuals with information-gathering skills, basing decisions on intelligence obtained this way. The earliest recognized text on this subject is "The Art of War, The Art of Strategy[^Sunzi][^Tzu]" by Sun Tzu, a 5th century BC Chinese warlord and mercenary. He was acclaimed for commanding successful military operations through effective intelligence gathering and decision-making. This work remains essential reading for military and corporate strategists and intelligence operatives worldwide, demonstrating that deploying information gatherers for military operations is commonplace." As described on page 3 (United Nations Office on Drugs and Crime, 2011)[^azdps]
 
-**In historical context for CSINT:**
+## In historical context for CSINT:
 
 "All warfare is based on deception" and "As a result, only an enlightened ruler and a wise general will use the army's highest intelligence for spying purposes, achieving great success. Spies are a critical element in water (warfare) because they determine an army's ability to move." As described on page 3 and 62 (Sun-Tzu on the Art of War, 1910)[^Tzu]
 
@@ -25,9 +30,7 @@ See [HUMINT](HUMINT.md) and [Breached Data](../README.md#breached-data) for rela
 
 Rumors can undermine or compromise the credibility of a human source, a risk particularly relevant when HUMINT and CSINT intersect.
 
-Back to the [main guide](../README.md).
-
-source:
+## References:
 
 [^psu]: Pennsylvania State University, et al. “L3.09: Closed Source Data.” psu.edu, 2016, [www.e-education.psu.edu/geointmooc/node/2016](https://www.e-education.psu.edu/geointmooc/node/2016).
 

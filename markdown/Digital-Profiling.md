@@ -13,6 +13,7 @@
 - [Summary Table: Digital Profiling Process](#summary-table-digital-profiling-process)
 - [Applying psyops operations](#applying-psyops)
 - [Best Way to Fight Against OSINT Profiling](#best-way-to-fight-against-osint-profiling)
+- [References](#References)
 - back to [main guide](../README.md)
 
 # Digital Profiling pipeline
@@ -175,7 +176,7 @@ In essence, this mindset places you in a constant state of alert—treating huma
 
 --------------
 
-sources:
+## References:
 
 [^kraakevik]: Kraakevik, Jeff. "Crafting a Positive Professional Digital Profile to Augment Your Practice." *Neurology: Clinical Practice*, vol. 6, no. 1, 2016, pp. 87–93. PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC5765898/. 
 

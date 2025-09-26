@@ -12,6 +12,7 @@
 - [OPSEC Failures: Lessons from Real-World Mistakes](#opsec-failures-lessons-from-real-world-mistakes)
   - [Guccifer 2.0's VPN Error](#guccifer-20s-vpn-error)
   - [Silk Road's Ross Ulbricht](#silk-roads-ross-ulbricht)
+  - [References](#References)
   - back to [main guide](../README.md)
 
 [This Readme, guide or how-to](../README.md) provides a comprehensive collection of tools and guidelines related to Operational Security (OPSEC) and Open-Source Intelligence (OSINT). These resources are applicable to various groups, including criminals, civilians, and law enforcement. Below are real-world examples illustrating how these tools and practices have been utilized across these groups:
@@ -62,7 +63,7 @@ These examples underscore the dual-edged nature of OSINT and OPSEC tools. While 
 
 ---
 
-Sources:
+## References:
 
 [^hrwcam]: Human Rights Watch. "Cameroon: Soldiers Get 10 Years for Murder of Civilians." *Human Rights Watch*, 23 Sept. 2020, https://www.hrw.org/news/2020/09/23/cameroon-soldiers-get-10-years-murder-civilians. Accessed 22 Sept. 2025.
 

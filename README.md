@@ -35,6 +35,7 @@
 16. [Social Media](#social-media)
 17. [Self OSINT](#toolchain-self-osint)
 18. [Curated lists](#curated-lists)
+19. [References](#References)
 
 ## ***DISCLAIMER***
 
@@ -676,7 +677,7 @@ Additional tools:
 
 
 
-Donations:
+## Donations:
 
 If you find this useful feel free to donate to this monero address:
 
@@ -686,7 +687,7 @@ If you find this useful feel free to donate to this monero address:
 </p>
 
 
-sources:
+## References:
 
 [^odni_intel]: ---. “What Is Intelligence?” www.dni.gov, www.dni.gov/index.php/what-we-do/what-is-intelligence. Accessed 24 Sept. 2025. (Office of the Director of National Intelligence, “What Is Intelligence?,” sec.HUMINT)
 
