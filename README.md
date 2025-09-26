@@ -541,7 +541,7 @@ Take a look at the documents which I will [link here](https://breach.vip/api/doc
 
 ### **Key Takeaways**:
 1. **Free vs. Paid**:  
-   - *Free*: HIBP, BreachDirectory, Pentester, Hashes.com.  
+   - *Free*: HIBP, BreachDirectory, Pentester, Hashes.com, breach.vip.  
    - *Limited Free*: LeakPeek (5 searches), Breach.vip (login required).  
    - *Paid*: LOLArchiver, LeakPeek plans.  
 
