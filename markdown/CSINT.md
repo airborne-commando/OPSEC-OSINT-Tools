@@ -4,21 +4,37 @@ CSINT[^psu][^azdps] refers to "Closed-Source Intelligence." It is the process of
 
 CSINT access is typically regulated legally, requiring court orders, warrants, or special permissions, and it involves a structured process of accessing, collecting, and analyzing this restricted information safely and ethically. It provides insights that are often unavailable through public or open sources, making it valuable in cases like criminal investigations, national security, and corporate fraud. Its use is bound by strict legal and ethical considerations to protect privacy and avoid misuse.
 
-Information sources fall into three main categories: open, closed, and classified. Open source (OSINT) refers to publicly available material, including “grey literature” such as reports, theses, conference documents, and newsletters. While useful, these may be unreliable, biased, or exaggerated. Closed source information is restricted, often found in structured databases containing personal records, registrations, or intelligence relevant to investigations. Access is generally limited for specific purposes. Classified information, obtained through covert methods like human or technical intelligence, is typically highly accurate and valuable. However, strict dissemination controls can limit its practical use in analytical and operational contexts.
+"Information sources are categorized as open, closed, and classified. Open source (OSINT) includes publicly available materials like reports, theses, and newsletters, but may be unreliable or biased. Closed source information is restricted data in databases containing personal records or intelligence, with limited access. Classified information, gathered through covert human or technical intelligence, is highly accurate but has strict dissemination controls that can limit practical use."
 
-Information sources fall into three main categories: open, closed, and classified. Open source (OSINT) refers to publicly available material, including “grey literature” such as reports, theses, conference documents, and newsletters. While useful, these may be unreliable, biased, or exaggerated. Closed source information is restricted, often found in structured databases containing personal records, registrations, or intelligence relevant to investigations. Access is generally limited for specific purposes. Classified information, obtained through covert methods like human or technical intelligence, is typically highly accurate and valuable. However, strict dissemination controls can limit its practical use in analytical and operational contexts. (12)
+"Closed source data, because of its origin, is often considered more accurate and reliable" (Pennsylvania State University, 2016)[^psu].
 
-"Closed source data, because of its origin, is often considered more accurate and reliable" (Pennsylvania State University, 2023)[^psu].
+"Throughout history, military, religious and community leaders have actively sought individuals with information-gathering skills, basing decisions on intelligence obtained this way. The earliest recognized text on this subject is "The Art of War, The Art of Strategy[^Sunzi][^Tzu]" by Sun Tzu, a 5th century BC Chinese warlord and mercenary. He was acclaimed for commanding successful military operations through effective intelligence gathering and decision-making. This work remains essential reading for military and corporate strategists and intelligence operatives worldwide, demonstrating that deploying information gatherers for military operations is commonplace." As described on page 3 (United Nations Office on Drugs and Crime, 2011)[^azdps]
+
+**In historical context for CSINT:**
+
+"All warfare is based on deception" and "As a result, only an enlightened ruler and a wise general will use the army's highest intelligence for spying purposes, achieving great success. Spies are a critical element in water (warfare) because they determine an army's ability to move." As described on page 3 and 62 (Sun-Tzu on the Art of War, 1910)[^Tzu]
+
+Meaning that [HUMINT](HUMINT.md) is also CSINT, both historically and in the modern world.
 
 In summary:
-- As intelligence, CSINT means collecting confidential, non-public information with legal authority or illegal depending on context such as hacking.
+- CSINT involves collecting confidential, non-public information through methods that may be legal (with proper authority) or illegal (such as hacking), depending on the context.
+- CSINT may derive from human sources, such as interrogations, interviews, or insider reporting. This includes both government and civilian contexts—for example, corporate due diligence, employee vetting, or business negotiations.
+- HUMINT and CSINT overlap, but can be separate; it again all depends on the context. Was it a secret operation or an interview?
 
-See [HUMINT](HUMINT.md) and [Main Guide/Breached Data](../README.md#breached-data) as examples.
+See [HUMINT](HUMINT.md) and [Breached Data](../README.md#breached-data) for related examples. Analysts should be cautious: while closed sources are often more reliable, they are not immune to rumor or bias. As the CIA notes, restricted information “typically involves confidential personnel decisions, upcoming policy announcements relevant to staff, or compelling rumors” (CIA, 2024)[^CIA].  
+
+Rumors can undermine or compromise the credibility of a human source, a risk particularly relevant when HUMINT and CSINT intersect.
 
 Back to the [main guide](../README.md).
 
 source:
 
-[^psu]: Pennsylvania State University, et al. “L3.09: Closed Source Data.” psu.edu, 2023, www.e-education.psu.edu/geointmooc/node/2016.
+[^psu]: Pennsylvania State University, et al. “L3.09: Closed Source Data.” psu.edu, 2016, [www.e-education.psu.edu/geointmooc/node/2016](https://www.e-education.psu.edu/geointmooc/node/2016).
 
-[^azdps]: Criminal Intelligence: Manual for Analysts. United Nations, 2011, www.unodc.org/documents/organized-crime/Law-Enforcement/Criminal_Intelligence_for_Analysts.pdf.
+[^azdps]: Criminal Intelligence: Manual for Analysts. United Nations, 2011, [www.unodc.org/documents/organized-crime/Law-Enforcement/Criminal_Intelligence_for_Analysts.pdf](https://www.unodc.org/documents/organized-crime/Law-Enforcement/Criminal_Intelligence_for_Analysts.pdf).
+
+[^Tzu]: 孫子, and Lionel Giles. Sun-Tzu on the Art of War: The Oldest Military Treatise in the World. 1910. Leicester, United Kingdom, United Kingdom of Great Britain and Northern Ireland, Allandale Online Publishing, 2000, sites.ualberta.ca/~enoch/Readings/The_Art_Of_War.pdf.
+
+[^Sunzi]: Sunzi. The Art of Strategy: A New Translation of Sun Tzu’s Classic The Art of War. 1988.
+
+[^CIA]: CIA. How to Sound Like a Spy: Five Colloquialisms at CIA - CIA. 19 Sept. 2024, www.cia.gov/stories/story/how-to-sound-like-a-spy-five-colloquialisms-at-cia.
