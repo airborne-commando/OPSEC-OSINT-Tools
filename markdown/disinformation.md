@@ -6,6 +6,7 @@
   - [Purpose and Use Cases](#purpose-and-use-cases)
   - [Relevance to OSINT Practitioners](#relevance-to-osint-practitioners)
   - [Conclusion](#conclusion)
+  - [References](#References)
   - [main guide](../README.md)
 
 # Disinformation in OSINT

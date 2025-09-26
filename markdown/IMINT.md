@@ -33,6 +33,7 @@
 
 6. [10 Practical Use Cases](#10-practical-use-cases)  
 7. [Best Practices & Cautions](#best-practices--cautions)
+8. [References](#References)
 
 ---
 

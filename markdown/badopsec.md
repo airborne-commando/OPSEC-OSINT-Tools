@@ -13,7 +13,8 @@
 4. [Mullvad VPN: A Contrast in Security](#mullvad-vpn-a-contrast-in-security)
 
 5. [Final Thoughts](#final-thoughts)
-6. Back to [main guide](../README.md)
+6. [References](#References)
+7. Back to [main guide](../README.md)
 
 # Here are some notable examples of bad Tor OPSEC:
 
