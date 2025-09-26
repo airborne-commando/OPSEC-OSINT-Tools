@@ -8,8 +8,6 @@ CSINT access is typically regulated legally, requiring court orders, warrants, o
 
 "Closed source data, because of its origin, is often considered more accurate and reliable" (Pennsylvania State University, 2016)[^psu].
 
-"typically revolves around close-held personnel decisions, upcoming policy announcements that will impact the workforce, or some juicy gossip." (CIA, Sept 19 2024)[^CIA]
-
 "Throughout history, military, religious and community leaders have actively sought individuals with information-gathering skills, basing decisions on intelligence obtained this way. The earliest recognized text on this subject is "The Art of War, The Art of Strategy[^Sunzi][^Tzu]" by Sun Tzu, a 5th century BC Chinese warlord and mercenary. He was acclaimed for commanding successful military operations through effective intelligence gathering and decision-making. This work remains essential reading for military and corporate strategists and intelligence operatives worldwide, demonstrating that deploying information gatherers for military operations is commonplace." As described on page 3 (United Nations Office on Drugs and Crime, 2011)[^azdps]
 
 **In historical context for CSINT:**
@@ -25,6 +23,8 @@ In summary:
 - HUMINT and CSINT overlap, but can be separate; it again all depends on the context. Was it a secret operation or an interview?
 
 See [HUMINT](HUMINT.md) and [Main Guide/Breached Data](../README.md#breached-data) as examples. But you need to be aware of rumors.
+
+"typically revolves around close-held personnel decisions, upcoming policy announcements that will impact the workforce, or some juicy gossip." (CIA, Sept 19 2024)[^CIA]
 
 Back to the [main guide](../README.md).
 
