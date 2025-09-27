@@ -136,7 +136,7 @@ HUMINT isn't limited to espionage—it appears in many civilian and professional
 | RUMINT            | Early warnings, new leads, public sentiment | Unverified, unreliable, risk of [disinformation](disinformation.md)        |
 | HUMINT            | In-depth, contextual, adaptable             | Source-dependent, risk of deception, operational risk |
 
-`To be clear, RUMINT is not, we repeat NOT, a real INT. Agency RUMINT typically revolves around close-held personnel decisions, upcoming policy announcements that will impact the workforce, or some juicy gossip.`[^CIA]
+As the CIA notes “typically involves confidential personnel decisions, upcoming policy announcements relevant to staff, or compelling rumors” (CIA, 2024)[^CIA].  
 
 ---
 

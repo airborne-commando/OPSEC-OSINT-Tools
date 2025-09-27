@@ -15,7 +15,6 @@ A comprehensive guide to operational security tools and techniques.
 - [Cryptocurrency](#cryptocurrency)
 - [Data Destruction](#data-destruction)
 - [Miscellaneous](#miscellaneous)
-- [physical security](#physical-security-in-opsec)
 - [References](#References)
 - back to [main guide](../README.md)
 
@@ -175,20 +174,27 @@ To monitor I2P status:
 
 ## Virtualization
 
-**Virtualization** allows a single physical machine to run multiple virtual environments, improving resource use and flexibility.
+**Virtualization** Virtual machines running a full operating system.(Yale University, 2014)[^Yale]
 
 ### How It Works
 
 * **Virtual Machines (VMs)**: Simulated systems that run independently on shared hardware.
-* **Hypervisor**: Software that manages VMs.
+* **Hypervisor**: Software that manages VMs, directly on the CPU[^Yale]. 
 
-  * **Type 1** runs directly on hardware (e.g., VMware ESXi).
-  * **Type 2** runs on an OS (e.g., VMware Workstation).
+  * **Type 1** runs directly on hardware (e.g., VMware ESXi).[^Caltech]
+  * **Type 2** runs on an OS, typically a server.[^Caltech]
+
+
+How secure are Virtual machines?
+
+As stated on The University of Tennessee's webpage "While virtual machines offer valuable flexibility, they can also create security vulnerabilities if they are not properly configured."[^utk]
+
+It can also depend on the host system. In an example the system gets compromised either physically or by a virus and the Virtual Machine is not secured inside a LUKS drive.
 
 ### Types
 
-* **Server**: Multiple servers on one machine. (XCP-NG)
-* **Desktop**: Centralized desktops delivered to users. (what We're using)
+* **Server**: It is designed to operate on machines made of bare metal (The Linux Foundation).[^XCP-ng][^vanderbilt]
+* **Desktop**: Centralized desktops delivered to users.
 * **Network**: Virtual network channels.
 * **Storage**: Unified storage from multiple devices.
 * **Application**: Apps run independently of the OS.
@@ -321,76 +327,6 @@ After that is done, I delete the convo for both but keep private notes for both 
 
 For SSD's I'd recommend using LUK's or a container as securely erasing in traditional means is basically useless if you want to format the entire drive.[^sciencedirect]
 
-# Physical Security in OPSEC
-
-**Physical security**[^tfd] is a core component of Operations Security (OPSEC) and refers to the measures taken to protect personnel, equipment, facilities, and information from physical threats such as unauthorized access, theft, vandalism, espionage, sabotage, terrorism, and natural disasters. In the context of OPSEC, physical security is about preventing adversaries from gaining physical access to sensitive information or critical infrastructure that could be exploited.
-
-Physical security typically involves a layered approach, often called "security-in-depth," which integrates multiple active and passive controls such as:
-
-* Perimeter barriers (fences, gates)
-* Surveillance systems (CCTV, sensors)
-* Access control (locks, badges, biometrics)
-* Security personnel (guards, patrols)
-* Intrusion detection systems
-* Lighting and environmental design
-
-These layers are designed to deter, detect, delay, and respond to potential threats, thereby reducing the risk of compromise or harm to assets and information.
-
-## Can Physical Security Include Firearms?
-
->Did you know that a ‘weapon’ is any device used with intent to inflict damage or harm to living beings or structures?
-
-Yes, physical security measures can include the use of firearms, especially in high-risk environments or where there is a credible threat of armed intrusion, terrorism, or violent crime. Armed security personnel are often deployed as a visible deterrent and as part of the response capability within a physical security plan.
-
-For example:
-
-* Military and critical infrastructure facilities may issue firearms to security forces as prescribed by their operational requirements and after proper briefing on the use of force.
-* The presence of well-trained, armed security guards is recognized as an effective deterrence measure in certain high-risk settings.
-
-However, the inclusion of firearms in physical security is subject to strict policies, legal regulations, and operational guidelines to ensure appropriate use and to mitigate potential risks associated with armed response.
-
-## Summary Table
-
-| Aspect                    | Description                                                                                          | Can Include Firearms? |
-| ------------------------- | ---------------------------------------------------------------------------------------------------- | --------------------- |
-| Physical Security (OPSEC) | Measures to protect assets, personnel, and information from physical threats                         | Yes, if justified     |
-| Typical Measures          | Barriers, surveillance, access control, guards, detection systems                                    |                       |
-| Firearms Role             | Used by trained security personnel as a deterrent and for response in high-risk or military settings | Yes                   |
-
-**In summary:** Physical security in OPSEC is about safeguarding assets from physical threats using layered controls, and in certain contexts—especially military or high-security environments—this can include the deployment of firearms as part of the overall security strategy.
-
-
----
-
-## Physical Security and Chemical Protection[^tfd]
-
-**Physical security** in the context of OPSEC (Operational Security) refers to measures that protect physical assets, spaces, and people from unauthorized access, theft, or harm. This includes barriers, locks, surveillance, guards, and other tangible protections.
-
-**Chemical protection**—such as using chemicals to deter, incapacitate, or protect oneself (e.g., pepper spray, tear gas, or chemical barriers)—can be considered part of physical security if the intent is to prevent or mitigate physical threats. These are tools or methods that physically affect an intruder or attacker, thereby contributing to the overall physical security posture.
-
----
-
-## Key Points
-
-- Physical security focuses on tangible measures to prevent unauthorized physical access or harm.
-- Using chemicals (like pepper spray or tear gas) as a defensive measure falls under physical security because it directly impacts the physical safety or integrity of people or property.
-- The use of chemicals for protection is often regulated by law and may have ethical, legal, and safety implications.
-
----
-
-## Summary Table
-
-| Security Type       | Typical Measures                         | Can Include Chemicals?   |
-|---------------------|------------------------------------------|--------------------------|
-| Physical Security   | Locks, barriers, guards, surveillance    | Yes (e.g., pepper spray) |
-| Chemical Security   | Safe handling/storage of chemicals       | Not typically for defense|
-
----
-
-## Conclusion
-
-Yes, using chemicals to protect yourself (such as defensive sprays) can be considered part of physical security in OPSEC, as these are tangible means to prevent or mitigate physical threats. Always ensure such measures comply with relevant laws and regulations.
-
 ---
 
 
@@ -403,4 +339,12 @@ And again [You Didn't Have to Post That](https://www.youtube.com/watch?v=AkQaL9S
 
 [^sciencedirect]: "Layered Security." *ScienceDirect*, Elsevier B.V., 2025, www.sciencedirect.com/topics/computer-science/layered-security. Accessed 22 Sept. 2025.
 
-[^tfd]: "Physical Security." *TheFreeDictionary*, Farlex, en.thefreedictionary.com/physical%2Bsecurity. Accessed 22 Sept. 2025.
+[^utk]: University of Tennessee, Knoxville. “Protecting Your Virtual Machines Office of Innovative Technologies.” utk.edu, oit.utk.edu/security/learning-library/article-archive/protecting-your-virtual-machines. Accessed 26 Sept. 2025.
+
+[^Yale]: Yale University. “Virtualization.” cs.yale.edu, 17 June 2014, www.cs.yale.edu/homes/aspnes/pinewiki/Virtualization.html.
+
+[^Caltech]: Kelley, Karin. “Cloud Computing Tutorial: Virtualization, Hypervisors, and VMware Workstation - Caltech.” pg-p.ctme.caltech.edu, 24 June 2024, pg-p.ctme.caltech.edu/blog/cloud-computing/virtualization-hypervisors-and-vmware-workstation.
+
+[^vanderbilt]: VANDERBILT UNIVERSITY. “Virtual Servers.” tdx.vanderbilt.edu, tdx.vanderbilt.edu/TDClient/33/Portal/Requests/ServiceDet?ID=147. Accessed 26 Sept. 2025.
+
+[^XCP-ng]: The Linux Foundation. “XCP-ng Documentation.” https://docs.xcp-ng.org/, docs.xcp-ng.org. Accessed 26 Sept. 2025.

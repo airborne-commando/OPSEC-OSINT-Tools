@@ -686,8 +686,6 @@ Additional tools:
 
 - For additional tools see the curated-lists above
 
-
-
 ## Donations:
 
 If you find this useful feel free to donate to this monero address:
