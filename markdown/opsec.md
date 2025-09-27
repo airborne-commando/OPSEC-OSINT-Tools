@@ -194,7 +194,7 @@ It can also depend on the host system. In an example the system gets compromised
 ### Types
 
 * **Server**: It is designed to operate on machines made of bare metal (The Linux Foundation).[^XCP-ng][^vanderbilt]
-* **Desktop**: Centralized desktops delivered to users.
+* **Desktop**: Centralized desktops delivered to users, think amazon web service.[^GeeksforGeeks]
 * **Network**: Virtual network channels.
 * **Storage**: Unified storage from multiple devices.
 * **Application**: Apps run independently of the OS.
@@ -339,12 +339,14 @@ And again [You Didn't Have to Post That](https://www.youtube.com/watch?v=AkQaL9S
 
 [^sciencedirect]: "Layered Security." *ScienceDirect*, Elsevier B.V., 2025, www.sciencedirect.com/topics/computer-science/layered-security. Accessed 22 Sept. 2025.
 
-[^utk]: University of Tennessee, Knoxville. “Protecting Your Virtual Machines Office of Innovative Technologies.” utk.edu, oit.utk.edu/security/learning-library/article-archive/protecting-your-virtual-machines. Accessed 26 Sept. 2025.
+[^utk]: University of Tennessee, Knoxville. “Protecting Your Virtual Machines Office of Innovative Technologies.” The University of Tennessee Knoxville, oit.utk.edu/security/learning-library/article-archive/protecting-your-virtual-machines. Accessed 26 Sept. 2025.
 
-[^Yale]: Yale University. “Virtualization.” cs.yale.edu, 17 June 2014, www.cs.yale.edu/homes/aspnes/pinewiki/Virtualization.html.
+[^Yale]: Yale University. “Virtualization.” yale, 17 June 2014, www.cs.yale.edu/homes/aspnes/pinewiki/Virtualization.html.
 
 [^Caltech]: Kelley, Karin. “Cloud Computing Tutorial: Virtualization, Hypervisors, and VMware Workstation - Caltech.” pg-p.ctme.caltech.edu, 24 June 2024, pg-p.ctme.caltech.edu/blog/cloud-computing/virtualization-hypervisors-and-vmware-workstation.
 
-[^vanderbilt]: VANDERBILT UNIVERSITY. “Virtual Servers.” tdx.vanderbilt.edu, tdx.vanderbilt.edu/TDClient/33/Portal/Requests/ServiceDet?ID=147. Accessed 26 Sept. 2025.
+[^vanderbilt]: Vanderbilt University. “Virtual Servers.” Vanderbilt University, tdx.vanderbilt.edu/TDClient/33/Portal/Requests/ServiceDet?ID=147. Accessed 26 Sept. 2025.
 
-[^XCP-ng]: The Linux Foundation. “XCP-ng Documentation.” https://docs.xcp-ng.org/, docs.xcp-ng.org. Accessed 26 Sept. 2025.
+[^XCP-ng]: The Linux Foundation. “XCP-ng Documentation.” Xcp-ng, docs.xcp-ng.org. Accessed 26 Sept. 2025.
+
+[^GeeksforGeeks]: GeeksforGeeks. “What Is Hosted Virtual Desktops (HVD)?” GeeksforGeeks, 23 July 2025, www.geeksforgeeks.org/cloud-computing/what-is-hosted-virtual-desktops-hvd/#.

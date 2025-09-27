@@ -152,7 +152,7 @@ As the CIA notes “typically involves confidential personnel decisions, upcomin
 
 [^FBI]: FBI, and Simon Block. “Using Human Sources in Counterterrorism Operations.” Leb, 8 Apr. 2016, leb.fbi.gov/articles/featured-articles/using-human-sources-in-counterterrorism-operations-understanding-the-motivations-and-political-impact.
 
-[^armywarcollege]: Cunningham, Alan. “THE HUMAN SOLUTION: COUNTERING CYBER THREATS IN FINANCE.” War Room - U.S. Army War College, 21 Sept. 2023, warroom.armywarcollege.edu/articles/cyber-threats-finance.
+[^armywarcollege]: Cunningham, Alan. “The Human Solution: Countering Cyber Threats In Finance.” War Room - U.S. Army War College, 21 Sept. 2023, warroom.armywarcollege.edu/articles/cyber-threats-finance.
 
 [^NPS]: Levenson, Kathleen Hyatt Zachary. Social Engineering Impacts on Government Acquisition. 1 May 2023, dair.nps.edu/handle/123456789/4858.
 
@@ -160,4 +160,4 @@ As the CIA notes “typically involves confidential personnel decisions, upcomin
 
 [^Fong]: See Allan Fong, Interrogations and False Confessions: How the Innocent Are Made Guilty, 30 S. Cal. Rev. L. & Soc. Just. 363, 388
 
-[^odni_intel]: ---. “What Is Intelligence?” www.dni.gov, www.dni.gov/index.php/what-we-do/what-is-intelligence. Accessed 24 Sept. 2025. (Office of the Director of National Intelligence, “What Is Intelligence?,” sec.HUMINT)
+[^odni_intel]: ---. “What Is Intelligence?” Office of the Director of National Intelligence, www.dni.gov/index.php/what-we-do/what-is-intelligence. Accessed 24 Sept. 2025. (Office of the Director of National Intelligence, “What Is Intelligence?,” sec.HUMINT)

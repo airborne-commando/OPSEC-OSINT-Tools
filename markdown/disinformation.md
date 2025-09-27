@@ -46,6 +46,6 @@ Recognizing and countering such operations is a critical skill for OSINT practit
 
 ## References:
 
-[^cisa_disinfo]: CISA. “Tactics of Disinformation.” https://www.cisa.gov, 18 Oct. 2022, web.archive.org/web/20230804043427/https://www.cisa.gov/resources-tools/resources/tactics-disinformation.
+[^cisa_disinfo]: CISA. “Tactics of Disinformation.” Cybersecurity Infrastructure Security Agency, 18 Oct. 2022, web.archive.org/web/20230804043427/https://www.cisa.gov/resources-tools/resources/tactics-disinformation.
 
-[^misinformation]: College of Staten Island. “CSI Library: Misinformation and Disinformation: Thinking Critically About Information Sources: Misinformation, Disinformation, and Malinformation.” https://library.csi.cuny.edu, uploaded by College of Staten Island, 25 Aug. 2025, library.csi.cuny.edu/misinformation.
+[^misinformation]: College of Staten Island. “CSI Library: Misinformation and Disinformation: Thinking Critically About Information Sources: Misinformation, Disinformation, and Malinformation.” College of Staten Island The City University of New York, uploaded by College of Staten Island, 25 Aug. 2025, library.csi.cuny.edu/misinformation.

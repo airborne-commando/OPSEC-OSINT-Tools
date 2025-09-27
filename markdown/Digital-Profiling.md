@@ -35,9 +35,13 @@ Digital profiling and behavioral analysis[^fbi][^pmc] are powerful techniques fo
 
 ---
 
+"Although the digital biography contains a host of details about a person, it captures a distorted persona, one who is constructed by a variety of external details."
+—Daniel J. Solove[^muse]
+
+
 ## 2. Collect Digital Biographical Information
 
-Start by building a **digital biography**[^usf][^muse][^Veletsianos] of the subject:
+Start by building a **digital biography**[^usf][^muse] of the subject:
 
 - Gather identifiers (usernames, email addresses, phone numbers).
 - Track websites visited, forum posts, social media profiles, and public comments.
@@ -180,16 +184,12 @@ In essence, this mindset places you in a constant state of alert—treating huma
 
 [^kraakevik]: Kraakevik, Jeff. "Crafting a Positive Professional Digital Profile to Augment Your Practice." *Neurology: Clinical Practice*, vol. 6, no. 1, 2016, pp. 87–93. PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC5765898/. 
 
-
-[^fbi]: Federal Bureau of Investigation. "Behavioral Analysis." *FBI*, 12 Apr. 2023, https://www.fbi.gov/how-we-investigate/behavioral-analysis. Accessed 22 Sept. 2025.
-
+[^fbi]: "---." “Behavioral Analysis.” FBI, www.fbi.gov/how-we-investigate/behavioral-analysis. Accessed 25 Sept. 2025.
 
 [^usf]: University of South Florida, Office of University Communications and Marketing. "Introduction to Social Media." *USF*, https://www.usf.edu/ucm/social-media/intro-social-media.aspx. Accessed 22 Sept. 2025.
 
 [^muse]: Arthur, Paul Longley. "Digital Biography: Capturing Lives Online." a/b: Auto/Biography Studies, vol. 24 no. 1, 2009, p. 74-92. Project MUSE, https://muse.jhu.edu/article/394172.
 
-[^survivalgear]: "The Art and Impact of Psychological Operations on Civilians." *Survival Gear BSO*, https://www.survivalgear.us/blogs/guides/the-art-and-impact-of-psychological-operations-on-civilians. Accessed 22 Sept. 2025.
+[^survivalgear]: Loftus, Brian. “The Art and Impact of Psychological Operations on Civilians.” Survival Gear BSO, 1 Feb. 2024, www.survivalgear.us/blogs/guides/the-art-and-impact-of-psychological-operations-on-civilians.
 
 [^pmc]: Bada, Maria, and Angela M. Sasse. "Cyber Security Awareness Campaigns: Why Do They Fail to Change Behaviour?" *International Conference on Cyber Security for Sustainable Society*, 2015, pp. 1-10. *PubMed Central*, doi:10.1093/cybsec/tyv007. Accessed 22 Sept. 2025.
-
-[^Veletsianos]: Veletsianos, George. *Understanding your Online Identity: An Overview of Identity*. 2021. University of Arizona, opentextbooks.library.arizona.edu/app/uploads/sites/151/2021/12/Understanding-your-Online-Identity-An-Overview-of-Identity.pdf. Accessed 23 Sept. 2025.
