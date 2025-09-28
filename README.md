@@ -817,7 +817,7 @@ If you find this useful feel free to donate to this monero address:
 
 [^"Six Hackers in the United States and Abroad Charged for Crimes Affecting Over One Million Victims.” FBI, 6 Mar. 2012]: "Six Hackers in the United States and Abroad Charged for Crimes Affecting Over One Million Victims.” FBI, 6 Mar. 2012, archives.fbi.gov/archives/newyork/press-releases/2012/six-hackers-in-the-united-states-and-abroad-charged-for-crimes-affecting-over-one-million-victims.
 
-[^Katz, Basil. “Four Irish, British Suspects Helped Stratfor Hack: U.S.” Reuters, 2 May 2012]: Katz, Basil. “Four Irish, British Suspects Helped Stratfor Hack: U.S.” Reuters, 2 May 2012, www.reuters.com/article/world/us/four-irish-british-suspects-helped-stratfor-hack-us-idUSBRE8411P7.
+[^katz,_basil._“_four_irish,_british_suspects_helped_stratfor_hack:_u.s.”_reuters,_2_may_2012]: Katz, Basil. “Four Irish, British Suspects Helped Stratfor Hack: U.S.” Reuters, 2 May 2012, www.reuters.com/article/world/us/four-irish-british-suspects-helped-stratfor-hack-us-idUSBRE8411P7.
 
 [^fordham]: Adler, David. “Silk Road: The Dark Side of Cryptocurrency.” Fordham Journal of Corporate and Law, 21 Feb. 2018, news.law.fordham.edu/jcfl/2018/02/21/silk-road-the-dark-side-of-cryptocurrency.
 
