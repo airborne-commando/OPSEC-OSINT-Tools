@@ -30,7 +30,7 @@ Digital profiling and behavioral analysis[^fbi][^pmc] are powerful techniques fo
 
 ## 1. Understand the Basics
 
-- **Digital Profiling**  is the process of gathering and analyzing information about an individual that exists online, including social media activity, website visits, and more.[^kraakevik]
+- **Digital Profiling** is the process of gathering and analyzing information about an individual that exists online, including social media activity, website visits, and more.[^kraakevik]
 - **Behavioral Analysis** involves examining patterns in this data to infer motives, preferences, habits, and even potential future behavior.[^fbi]
 
 ---
@@ -41,12 +41,14 @@ Digital profiling and behavioral analysis[^fbi][^pmc] are powerful techniques fo
 
 ## 2. Collect Digital Biographical Information
 
-Start by building a **digital biography**[^usf][^muse] of the subject:
+Although most biographies are about well-known individuals, everyone has biographical information about their own lives (Vocabulary.com)[^Biographical].
+
+Start by building a **digital biography**[^usf][^muse][^oracle] of the subject:
 
 - Gather identifiers (usernames, email addresses, phone numbers).
 - Track websites visited, forum posts, social media profiles, and public comments.
 - Note recurring usernames or signatures, and search for their permutations across platforms to uncover more accounts.
-- Document all findings in a structured format, updating as new information emerges.
+- Document all findings in a structured format, updating as new information emerges, archive everything **when legal**.
 
 ---
 
@@ -60,23 +62,24 @@ Start by building a **digital biography**[^usf][^muse] of the subject:
 
 ## 3.1. Examples:
 
-If a user has an old Blogspot account, you can leverage AI tools like Perplexity, ChatGPT, or Claude to analyze their past posts and behavioral patterns. These tools can help identify recurring interests or themes, which may also give insight into potential future behavior—especially when contextualized by the time the posts were made. While reading through a blog manually can be time-consuming, it's still valuable to review the content directly, particularly if the user consistently expresses interest in topics for an example like climate change, pets, or similar subjects that align with the blog’s historical content.
+If a user has an old Blogspot account, you can leverage online Large Language Models or local Large Language Models to analyze their past posts and behavioral patterns. These tools can help identify recurring interests or themes, which may also give insight into potential future behavior—especially when contextualized by the time the posts were made. While reading through a blog manually can be time-consuming, it's still valuable to review the content directly, particularly if the user consistently expresses interest in topics for an example like climate change, pets, or similar subjects that align with the blog’s historical content.
+
+---
 
 ***BE WARNED ABOUT GPT CROSS CONTAMINATION WITH OTHER CHATS***
 
-It will do this, what I'd do is create another account or simply log off. Creating a new account would help however and it's easy. You may also disable gpt to cross reference chat and disable memory but it's probably a good idea to make another account.
+It will do this, what I'd do is create another account. Creating a new account would help however and it's easy. You may also disable gpt to cross reference chat and disable memory but it's probably a good idea to make another account.
 
-Additionally, tools mentioned in the main guide—such as Blackbird or Maigret—can be used to track shared usernames across platforms. This can uncover other accounts the user maintains on services like Poshmark (for online closets), Twitter, Snapchat, or Facebook. By correlating usernames and content across these platforms, you can build a clearer profile of the individual’s interests, habits, and online presence using open-source intelligence (OSINT) methods.
+---
 
-You can also use blackbird's CSV output to create a CSV file to create a list of re-used profile names and also use maigret to generate a text file on a report of used usernames; also don't forget to check the email if itself is a username.
-Then you can feed it into an AI program such as chatgpt, perplexity, or claude.
+Additionally, the tools mentioned in the main guide such as Blackbird or Maigret can be used to track shared usernames across platforms. This can uncover other accounts the user maintains on services like Poshmark, Twitter, Snapchat, or Facebook. By correlating usernames and content across these platforms, you can build a clearer profile of target. This would include: interests, habits, and online presence using open-source intelligence (OSINT) methods and AI/Large Language Models.
 
-You may also add into the CSV's of stuff you found yourself for usernames if there are multiple accounts and add it inside the CSV's later.
+You can also use blackbird's CSV output to create a CSV file. From There you'll be able to create a list of re-used profile names, maigret is optional to generate a text report. Also do not forget to check the email if that itself is a username. When finished, you may feed this into an AI/Large Language Model.
 
 In short:
 
-Compile and assess the info inside the CSV's, be sure to categorize the website.
-Feed it inisde the AI of choice, I'd use GPT but be aware of what I've warned you earlier and draw your own conclusions.
+Compile and assess the info inside the text files, be sure to categorize the websites.
+Feed it inside the AI/Large Language Model of choice, I'd use GPT but be aware of what I've warned you earlier and draw your own conclusions.
 
 ---
 
@@ -103,8 +106,8 @@ Use a multi-axis profile to evaluate:
 
 - Profiling is an ongoing process. As you gather more data, revisit and refine your profile.
 - New discoveries (e.g., a new username or email) can open up further avenues for investigation.
-- Use text editors and CSV editors (Like Libreoffice cal) to document findings, or other forms such as [IMINT](IMINT.md) or anything discussed in the [main guide](../README.md) thats tangible. 
-- Document and compile.
+- Use text editors and CSV editors (Like Libreoffice cal) to document findings, or other forms such as [IMINT](IMINT.md) or anything discussed in the [main guide](../README.md). 
+- Document, archive, compile, repeat/reiterate.
 
 ---
 
@@ -117,7 +120,7 @@ Use a multi-axis profile to evaluate:
 
 ## Summary Table: Digital Profiling Process
 
-| Step                      | Actions                                                                 |
+| Step                      | Actions                                                                |
 |---------------------------|------------------------------------------------------------------------|
 | Collect digital biography | Usernames, emails, social media, forum posts, identifiers              |
 | Analyze behavior          | Posting patterns, language, interests, social networks                 |
@@ -193,3 +196,7 @@ In essence, this mindset places you in a constant state of alert—treating huma
 [^survivalgear]: Loftus, Brian. “The Art and Impact of Psychological Operations on Civilians.” Survival Gear BSO, 1 Feb. 2024, www.survivalgear.us/blogs/guides/the-art-and-impact-of-psychological-operations-on-civilians.
 
 [^pmc]: Bada, Maria, and Angela M. Sasse. "Cyber Security Awareness Campaigns: Why Do They Fail to Change Behaviour?" *International Conference on Cyber Security for Sustainable Society*, 2015, pp. 1-10. *PubMed Central*, doi:10.1093/cybsec/tyv007. Accessed 22 Sept. 2025.
+
+[^oracle]: Understanding Biographical Information. docs.oracle.com/cd/E56917_01/cs9pbr4/eng/cs/lscc/concept_UnderstandingBiographicalInformation-ab6c44.html#topofpage.
+
+[^Biographical]: "Biographical." Vocabulary.com Dictionary, Vocabulary.com, https://www.vocabulary.com/dictionary/biographical. Accessed 27 Sep. 2025.

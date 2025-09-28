@@ -191,6 +191,8 @@ As stated on The University of Tennessee's webpage "While virtual machines offer
 
 It can also depend on the host system. In an example the system gets compromised either physically or by a virus and the Virtual Machine is not secured inside a LUKS drive.
 
+For LUKS, the user needs to enter the password typically in order to mount said drive so the Virtual Disk would be safe.
+
 ### Types
 
 * **Server**: It is designed to operate on machines made of bare metal (The Linux Foundation).[^XCP-ng][^vanderbilt]

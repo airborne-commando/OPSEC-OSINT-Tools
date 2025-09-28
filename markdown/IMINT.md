@@ -152,7 +152,7 @@ Combining visual intelligence (IMINT) with social data (SOCMINT) and digital pro
 - Layer data from emails, usernames, and phone lookups to build comprehensive profiles.[^dol]
 
 ### OPSEC Assessment
-- Use IMINT to assess physical security vulnerabilities (entry points, cameras).[^pezle][^vice4chan]
+- Use IMINT to assess physical security vulnerabilities (entry points, cameras).[^pezle][^vice4chan][^pubs98]
 - Use OSINT to identify digital exposure (breached credentials, leaked emails).
 - This combined view uncovers physical and cyber vulnerabilities.
 
@@ -216,7 +216,8 @@ back to the readme [main OPSEC-OSINT-Tools repository](../README.md).
 
 [^osint45]: Creps, Jake. “The OSINT Newsletter - Issue #45.” The OSINT Newsletter, 4 Mar. 2024, osintnewsletter.com/p/45. https://archive.ph/7koNk
 
-
 [^osint_aug23]: Creps, Jake. “The OSINT Newsletter - August 2023 OSINT Review.” The OSINT Newsletter, 14 Aug. 2023, osintnewsletter.com/p/the-osint-newsletter-august-2023. https://archive.ph/dZdBA
 
 [^osint_apr23]: Creps, Jake. “The OSINT Newsletter - April 2023 OSINT Review.” The OSINT Newsletter, 15 Apr. 2023, osintnewsletter.com/p/april-osint-2023. https://archive.ph/BPW3U
+
+[^pubs98]: Szuba, Tom, et al. “Chapter 5-Protecting Your System: Physical Security.” The Institute of Education Sciences, The Institute of Education Sciences, 1998, pp. 55–62. nces.ed.gov/pubs98/safetech/chapter5.asp.

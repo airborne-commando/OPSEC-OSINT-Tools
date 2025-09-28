@@ -1,5 +1,7 @@
 # Threat actor
 
+**Although most biographies are about well-known individuals, everyone has biographical information about their own lives (Vocabulary.com)**[^Biographical].
+
 As stated in this graph and in the markdown for [Digital Profiling](../Digital-Profiling.md#digital-profiling-pipeline) also need to check out [the main guide](../../README.md).
 
 **NOTE: DO NOT DO ANYHING DUMB LOL**
@@ -73,3 +75,25 @@ The political leanings were all figured out with this script named [voter reg st
 #### **Conclusion (Phases 8 & 9)**
 The threat actor Used Phase 8 (a counter-OSINT audit, which is a defensive step) and used an alias and burner email address on a fetish site that the target was on for HUMINT (earlier step), and also went to **Phase 9**.
 They compiled a report and archived some websites to document all findings. Since this is a threat actor, their intentions are dubious, and this compiled information could be used for malicious purposes such as doxing or **future psychological warfare**.
+
+As a result, said user had ***some*** measures but didn't seem to care... or did it
+
+- User some popular videos and deleted/deactivated it's account on that other site.
+- User had placed false breadcrumbs for the threat actor, which is still bad security. 
+
+- What the user can do is the following:
+
+- Take a look at the information already available online, see my [methods](./README.md) for scrubbing of information [^doxxing-tips-protect-yourself,(Daly Barnett)].
+- See if you can identify who you can tell what on specific things; like your diets, hobbies, issues.
+- Read up on the Terms of Service, most websites have those such as Facebook and snap.
+  
+That's pretty much it, pretty cut and dry.
+
+
+## References:
+
+[^doxxing-tips-protect-yourself,(Daly Barnett)]: Barnett, Daly. “Doxxing: Tips To Protect Yourself Online & How to Minimize Harm” EFF, December 16, 2020, https://www.eff.org/deeplinks/2020/12/doxxing-tips-protect-yourself-online-how-minimize-harm
+
+[^Biographical]: "Biographical." Vocabulary.com Dictionary, Vocabulary.com, https://www.vocabulary.com/dictionary/biographical. Accessed 27 Sep. 2025
+
+[^security]: “security,” Merriam-Webster.com Dictionary, https://www.merriam-webster.com/dictionary/security. Accessed 9/27/2025.

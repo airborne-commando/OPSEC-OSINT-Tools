@@ -13,6 +13,7 @@
 5. [key points](#key-points)
 6. [OPSEC](#operations-security-is-a-systematic-process-for) 
    - [How to OPSEC](#how-to-opsec)
+   - [Physical Security](./markdown/Physical-Security.md)
       - [disinformation](#disinformation) 
 7. [Open Source Intelligence (OSINT)](#open-source-intelligence-osint)
    - [Who uses Open-Source Intelligence (OSINT)?](#who-uses-open-source-intelligence-osint)
@@ -149,13 +150,13 @@ It's a security discipline and operations function that involves a continuous cy
      has a huge digital footprint and is easily fooled by trolls online.[^youtube][^businessinsider][^imdb]
 
    * suspectAGB:<br>
-`Tariq Monteiro, 23, and Siyad Mohamud, 24, were part of a group which targeted Alex Smith over a gang-based feud as he left a restaurant near Euston station on 12 August 2019.The pair fled to Kenya immediately after the incident and were arrested in Nairobi last year.They both refused to appear for their sentencing hearing at the Old Bailey. Monteiro, of no fixed address, was ordered to serve a minimum of 24 years in prison, while Mohamud, of Barker Drive, Camden, will serve at least 23 years.`[^bbc]Shared a kitchen photo.[^opsecfail]
+"Tariq Monteiro, 23, and Siyad Mohamud, 24, were part of a group which targeted Alex Smith over a gang-based feud as he left a restaurant near Euston station on 12 August 2019.The pair fled to Kenya immediately after the incident and were arrested in Nairobi last year.They both refused to appear for their sentencing hearing at the Old Bailey. Monteiro, of no fixed address, was ordered to serve a minimum of 24 years in prison, while Mohamud, of Barker Drive, Camden, will serve at least 23 years."[^bbc]Shared a kitchen photo.[^opsecfail]
 
 * Leaving unused social media online
 * interacting with a target on social media
    * w0rmer:<br>
      w0rmer took a picture of his girlfriend, which had exif data on it, so the feds visited his girlfriend who without hesitation said his bf asked him to take the picture.[^opsecfail_w0rmer]
-     `I have a way of also inciting anger in people and I think that’s obvious too, in what I was doing. I was egging everybody on. But a little backstory on that; so as you can see, all of them are pretty in-your-face and they’re trying to get and investigate or really after me.I already knew the GPS Exif data was in them and so I had a whole workflow for that. I had my dirty images and then I would clean them and put them in another file. When I went to publish that, I went one, two, three, and so, man, I need one more photo. I grabbed the wrong one, put it in there, and hit tweet.`[^darknetdiaries]
+     "I have a way of also inciting anger in people and I think that’s obvious too, in what I was doing. I was egging everybody on. But a little backstory on that; so as you can see, all of them are pretty in-your-face and they’re trying to get and investigate or really after me.I already knew the GPS Exif data was in them and so I had a whole workflow for that. I had my dirty images and then I would clean them and put them in another file. When I went to publish that, I went one, two, three, and so, man, I need one more photo. I grabbed the wrong one, put it in there, and hit tweet."[^darknetdiaries]
 
 * [examples of good and bad opsec and some osint.](./markdown/examples.md)
 * Also some expanded [examples](./markdown/expanded-examples/)
@@ -262,36 +263,29 @@ Disinformation[^misinformation][^pmc] in the context of OSINT (Open Source Intel
 
 ## Sources of OSINT
 OSINT can gather information from various sources, including:
-- Public government data
+- Public government data as stated by the University of North Texas Libraries[^University of North Texas Libraries].
 
-  - Public data is data that can be used, reused, or redistributed. Government entities at all levels (municipal, state, federal, and international) produce large amounts of public data. Typically this data is accessible without restrictions. There may be instances where terms of use must be agreed to or approval must be granted before accessing datasets, such as health or education data.[^unt]
+Public data is data that is used, reused and or redistributed. Government entities operating at various judicial levels such as local, state, federal, and the international levels. This creates various amounts of public data, which is accessible without restrictions. Terms of use must be agreed to or approved depending on consideration before accessing these datasets and or records, such as Heath (HIPPA) and or Educational Data.
 
 Such can include for example [casesearch](https://ujsportal.pacourts.us/casesearch) in Pennsylvania Courts; landlord, criminal, civil et al should have an address as that's public govt info. 
 
 A Parcel search for [tax history](https://public.eriecountypa.gov/property-tax-records/property-records/property-tax-search/search-by-parcel.aspx).
 
-An official [Justice site](https://www.justice.gov/jmd/ls/state) listing all states and their Local Courts. Case search should be in State Judiciary, also for other information such as tax records and property records.
+An official [Justice site](https://www.justice.gov/jmd/ls/state) listing all states and their local judicial. Case search should be in state judiciary, also for other information such as tax records and property records.
 
-- [Professional and academic publications](https://www.lawinsider.com/dictionary/academic-publication)
+  - According to Johns Hopkins University[^Scholarly Publishing Explained] it is. 
+    
 
-  - Academic Publication means the publication of an abstract, article or paper in a journal or electronic repository, or its presentation at a conference or seminar.
+“A subfield of publishing which distributes academic research and scholarship.”
 
 
-- Commercial data[^lawinsider]
+- Commercial data as stated by law Insider[^lawinsider].
 
-  - Commercial Data means any and all data and information relating to an identified or identifiable Person (whether the information is accurate or not), alone or in combination with other information, which Person is or was an actual or prospective customer of, or consumer of products offered by, the VS Business or L Brands Business, as applicable.
-
-  - Commercial Data means any and all data and information relating to an identified or identifiable Person (whether the information is accurate or not), alone or in combination with other information, which Person is or was an actual or prospective customer of, or consumer of products or services offered by, the LoyaltyOne Business and/or ADS Business, as applicable.
-
-  - Commercial Data means any and all data collected or otherwise processed by the Seller Entities relating to a customer of the Business.
-
-- Grey literature[^welch]
+  - "Commercial Data means any and all data and information relating to an identified or identifiable Person (whether the information is accurate or not), alone or in combination with other information, which Person is or was an actual or prospective customer of, or consumer of products offered by, the VS Business or L Brands Business, as applicable. Commercial Data means any and all data collected or otherwise processed by the Seller Entities relating to a customer of the Business."
   
-  - Grey literature is "Information produced on all levels of government, academics, business and industry in electronic and print formats not controlled by commercial publishing i.e. where publishing is not the primary activity of the producing body."
-  
-  - Grey literature can be useful for your research, but finding resources requires different tactics than you'd use for commercially published materials. This is because many types of grey literature are not indexed in some of the more common research tools like PubMed, CINAHL, Scopus, etc.
+  - Grey literature as stated in the online welch library[^welch] "Grey literature is 'Information produced on all levels of government, academics, business and industry in electronic and print formats not controlled by commercial publishing i.e. where publishing is not the primary activity of the producing body.''
 
-- genealogical[^vt][^umd]
+- genealogical[^Virginia Tech][^University of Maryland]
 
    - Genealogy: Using family history research and genealogy databases as an intelligence-gathering tool.
    - Death records: Gathering intelligence from records such as death notices, obituaries, gravestone databases, and burial registries.
@@ -771,15 +765,15 @@ If you find this useful feel free to donate to this monero address:
 [^dol_opsec]: Department Of Labor. “Operations Security (OPSEC).” United States Department Of Labor, www.dol.gov/agencies/oasam/centers-offices/emergency-management-center/operations-security. Accessed 25 Sept. 2025.
 
 
-[^unt]: University of North Texas. “Guides: Finding Datasets: Public Data Sources.” University of North Texas Libraries, 22 Jan. 2025, guides.library.unt.edu/datasets/public-data-sources.
+[^University of North Texas Libraries]: “Guides: Finding Datasets: Public Data Sources.” University of North Texas Libraries, 22 Jan. 2025, guides.library.unt.edu/datasets/public-data-sources.
 
-[^lawinsider]: Insider, Law. “*Commercial Data Definition* `|` *Law Insider.*” Law Insider, 20 Sept. 2025, lawinsider.com/dictionary/commercial-data.
+[^lawinsider]: Law Insider Dictionary. Law Insider, 2025
 
-[^welch]: "Publicly Available Data & Statistics." *Welch Medical Library Guides*, Johns Hopkins University, browse.welch.jhmi.edu/c.php?g=1195274. Accessed 22 Sept. 2025.
+[^welch]: Joseph, Emily. "What is Grey Literature?" *Johns Hopkins University*, Welch Medical Library, Sep 24. 2025, browse.welch.jhmi.edu/c.php?g=1195274.
 
-[^umd]: University of Maryland. “Research Guides: Maryland Genealogy: What Is Genealogical Research?” University of Maryland Libraries, lib.guides.umd.edu/c.php?g=326980&p=2198795. 
+[^University of Maryland]: University of Maryland. “Research Guides: Maryland Genealogy: What Is Genealogical Research?” University of Maryland Libraries, lib.guides.umd.edu/c.php?g=326980&p=2198795. 
 
-[^vt]: Virginia Tech. “Research Guides: Genealogy: Index.” Virginia Tech University Libraries, guides.lib.vt.edu/topics/genealogy. Accessed 25 Sept. 2025.
+[^Virginia Tech]: Virginia Tech. “Research Guides: Genealogy: Index.” Virginia Tech University Libraries, guides.lib.vt.edu/topics/genealogy. Accessed 25 Sept. 2025.
 
 [^youtube]: “The Comprehensive Chris Chan Documentary.” www.youtube.com, uploaded by GenoSamuel, 24 Feb. 2019, www.youtube.com/playlist?list=PLABqEYq6H3vpCmsmyUnHnfMOeAnjBdSNm. 
 
@@ -836,3 +830,5 @@ If you find this useful feel free to donate to this monero address:
 [^WhyMullvad]: “Why Mullvad VPN?” Mullvad, mullvad.net/en/why-mullvad-vpn. Accessed 25 Sept. 2025.
 
 [^EFF_doxing_tips]: Electronic Frontier Foundation. "Doxxing: Tips To Protect Yourself Online & How to Minimize Harm." Electronic Frontier Foundation, 14 Dec. 2020, www.eff.org/deeplinks/2020/12/doxxing-tips-protect-yourself-online-how-minimize-harm. Accessed 23 Sept. 2025.
+
+[^Scholarly Publishing Explained]: Shin, Nancy. "Scholarly Publishing Explained." *Welch Medical Library*, Johns Hopkins University, Sep 25, 2025. https://browse.welch.jhmi.edu/scholarly_publishing/explanation

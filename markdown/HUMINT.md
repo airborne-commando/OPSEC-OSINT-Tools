@@ -28,15 +28,15 @@ HUMINT involves collecting information through direct contact with individuals. 
 
 HUMINT isn't limited to espionage—it appears in many civilian and professional settings:
 
-- **Law Enforcement:** Police interviewing witnesses or suspects[^FBI][^Fong].
-- **Traveler Debriefings:** Agencies debriefing returning travelers.
-- **Military Patrols:** Soldiers gathering info from local populations[^encyclopedia].
-- **Cybersecurity:** Engaging in forums to learn about cyber threats[^armywarcollege].
+- **Law Enforcement:** Police interviewing witnesses or suspects[^FBI][^Fong][^academia].
+- **Traveler Debriefings:** Agencies debriefing returning travelers[^academia].
+- **Military Patrols:** Soldiers gathering info from local populations[^encyclopedia][^ECU][^academia].
+- **Cybersecurity:** Engaging in forums to learn about cyber threats[^armywarcollege][^academia].
 
 ## Civilian Examples
 
-- **Community Policing:** Officers gathering local intel from residents[^encyclopedia].
-- **Social Engineering:** Using manipulation to extract sensitive data[^NPS].
+- **Community Policing:** Officers gathering local intel from residents[^encyclopedia][^academia].
+- **Social Engineering:** Using manipulation to extract sensitive data[^NPS][^academia].
 
 ## Detailed examples
 
@@ -133,7 +133,7 @@ HUMINT isn't limited to espionage—it appears in many civilian and professional
 
 | Intelligence Type | Pros                                        | Cons                                                  |
 | ----------------- | ------------------------------------------- | ----------------------------------------------------- |
-| RUMINT            | Early warnings, new leads, public sentiment | Unverified, unreliable, risk of [disinformation](disinformation.md)        |
+| RUMINT            | Early warnings, new leads, public sentiment | Unverified, unreliable, risk of [disinformation](disinformation.md)  |
 | HUMINT            | In-depth, contextual, adaptable             | Source-dependent, risk of deception, operational risk |
 
 As the CIA notes “typically involves confidential personnel decisions, upcoming policy announcements relevant to staff, or compelling rumors” (CIA, 2024)[^CIA].  
@@ -161,3 +161,7 @@ As the CIA notes “typically involves confidential personnel decisions, upcomin
 [^Fong]: See Allan Fong, Interrogations and False Confessions: How the Innocent Are Made Guilty, 30 S. Cal. Rev. L. & Soc. Just. 363, 388
 
 [^odni_intel]: ---. “What Is Intelligence?” Office of the Director of National Intelligence, www.dni.gov/index.php/what-we-do/what-is-intelligence. Accessed 24 Sept. 2025. (Office of the Director of National Intelligence, “What Is Intelligence?,” sec.HUMINT)
+
+[^ECU]: “Intelligence Operations Explained.” ECU Online, 30 Aug. 2024, onlineprograms.ecu.edu/blog/intelligence-operations.
+
+[^academia]: HUMINT-Human Intelligence Research Papers - Academia.edu. 1 Jan. 2025, www.academia.edu/Documents/in/HUMINT-Human_Intelligence.
