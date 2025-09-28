@@ -116,21 +116,21 @@ Ross was pardoned[^62] in 2025 by the trump administration.
 ## Real-World OSINT and OPSEC Examples
 
 - **Criminals**
-    - *Sony Pictures Hack (2014):* Used OSINT on staff and infrastructure for phishing and breach. [^68]
-    - Was revealed by server logs and purchases as stated by cyberpress.org [^69]("North Korean Hackers Shift Strategies – Replacing Old Infrastructure with New Assets")
+    - *Sony Pictures Hack (2014):* Used OSINT on staff and infrastructure for phishing and breach.[^68]
+    - Was revealed by server logs and purchases as stated by cyberpress.org[^69]("North Korean Hackers Shift Strategies – Replacing Old Infrastructure with New Assets")
       
     "Email notifications sent via accounts like designedcuratedamy58[@]gmail.com alerted operators whenever targets began assessments or ran malicious curl commands."
 
-    - *Ashley Madison Breach (2015):* Used OSINT to leak sensitive user data, causing blackmail and public exposure. [^25]
+    - *Ashley Madison Breach (2015):* Used OSINT to leak sensitive user data, causing blackmail and public exposure.[^25]
 - **Civilians**
-    - *Identifying Russian Soldiers:* Used facial recognition and open-source images to ID participants in conflicts. [^55]
-    - *Cameroon Investigation:* Used metadata and geolocation to verify military abuses. [^23]
+    - *Identifying Russian Soldiers:* Used facial recognition and open-source images to ID participants in conflicts.[^55]
+    - *Cameroon Investigation:* Used metadata and geolocation to verify military abuses.[^23]
 - **Law Enforcement**
-    - *Tracking Stolen Property:* Monitored online marketplaces to recover stolen goods. [^24]
-    - *ShadowDragon’s SocialNet:* Mapped social networks from 200+ sources to aid investigations. [^4]
+    - *Tracking Stolen Property:* Monitored online marketplaces to recover stolen goods.[^24]
+    - *ShadowDragon’s SocialNet:* Mapped social networks from 200+ sources to aid investigations.[^4]
 - **OPSEC Failures**
-    - *Guccifer 2.0:* Forgot to activate VPN, exposing real IP and identity. [^3]
-    - *Silk Road’s Ross Ulbricht:* Used personal email and left digital traces, leading to arrest. [^5]
+    - *Guccifer 2.0:* Forgot to activate VPN, exposing real IP and identity.[^3]
+    - *Silk Road’s Ross Ulbricht:* Used personal email and left digital traces, leading to arrest.[^5]
 
 These guides collectively highlight the importance of strong operational security, the power and risks of OSINT, and the need for continuous vigilance and ethical conduct in information gathering and online behavior.
 
@@ -154,16 +154,17 @@ It's a security discipline and operations function that involves a continuous cy
      has a huge digital footprint and is easily fooled by trolls online.[^40][^41][^42"]
 
    * suspectAGB: as stated by the BBC[^44].<br>
-"Tariq Monteiro, 23, and Siyad Mohamud, 24, were part of a group which targeted Alex Smith over a gang-based feud as he left a restaurant near Euston station on 12 August 2019.The pair fled to Kenya immediately after the incident and were arrested in Nairobi last year.They both refused to appear for their sentencing hearing at the Old Bailey. Monteiro, of no fixed address, was ordered to serve a minimum of 24 years in prison, while Mohamud, of Barker Drive, Camden, will serve at least 23 years." 
+"Tariq Monteiro, 23, and Siyad Mohamud, 24, were part of a group which targeted Alex Smith over a gang-based feud as he left a restaurant near Euston station on 12 August 2019.The pair fled to Kenya immediately after the incident and were arrested in Nairobi last year. They both refused to appear for their sentencing hearing at the Old Bailey. Monteiro, of no fixed address, was ordered to serve a minimum of 24 years in prison, while Mohamud, of Barker Drive, Camden, will serve at least 23 years." (Evans 2023, para. 1-4) 
 
 He shared a kitchen photo and people were able to deduce where he was due to an appliance. As stated by bugzorc opsecfail[^43]
 
-"Observant individuals quickly pinpointed his location, thanks to telltale signs like common household plugs and the typical kitchen setup. Moreover, the metadata of his posts gave him away."
+"Observant individuals quickly pinpointed his location, thanks to telltale signs like common household plugs and the typical kitchen setup. Moreover, the metadata of his posts gave him away." (bugzorc 2025, para. 1)
 
 * Leaving unused social media online
 * interacting with a target on social media as stated by opsecfail[^45].
    * w0rmer:<br>
      w0rmer took a picture of his girlfriend, which had exif data on it, so the feds visited his girlfriend who without hesitation said his bf asked him to take the picture.
+     (bugzorc 2025, para. 3)
      <br>
      Also stated by a podcast named Darknet Diaries[^46](00:25:58-00:26:41).<br>
      "I have a way of also inciting anger in people and I think that’s obvious too, in what I was doing. I was egging everybody on. But a little backstory on that; so as you can see, all of them are pretty in-your-face and they’re trying to get and investigate or really after me.I already knew the GPS Exif data was in them and so I had a whole workflow for that. I had my dirty images and then I would clean them and put them in another file. When I went to publish that, I went one, two, three, and so, man, I need one more photo. I grabbed the wrong one, put it in there, and hit tweet."
@@ -339,7 +340,7 @@ These operators are not used unless you include them in your query—Google’s 
 
   - In 2016, during the complex Syrian Civil War, various rebel groups—some with good intentions and others with nefarious motives—sought to overthrow President Assad. The chaos allowed terrorist groups to flourish, prompting intervention from the United States and Russia, with the former supporting rebels and the latter aiding Assad. An anonymous user on 4chan's Syria General board (SG) claimed that a Syrian rebel group, Jaysh al-Izza, posted a video on YouTube revealing their secret encampment. The group, linked to Al-Qaeda, was seen by 4chan users as a target. A notable 4chan user, Ivan Sirenko, who had connections with the Russian military, received the coordinates from the 4chan community and tweeted them to the Russian Ministry of Defense. This led to an airstrike on the encampment. Two months later, the same rebel group posted another video showing a new training camp. 4chan users once again pinpointed the location using landmarks seen in the video. After thorough verification, they sent the coordinates to Ivan, who facilitated another Russian airstrike.[^8][^7]
 
-UPDATE: Turns out it was a really complex war [^19] the 4chan got involved in, still keeping this up as a key example however; the main issue is that they exposed their training locations with geographic locations to the internet like complete morons.
+UPDATE: Turns out it was a really complex war[^19] the 4chan got involved in, still keeping this up as a key example however; the main issue is that they exposed their training locations with geographic locations to the internet like complete morons.
 Thus bad opsec.
 
 ## In 2017, Shia LaBeouf had a protest due to Trumps election; this resulted in a basket weaving image board using OSINT and [sky patterns to figure out where a flag is.
