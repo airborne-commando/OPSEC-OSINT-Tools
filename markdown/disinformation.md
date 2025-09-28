@@ -11,17 +11,17 @@
 
 # Disinformation in OSINT
 
-Disinformation in the context of OSINT (Open Source Intelligence) refers to deliberate actions taken to obscure, mislead, or mask the true activities, intentions, or identities of individuals or organizations from those conducting open-source intelligence gathering.[^cisa_disinfo]
+Disinformation in the context of OSINT (Open Source Intelligence) refers to deliberate actions taken to obscure, mislead, or mask the true activities, intentions, or identities of individuals or organizations from those conducting open-source intelligence gathering.[^1]
 
 ## **What is a Disinformation?**
-* In the digital realm, a "disinformation" involves creating false leads, decoy data, or misleading signals to confuse or distract adversaries, making it harder for them to gather accurate intelligence or track real activities.[^cisa_disinfo]
+* In the digital realm, a "disinformation" involves creating false leads, decoy data, or misleading signals to confuse or distract adversaries, making it harder for them to gather accurate intelligence or track real activities.[^1]
 
 ## **How does Disinformation work in OSINT?**
 
-* **Information Overload:** Flooding open sources with irrelevant, redundant, or misleading information to drown out genuine signals and make analysis more difficult.[^cisa_disinfo]
-* **Decoy Accounts and Content:** fabricated or deliberately manipulated audio/visual content. Intentionally created conspiracy theories or rumours. This type of "wrong" information is deliberately shared to harm or deceive a person.[^misinformation][^cisa_disinfo]
-* **False Attribution:** Planting data or digital artifacts that point to incorrect actors, locations, or intentions.[^cisa_disinfo]
-* **Obfuscation Techniques:** Using anonymization, encryption, or deliberate mislabeling of data to mask true activities.[^cisa_disinfo]
+* **Information Overload:** Flooding open sources with irrelevant, redundant, or misleading information to drown out genuine signals and make analysis more difficult.[^1]
+* **Decoy Accounts and Content:** fabricated or deliberately manipulated audio/visual content. Intentionally created conspiracy theories or rumours. This type of "wrong" information is deliberately shared to harm or deceive a person.[^misinformation][^1]
+* **False Attribution:** Planting data or digital artifacts that point to incorrect actors, locations, or intentions.[^1]
+* **Obfuscation Techniques:** Using anonymization, encryption, or deliberate mislabeling of data to mask true activities.[^1]
 
 ## **Purpose and Use Cases**
 
@@ -42,10 +42,10 @@ Disinformation in the context of OSINT (Open Source Intelligence) refers to deli
 
 Recognizing and countering such operations is a critical skill for OSINT practitioners, who must distinguish between genuine intelligence and deliberate deception.
 
-> "disinformation is to intentionally mislead."[^cisa_disinfo][^misinformation]
+> "disinformation is to intentionally mislead."[^1][^2]
 
 ## References:
 
-[^cisa_disinfo]: CISA. “Tactics of Disinformation.” Cybersecurity Infrastructure Security Agency, 18 Oct. 2022, web.archive.org/web/20230804043427/https://www.cisa.gov/resources-tools/resources/tactics-disinformation.
+[^1]: CISA. “Tactics of Disinformation.” Cybersecurity Infrastructure Security Agency, 18 Oct. 2022, web.archive.org/web/20230804043427/https://www.cisa.gov/resources-tools/resources/tactics-disinformation.
 
-[^misinformation]: College of Staten Island. “CSI Library: Misinformation and Disinformation: Thinking Critically About Information Sources: Misinformation, Disinformation, and Malinformation.” College of Staten Island The City University of New York, uploaded by College of Staten Island, 25 Aug. 2025, library.csi.cuny.edu/misinformation.
+[^2]: College of Staten Island. “CSI Library: Misinformation and Disinformation: Thinking Critically About Information Sources: Misinformation, Disinformation, and Malinformation.” College of Staten Island The City University of New York, uploaded by College of Staten Island, 25 Aug. 2025, library.csi.cuny.edu/misinformation.

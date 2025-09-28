@@ -24,37 +24,37 @@
 
 # Digital Profiling and Behavioral Analysis Guide
 
-Digital profiling and behavioral analysis[^fbi][^pmc] are powerful techniques for understanding individuals based on their online activities and digital footprints. While these methods are often used by professionals, you can apply many of the same principles and processes yourself by following a structured approach.
+Digital profiling and behavioral analysis[^2][^6] are powerful techniques for understanding individuals based on their online activities and digital footprints. While these methods are often used by professionals, you can apply many of the same principles and processes yourself by following a structured approach.
 
 ---
 
 ## 1. Understand the Basics
 
-- **Digital Profiling** is the process of gathering and analyzing information about an individual that exists online, including social media activity, website visits, and more.[^kraakevik]
-- **Behavioral Analysis** involves examining patterns in this data to infer motives, preferences, habits, and even potential future behavior.[^fbi]
+- **Digital Profiling** is the process of gathering and analyzing information about an individual that exists online, including social media activity, website visits, and more.[^1]
+- **Behavioral Analysis** involves examining patterns in this data to infer motives, preferences, habits, and even potential future behavior.[^2]
 
 ---
 
 "Although the digital biography contains a host of details about a person, it captures a distorted persona, one who is constructed by a variety of external details."
-—Daniel J. Solove[^muse]
+—Daniel J. Solove[^4]
 
 
 ## 2. Collect Digital Biographical Information
 
-Although most biographies are about well-known individuals, everyone has biographical information about their own lives (Vocabulary.com)[^Biographical].
+Although most biographies are about well-known individuals, everyone has biographical information about their own lives (Vocabulary.com)[^8].
 
-Start by building a **digital biography**[^usf][^muse][^oracle] of the subject:
+Start by building a **digital biography**[^3][^4][^7] of the subject:
 
 - Gather identifiers (usernames, email addresses, phone numbers).
 - Track websites visited, forum posts, social media profiles, and public comments.
 - Note recurring usernames or signatures, and search for their permutations across platforms to uncover more accounts.
-- Document all findings in a structured format, updating as new information emerges, archive everything **when legal**.
+- Document all findings in a structured format, updating as new information emerges, archive everything **within legal limits**.
 
 ---
 
 ## 3. Analyze Behavioral Patterns
 
-- Look for patterns in the subject’s online activity: posting times, topics of interest, language use, and interaction styles.
+- Look for patterns in the subjects online activity: posting times, topics of interest, language use, and interaction styles.
 - Identify preferred platforms, communities, and types of content engaged with.
 - Examine connections: friends, followers, and interaction networks can reveal social circles and influence.
 
@@ -131,7 +131,7 @@ Use a multi-axis profile to evaluate:
 
 ## Applying PsyOPS.
 
-Applying Psychological Operations[^survivalgear] in Civilian Life:
+Applying Psychological Operations[^5] in Civilian Life:
 
 Building Rapport and Influence:
 
@@ -169,7 +169,7 @@ Viewing every relationship as a potential **psychological operation (psyop)** ag
 
 This hyper-vigilant approach stems from **defensive psychological strategies**, often shaped by prior experiences with betrayal, manipulation, or digital surveillance and harassment. While some level of skepticism is a useful safeguard, constantly treating others as potential threats can breed loneliness, paranoia, and make genuine connection nearly impossible.
 
-In essence, this mindset places you in a constant state of alert—treating human interaction as a battlefield where every engagement could be a covert attempt to control or compromise you..
+In essence, this mindset places you in a constant state of alert—treating human interaction as a battlefield where every engagement could be a covert attempt to control or compromise you.
 
 
 ## Best way to fight against OSINT Profiling?
@@ -185,18 +185,18 @@ In essence, this mindset places you in a constant state of alert—treating huma
 
 ## References:
 
-[^kraakevik]: Kraakevik, Jeff. "Crafting a Positive Professional Digital Profile to Augment Your Practice." *Neurology: Clinical Practice*, vol. 6, no. 1, 2016, pp. 87–93. PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC5765898/. 
+[^1]: Kraakevik, Jeff. "Crafting a Positive Professional Digital Profile to Augment Your Practice." *Neurology: Clinical Practice*, vol. 6, no. 1, 2016, pp. 87–93. PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC5765898/. 
 
-[^fbi]: "---." “Behavioral Analysis.” FBI, www.fbi.gov/how-we-investigate/behavioral-analysis. Accessed 25 Sept. 2025.
+[^2]: FBI. “Behavioral Analysis.” www.fbi.gov/how-we-investigate/behavioral-analysis. Accessed 25 Sept. 2025.
 
-[^usf]: University of South Florida, Office of University Communications and Marketing. "Introduction to Social Media." *USF*, https://www.usf.edu/ucm/social-media/intro-social-media.aspx. Accessed 22 Sept. 2025.
+[^3]: University of South Florida, Office of University Communications and Marketing. "Introduction to Social Media." *USF*, https://www.usf.edu/ucm/social-media/intro-social-media.aspx. Accessed 22 Sept. 2025.
 
-[^muse]: Arthur, Paul Longley. "Digital Biography: Capturing Lives Online." a/b: Auto/Biography Studies, vol. 24 no. 1, 2009, p. 74-92. Project MUSE, https://muse.jhu.edu/article/394172.
+[^4]: Arthur, Paul Longley. "Digital Biography: Capturing Lives Online." a/b: Auto/Biography Studies, vol. 24 no. 1, 2009, p. 74-92. Project MUSE, https://muse.jhu.edu/article/394172.
 
-[^survivalgear]: Loftus, Brian. “The Art and Impact of Psychological Operations on Civilians.” Survival Gear BSO, 1 Feb. 2024, www.survivalgear.us/blogs/guides/the-art-and-impact-of-psychological-operations-on-civilians.
+[^5]: Loftus, Brian. “The Art and Impact of Psychological Operations on Civilians.” Survival Gear BSO, 1 Feb. 2024, www.survivalgear.us/blogs/guides/the-art-and-impact-of-psychological-operations-on-civilians.
 
-[^pmc]: Bada, Maria, and Angela M. Sasse. "Cyber Security Awareness Campaigns: Why Do They Fail to Change Behaviour?" *International Conference on Cyber Security for Sustainable Society*, 2015, pp. 1-10. *PubMed Central*, doi:10.1093/cybsec/tyv007. Accessed 22 Sept. 2025.
+[^6]: Bada, Maria, and Angela M. Sasse. "Cyber Security Awareness Campaigns: Why Do They Fail to Change Behaviour?" *International Conference on Cyber Security for Sustainable Society*, 2015, pp. 1-10. *PubMed Central*, doi:10.1093/cybsec/tyv007. Accessed 22 Sept. 2025.
 
-[^oracle]: Understanding Biographical Information. docs.oracle.com/cd/E56917_01/cs9pbr4/eng/cs/lscc/concept_UnderstandingBiographicalInformation-ab6c44.html#topofpage.
+[^7]: Oracle Foundation. "Understanding Biographical Information." 1998, docs.oracle.com/cd/E56917_01/cs9pbr4/eng/cs/lscc/concept_UnderstandingBiographicalInformation-ab6c44.html#topofpage.
 
-[^Biographical]: "Biographical." Vocabulary.com Dictionary, Vocabulary.com, https://www.vocabulary.com/dictionary/biographical. Accessed 27 Sep. 2025.
+[^8]: "Biographical." Vocabulary.com Dictionary, Vocabulary.com, https://www.vocabulary.com/dictionary/biographical. Accessed 27 Sep. 2025.
