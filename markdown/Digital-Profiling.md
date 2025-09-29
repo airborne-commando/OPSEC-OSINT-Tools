@@ -36,7 +36,7 @@ Digital profiling and behavioral analysis[^2][^6] are powerful techniques for un
 ---
 
 "Although the digital biography contains a host of details about a person, it captures a distorted persona, one who is constructed by a variety of external details."
-—Daniel J. Solove[^4](Arthur, Paul Longley "Digital Biography: Capturing Lives Online")
+—Daniel J. Solove[^4](Longley 74-92)
 
 
 ## 2. Collect Digital Biographical Information

@@ -27,9 +27,9 @@ Ok so now what? what can s/he gather? let's refer to this graph.
 
 The threat actor had started with Planning and Collection, as stated in the The Intelligence Cycle:
 
-"From that, the intelligence organization being tasked will plan its activity".(Director of National Intelligence, n.d.)[^12]
+"From that, the intelligence organization being tasked will plan its activity".(Director of National Intelligence, n.d.)[^9]
 
-"The raw information gathered includes, but is not limited to, newspaper reporting, aerial imagery, satellite imagery, documents, electronic parameters, and more.".(Director of National Intelligence, n.d.)[^12]
+"The raw information gathered includes, but is not limited to, newspaper reporting, aerial imagery, satellite imagery, documents, electronic parameters, and more.".(Director of National Intelligence, n.d.)[^9]
 
 #### **Phase 1: Foundation & Planning**
 The threat actor starts by defining the objective: to collect as much information as possible to understand the target's motives, feelings, and psychological triggers.
@@ -48,11 +48,11 @@ This is where the actor collects and analyzes public data:
 *   **(3e) Competencies & Affinities:** The assessment shows the user has poor privacy habits and low-moderate technical skill. However, they are highly sociable. In another location, the threat actor confirmed a mobile home with a camera at the doorway.
 *   **(3d) Behavioral Patterns:** The user's behavior seems immature. Their old journal entries showed they were upset about uncontrollable issues and obsessed with something, leading to depression—a trait that appears to reflect their current state.
 
-**HUMINT (Human Intelligence):** The threat actor actively engaged with the user using an alias on a fetish site, asking about their family or child, politics and pointing out interest to elicit a response. This confirmed the information gathered and provided further insight into their behavior. The internet user seems easy to evoke and or to elicit a response.[^8][^12]
+**HUMINT (Human Intelligence):** The threat actor actively engaged with the user using an alias on a fetish site, asking about their family or child, politics and pointing out interest to elicit a response. This confirmed the information gathered and provided further insight into their behavior. The internet user seems easy to evoke and or to elicit a response.[^8][^9]
 
 The threat actor had done what was stated by the JCAT Intelligence Guide For First Responders:
 
-"Human intelligence (HUMINT) is intelligence derived from information collected and provided by human sources. This information includes overt data collected by personnel in diplomatic and consular posts as well as otherwise unobtainable information collected via clandestine sources, debriefings of foreign nationals and U.S. citizens who travel abroad, official contacts with foreign governments, and direct observation." (Director of National Intelligence, n.d.)[^12]
+"Human intelligence (HUMINT) is intelligence derived from information collected and provided by human sources. This information includes overt data collected by personnel in diplomatic and consular posts as well as otherwise unobtainable information collected via clandestine sources, debriefings of foreign nationals and U.S. citizens who travel abroad, official contacts with foreign governments, and direct observation." (Director of National Intelligence, n.d.)[^9]
 
 **Much like this graph here:**
 <p align="center">
@@ -76,15 +76,15 @@ This isn't in the graph, but a threat actor can use CSINT and past data breaches
     
 Typically it's not open data; not open to public inquiry as stated by the Pennsylvania State University
 
-"Closed source data is government or private data not available through open inquiry."(Pennsylvania State University, para. 2)[^13]
+"Closed source data is government or private data not available through open inquiry."(Pennsylvania State University, para. 2)[^12]
 
 #### **Phase 7: Verification & Triangulation**
 The actor correlated all the intelligence—OSINT, SOCMINT (Social Media Intelligence), CSINT, IMINT (Imagery Intelligence),GEOSPITAL and GEOINT—to build a verified profile. They knew the user's:
-*   Location(s) and dwellings (possibly backed by GOV info)[^9].
-*   Sensitive family information (backed by AI identity enumeration, obits, social media, et al)[^6][^9][^10]
+*   Location(s) and dwellings (possibly backed by GOV info)[^7].
+*   Sensitive family information (backed by AI identity enumeration, obits, social media, et al)[^6][^11][^10]
 *   Psychological state (past and present)[^11], blogspot/Snapchat[^10].
-*   dating sites (deactivated)[^10], pentester/breaches.
-*   Interests, political leanings (including fathers, explained below), digital biography[^11], previous and current career (archived websites and social media posts)[^4].
+*   dating sites (deactivated)[^10], pentester/breaches[^12].
+*   Interests, political leanings (including fathers, explained below), digital biography[^11], previous and current career (archived websites and social media posts)[^11].
 *   This person used 12 different usernames across their accounts, and they were active on 13 distinct platforms[^10] VIA [crow](https://github.com/airborne-commando/Crow) (a blackbird GUI) and [facecheck](https://facecheck.id/) which is bio-metrics.
 
 Explanation on political leanings:
@@ -102,7 +102,7 @@ As a result, said user had ***some*** measures but didn't seem to care... or did
 
 - What the user can do is the following:
 
-- Take a look at the information already available online, see my [methods](./README.md) for scrubbing of information [^1].
+- Take a look at the information already available online, see my [methods](./README.md) for scrubbing of information[^1].
 - See if you can identify who you can tell what on specific things; like your diets, hobbies, issues.
 - Read up on the Terms of Service, most websites have those such as Facebook and snap.
   
@@ -127,12 +127,10 @@ That's pretty much it, pretty cut and dry.
 
 [^8]: Levenson, Kathleen Hyatt Zachary. Social Engineering Impacts on Government Acquisition. 1 May 2023, dair.nps.edu/handle/123456789/4858
 
-[^9]: “IC21: The Intelligence Community in the 21st Century.” U.S. Government Publishing Office, www.govinfo.gov/content/pkg/GPO-IC21/html/GPO-IC21-6.html. Accessed 25 Sept. 2025.
+[^9]: Director of National Intelligence. (n.d.). JCAT *Intelligence Guide for First Responders.* www.dni.gov/nctc/jcat/jcat_ctguide/intel_guide.html.
 
 [^10]: University of South Florida, Office of University Communications and Marketing. "Introduction to Social Media." *USF*, https://www.usf.edu/ucm/social-media/intro-social-media.aspx. Accessed 22 Sept. 2025.
 
 [^11]: Arthur, Paul Longley. "Digital Biography: Capturing Lives Online." a/b: Auto/Biography Studies, vol. 24 no. 1, 2009, p. 74-92. Project MUSE, https://muse.jhu.edu/article/394172.
 
-[^12]: Director of National Intelligence. (n.d.). JCAT *Intelligence Guide for First Responders.* www.dni.gov/nctc/jcat/jcat_ctguide/intel_guide.html.
-
-[^13]: Pennsylvania State University, et al. (n.d.). *L3.09: Closed Source Data.* www.e-education.psu.edu/geointmooc/node/2016
+[^12]: Pennsylvania State University, et al. (n.d.). *L3.09: Closed Source Data.* www.e-education.psu.edu/geointmooc/node/2016
