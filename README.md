@@ -290,17 +290,20 @@ An official [Justice site](https://www.justice.gov/jmd/ls/state) listing all sta
 “A subfield of publishing which distributes academic research and scholarship.”
 
 
-- Commercial data as stated by law Insider[^36].
+- Commercial data as stated by law Insider[^36](law Insider).
 
   - "Commercial Data means any and all data and information relating to an identified or identifiable Person (whether the information is accurate or not), alone or in combination with other information, which Person is or was an actual or prospective customer of, or consumer of products offered by, the VS Business or L Brands Business, as applicable. Commercial Data means any and all data collected or otherwise processed by the Seller Entities relating to a customer of the Business."
   
-  - Grey literature as stated in the online welch library[^37] "Grey literature is 'Information produced on all levels of government, academics, business and industry in electronic and print formats not controlled by commercial publishing i.e. where publishing is not the primary activity of the producing body.''
+  - Grey literature as stated in the online welch library[^37](welch library, para. 1-2) "Grey literature is 'Information produced on all levels of government, academics, business and industry in electronic and print formats not controlled by commercial publishing i.e. where publishing is not the primary activity of the producing body.''
 
-- genealogical[^39][^38]
+- genealogical
+  
+  "Genealogy is the study of families and their ancestors and histories."(Michael Sutherland, para. 1)[^39]
 
+  "Genealogical research is the tracing of an individual's ancestral history using historical records, both official and unofficial"(University of Maryland Libraries, para. 1)[^38]
+  
    - Genealogy: Using family history research and genealogy databases as an intelligence-gathering tool.
-   - Death records: Gathering intelligence from records such as death notices, obituaries, gravestone databases, and burial registries.
-   - Obituary: Systematically using obituaries to collect personal and relational data for investigations. (news papers or local news sites) 
+   - Death records: Gathering intelligence from records such as death notices, obituaries, gravestone databases, and burial registries.(news papers or local news sites) 
 
 - people search aggregators[^54], typically used in the united states. can give you information on someone such as an email, home address, date of birth, etc.
 
