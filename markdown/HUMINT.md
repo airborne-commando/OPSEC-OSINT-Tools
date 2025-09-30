@@ -14,9 +14,7 @@
 
 **HUMINT (Human Intelligence)** refers to intelligence gathered through direct human interaction, such as interviews, observation, and interpersonal communication. Unlike technical intelligence (e.g., [SIGINT](https://www.emsopedia.org/entries/signal-intelligence-sigint/) or [IMINT](https://www.emsopedia.org/entries/image-intelligence-imint/)), HUMINT is decidedly low-tech. It is a matter, ultimately, of personal interaction, and practitioners of HUMINT are "spies" in the purest sense of the word. The more closely an operative functions in the community, the more his or her information comes from word of mouth, and the more he or she is practicing true HUMINT[^1].
 
-Performing source operations, communicating with host nation (HN) officials and allied counterparts, extracting information from specific sources, debriefing US and allied forces and civilian personnel, including refugees, displaced persons (DPs), third-country nationals, and local residents, questioning EPWs and other detainees, and initially taking advantage of documents, media, and materiel are just a few of the tasks that fall under the purview of HUMINT[^6].
-
-Potential HUMINT sources include friendly, neutral, and threat military and civilian personnel; potential HUMINT sources include detainees, refugees, DPs, local residents, friendly forces, and members of foreign governmental and non-governmental organizations (NGOs). A HUMINT source is a person from whom information can be obtained; the source may have first- or second-hand knowledge typically obtained through sight or hearing[^6].
+"HUMINT tasks include conducting source operations, engaging with host nation officials and allies, debriefing U.S. and foreign personnel, questioning detainees, and exploiting documents and media. Potential sources can range from detainees, refugees, and local residents to friendly forces and members of governmental or non-governmental organizations. Essentially, a HUMINT source is anyone who possesses first- or second-hand information"(Department of the Army, 2006, p. 4).[^6]
 
 ## What is HUMINT?
 
@@ -146,7 +144,7 @@ As the CIA notes “typically involves confidential personnel decisions, upcomin
 
 ## References:
 
-[^1]: "HUMINT (Human Intelligence) ." Encyclopedia of Espionage, Intelligence, and Security. . Encyclopedia.com. 2 Sep. 2025 <https://www.encyclopedia.com>.
+[^1]: "HUMINT (Human Intelligence) ." Encyclopedia of Espionage, Intelligence, and Security.. Encyclopedia.com. 2 Sep. 2025 <https://www.encyclopedia.com>.
 
 [^2]: CIA. How to Sound Like a Spy: Five Colloquialisms at CIA - CIA. 19 Sept. 2024, www.cia.gov/stories/story/how-to-sound-like-a-spy-five-colloquialisms-at-cia.
 
@@ -156,11 +154,11 @@ As the CIA notes “typically involves confidential personnel decisions, upcomin
 
 [^5]: Levenson, Kathleen Hyatt Zachary. Social Engineering Impacts on Government Acquisition. 1 May 2023, dair.nps.edu/handle/123456789/4858.
 
-[^6]: Army, Department of Department of The. FM 2-22. 3 Human Intelligence Collector Operations. US Dept Of The Army, 2006, www.amazon.com/2-22-3-Human-Intelligence-Collector-Operations/dp/B08NDR1BBM.
+[^6]: Department of the Army. (2006). *FM 2-22.3: Human intelligence collector operations.* Headquarters, Department of the Army. https://www.amazon.com/2-22-3-Human-Intelligence-Collector-Operations/dp/B08NDR1BBM
 
 [^7]: See Allan Fong, Interrogations and False Confessions: How the Innocent Are Made Guilty, 30 S. Cal. Rev. L. & Soc. Just. 363, 388
 
-[^8]: ---. “What Is Intelligence?” Office of the Director of National Intelligence, www.dni.gov/index.php/what-we-do/what-is-intelligence. Accessed 24 Sept. 2025. (Office of the Director of National Intelligence, “What Is Intelligence?,” sec.HUMINT)
+[^8]: Office of the Director of National Intelligenc. “What Is Intelligence?” www.dni.gov/index.php/what-we-do/what-is-intelligence. Accessed 24 Sept. 2025. (Office of the Director of National Intelligence, “What Is Intelligence?,” sec.HUMINT)
 
 [^9]: “Intelligence Operations Explained.” ECU Online, 30 Aug. 2024, onlineprograms.ecu.edu/blog/intelligence-operations.
 

@@ -17,7 +17,11 @@ In this markdown I can give you some tangible examples.
 Let's say there is a threat actor trying to gather information on an internet user, s/he collects as much information as s/he can.
 Let's say this user has a huge *AND I MEAN HUGE* digital footprint; from older social media to adult sites.
 
-Think like Chris Chan but less autistic[^3] and gross[^4].
+Think like Chris Chan but less autistic[^3] and gross[^4]. Much like Chris Chan this person has a huge digital footprint, see below:
+
+> "The life of Chandler and, by extension, her mother, has been extensively documented since 2007, when users on the fringe chat forum 4chan caught wind of her comic, Sonichu, a cross between Pikachu and Sonic the Hedgehog" (Leighton et al., 2024).[^4]
+>
+> "Christine Chandler, who is also known online as Chris Chan, was arrested on August 1, 2021, and charged with incest after a leaked phone call revealed she may have had sexual relations with her 79-year-old mother" (Leighton et al., 2024).[^4]
 
 Ok so now what? what can s/he gather? let's refer to this graph.
 
@@ -27,9 +31,9 @@ Ok so now what? what can s/he gather? let's refer to this graph.
 
 The threat actor had started with Planning and Collection, as stated in the The Intelligence Cycle:
 
-"From that, the intelligence organization being tasked will plan its activity".(Director of National Intelligence, n.d.)[^9]
-
-"The raw information gathered includes, but is not limited to, newspaper reporting, aerial imagery, satellite imagery, documents, electronic parameters, and more.".(Director of National Intelligence, n.d.)[^9]
+> "From that, the intelligence organization being tasked will plan its activity".(Director of National Intelligence, n.d.)[^9]
+> 
+> "The raw information gathered includes, but is not limited to, newspaper reporting, aerial imagery, satellite imagery, documents, electronic parameters, and more.".(Director of National Intelligence, n.d.)[^9]
 
 #### **Phase 1: Foundation & Planning**
 The threat actor starts by defining the objective: to collect as much information as possible to understand the target's motives, feelings, and psychological triggers.
@@ -52,7 +56,7 @@ This is where the actor collects and analyzes public data:
 
 The threat actor had done what was stated by the JCAT Intelligence Guide For First Responders:
 
-"Human intelligence (HUMINT) is intelligence derived from information collected and provided by human sources. This information includes overt data collected by personnel in diplomatic and consular posts as well as otherwise unobtainable information collected via clandestine sources, debriefings of foreign nationals and U.S. citizens who travel abroad, official contacts with foreign governments, and direct observation." (Director of National Intelligence, n.d.)[^9]
+> "Human intelligence (HUMINT) is intelligence derived from information collected and provided by human sources. This information includes overt data collected by personnel in diplomatic and consular posts as well as otherwise unobtainable information collected via clandestine sources, debriefings of foreign nationals and U.S. citizens who travel abroad, official contacts with foreign governments, and direct observation." (Director of National Intelligence, n.d.)[^9]
 
 **Much like this graph here:**
 <p align="center">
@@ -76,7 +80,7 @@ This isn't in the graph, but a threat actor can use CSINT and past data breaches
     
 Typically it's not open data; not open to public inquiry as stated by the Pennsylvania State University
 
-"Closed source data is government or private data not available through open inquiry."(Pennsylvania State University, para. 2)[^12]
+>"Closed source data is government or private data not available through open inquiry."(Pennsylvania State University, para. 2)[^12]
 
 #### **Phase 7: Verification & Triangulation**
 The actor correlated all the intelligence—OSINT, SOCMINT (Social Media Intelligence), CSINT, IMINT (Imagery Intelligence),GEOSPITAL and GEOINT—to build a verified profile. They knew the user's:
@@ -117,7 +121,7 @@ That's pretty much it, pretty cut and dry.
 
 [^3]: “The Comprehensive Chris Chan Documentary.” www.youtube.com, uploaded by GenoSamuel, 24 Feb. 2019, www.youtube.com/playlist?list=PLABqEYq6H3vpCmsmyUnHnfMOeAnjBdSNm.
 
-[^4]: Leighton, Mara, et al. “A Timeline of Chris Chan’s Incest Charge and Dismissal, Which Came After Years of Online Trolling That Documented the Creator’s Relationship With Her Mother.” Business Insider, 18 Aug. 2024, www.businessinsider.com/chris-chan-saga-timeline-incest-charges-arrest-2021-8. 
+[^4]: Leighton, M., et al. (2024, August 18). *A timeline of Chris Chan’s incest charge and dismissal, which came after years of online trolling that documented the creator’s relationship with her mother*. *Business Insider*. https://www.businessinsider.com/chris-chan-saga-timeline-incest-charges-arrest-2021-8
 
 [^5]: FBI. “Behavioral Analysis.” www.fbi.gov/how-we-investigate/behavioral-analysis. Accessed 25 Sept. 2025.
 

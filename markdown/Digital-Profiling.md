@@ -24,24 +24,32 @@
 
 # Digital Profiling and Behavioral Analysis Guide
 
-Digital profiling and behavioral analysis[^2][^6] are powerful techniques for understanding individuals based on their online activities and digital footprints. While these methods are often used by professionals, you can apply many of the same principles and processes yourself by following a structured approach.
+Digital profiling and behavioral analysis[^2] are powerful techniques for understanding individuals based on their online activities and digital footprints. While these methods are often used by professionals, you can apply many of the same principles and processes yourself by following a structured approach.
+
+>"Threatening or intimidating security messages are not particularly effective, especially because they increase stress to such an extent that the individual may even be repulsed or deny the existence of the need for any security decision" (Bada, Sasse, & Nurse, 2019, p. 4.1)[^6].
 
 ---
 
 ## 1. Understand the Basics
 
 - **Digital Profiling** is the process of gathering and analyzing information about an individual that exists online, including social media activity, website visits, and more.[^1]
-- **Behavioral Analysis** involves examining patterns in this data to infer motives, preferences, habits, and even potential future behavior.[^2]
+- **Behavioral Analysis** involves examining patterns in this data to infer motives, preferences, habits, and even potential future behavior[^2].
+
+> "The FBI describes behavioral analysis as encompassing multiple areas, such as examining an offender’s motivation and decision-making during crimes, developing interview strategies through psychological principles, creating investigative strategies to maximize resources, and conducting threat assessments to evaluate whether someone is progressing toward potential violence"(FBI, 2025)[^2].
+
+> "Law enforcement agencies often face significant challenges in counterterrorism investigations when suspects use encrypted communication or arrange in-person meetings specifically to evade both electronic and physical surveillance"(FBI & Block, 2016)[^9].
+
+See also [HUMINT](./HUMINT.md) as you'll need to collect methods and interpersonal communication eventually.
 
 ---
 
-"Although the digital biography contains a host of details about a person, it captures a distorted persona, one who is constructed by a variety of external details."
-—Daniel J. Solove[^4](Longley 74-92)
+> "Although the digital biography contains a host of details about a person, it captures a distorted persona, one who is constructed by a variety of external details."
+> —Daniel J. Solove[^4](Longley 74-92)
 
 
 ## 2. Collect Digital Biographical Information
 
-Although most biographies are about well-known individuals, everyone has biographical information about their own lives (Vocabulary.com)[^8].
+> "Although most biographies are about well-known individuals, everyone has biographical information about their own lives" (Vocabulary.com, n.d.).[^8].
 
 Start by building a **digital biography**[^3][^4][^7] of the subject:
 
@@ -187,7 +195,7 @@ In essence, this mindset places you in a constant state of alert—treating huma
 
 [^1]: Kraakevik, Jeff. "Crafting a Positive Professional Digital Profile to Augment Your Practice." *Neurology: Clinical Practice*, vol. 6, no. 1, 2016, pp. 87–93. PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC5765898/. 
 
-[^2]: FBI. “Behavioral Analysis.” www.fbi.gov/how-we-investigate/behavioral-analysis. Accessed 25 Sept. 2025.
+[^2]: FBI. (2025). *Behavioral analysis*. Retrieved September 25, 2025, from https://www.fbi.gov/how-we-investigate/behavioral-analysis
 
 [^3]: University of South Florida, Office of University Communications and Marketing. "Introduction to Social Media." *USF*, https://www.usf.edu/ucm/social-media/intro-social-media.aspx. Accessed 22 Sept. 2025.
 
@@ -195,8 +203,10 @@ In essence, this mindset places you in a constant state of alert—treating huma
 
 [^5]: Loftus, Brian. “The Art and Impact of Psychological Operations on Civilians.” Survival Gear BSO, 1 Feb. 2024, www.survivalgear.us/blogs/guides/the-art-and-impact-of-psychological-operations-on-civilians.
 
-[^6]: Bada, Maria, and Angela M. Sasse. "Cyber Security Awareness Campaigns: Why Do They Fail to Change Behaviour?" *International Conference on Cyber Security for Sustainable Society*, 2015, pp. 1-10. *PubMed Central*, doi:10.1093/cybsec/tyv007. Accessed 22 Sept. 2025.
+[^6]: Bada, M., Sasse, A. M., & Nurse, J. R. C. (2019). *Cyber security awareness campaigns: Why do they fail to change behaviour?* arXiv. https://arxiv.org/abs/1901.02672
 
 [^7]: Oracle Foundation. "Understanding Biographical Information." 1998, docs.oracle.com/cd/E56917_01/cs9pbr4/eng/cs/lscc/concept_UnderstandingBiographicalInformation-ab6c44.html#topofpage.
 
-[^8]: "Biographical." Vocabulary.com Dictionary, Vocabulary.com, https://www.vocabulary.com/dictionary/biographical. Accessed 27 Sep. 2025.
+[^8]: Vocabulary.com. (n.d.). Biographical. In Vocabulary.com Dictionary. Retrieved September 30, 2025, from https://www.vocabulary.com/dictionary/biographical
+
+[^9]: FBI, & Block, S. (2016, April 8). *Using human sources in counterterrorism operations: Understanding the motivations and political impact*. FBI Law Enforcement Bulletin. https://leb.fbi.gov/articles/featured-articles/using-human-sources-in-counterterrorism-operations-understanding-the-motivations-and-political-impact
