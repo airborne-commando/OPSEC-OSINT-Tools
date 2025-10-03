@@ -230,10 +230,6 @@ Check Wikipedia or the sources cited If you're confused on all of these here:
 2. TOR, What should be used separately.[^12][^11][^13]
 3. XMR, for VPN's that take XMR as payment.[^14]
 
-
-
-
-
 ---
 
 ### **Pro Tips**
@@ -633,24 +629,35 @@ Take a look at the documents which I will [link here](https://breach.vip/api/doc
 
 ## Curated lists
 
+**OSINT Lists:**
+
 - [Awesome OSINT](https://github.com/jivoi/awesome-osint) - a curated list of OSINT tools, blogs, and videos
 
-- [OSINT Framework](https://osintframework.com/) - a larger list of tools
+- [OSINT for countries V2](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
+
+- [OSINT for countries](https://github.com/wddadk/OSINT-for-countries)
   
+- [OSINT Framework](https://osintframework.com/) - a larger list of tools
+
 - [OSINT Resources](https://sizeof.cat/post/osint-resources/) - Collection of OSINT resources that seems to be more up to date (includes NSFW)
 
   - [Archive](https://archive.ph/rZZf0)
 
+- [cipher387's OSINT collection](https://github.com/cipher387/osint_stuff_tool_collection).
 
 - [internet tools](https://fmhy.xyz/internet-tools#open-source-intelligence) 
   
 - [OSINT toolbox](https://github.com/The-Osint-Toolbox) 
 
+**Wiki's:**
+
 - A whole reddit wiki from the [OSINT community](https://www.reddit.com/r/OSINT/wiki/index/)
 
-- A list of social media, maps, domains, etc also listed [in cipher387's OSINT collection](https://github.com/cipher387/osint_stuff_tool_collection).
+**TOOLKIT:**
 
 - bellingcat [toolkit](https://bellingcat.gitbook.io/toolkit)
+
+**NEWSLETTER(S):**
 
 - [OSINT news letter](https://osintnewsletter.com) Protip: use "topic" site:https://osintnewsletter.com
 
@@ -659,7 +666,7 @@ example:
     "facecheck.id" site:https://osintnewsletter.com
 
 
-**OPT OUT**
+**OPT OUTs**
 
 - A whole [big ass list](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) to opt out and to compare info.
 

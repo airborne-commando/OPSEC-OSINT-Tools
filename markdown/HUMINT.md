@@ -14,7 +14,7 @@
 
 **HUMINT (Human Intelligence)** refers to intelligence gathered through direct human interaction, such as interviews, observation, and interpersonal communication. Unlike technical intelligence (e.g., [SIGINT](https://www.emsopedia.org/entries/signal-intelligence-sigint/) or [IMINT](https://www.emsopedia.org/entries/image-intelligence-imint/)), HUMINT is decidedly low-tech. It is a matter, ultimately, of personal interaction, and practitioners of HUMINT are "spies" in the purest sense of the word. The more closely an operative functions in the community, the more his or her information comes from word of mouth, and the more he or she is practicing true HUMINT[^1].
 
-"HUMINT tasks include conducting source operations, engaging with host nation officials and allies, debriefing U.S. and foreign personnel, questioning detainees, and exploiting documents and media. Potential sources can range from detainees, refugees, and local residents to friendly forces and members of governmental or non-governmental organizations. Essentially, a HUMINT source is anyone who possesses first- or second-hand information"(Department of the Army, 2006, p. 4).[^6]
+> "HUMINT tasks include conducting source operations, engaging with host nation officials and allies, debriefing U.S. and foreign personnel, questioning detainees, and exploiting documents and media. Potential sources can range from detainees, refugees, and local residents to friendly forces and members of governmental or non-governmental organizations. Essentially, a HUMINT source is anyone who possesses first- or second-hand information"(Department of the Army, 2006, p. 4).[^6]
 
 ## What is HUMINT?
 
@@ -134,7 +134,8 @@ HUMINT isn't limited to espionage—it appears in many civilian and professional
 | RUMINT            | Early warnings, new leads, public sentiment | Unverified, unreliable, risk of [disinformation](disinformation.md)  |
 | HUMINT            | In-depth, contextual, adaptable             | Source-dependent, risk of deception, operational risk |
 
-As the CIA notes “typically involves confidential personnel decisions, upcoming policy announcements relevant to staff, or compelling rumors” (CIA, 2024)[^2].  
+As the CIA notes 
+> “typically involves confidential personnel decisions, upcoming policy announcements relevant to staff, or compelling rumors” (CIA, 2024)[^2].  
 
 ---
 
