@@ -93,7 +93,7 @@ Geospatial Intelligence is the analysis and visual representation of security re
 # IMINT (Imagery Intelligence)
 
 ### Definition
-IMINT—Imagery Intelligence[^odni][^odni_intel] includes representations of objects reproduced electronically or by optical means on film, electronic display devices, or other media. Imagery can be derived from visual photography, radar sensors, and electro-optics. NGA is the manager for all imagery intelligence activities, both classified and unclassified, within the government, including requirements, collection, processing, exploitation, dissemination, archiving, and retrieval.[^odni][^odni_intel]
+IMINT—Imagery Intelligence[^odni] includes representations of objects reproduced electronically or by optical means on film, electronic display devices, or other media. Imagery can be derived from visual photography, radar sensors, and electro-optics. NGA is the manager for all imagery intelligence activities, both classified and unclassified, within the government, including requirements, collection, processing, exploitation, dissemination, archiving, and retrieval.[^odni]
 
 ### Who Uses IMINT?
 - **Civilians:** Disaster tracking, social media verification, urban planning (unclassified).[^govinfo]
@@ -152,7 +152,7 @@ Combining visual intelligence (IMINT) with social data (SOCMINT) and digital pro
 - Layer data from emails, usernames, and phone lookups to build comprehensive profiles.[^dol]
 
 ### OPSEC Assessment
-- Use IMINT to assess physical security vulnerabilities (entry points, cameras).[^pezle][^vice4chan]
+- Use IMINT to assess physical security vulnerabilities (entry points, cameras).[^pezle][^vice4chan][^pubs98]
 - Use OSINT to identify digital exposure (breached credentials, leaked emails).
 - This combined view uncovers physical and cyber vulnerabilities.
 
@@ -190,21 +190,19 @@ back to the readme [main OPSEC-OSINT-Tools repository](../README.md).
 
 ## References:
 
-[^odni]: Office of the Director of National Intelligence. "Intelligence Community." *ODNI*, https://www.odni.gov/index.php/ncsc-what-we-do/121-dni/intelligence-community. Accessed 22 Sept. 2025.
+[^odni]: ---. "Intelligence Community." Office of the Director of National Intelligence, https://www.odni.gov/index.php/ncsc-what-we-do/121-dni/intelligence-community. Accessed 22 Sept. 2025.
 
-[^odni_intel]: "What is Intelligence?" *Office of the Director of National Intelligence*, www.dni.gov/index.php/what-we-do/what-is-intelligence. Accessed 22 Sept. 2025.
-
-[^rit]: “Social Media Intelligence Best Practices.” rit.edu, 2023-10_CPSI, Rochester Institute of Technology, Oct. 2023, www.rit.edu/liberalarts/sites/rit.edu.liberalarts/files/docs/CRIM%20Resources/2023-10_CPSI%20Working%20Paper_Social%20Media%20Intelligence%20Best%20Practices.pdf.
+[^rit]: “Social Media Intelligence Best Practices.” Rochester Institute of Technology, 2023-10_CPSI, Rochester Institute of Technology, Oct. 2023, www.rit.edu/liberalarts/sites/rit.edu.liberalarts/files/docs/CRIM%20Resources/2023-10_CPSI%20Working%20Paper_Social%20Media%20Intelligence%20Best%20Practices.pdf.
 
 [^kraakevik]: Kraakevik, Jeff. “Crafting a positive professional digital profile to augment your practice.” Neurology. Clinical practice vol. 6,1 (2016): 87-93. doi:10.1212/CPJ.0000000000000211
 
-[^hhs]: “HC3: Analyst Note.” hhs.gov, 202208091700, Washington D.C., United States of America, Health and Human Services, 9 Aug. 2022, web.archive.org/web/20230617000751/https://www.hhs.gov/sites/default/files/osint-how-to-analyst-note-tlpwhite.pdf.
+[^hhs]: “HC3: Analyst Note.” U.S Department of Health and Human Services, 202208091700, Washington D.C., United States of America, Health and Human Services, 9 Aug. 2022, web.archive.org/web/20230617000751/https://www.hhs.gov/sites/default/files/osint-how-to-analyst-note-tlpwhite.pdf.
 
-[^maltego]: Mathieu Gaucheler. “How OSINT Helps Find Missing Persons.” maltego.com, 2 May 2025, www.maltego.com/blog/how-osint-helps-find-missing-persons.
+[^maltego]: Mathieu Gaucheler. “How OSINT Helps Find Missing Persons.” Maltego, 2 May 2025, www.maltego.com/blog/how-osint-helps-find-missing-persons.
 
 [^NIJ]: Tracey L. Johnson, Basia E. Lopez, Jonathan McGrath, Caleb D. Hudgins, Meaghan L. Pimsler, and Veronica White, "Introducing the NIJ Forensic Intelligence Framework: Pillars and Guiding Principles for Successful Implementation," National Institute of Justice, NCJ 309128, November 2024.
 
-[^pezle]: “The Time 4Chan Called in an Airstrike.” Youtube.com, uploaded by Pezle, 17 Aug. 2023, www.youtube.com/watch?v=OR6epSP_Xlw.
+[^pezle]: “The Time 4Chan Called in an Airstrike.” Youtube, uploaded by Pezle, 17 Aug. 2023, www.youtube.com/watch?v=OR6epSP_Xlw.
 
 [^vice4chan]: Lamoureux, Mack, and Mack Lamoureux. “How 4Chan’s Worst Trolls Pulled off the Heist of the Century.” VICE, 27 July 2024, www.vice.com/en/article/4chan-does-first-good-thing-pulls-off-the-heist-of-the-century1.
 
@@ -212,13 +210,14 @@ back to the readme [main OPSEC-OSINT-Tools repository](../README.md).
 
 [^bellingcat_reverse]: Toler, Aric. “Guide to Using Reverse Image Search for Investigations - Bellingcat.” Bellingcat, 27 Dec. 2019, www.bellingcat.com/resources/how-tos/2019/12/26/guide-to-using-reverse-image-search-for-investigations.
 
-[^dol]: Jain, Shefali. “10 Best Background Check Sites In 2022.” dol.gov, 6 Jan. 2022, www.dol.gov/sites/dolgov/files/ETA/advisories/TEIN/2000/youth.htm.
+[^dol]: Jain, Shefali. “10 Best Background Check Sites In 2022.” United States Department Of Labor, 6 Jan. 2022, www.dol.gov/sites/dolgov/files/ETA/advisories/TEIN/2000/youth.htm.
 
-[^govinfo]: “IC21: The Intelligence Community in the 21st Century.” govinfo.gov, www.govinfo.gov/content/pkg/GPO-IC21/html/GPO-IC21-6.html. Accessed 25 Sept. 2025.
+[^govinfo]: “IC21: The Intelligence Community in the 21st Century.” U.S. Government Publishing Office, www.govinfo.gov/content/pkg/GPO-IC21/html/GPO-IC21-6.html. Accessed 25 Sept. 2025.
 
 [^osint45]: Creps, Jake. “The OSINT Newsletter - Issue #45.” The OSINT Newsletter, 4 Mar. 2024, osintnewsletter.com/p/45. https://archive.ph/7koNk
-
 
 [^osint_aug23]: Creps, Jake. “The OSINT Newsletter - August 2023 OSINT Review.” The OSINT Newsletter, 14 Aug. 2023, osintnewsletter.com/p/the-osint-newsletter-august-2023. https://archive.ph/dZdBA
 
 [^osint_apr23]: Creps, Jake. “The OSINT Newsletter - April 2023 OSINT Review.” The OSINT Newsletter, 15 Apr. 2023, osintnewsletter.com/p/april-osint-2023. https://archive.ph/BPW3U
+
+[^pubs98]: Szuba, Tom, et al. “Chapter 5-Protecting Your System: Physical Security.” The Institute of Education Sciences, The Institute of Education Sciences, 1998, pp. 55–62. nces.ed.gov/pubs98/safetech/chapter5.asp.

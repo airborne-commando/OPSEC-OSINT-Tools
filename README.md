@@ -13,6 +13,7 @@
 5. [key points](#key-points)
 6. [OPSEC](#operations-security-is-a-systematic-process-for) 
    - [How to OPSEC](#how-to-opsec)
+   - [Physical Security](./markdown/Physical-Security.md)
       - [disinformation](#disinformation) 
 7. [Open Source Intelligence (OSINT)](#open-source-intelligence-osint)
    - [Who uses Open-Source Intelligence (OSINT)?](#who-uses-open-source-intelligence-osint)
@@ -57,7 +58,7 @@ after cloning.
 
 People trust the internet too much. In today’s world, online and offline are practically the same—truth and fiction blur. This README exists to raise awareness. Clone it, fork it, remix it, or even turn it into a [Rentry](https://rentry.co/) page. Spread the knowledge however you like.
 
-Also this guide can help prevent issues such as doxing. The obvious way is to follow [Key-Takeaways](#Key-Takeaways) and use [people search tools](#people-search-tools-in-the-states) with a self audit to reduce the amount of info you have on yourself publicly[^EFF_doxing_tips][^deleteme].
+Also this guide can help prevent issues such as doxing. The obvious way is to follow [Key-Takeaways](#Key-Takeaways) and use [people search tools](#people-search-tools-in-the-states) with a self audit to reduce the amount of info you have on yourself publicly[^66][^50].
 
 Can you predict someone’s behavior with this? not exactly; people are unpredictable at times.
 
@@ -72,21 +73,29 @@ If you want some quick methodology I suggest you read this [markdown](./markdown
 ## Notable Examples of Bad Tor OPSEC
 
 - **School Bomb Threats**
-    - Harvard’s Eldo Kim[^doj-15] identified for using Tor on school network as the only user and admitting guilt.
+    - Harvard’s Eldo Kim[^22] identified for using Tor on school network as the only user and admitting guilt.
 - **Silk Road Case**
-    - Ross Ulbricht[^ulbricht][^fordham] linked to Silk Road by using his real name/email, posting about Tor, and failing to hide server IPs. The laptop was basically seized.[^FBI1]
-`On Oct. 1, 2013, an F.B.I. operation in a public library in San Francisco ended with the arrest of Ross Ulbricht, who was the brain behind Silk Road. One of the breakthroughs made by the federal agents was that they had traced Ulbricht's movements and found out that he was running the Silk Road from his laptop in public places, possibly to use public Wi-Fi networks for added anonymity. The arrest was not a matter of luck but rather a meticulously planned operation to catch Ulbricht logged into Silk Road as its administrator, a critical factor for proving his identity as Dread Pirate Roberts. Using a tricky ploy, two agents performing as a couple faked a quarrel nearby, distracting Ulbricht from his laptop. At that moment, another agent took the open laptop while logged into the Silk Road administrator's panel. This quick action prevented Ulbricht from locking the laptop or triggering security measures that would have encrypted or deleted crucial evidence.`[^plasbit][^Investopedia]
+    - Ross Ulbricht[^5] linked to Silk Road by using his real name/email, posting about Tor, and failing to hide server IPs. The laptop was basically seized according to the FBI.
 
-Ross was pardoned[^BBC1] in 2025.
+- "On Oct. 1, 2013, an F.B.I. operation in a public library in San Francisco ended with the arrest of Ross Ulbricht, who was the brain behind Silk Road... At that moment, another agent took the open laptop while logged into the Silk Road administrator's panel" (Oliyaee, 2024, para. 2).[^60]
+
+- "ULBRICHT created Silk Road in January 2011, and owned and operated the underground website until it was shut down by law enforcement authorities in October 2013" (U.S. Department of Justice, 2015, para. 1).[^5]
+
+- "The FBI arrested Ulbricht and seized his laptop on October 1, 2013. A judge sentenced Ulbricht to life in prison for drug trafficking, computer hacking, and money laundering in 2015" (FBI, n.d., para. 2).[^59]
+
+- "In 2015, Ulbricht was sentenced to life in prison but was pardoned in 2025" (Reiff, 2025, para. 3).[^61]
+
+Ross was pardoned[^62] in 2025 by the trump administration.
 
 - **LulzSec Hacking Group**
-    - Members exposed themselves by discussing ops in public IRC[^archives-fbi][^Ackroyd][^purdue][^fbi], revealing personal info, using stolen cards[^archives-fbi1] to home addresses, and trusting informants.<br>
-`Spitler admitted to communicating during the data breach with his co-defendant, Andrew Auernheimer, 25, who was arrested January 18, 2011, in Fayetteville, Ark., while appearing in state court on unrelated drug charges. The two wrote each other during the breach using Internet Relay Chat, an Internet instant messaging program. Those chats included discussions between Spitler, Auernheimer, and other Goatse Security members about the best way to take advantage of the breach and associated theft.`[^archives-fbi]
+    - Members exposed themselves by discussing ops in public IRC[^56][^58][^21][^20], revealing personal info, using stolen cards[^57] to home addresses, and trusting informants.<br>
+
+"Spitler admitted to communicating during the data breach with his co-defendant, Andrew Auernheimer, 25, who was arrested January 18, 2011, in Fayetteville, Ark., while appearing in state court on unrelated drug charges. The two wrote each other during the breach using Internet Relay Chat, an Internet instant messaging program. Those chats included discussions between Spitler, Auernheimer, and other Goatse Security members about the best way to take advantage of the breach and associated theft" (Federal Bureau of Investigation, 2012).[^57]
 
 - **General Bad OPSEC Practices**
     - Poor compartmentalization, leaking sensitive info, predictable naming, traceable work hours, and unsecured servers.
-- **Mullvad VPN: Security Contrast**[^acm] [^iugl]
-    - Features: anonymous accounts, strong encryption, no-logs, lockdown mode, DNS blockers, open-source, accepts Monero/cash and is independently audited[^MullvadVPNAudits][^WhyMullvad][^mullvad].
+- **Mullvad VPN: Security Contrast**[^2] [^3]
+    - Features: anonymous accounts, strong encryption, no-logs, lockdown mode, DNS blockers, open-source, accepts Monero/cash and is independently audited[^64][^65][^63].
     - **Caution:** No tool is foolproof; human error remains the weakest link.
 
 
@@ -115,23 +124,24 @@ Ross was pardoned[^BBC1] in 2025.
 ## Real-World OSINT and OPSEC Examples
 
 - **Criminals**
-    - *Sony Pictures Hack (2014):* Used OSINT on staff and infrastructure for phishing and breach. [^dojnk]
-    - *Ashley Madison Breach (2015):* Used OSINT to leak sensitive user data, causing blackmail and public exposure. [^ftcamd]
+    - *Sony Pictures Hack (2014):* Used OSINT on staff and infrastructure for phishing and breach.[^68]
+    - "Email notifications sent via accounts like designedcuratedamy58[@]gmail.com alerted operators whenever targets began assessments or ran malicious curl commands" (Priya, 2025, para. 14).[^69]
+    - *Ashley Madison Breach (2015):* Used OSINT to leak sensitive user data, causing blackmail and public exposure.[^25]
 - **Civilians**
-    - *Identifying Russian Soldiers:* Used facial recognition and open-source images to ID participants in conflicts. [^guardian]
-    - *Cameroon Investigation:* Used metadata and geolocation to verify military abuses. [^hrwcam]
+    - *Identifying Russian Soldiers:* Used facial recognition and open-source images to ID participants in conflicts.[^55]
+    - *Cameroon Investigation:* Used metadata and geolocation to verify military abuses.[^23]
 - **Law Enforcement**
-    - *Tracking Stolen Property:* Monitored online marketplaces to recover stolen goods. [^police1]
-    - *ShadowDragon’s SocialNet:* Mapped social networks from 200+ sources to aid investigations. [^dhsfoia]
+    - *Tracking Stolen Property:* Monitored online marketplaces to recover stolen goods.[^24]
+    - *ShadowDragon’s SocialNet:* Mapped social networks from 200+ sources to aid investigations.[^4]
 - **OPSEC Failures**
-    - *Guccifer 2.0:* Forgot to activate VPN, exposing real IP and identity. [^doj]
-    - *Silk Road’s Ross Ulbricht:* Used personal email and left digital traces, leading to arrest. [^ulbricht]
+    - *Guccifer 2.0:* Forgot to activate VPN, exposing real IP and identity.[^3]
+    - *Silk Road’s Ross Ulbricht:* Used personal email and left digital traces, leading to arrest.[^5]
 
 These guides collectively highlight the importance of strong operational security, the power and risks of OSINT, and the need for continuous vigilance and ethical conduct in information gathering and online behavior.
 
 ## (Operations Security) is a systematic process for:
-1. Identifying[^nist]
-2. Protecting and controlling critical information[^nist][^dol_opsec]
+1. Identifying[^33]
+2. Protecting and controlling critical information[^33][^34]
 
 It's a security discipline and operations function that involves a continuous cycle of:
 * Identifying critical information and indicators (CII)
@@ -146,16 +156,20 @@ It's a security discipline and operations function that involves a continuous cy
 * Over-sharing personal information online
 
    * Chris Chan:<br>
-     has a huge digital footprint and is easily fooled by trolls online.[^youtube][^businessinsider][^imdb]
+     has a huge digital footprint and is easily fooled by trolls online.[^40][^41][^42"]
 
-   * suspectAGB:<br>
-`Tariq Monteiro, 23, and Siyad Mohamud, 24, were part of a group which targeted Alex Smith over a gang-based feud as he left a restaurant near Euston station on 12 August 2019.The pair fled to Kenya immediately after the incident and were arrested in Nairobi last year.They both refused to appear for their sentencing hearing at the Old Bailey. Monteiro, of no fixed address, was ordered to serve a minimum of 24 years in prison, while Mohamud, of Barker Drive, Camden, will serve at least 23 years.`[^bbc]Shared a kitchen photo.[^opsecfail]
+* suspectAGB: as stated by the BBC.
+"Tariq Monteiro, 23, and Siyad Mohamud, 24, were part of a group which targeted Alex Smith over a gang-based feud as he left a restaurant near Euston station on 12 August 2019. The pair fled to Kenya immediately after the incident and were arrested in Nairobi last year. They both refused to appear for their sentencing hearing at the Old Bailey. Monteiro, of no fixed address, was ordered to serve a minimum of 24 years in prison, while Mohamud, of Barker Drive, Camden, will serve at least 23 years." (Evans 2023, para. 1–4)[^44]
+
+He shared a kitchen photo and people were able to deduce where he was due to an appliance. As stated by bugzorc opsecfail
+
+"Observant individuals quickly pinpointed his location, thanks to telltale signs like common household plugs and the typical kitchen setup. Moreover, the metadata of his posts gave him away." (bugzorc 2025, para. 1)[^43]
 
 * Leaving unused social media online
-* interacting with a target on social media
-   * w0rmer:<br>
-     w0rmer took a picture of his girlfriend, which had exif data on it, so the feds visited his girlfriend who without hesitation said his bf asked him to take the picture.[^opsecfail_w0rmer]
-     `I have a way of also inciting anger in people and I think that’s obvious too, in what I was doing. I was egging everybody on. But a little backstory on that; so as you can see, all of them are pretty in-your-face and they’re trying to get and investigate or really after me.I already knew the GPS Exif data was in them and so I had a whole workflow for that. I had my dirty images and then I would clean them and put them in another file. When I went to publish that, I went one, two, three, and so, man, I need one more photo. I grabbed the wrong one, put it in there, and hit tweet.`[^darknetdiaries]
+
+Interacting with a target on social media has been shown to compromise anonymity, as noted by opsecfail. For instance, w0rmer uploaded a photo of his girlfriend that still contained GPS Exif data, which ultimately led investigators to her. When questioned, she admitted he had asked her to take the picture (bugzorc 2025, para. 3; opsecfail.github.io/blog.html?filecase=w0rmer)[^45].
+
+Similarly, w0rmer himself explained in an interview that he often provoked people online and had a deliberate process for cleaning photos of metadata. However, during one publishing slip, he accidentally uploaded the wrong image that contained Exif data, which gave authorities critical information (“W0rmer – Darknet Diaries” 2020, 00:25:58–00:26:41; darknetdiaries.com/transcript/63)[^46].
 
 * [examples of good and bad opsec and some osint.](./markdown/examples.md)
 * Also some expanded [examples](./markdown/expanded-examples/)
@@ -187,9 +201,9 @@ OPSEC supplements other security disciplines rather than replacing them.
 
 ### **Key Takeaways**
 1. **Messaging**:  
-   - **Signal** OR **Simplex** > **Telegram** for privacy.[^ieee][^signal][^simplex]
+   - **Signal** OR **Simplex** > **Telegram** for privacy.[^30][^31][^32]
 
-   - Remember: E2E ≠ total anonymity (metadata leaks/habits matter)[^opsecfail_w0rmer][^darknetdiaries][^youtube][^opsecfail].
+   - Remember: E2E ≠ total anonymity (metadata leaks/habits matter)[^45][^46][^8][^43].
 
 
 2. **Anonymity**:  
@@ -212,24 +226,20 @@ OPSEC supplements other security disciplines rather than replacing them.
 By TOR I mean Tor Browser, VPN as in Virtual Private Network, and by Virtual Private Network I mean by Virtual Private Network Service - IE: Mullvad (though it can be other types of VPN's out there as long as it's safe to use and vetted by privacy experts). XMR is Monero Coin or Monero for short, a Privacy Coin.
 
 Check Wikipedia or the sources cited If you're confused on all of these here:
-1. VPN service[^WaTech][^njcybervpn], what we're gonna use here.
-2. TOR[^cisa][^nyutor][^cia], What should be used separately.
-3. XMR[^monero], for VPN's that take XMR[^monero] as payment.
-
-
-
-
+1. VPN service[^9][^10], what we're gonna use here.
+2. TOR, What should be used separately.[^12][^11][^13]
+3. XMR, for VPN's that take XMR as payment.[^14]
 
 ---
 
 ### **Pro Tips**
-- **Monero Mining**: Run a local node to avoid centralized exchanges tracing purchases.[^arxiv]
+- **Monero Mining**: Run a local node to avoid centralized exchanges tracing purchases.[^15]
 
 For full tool details, see the **[OPSEC Tools List](./markdown/opsec.md)**.
 
 ## disinformation
 
-Disinformation[^misinformation][^pmc] in the context of OSINT (Open Source Intelligence) refers to deliberate actions taken to obscure, mislead, or mask the true activities, intentions, or identities of individuals or organizations from those conducting open-source intelligence gathering. [here](./markdown/disinformation.md).
+Disinformation[^16][^17] in the context of OSINT (Open Source Intelligence) refers to deliberate actions taken to obscure, mislead, or mask the true activities, intentions, or identities of individuals or organizations from those conducting open-source intelligence gathering. [here](./markdown/disinformation.md).
 
 ## Open Source Intelligence (OSINT)
 
@@ -251,53 +261,51 @@ Disinformation[^misinformation][^pmc] in the context of OSINT (Open Source Intel
 
 - National Security and Intelligence Agencies, Law Enforcement, Businesses, Cybersecurity and Cyber-crime Groups, Privacy-Conscious People, Non-Governmental Organizations
 
-  - The CIA[^odni-cia], Defense Intelligence Agency (DIA)[^dia], and Office of the Director of National Intelligence (ODNI) all use OSINT[^odni].
-  - OSINT can protect citizens (private or otherwise) from identity theft, sexual violence[^bellingcat_sgbv][^fbi_behavioral], and abuse[^fbi_behavioral][^bellingcat_sgbv].
-  - OSINT can monitor competitors[^sba], investigate new markets[^sba], and plan marketing activities[^sba].
+  - The CIA[^27], Defense Intelligence Agency (DIA)[^26], and Office of the Director of National Intelligence (ODNI) all use OSINT[^1].
+  - OSINT can protect citizens (private or otherwise) from identity theft, sexual violence, and abuse[^52][^53].
+  - OSINT can monitor competitors, investigate new markets, and plan marketing activities[^51].
   - OSINT can gather intelligence about specific targets online.
-  - OSINT can check how outsiders can break into their computing devices.[^ibm]
-  - OSINT can be used on oneself to secure privacy.[^deleteme]
-  - Bellingcat[^bellingcat_toolkit] and the Center for Information Resilience[^infores] use OSINT.
+  - OSINT can check how outsiders can break into their computing devices.[^49]
+  - OSINT can be used on oneself to secure privacy.[^50]
+  - Bellingcat[^48] and the Center for Information Resilience[^47] use OSINT.
   - And you! Yes, you can use OSINT.
 
 ## Sources of OSINT
 OSINT can gather information from various sources, including:
-- Public government data
+- Public government data as stated by the University of North Texas Libraries[^25].
 
-  - Public data is data that can be used, reused, or redistributed. Government entities at all levels (municipal, state, federal, and international) produce large amounts of public data. Typically this data is accessible without restrictions. There may be instances where terms of use must be agreed to or approval must be granted before accessing datasets, such as health or education data.[^unt]
+Public data is data that is used, reused and or redistributed. Government entities operating at various judicial levels such as local, state, federal, and the international levels. This creates various amounts of public data, which is accessible without restrictions. Terms of use must be agreed to or approved depending on consideration before accessing these datasets and or records, such as Heath (HIPPA) and or Educational Data.
 
 Such can include for example [casesearch](https://ujsportal.pacourts.us/casesearch) in Pennsylvania Courts; landlord, criminal, civil et al should have an address as that's public govt info. 
 
 A Parcel search for [tax history](https://public.eriecountypa.gov/property-tax-records/property-records/property-tax-search/search-by-parcel.aspx).
 
-An official [Justice site](https://www.justice.gov/jmd/ls/state) listing all states and their Local Courts. Case search should be in State Judiciary, also for other information such as tax records and property records.
+An official [Justice site](https://www.justice.gov/jmd/ls/state) listing all states and their local judicial. Case search should be in state judiciary, also for other information such as tax records and property records.
 
-- [Professional and academic publications](https://www.lawinsider.com/dictionary/academic-publication)
+  - According to Johns Hopkins University[^67] it is. 
+    
 
-  - Academic Publication means the publication of an abstract, article or paper in a journal or electronic repository, or its presentation at a conference or seminar.
+“A subfield of publishing which distributes academic research and scholarship.”
 
 
-- Commercial data[^lawinsider]
+- Commercial data:
 
-  - Commercial Data means any and all data and information relating to an identified or identifiable Person (whether the information is accurate or not), alone or in combination with other information, which Person is or was an actual or prospective customer of, or consumer of products offered by, the VS Business or L Brands Business, as applicable.
-
-  - Commercial Data means any and all data and information relating to an identified or identifiable Person (whether the information is accurate or not), alone or in combination with other information, which Person is or was an actual or prospective customer of, or consumer of products or services offered by, the LoyaltyOne Business and/or ADS Business, as applicable.
-
-  - Commercial Data means any and all data collected or otherwise processed by the Seller Entities relating to a customer of the Business.
-
-- Grey literature[^welch]
+  - "Commercial Data means any and all data and information relating to an identified or identifiable Person (whether the information is accurate or not), alone or in combination with other information, which Person is or was an actual or prospective customer of, or consumer of products offered by, the VS Business or L Brands Business, as applicable. Commercial Data means any and all data collected or otherwise processed by the Seller Entities relating to a customer of the Business" (Law Insider, 2025).[^36]
   
-  - Grey literature is "Information produced on all levels of government, academics, business and industry in electronic and print formats not controlled by commercial publishing i.e. where publishing is not the primary activity of the producing body."
+- Grey literature:
+
+  - Grey literature, as defined by the Welch Medical Library, is "information produced on all levels of government, academics, business and industry in electronic and print formats not controlled by commercial publishing i.e. where publishing is not the primary activity of the producing body" (Joseph, 2025, paras. 1–2)[^37].
+
+- genealogical:
   
-  - Grey literature can be useful for your research, but finding resources requires different tactics than you'd use for commercially published materials. This is because many types of grey literature are not indexed in some of the more common research tools like PubMed, CINAHL, Scopus, etc.
+  "Genealogical research is the tracing of an individual's ancestral history using historical records, both official and unofficial" (University of Maryland Libraries, n.d., para. 1).[^39]
 
-- genealogical[^vt][^umd]
-
+  "Genealogy is the study of families and their ancestors and histories" (Virginia Tech University Libraries, n.d., para. 1).[^38]
+  
    - Genealogy: Using family history research and genealogy databases as an intelligence-gathering tool.
-   - Death records: Gathering intelligence from records such as death notices, obituaries, gravestone databases, and burial registries.
-   - Obituary: Systematically using obituaries to collect personal and relational data for investigations. (news papers or local news sites) 
+   - Death records: Gathering intelligence from records such as death notices, obituaries, gravestone databases, and burial registries.(news papers or local news sites) 
 
-- people search aggregators[^ftcgov], typically used in the united states. can give you information on someone such as an email, home address, date of birth, etc.
+- people search aggregators[^54], typically used in the united states. can give you information on someone such as an email, home address, date of birth, etc.
 
 - Google Dorks:
 
@@ -333,14 +341,14 @@ These operators are not used unless you include them in your query—Google’s 
 
 ## In the year 2016, a basket weaving image board used OSINT to pay some supposed terrorist a visit from a govt in Russia resulting in airstrikes.
 
-  - In 2016, during the complex Syrian Civil War, various rebel groups—some with good intentions and others with nefarious motives—sought to overthrow President Assad. The chaos allowed terrorist groups to flourish, prompting intervention from the United States and Russia, with the former supporting rebels and the latter aiding Assad. An anonymous user on 4chan's Syria General board (SG) claimed that a Syrian rebel group, Jaysh al-Izza, posted a video on YouTube revealing their secret encampment. The group, linked to Al-Qaeda, was seen by 4chan users as a target. A notable 4chan user, Ivan Sirenko, who had connections with the Russian military, received the coordinates from the 4chan community and tweeted them to the Russian Ministry of Defense. This led to an airstrike on the encampment. Two months later, the same rebel group posted another video showing a new training camp. 4chan users once again pinpointed the location using landmarks seen in the video. After thorough verification, they sent the coordinates to Ivan, who facilitated another Russian airstrike.[^pezle][^hnthread]
+  - In 2016, during the complex Syrian Civil War, various rebel groups—some with good intentions and others with nefarious motives—sought to overthrow President Assad. The chaos allowed terrorist groups to flourish, prompting intervention from the United States and Russia, with the former supporting rebels and the latter aiding Assad. An anonymous user on 4chan's Syria General board (SG) claimed that a Syrian rebel group, Jaysh al-Izza, posted a video on YouTube revealing their secret encampment. The group, linked to Al-Qaeda, was seen by 4chan users as a target. A notable 4chan user, Ivan Sirenko, who had connections with the Russian military, received the coordinates from the 4chan community and tweeted them to the Russian Ministry of Defense. This led to an airstrike on the encampment. Two months later, the same rebel group posted another video showing a new training camp. 4chan users once again pinpointed the location using landmarks seen in the video. After thorough verification, they sent the coordinates to Ivan, who facilitated another Russian airstrike.[^8][^7]
 
-UPDATE: Turns out it was a really complex war [^cbsnews] the 4chan got involved in, still keeping this up as a key example however; the main issue is that they exposed their training locations with geographic locations to the internet like complete morons.
+UPDATE: Turns out it was a really complex war[^19] the 4chan got involved in, still keeping this up as a key example however; the main issue is that they exposed their training locations with geographic locations to the internet like complete morons.
 Thus bad opsec.
 
 ## In 2017, Shia LaBeouf had a protest due to Trumps election; this resulted in a basket weaving image board using OSINT and [sky patterns to figure out where a flag is.
 
-- In 2017, 4chan users managed to track down and replace Shia LaBeouf's "He Will Not Divide Us" protest flag. Using only the live-stream footage of the flag, they analyzed flight patterns, star positions, and a tweet to locate the flag in Greeneville, Tennessee. A local troll then honked his car horn until the sound was picked up on the live-stream, pinpointing the exact location. The flag was replaced with a Trump hat, marking the end of this elaborate trolling operation.[^vice4chan]
+- In 2017, 4chan users managed to track down and replace Shia LaBeouf's "He Will Not Divide Us" protest flag. Using only the live-stream footage of the flag, they analyzed flight patterns, star positions, and a tweet to locate the flag in Greeneville, Tennessee. A local troll then honked his car horn until the sound was picked up on the live-stream, pinpointing the exact location. The flag was replaced with a Trump hat, marking the end of this elaborate trolling operation.[^6]
 
 ## Digital profiling (OSINT profiling).
 
@@ -362,10 +370,10 @@ See also **[CSINT](./markdown/CSINT.md)**
 
 # IMINT
 
-[IMINT](./markdown/IMINT.md)(Image Intelligence) involves collecting and analyzing visual imagery—satellite, aerial, drone, or ground photos—to extract useful information.[^odni_intel][^odni][^govinfo]
+[IMINT](./markdown/IMINT.md)(Image Intelligence) involves collecting and analyzing visual imagery—satellite, aerial, drone, or ground photos—to extract useful information.[^1][^28]
 Contains information such as [SOCMINT](./markdown/IMINT.md#socmint-social-intelligence) and [Reverse Search](./markdown/IMINT.md#reverse-search-google).
 
-GEOINT[^odni_intel][^odni][^govinfo] is information on geographic locations. Geospatial data may also be called GEOINT data. It's to understand human activity or events and to layer that with data along with geolocations and timing. It has non-military uses as well, example would be for first responders issuing an emergency for a wildfire[^nctc].
+GEOINT[^1][^28] is information on geographic locations. Geospatial data may also be called GEOINT data. It's to understand human activity or events and to layer that with data along with geolocations and timing. It has non-military uses as well, example would be for first responders issuing an emergency for a wildfire[^29].
 
 Three examples of GEOINT tools that you can access right now:
 - [Earth](https://earth.google.com/web/)
@@ -422,7 +430,7 @@ Three examples of GEOINT tools that you can access right now:
             https://calendar.google.com/calendar/u/0/embed?src=youremail@gmail.com
 
 
-From this linkedin post[^Yoni]:
+A post from a user named Yoni[^18]:
 
 In a clever LinkedIn post, 🔐Yoni  shares a privacy insight and a practical OSINT technique worth bookmarking.
 
@@ -525,12 +533,23 @@ An automatic tool that I've made for [pa voter services](https://github.com/airb
 | **[archive.trace.rip](https://archive.trace.rip/)**          | detailed information    | user submitted     | Historical Data Breaches Archive                           | data breaches and scrapes throughout history                    |
 
 
+## Breach VIP API curl commands
+
+    curl -X POST https://breach.vip/api/search -H "Content-Type: application/json" -d '{"term": "test@*.com","fields": ["email"],"wildcard": false, "case_sensitive": false}' > results-email.txt
+    
+    curl -X POST https://breach.vip/api/search -H "Content-Type: application/json" -d '{"term": "test","fields": ["username"],"wildcard": false, "case_sensitive": true}' > results-user.txt
+    
+    curl -X POST https://breach.vip/api/search -H "Content-Type: application/json" -d '{"term": "000-*","fields": ["phone"],"wildcard": true, "case_sensitive": false}' > results-phone.txt
+    
+    curl -X POST https://breach.vip/api/search -H "Content-Type: application/json" -d '{"term": "john-doe","fields": ["name"],"wildcard": false, "case_sensitive": true}' > results-name.txt
+
+Take a look at the documents which I will [link here](https://breach.vip/api/docs)
 
 ---
 
 ### **Key Takeaways**:
 1. **Free vs. Paid**:  
-   - *Free*: HIBP, BreachDirectory, Pentester, Hashes.com.  
+   - *Free*: HIBP, BreachDirectory, Pentester, Hashes.com, breach.vip.  
    - *Limited Free*: LeakPeek (5 searches), Breach.vip (login required).  
    - *Paid*: LOLArchiver, LeakPeek plans.  
 
@@ -610,24 +629,35 @@ An automatic tool that I've made for [pa voter services](https://github.com/airb
 
 ## Curated lists
 
+**OSINT Lists:**
+
 - [Awesome OSINT](https://github.com/jivoi/awesome-osint) - a curated list of OSINT tools, blogs, and videos
 
-- [OSINT Framework](https://osintframework.com/) - a larger list of tools
+- [OSINT for countries V2](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
+
+- [OSINT for countries](https://github.com/wddadk/OSINT-for-countries)
   
+- [OSINT Framework](https://osintframework.com/) - a larger list of tools
+
 - [OSINT Resources](https://sizeof.cat/post/osint-resources/) - Collection of OSINT resources that seems to be more up to date (includes NSFW)
 
   - [Archive](https://archive.ph/rZZf0)
 
+- [cipher387's OSINT collection](https://github.com/cipher387/osint_stuff_tool_collection).
 
 - [internet tools](https://fmhy.xyz/internet-tools#open-source-intelligence) 
   
 - [OSINT toolbox](https://github.com/The-Osint-Toolbox) 
 
+**Wiki's:**
+
 - A whole reddit wiki from the [OSINT community](https://www.reddit.com/r/OSINT/wiki/index/)
 
-- A list of social media, maps, domains, etc also listed [in cipher387's OSINT collection](https://github.com/cipher387/osint_stuff_tool_collection).
+**TOOLKIT:**
 
 - bellingcat [toolkit](https://bellingcat.gitbook.io/toolkit)
+
+**NEWSLETTER(S):**
 
 - [OSINT news letter](https://osintnewsletter.com) Protip: use "topic" site:https://osintnewsletter.com
 
@@ -636,7 +666,7 @@ example:
     "facecheck.id" site:https://osintnewsletter.com
 
 
-**OPT OUT**
+**OPT OUTs**
 
 - A whole [big ass list](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) to opt out and to compare info.
 
@@ -675,8 +705,6 @@ Additional tools:
 
 - For additional tools see the curated-lists above
 
-
-
 ## Donations:
 
 If you find this useful feel free to donate to this monero address:
@@ -689,143 +717,144 @@ If you find this useful feel free to donate to this monero address:
 
 ## References:
 
-[^odni_intel]: ---. “What Is Intelligence?” www.dni.gov, www.dni.gov/index.php/what-we-do/what-is-intelligence. Accessed 24 Sept. 2025. (Office of the Director of National Intelligence, “What Is Intelligence?,” sec.HUMINT)
+[^1]: Office of the Director of National Intelligence. “Intelligence Community.” Office of the Director of National Intelligence, www.odni.gov/index.php/ncsc-what-we-do/121-dni/intelligence-community. Accessed 24 Sept. 2025. (Office of the Director of National Intelligence, “What Is Intelligence?,” sec.HUMINT)
 
-[^odni]: Office of the Director of National Intelligence. “Intelligence Community.” https://www.odni.gov/, www.odni.gov/index.php/ncsc-what-we-do/121-dni/intelligence-community. Accessed 24 Sept. 2025.
+[^2]: Mohammad Taha Khan, Joe DeBlasio, Geoffrey M. Voelker, Alex C. Snoeren, Chris Kanich, and Narseo Vallina-Rodriguez. 2018. An Empirical Analysis of the Commercial VPN Ecosystem. In Proceedings of the Internet Measurement Conference 2018 (IMC '18). Association for Computing Machinery, New York, NY, USA, 443–456. https://doi.org/10.1145/3278532.3278570
 
-[^acm]: Mohammad Taha Khan, Joe DeBlasio, Geoffrey M. Voelker, Alex C. Snoeren, Chris Kanich, and Narseo Vallina-Rodriguez. 2018. An Empirical Analysis of the Commercial VPN Ecosystem. In Proceedings of the Internet Measurement Conference 2018 (IMC '18). Association for Computing Machinery, New York, NY, USA, 443–456. https://doi.org/10.1145/3278532.3278570
+[^3]: “Library Research Guides: Digital Privacy: Digital Privacy Practices.” Indiana University Bloomington, wayback machine, 7 July 2025, web.archive.org/web/20250208104257/https://guides.libraries.indiana.edu/c.php?g=1325689&p=9771453.
 
-[^iugl]: Indiana University Bloomington. “Library Research Guides: Digital Privacy: Digital Privacy Practices.” https://guides.libraries.indiana.edu, 7 July 2025, web.archive.org/web/20250208104257/https://guides.libraries.indiana.edu/c.php?g=1325689&p=9771453.
+[^3]: Department Of Justice. “Grand Jury Indicts 12 Russian Intelligence Officers for Hacking.” U.S. Department of Justice, 6 Feb. 2025, www.justice.gov/archives/opa/pr/grand-jury-indicts-12-russian-intelligence-officers-hacking-offenses-related-2016-election.
 
-[^doj]: Department Of Justice. “Grand Jury Indicts 12 Russian Intelligence Officers for Hacking.” https://www.justice.gov, 6 Feb. 2025, www.justice.gov/archives/opa/pr/grand-jury-indicts-12-russian-intelligence-officers-hacking-offenses-related-2016-election.
+[^4]: Department of Homeland Security. Freedom of Information Act (FOIA) Activity for the Week of March 20, 2025- March 26, 2025 DHS Privacy Office March 31, 2025 Weekly FOIA Report. 31 Mar. 2025, www.dhs.gov/sites/default/files/2025-07/25_0731_PRIV_Chief_FOIA_Officers_Weekly_Report_March_31_25_to_June_30_25.pdf.
 
-[^dhsfoia]: Department of Homeland Security. Freedom of Information Act (FOIA) Activity for the Week of March 20, 2025- March 26, 2025 DHS Privacy Office March 31, 2025 Weekly FOIA Report. 31 Mar. 2025, www.dhs.gov/sites/default/files/2025-07/25_0731_PRIV_Chief_FOIA_Officers_Weekly_Report_March_31_25_to_June_30_25.pdf.
+[^5]: “Ross Ulbricht, a/K/a ‘Dread Pirate Roberts,’ Sentenced in Manhattan.” U.S. Department of Justice, 29 May 2015, www.justice.gov/usao-sdny/pr/ross-ulbricht-aka-dread-pirate-roberts-sentenced-manhattan-federal-court-life-prison.
 
-[^ulbricht]: “Ross Ulbricht, a/K/a ‘Dread Pirate Roberts,’ Sentenced in Manhattan.” www.justice.gov, 29 May 2015, www.justice.gov/usao-sdny/pr/ross-ulbricht-aka-dread-pirate-roberts-sentenced-manhattan-federal-court-life-prison.
+[^6]: Lamoureux, Mack, and Mack Lamoureux. “How 4Chan’s Worst Trolls Pulled off the Heist of the Century.” VICE, 27 July 2024, www.vice.com/en/article/4chan-does-first-good-thing-pulls-off-the-heist-of-the-century1.
 
-[^vice4chan]: Lamoureux, Mack, and Mack Lamoureux. “How 4Chan’s Worst Trolls Pulled off the Heist of the Century.” VICE, 27 July 2024, www.vice.com/en/article/4chan-does-first-good-thing-pulls-off-the-heist-of-the-century1.
+[^7]: chasd00. "*Remember When 4chan Figured Out the Location of a Terrorist Training Camp From O...*" `|` Hacker News. 22 Dec. 2022. Hacker News, news.ycombinator.com/item?id=33913443. Accessed 24 Sept. 2025.
 
-[^hnthread]: `chasd00. Remember When 4chan Figured Out the Location of a Terrorist Training Camp From O... | Hacker News. 22 Dec. 2022. https://news.ycombinator.com, news.ycombinator.com/item?id=33913443.`
+[^8]: “The Time 4Chan Called in an Airstrike.” Youtube, uploaded by Pezle, 17 Aug. 2023, www.youtube.com/watch?v=OR6epSP_Xlw.
 
-[^pezle]: “The Time 4Chan Called in an Airstrike.” Youtube.com, uploaded by Pezle, 17 Aug. 2023, www.youtube.com/watch?v=OR6epSP_Xlw.
+[^9]: "*Washington State Technology. What Is a VPN, and How Does It Work?*" Washington Technology Solutions. watech.wa.gov/what-vpn-and-how-does-it-work. Accessed 25 Sept. 2025.
 
-[^WaTech]: `Washington State Technology. What Is a VPN, and How Does It Work? | WaTech. watech.wa.gov/what-vpn-and-how-does-it-work. Accessed 25 Sept. 2025.`
+[^10]: State Of New Jersey. “Virtual Private Networks.” State Of New Jersey Cybersecurity & Communications Integration Cell, www.cyber.nj.gov/guidance-and-best-practices/wi-fi-network-security/virtual-private-networks. Accessed 25 Sept. 2025.
 
-[^njcybervpn]: State Of New Jersey. “Virtual Private Networks.” cyber.nj.gov, www.cyber.nj.gov/guidance-and-best-practices/wi-fi-network-security/virtual-private-networks. Accessed 25 Sept. 2025.
+[^11]: New York University. “Demystifying the Dark Web: An Introduction to Tor and Onion Routing – Networks at ITP.” New York University, itp.nyu.edu/networks/explanations/demystifying-the-dark-web-an-introduction-to-tor-and-onion-routing.
 
-[^nyutor]: New York University. “Demystifying the Dark Web: An Introduction to Tor and Onion Routing – Networks at ITP.” nyu.edu, itp.nyu.edu/networks/explanations/demystifying-the-dark-web-an-introduction-to-tor-and-onion-routing.
+[^12]: CISA. “Defending Against Malicious Cyber Activity Originating From Tor.” Cybersecurity Infrastructure Security Agency, 2 Aug. 2021, www.cisa.gov/news-events/cybersecurity-advisories/aa20-183a.
 
-[^cisa]: CISA. “Defending Against Malicious Cyber Activity Originating From Tor.” www.cisa.gov, 2 Aug. 2021, www.cisa.gov/news-events/cybersecurity-advisories/aa20-183a.
+[^13]: CIA. “CIA’s Latest Layer: An Onion Site - CIA.” CIA, 7 May 2019, www.cia.gov/stories/story/cias-latest-layer-an-onion-site.
 
-[^cia]: CIA. “CIA’s Latest Layer: An Onion Site - CIA.” cia.gov, 7 May 2019, www.cia.gov/stories/story/cias-latest-layer-an-onion-site.
+[^14]: Kuo, Tsung-Ting et al. “Comparison of blockchain platforms: a systematic review and healthcare examples.” Journal of the American Medical Informatics Association : JAMIA vol. 26,5 (2019): 462-478. doi:10.1093/jamia/ocy185
 
-[^monero]: Kuo, Tsung-Ting et al. “Comparison of blockchain platforms: a systematic review and healthcare examples.” Journal of the American Medical Informatics Association : JAMIA vol. 26,5 (2019): 462-478. doi:10.1093/jamia/ocy185
+[^15]: Rüth, Jan, et al. “Digging into Browser-Based Crypto Mining.” Proceedings of the Internet Measurement Conference 2018, ACM, 2018, pp. 70–76. Crossref, https://doi.org/10.1145/3278532.3278539.
 
-[^arxiv]: Rüth, Jan, et al. “Digging into Browser-Based Crypto Mining.” Proceedings of the Internet Measurement Conference 2018, ACM, 2018, pp. 70–76. Crossref, https://doi.org/10.1145/3278532.3278539.
+[^16]: College of Staten Island. “CSI Library: Misinformation and Disinformation: Thinking Critically About Information Sources: Misinformation, Disinformation, and Malinformation.” Misinformation and Disinformation: Thinking Critically About Information Sources, uploaded by College of Staten Island, 25 Aug. 2025, library.csi.cuny.edu/misinformation.
 
-[^misinformation]: College of Staten Island. “CSI Library: Misinformation and Disinformation: Thinking Critically About Information Sources: Misinformation, Disinformation, and Malinformation.” Misinformation and Disinformation: Thinking Critically About Information Sources, uploaded by College of Staten Island, 25 Aug. 2025, library.csi.cuny.edu/misinformation.
+[^17]: Ghenai, Amira, and Yelena Mejova. "Catching Fire: Identifying Propaganda on Social Media in the Context of the Russia-Ukraine War." *PLOS ONE*, vol. 17, no. 2, Feb. 2022, p. e0263421. *PubMed Central*, doi:10.1371/journal.pone.0263421. Accessed 22 Sept. 2025.
 
-[^pmc]: Ghenai, Amira, and Yelena Mejova. "Catching Fire: Identifying Propaganda on Social Media in the Context of the Russia-Ukraine War." *PLOS ONE*, vol. 17, no. 2, Feb. 2022, p. e0263421. *PubMed Central*, doi:10.1371/journal.pone.0263421. Accessed 22 Sept. 2025.
+[^18]: Osint, Forensic. “In a Clever LinkedIn Post, Yoni Shares a Privacy Insight and a Practical OSINT Technique Worth Bookmarking.” linkedin, 7 Aug. 2025, www.linkedin.com/posts/forensicosint_in-a-clever-linkedin-post-yoni-shares-activity-7359045935919755266-JdTX.
 
-[^Yoni]: Osint, Forensic. “In a Clever LinkedIn Post, Yoni Shares a Privacy Insight and a Practical OSINT Technique Worth Bookmarking.” linkedin.com, 7 Aug. 2025, www.linkedin.com/posts/forensicosint_in-a-clever-linkedin-post-yoni-shares-activity-7359045935919755266-JdTX.
+[^19]: “Syria’s Civil War Reignites in Dramatic Fashion as Russia Joins Airstrikes on Rebels Who Seized Aleppo.” CBS News, 2 Dec. 2024, www.cbsnews.com/news/syria-war-aleppo-airstrikes-russia-assad-rebels-offensive.
 
-[^cbsnews]: “Syria’s Civil War Reignites in Dramatic Fashion as Russia Joins Airstrikes on Rebels Who Seized Aleppo.” CBS News, 2 Dec. 2024, www.cbsnews.com/news/syria-war-aleppo-airstrikes-russia-assad-rebels-offensive.
+[^20]: FBI. “Leading Member of the International Cyber Criminal Group LulzSec Sentenced in Manhattan Federal Court.” FBI, 27 May 2014, www.fbi.gov/contact-us/field-offices/newyork/news/press-releases/leading-member-of-the-international-cyber-criminal-group-lulzsec-sentenced-in-manhattan-federal-court.
 
-[^fbi]: FBI. “Leading Member of the International Cyber Criminal Group LulzSec Sentenced in Manhattan Federal Court.” www.fbi.gov, 27 May 2014, www.fbi.gov/contact-us/field-offices/newyork/news/press-releases/leading-member-of-the-international-cyber-criminal-group-lulzsec-sentenced-in-manhattan-federal-court.
+[^21]: Hope Trampski. “Hacktivism: The Short Life of LulzSec.” Purdue University cyberTAP, 5 Dec. 2024, cyber.tap.purdue.edu/blog/articles/hacktivism-the-short-life-of-lulzsec.
 
-[^purdue]: Purdue cyberTAP. “Hacktivism: The Short Life of LulzSec.” Purdue cyberTAP, 5 Dec. 2024, cyber.tap.purdue.edu/blog/articles/hacktivism-the-short-life-of-lulzsec.
+[^22]: “Harvard Student Charged With Making Hoax Bomb Threat.” United States Department of Justice, 16 Dec. 2014, www.justice.gov/usao-ma/pr/harvard-student-charged-making-hoax-bomb-threat.
 
-[^doj-15]: “Harvard Student Charged With Making Hoax Bomb Threat.” justice.gov, 16 Dec. 2014, www.justice.gov/usao-ma/pr/harvard-student-charged-making-hoax-bomb-threat.
+[^23]: “Cameroon: Soldiers Get 10 Years for Murder of Civilians.” Human Rights Watch, 28 Oct. 2020, www.hrw.org/news/2020/09/23/cameroon-soldiers-get-10-years-murder-civilians.
 
-[^hrwcam]: “Cameroon: Soldiers Get 10 Years for Murder of Civilians.” Human Rights Watch, 28 Oct. 2020, www.hrw.org/news/2020/09/23/cameroon-soldiers-get-10-years-murder-civilians.
+[^24]: MPA, Brandon Burley. “OSINT Tools for Investigators to Track Criminal Activity Online.” Lexipol Media Group, 23 Aug. 2025, www.police1.com/investigations/thinking-like-a-criminal-how-osint-can-take-your-investigations-further.
 
-[^police1]: MPA, Brandon Burley. “OSINT Tools for Investigators to Track Criminal Activity Online.” Police1, 23 Aug. 2025, www.police1.com/investigations/thinking-like-a-criminal-how-osint-can-take-your-investigations-further.
+[^25]: “Ashley Madison Settles With FTC Over Data Security.” Federal Trade Commission, 24 May 2022, www.ftc.gov/business-guidance/blog/2016/12/ashley-madison-settles-ftc-over-data-security.
 
-[^ftcamd]: “Ashley Madison Settles With FTC Over Data Security.” Federal Trade Commission, 24 May 2022, www.ftc.gov/business-guidance/blog/2016/12/ashley-madison-settles-ftc-over-data-security.
+[^26]: DIA. “OPEN SOURCE INTELLIGENCE (OSINT).” Defense Intelligence Agency, 23 Oct. 2023, www.dia.mil/About/Open-Source-Intelligence.
 
-[^dojnk]: “North Korean Regime-Backed Programmer Charged With Conspiracy To.” justice.gov, 6 Feb. 2025, www.justice.gov/archives/opa/pr/north-korean-regime-backed-programmer-charged-conspiracy-conduct-multiple-cyber-attacks-and.
+[^27]: ODNI and CIA. “ODNI and CIA Release the Intelligence Community OSINT Strategy for 2024-2026.” office of the director of national intelligence, 8 Mar. 2024, www.dni.gov/index.php/newsroom/press-releases/press-releases-2024/3784-odni-and-cia-release-the-intelligence-community-osint-strategy-for-2024-2026.
 
-[^odni-cia]: ODNI and CIA. “ODNI and CIA Release the Intelligence Community OSINT Strategy for 2024-2026.” dni.gov, 8 Mar. 2024, www.dni.gov/index.php/newsroom/press-releases/press-releases-2024/3784-odni-and-cia-release-the-intelligence-community-osint-strategy-for-2024-2026.
+[^28]: “IC21: The Intelligence Community in the 21st Century.” U.S. Government Publishing Office, www.govinfo.gov/content/pkg/GPO-IC21/html/GPO-IC21-6.html. Accessed 25 Sept. 2025.
 
-[^dia]: DIA. “OPEN SOURCE INTELLIGENCE (OSINT).” https://www.dia.mil, 23 Oct. 2023, www.dia.mil/About/Open-Source-Intelligence.
+[^29]: dni. “JCAT Intelligence Guide for First Responders.” Office of the Director of National Intelligence, www.dni.gov/nctc/jcat/jcat_ctguide/intel_guide.html. Accessed 25 Sept. 2025.
 
-[^govinfo]: “IC21: The Intelligence Community in the 21st Century.” govinfo.gov, www.govinfo.gov/content/pkg/GPO-IC21/html/GPO-IC21-6.html. Accessed 25 Sept. 2025.
+[^30]: Gomzin, Slava. “Telegram May Not Be as Secure as It Claims.” IEEE Spectrum, 14 Oct. 2024, spectrum.ieee.org/telegram-security.
 
-[^nctc]: dni. “JCAT Intelligence Guide for First Responders.” dni.gov, www.dni.gov/nctc/jcat/jcat_ctguide/intel_guide.html. Accessed 25 Sept. 2025.
+[^31]: Signal. “Is It Private? Can I Trust It?” Signal, support.signal.org/hc/en-us/articles/360007320391-Is-it-private-Can-I-trust-it. Accessed 25 Sept. 2025.
 
-[^ieee]: Gomzin, Slava. “Telegram May Not Be as Secure as It Claims.” IEEE Spectrum, 14 Oct. 2024, spectrum.ieee.org/telegram-security.
+[^32]: “SimpleX: Redefining Privacy by Making Hard Choices.” SimpleX, 16 May 2024, simplex.chat/blog/20240516-simplex-redefining-privacy-hard-choices.html.
 
-[^signal]: Signal. “Is It Private? Can I Trust It?” support.signal.org, support.signal.org/hc/en-us/articles/360007320391-Is-it-private-Can-I-trust-it. Accessed 25 Sept. 2025.
+[^33]: CSRC Content Editor. “*Operations Security (OPSEC) - Glossary.* *CSRC.*” Computer Security Resource Center, csrc.nist.gov/glossary/term/operations_security. Accessed 25 Sept. 2025.
 
-[^simplex]: “SimpleX: Redefining Privacy by Making Hard Choices.” simplex.chat, 16 May 2024, simplex.chat/blog/20240516-simplex-redefining-privacy-hard-choices.html.
+[^34]: Department Of Labor. “Operations Security (OPSEC).” United States Department Of Labor, www.dol.gov/agencies/oasam/centers-offices/emergency-management-center/operations-security. Accessed 25 Sept. 2025.
 
-[^nist]: `CSRC Content Editor. “Operations Security (OPSEC) - Glossary | CSRC.” https://csrc.nist.gov, csrc.nist.gov/glossary/term/operations_security. Accessed 25 Sept. 2025.`
+[^35]: “Guides: Finding Datasets: Public Data Sources.” University of North Texas Libraries, 22 Jan. 2025, guides.library.unt.edu/datasets/public-data-sources.
 
-[^dol_opsec]: Department Of Labor. “Operations Security (OPSEC).” dol.gov, www.dol.gov/agencies/oasam/centers-offices/emergency-management-center/operations-security. Accessed 25 Sept. 2025.
+[^36]: Law Insider. (2025). *Commercial data definition*. Law Insider Dictionary. Retrieved from https://www.lawinsider.com  
 
+[^37]: Joseph, E. (2025, September 24). *What is grey literature?* Johns Hopkins University, Welch Medical Library. https://browse.welch.jhmi.edu/c.php?g=1195274
 
-[^unt]: University of North Texas. “Guides: Finding Datasets: Public Data Sources.” guides.library.unt.edu, 22 Jan. 2025, guides.library.unt.edu/datasets/public-data-sources.
+[^38]: University of Maryland Libraries. (n.d.). *Research guides: Maryland genealogy: What is genealogical research?* University of Maryland. https://lib.guides.umd.edu/c.php?g=326980&p=2198795 
 
-[^lawinsider]: `Insider, Law. “Commercial Data Definition | Law Insider.” Law Insider, 20 Sept. 2025, lawinsider.com/dictionary/commercial-data.`
+[^39]: Virginia Tech University Libraries. (n.d.). *Research guides: Genealogy: Index.* Virginia Tech. https://guides.lib.vt.edu/topics/genealogy
 
-[^welch]: "Publicly Available Data & Statistics." *Welch Medical Library Guides*, Johns Hopkins University, browse.welch.jhmi.edu/c.php?g=1195274. Accessed 22 Sept. 2025.
+[^40]: “The Comprehensive Chris Chan Documentary.” www.youtube.com, uploaded by GenoSamuel, 24 Feb. 2019, www.youtube.com/playlist?list=PLABqEYq6H3vpCmsmyUnHnfMOeAnjBdSNm. 
 
-[^umd]: University of Maryland. “Research Guides: Maryland Genealogy: What Is Genealogical Research?” lib.guides.umd.edu, lib.guides.umd.edu/c.php?g=326980&p=2198795. 
+[^41]: Leighton, Mara, et al. “A Timeline of Chris Chan’s Incest Charge and Dismissal, Which Came After Years of Online Trolling That Documented the Creator’s Relationship With Her Mother.” Business Insider, 18 Aug. 2024, www.businessinsider.com/chris-chan-saga-timeline-incest-charges-arrest-2021-8. 
 
-[^vt]: Virginia Tech. “Research Guides: Genealogy: Index.” guides.lib.vt.edu, guides.lib.vt.edu/topics/genealogy. Accessed 25 Sept. 2025.
+[^42"]: IMDb. “Christine Weston Chandler.” IMDb, www.imdb.com/name/nm4813395. Accessed 25 Sept. 2025.
 
-[^youtube]: “The Comprehensive Chris Chan Documentary.” www.youtube.com, uploaded by GenoSamuel, 24 Feb. 2019, www.youtube.com/playlist?list=PLABqEYq6H3vpCmsmyUnHnfMOeAnjBdSNm. 
+[^43]: bugzorc. “suspectAGB.” *opsecfail*, opsecfail.github.io/blog.html?filecase=suspectAGB. Accessed 25 Sept. 2025.
 
-[^businessinsider]: Leighton, Mara, et al. “A Timeline of Chris Chan’s Incest Charge and Dismissal, Which Came After Years of Online Trolling That Documented the Creator’s Relationship With Her Mother.” Business Insider, 18 Aug. 2024, www.businessinsider.com/chris-chan-saga-timeline-incest-charges-arrest-2021-8. 
+[^44]: Evans, Jacob. “Alex Smith: Drill Rappers Sentenced to Life Over Street Stabbing.” *BBC*, 12 May 2023, [www.bbc.com/news/uk-england-london-65570367](https://www.bbc.com/news/uk-england-london-65570367).
 
-[^imdb]: IMDb. “Christine Weston Chandler.” IMDb, www.imdb.com/name/nm4813395. Accessed 25 Sept. 2025.
+[^45]: bugzorc. “W0RMER.” opsecfail, opsecfail.github.io/blog.html?filecase=w0rmer. Accessed 25 Sept. 2025.
 
-[^opsecfail]: bugzorc. “suspectAGB.” opsecfail.github.io, opsecfail.github.io/blog.html?filecase=suspectAGB. Accessed 25 Sept. 2025.
+[^46]: “W0rmer – Darknet Diaries.” darknetdiaries, episode 63, 14 Apr. 2020, darknetdiaries.com/transcript/63.
 
-[^bbc]: Evans, Jacob. “Alex Smith: Drill Rappers Sentenced to Life Over Street Stabbing.” bbc.com, 12 May 2023, www.bbc.com/news/uk-england-london-65570367.
+[^47]: Centre for Information Resilience. “OSINT 101: What Is Open Source Intelligence (OSINT)? - Centre for Information Resilience.” Centre for Information Resilience, 1 Sept. 2023, www.info-res.org/afghan-witness/articles/osint-101-what-is-open-source-intelligence-osint. Accessed 25 Sept. 2025.
 
-[^opsecfail_w0rmer]: ---. “W0RMER.” https://opsecfail.github.io/, opsecfail.github.io/blog.html?filecase=w0rmer. Accessed 25 Sept. 2025.
+[^48]: Wild, Johanna. “Introducing Bellingcat’s Collaborative Open Source Toolkit.” Bellingcat, 24 Sept. 2024, www.bellingcat.com/resources/2024/09/24/bellingcat-online-investigations-toolkit.
 
-[^darknetdiaries]: “W0rmer – Darknet Diaries.” darknetdiaries.com, episode 63, 14 Apr. 2020, darknetdiaries.com/transcript/63.
+[^49]: Ibm. “Penetration Testing.” ibm.com, www.ibm.com/think/topics/penetration-testing. Accessed 25 Sept. 2025.
 
-[^infores]: Centre for Information Resilience. “OSINT 101: What Is Open Source Intelligence (OSINT)? - Centre for Information Resilience.” Centre for Information Resilience, 1 Sept. 2023, www.info-res.org/afghan-witness/articles/osint-101-what-is-open-source-intelligence-osint. Accessed 25 Sept. 2025.
+[^50]: Martisiute, Laura. “A Guide to Doxxing Yourself on the Internet - JoinDeleteMe.” joindeleteme, 22 Jan. 2024, joindeleteme.com/doxxing/a-guide-to-doxxing-yourself-on-the-internet.
 
-[^bellingcat_toolkit]: Wild, Johanna. “Introducing Bellingcat’s Collaborative Open Source Toolkit.” Bellingcat, 24 Sept. 2024, www.bellingcat.com/resources/2024/09/24/bellingcat-online-investigations-toolkit.
+[^51]: U.S. Small Business Administration. “Market Research and Competitive Analysis.” U.S. Small Business Administration, www.sba.gov/business-guide/plan-your-business/market-research-competitive-analysis. Accessed 25 Sept. 2025.
 
-[^ibm]: Ibm. “Penetration Testing.” ibm.com, www.ibm.com/think/topics/penetration-testing. Accessed 25 Sept. 2025.
+[^52]: FBI. “Behavioral Analysis.” FBI, www.fbi.gov/how-we-investigate/behavioral-analysis. Accessed 25 Sept. 2025.
 
-[^deleteme]: Martisiute, Laura. “A Guide to Doxxing Yourself on the Internet - JoinDeleteMe.” joindeleteme.com, 22 Jan. 2024, joindeleteme.com/doxxing/a-guide-to-doxxing-yourself-on-the-internet.
+[^53]: Bagdasar, Hannah. “Recognising Sexual and Gender-Based Violence as an Open Source Researcher - Bellingcat.” Bellingcat, 3 Mar. 2023, www.bellingcat.com/resources/2023/03/03/sexual-and-gender-based-violence-open-source-researche-osint-digital.
 
-[^sba]: U.S. Small Business Administration. “Market Research and Competitive Analysis.” U.S. Small Business Administration, www.sba.gov/business-guide/plan-your-business/market-research-competitive-analysis. Accessed 25 Sept. 2025.
+[^54]: FTC. “What to Know About People Search Sites That Sell Your Information.” FTC, July 2022, consumer.ftc.gov/articles/what-know-about-people-search-sites-sell-your-information.
 
-[^fbi_behavioral]: FBI. “Behavioral Analysis.” fbi.gov, www.fbi.gov/how-we-investigate/behavioral-analysis. Accessed 25 Sept. 2025.
+[^55]: Bhuiyan, Johana. “Ukraine Uses Facial Recognition Software to Identify Russian Soldiers Killed in Combat.” The Guardian, 24 Mar. 2022, www.theguardian.com/technology/2022/mar/24/ukraine-facial-recognition-identify-russian-soldiers. Internet Archive, https://archive.ph/PGrf0
 
-[^bellingcat_sgbv]: Bagdasar, Hannah. “Recognising Sexual and Gender-Based Violence as an Open Source Researcher - Bellingcat.” Bellingcat, 3 Mar. 2023, www.bellingcat.com/resources/2023/03/03/sexual-and-gender-based-violence-open-source-researche-osint-digital.
+[^56]: “Hacker Pleads Guilty to Infiltrating AT&T Servers, iPad Data Breach.” FBI, 23 June 2011, archives.fbi.gov/archives/newark/press-releases/2011/hacker-pleads-guilty-to-infiltrating-at-t-servers-ipad-data-breach.
 
-[^ftcgov]: FTC. “What to Know About People Search Sites That Sell Your Information.” ftc.gov, July 2022, consumer.ftc.gov/articles/what-know-about-people-search-sites-sell-your-information.
+[^57]: Federal Bureau of Investigation. (2012, March 6). *Six hackers in the United States and abroad charged for crimes affecting over one million victims*. FBI. https://archives.fbi.gov/archives/newyork/press-releases/2012/six-hackers-in-the-united-states-and-abroad-charged-for-crimes-affecting-over-one-million-victims
 
-[^guardian]: Bhuiyan, Johana. “Ukraine Uses Facial Recognition Software to Identify Russian Soldiers Killed in Combat.” The Guardian, 24 Mar. 2022, www.theguardian.com/technology/2022/mar/24/ukraine-facial-recognition-identify-russian-soldiers. Archive.ph, https://archive.ph/PGrf0
+[^58]: Katz, Basil. “Four Irish, British Suspects Helped Stratfor Hack: U.S.” Reuters, 2 May 2012, www.reuters.com/article/world/us/four-irish-british-suspects-helped-stratfor-hack-us-idUSBRE8411P7.
 
-[^archives-fbi]: ---. “Hacker Pleads Guilty to Infiltrating AT&T Servers, iPad Data Breach.” fbi.gov, 23 June 2011, archives.fbi.gov/archives/newark/press-releases/2011/hacker-pleads-guilty-to-infiltrating-at-t-servers-ipad-data-breach.
+[^58]: Adler, David. “Silk Road: The Dark Side of Cryptocurrency.” Fordham Journal of Corporate and Law, 21 Feb. 2018, news.law.fordham.edu/jcfl/2018/02/21/silk-road-the-dark-side-of-cryptocurrency.
 
-[^archives-fbi1]: ---. “Six Hackers in the United States and Abroad Charged for Crimes Affecting Over One Million Victims.” fbi.gov, 6 Mar. 2012, archives.fbi.gov/archives/newyork/press-releases/2012/six-hackers-in-the-united-states-and-abroad-charged-for-crimes-affecting-over-one-million-victims.
+[^59]: “Ross William Ulbricht’s Laptop.” FBI, www.fbi.gov/history/artifacts/ross-william-ulbrichts-laptop. Accessed 25 Sept. 2025.
 
-[^Ackroyd]: Katz, Basil. “Four Irish, British Suspects Helped Stratfor Hack: U.S.” Reuters, 2 May 2012, www.reuters.com/article/world/us/four-irish-british-suspects-helped-stratfor-hack-us-idUSBRE8411P7.
+[^60]: Oliyaee, A. (2024, March 31). *Ross Ulbricht’s laptop: The heart of the Silk Road.* *Plasbit.* https://plasbit.com/blog/ross-ulbricht-laptop
 
-[^fordham]: Adler, David. “Silk Road: The Dark Side of Cryptocurrency.” Fordham Journal of Corporate and Law, 21 Feb. 2018, news.law.fordham.edu/jcfl/2018/02/21/silk-road-the-dark-side-of-cryptocurrency.
+[^61]: Reiff, Nathan. “Who Is Ross Ulbricht?” Investopedia, 24 Jan. 2025, www.investopedia.com/tech/ross-ulbricht-dark-net-pirate.
 
-[^FBI1]: ---. “Ross William Ulbricht’s Laptop.” fbi.gov, www.fbi.gov/history/artifacts/ross-william-ulbrichts-laptop. Accessed 25 Sept. 2025.
+[^62]: Hayes, Christal. “Trump Pardons Silk Road Creator Ross Ulbricht.” BBC, 22 Jan. 2025, www.bbc.com/news/articles/cz7e0jve875o. https://www.justice.gov/pardon/media/1386096/dl?inline pardon from trump
 
-[^plasbit]: Oliyaee, Ali. “Ross Ulbricht’s Laptop: The Heart of the Silk Road.” plasbit.com, 31 Mar. 2024, plasbit.com/blog/ross-ulbricht-laptop.
+[^63]: Mullvad. “No-logging of User Activity Policy.” Mullvad, 23 May 2025, mullvad.net/en/help/no-logging-data-policy.
 
-[^Investopedia]: Reiff, Nathan. “Who Is Ross Ulbricht?” Investopedia, 24 Jan. 2025, www.investopedia.com/tech/ross-ulbricht-dark-net-pirate.
+[^64]: mullvad. “*Mullvad VPN* *Privacy Is a Universal Right.*” Mullvad, 27 Mar. 2025, mullvad.net/en/blog/tag/audits.
 
-[^BBC1]: Hayes, Christal. “Trump Pardons Silk Road Creator Ross Ulbricht.” bbc.com, 22 Jan. 2025, www.bbc.com/news/articles/cz7e0jve875o. https://www.justice.gov/pardon/media/1386096/dl?inline pardon from trump
+[^65]: “Why Mullvad VPN?” Mullvad, mullvad.net/en/why-mullvad-vpn. Accessed 25 Sept. 2025.
 
-[^Mullvad]: Mullvad. “No-logging of User Activity Policy.” mullvad.net, 23 May 2025, mullvad.net/en/help/no-logging-data-policy.
+[^66]: Electronic Frontier Foundation. "Doxxing: Tips To Protect Yourself Online & How to Minimize Harm." Electronic Frontier Foundation, 14 Dec. 2020, www.eff.org/deeplinks/2020/12/doxxing-tips-protect-yourself-online-how-minimize-harm. Accessed 23 Sept. 2025.
 
-[^MullvadVPNAudits]: `mullvad. “Mullvad VPN | Privacy Is a Universal Right.” mullvad.net, 27 Mar. 2025, mullvad.net/en/blog/tag/audits.`
+[^67]: Shin, Nancy. "Scholarly Publishing Explained." *Welch Medical Library*, Johns Hopkins University, Sep 25, 2025. https://browse.welch.jhmi.edu/scholarly_publishing/explanation
 
-[^WhyMullvad]: “Why Mullvad VPN?” mullvad.net, mullvad.net/en/why-mullvad-vpn. Accessed 25 Sept. 2025.
+[^68]: “North Korean Regime-Backed Programmer Charged With Conspiracy To.” United States Department of Justice, 6 Feb. 2025, www.justice.gov/archives/opa/pr/north-korean-regime-backed-programmer-charged-conspiracy-conduct-multiple-cyber-attacks-and.
 
-[^EFF_doxing_tips]: Electronic Frontier Foundation. "Doxxing: Tips To Protect Yourself Online & How to Minimize Harm." Electronic Frontier Foundation, 14 Dec. 2020, www.eff.org/deeplinks/2020/12/doxxing-tips-protect-yourself-online-how-minimize-harm. Accessed 23 Sept. 2025.
+[^69]: Priya. (2025, September 5). *North Korean hackers shift strategies – Replacing old infrastructure with new assets*. *Cyberpress*. https://cyberpress.org/north-korean-hackers/

@@ -12,31 +12,29 @@
 
 # HUMINT Overview
 
-**HUMINT (Human Intelligence)** refers to intelligence gathered through direct human interaction, such as interviews, observation, and interpersonal communication. Unlike technical intelligence (e.g., [SIGINT](https://www.emsopedia.org/entries/signal-intelligence-sigint/) or [IMINT](https://www.emsopedia.org/entries/image-intelligence-imint/)), HUMINT is decidedly low-tech. It is a matter, ultimately, of personal interaction, and practitioners of HUMINT are "spies" in the purest sense of the word. The more closely an operative functions in the community, the more his or her information comes from word of mouth, and the more he or she is practicing true HUMINT[^encyclopedia].
+**HUMINT (Human Intelligence)** refers to intelligence gathered through direct human interaction, such as interviews, observation, and interpersonal communication. Unlike technical intelligence (e.g., [SIGINT](https://www.emsopedia.org/entries/signal-intelligence-sigint/) or [IMINT](https://www.emsopedia.org/entries/image-intelligence-imint/)), HUMINT is decidedly low-tech. It is a matter, ultimately, of personal interaction, and practitioners of HUMINT are "spies" in the purest sense of the word. The more closely an operative functions in the community, the more his or her information comes from word of mouth, and the more he or she is practicing true HUMINT[^1].
 
-Performing source operations, communicating with host nation (HN) officials and allied counterparts, extracting information from specific sources, debriefing US and allied forces and civilian personnel, including refugees, displaced persons (DPs), third-country nationals, and local residents, questioning EPWs and other detainees, and initially taking advantage of documents, media, and materiel are just a few of the tasks that fall under the purview of HUMINT[^DoS].
-
-Potential HUMINT sources include friendly, neutral, and threat military and civilian personnel; potential HUMINT sources include detainees, refugees, DPs, local residents, friendly forces, and members of foreign governmental and non-governmental organizations (NGOs). A HUMINT source is a person from whom information can be obtained; the source may have first- or second-hand knowledge typically obtained through sight or hearing[^DoS].
+> "HUMINT tasks include conducting source operations, engaging with host nation officials and allies, debriefing U.S. and foreign personnel, questioning detainees, and exploiting documents and media. Potential sources can range from detainees, refugees, and local residents to friendly forces and members of governmental or non-governmental organizations. Essentially, a HUMINT source is anyone who possesses first- or second-hand information"(Department of the Army, 2006, p. 4).[^6]
 
 ## What is HUMINT?
 
 HUMINT involves collecting information through direct contact with individuals. It can be:
-- **Overt:** Interviews, debriefings, diplomatic reporting[^odni_intel][^encyclopedia].
-- **Covert:** Espionage, clandestine surveillance[^odni_intel][^encyclopedia].
+- **Overt:** Interviews, debriefings, diplomatic reporting[^8][^1].
+- **Covert:** Espionage, clandestine surveillance[^8][^1].
 
 ## Everyday Examples of HUMINT
 
 HUMINT isn't limited to espionage—it appears in many civilian and professional settings:
 
-- **Law Enforcement:** Police interviewing witnesses or suspects[^FBI][^Fong].
-- **Traveler Debriefings:** Agencies debriefing returning travelers.
-- **Military Patrols:** Soldiers gathering info from local populations[^encyclopedia].
-- **Cybersecurity:** Engaging in forums to learn about cyber threats[^armywarcollege].
+- **Law Enforcement:** Police interviewing witnesses or suspects[^3][^7][^10].
+- **Traveler Debriefings:** Agencies debriefing returning travelers[^10].
+- **Military Patrols:** Soldiers gathering info from local populations[^1][^9][^10].
+- **Cybersecurity:** Engaging in forums to learn about cyber threats[^4][^10].
 
 ## Civilian Examples
 
-- **Community Policing:** Officers gathering local intel from residents[^encyclopedia].
-- **Social Engineering:** Using manipulation to extract sensitive data[^NPS].
+- **Community Policing:** Officers gathering local intel from residents[^1][^10].
+- **Social Engineering:** Using manipulation to extract sensitive data[^5][^10].
 
 ## Detailed examples
 
@@ -133,10 +131,11 @@ HUMINT isn't limited to espionage—it appears in many civilian and professional
 
 | Intelligence Type | Pros                                        | Cons                                                  |
 | ----------------- | ------------------------------------------- | ----------------------------------------------------- |
-| RUMINT            | Early warnings, new leads, public sentiment | Unverified, unreliable, risk of [disinformation](disinformation.md)        |
+| RUMINT            | Early warnings, new leads, public sentiment | Unverified, unreliable, risk of [disinformation](disinformation.md)  |
 | HUMINT            | In-depth, contextual, adaptable             | Source-dependent, risk of deception, operational risk |
 
-`To be clear, RUMINT is not, we repeat NOT, a real INT. Agency RUMINT typically revolves around close-held personnel decisions, upcoming policy announcements that will impact the workforce, or some juicy gossip.`[^CIA]
+As the CIA notes 
+> “typically involves confidential personnel decisions, upcoming policy announcements relevant to staff, or compelling rumors” (CIA, 2024)[^2].  
 
 ---
 
@@ -146,18 +145,22 @@ HUMINT isn't limited to espionage—it appears in many civilian and professional
 
 ## References:
 
-[^encyclopedia]: "HUMINT (Human Intelligence) ." Encyclopedia of Espionage, Intelligence, and Security. . Encyclopedia.com. 2 Sep. 2025 <https://www.encyclopedia.com>.
+[^1]: "HUMINT (Human Intelligence) ." Encyclopedia of Espionage, Intelligence, and Security.. Encyclopedia.com. 2 Sep. 2025 <https://www.encyclopedia.com>.
 
-[^CIA]: CIA. How to Sound Like a Spy: Five Colloquialisms at CIA - CIA. 19 Sept. 2024, www.cia.gov/stories/story/how-to-sound-like-a-spy-five-colloquialisms-at-cia.
+[^2]: CIA. How to Sound Like a Spy: Five Colloquialisms at CIA - CIA. 19 Sept. 2024, www.cia.gov/stories/story/how-to-sound-like-a-spy-five-colloquialisms-at-cia.
 
-[^FBI]: FBI, and Simon Block. “Using Human Sources in Counterterrorism Operations.” Leb, 8 Apr. 2016, leb.fbi.gov/articles/featured-articles/using-human-sources-in-counterterrorism-operations-understanding-the-motivations-and-political-impact.
+[^3]: FBI, and Simon Block. “Using Human Sources in Counterterrorism Operations.” Leb, 8 Apr. 2016, leb.fbi.gov/articles/featured-articles/using-human-sources-in-counterterrorism-operations-understanding-the-motivations-and-political-impact.
 
-[^armywarcollege]: Cunningham, Alan. “THE HUMAN SOLUTION: COUNTERING CYBER THREATS IN FINANCE.” War Room - U.S. Army War College, 21 Sept. 2023, warroom.armywarcollege.edu/articles/cyber-threats-finance.
+[^4]: Cunningham, Alan. “The Human Solution: Countering Cyber Threats In Finance.” War Room - U.S. Army War College, 21 Sept. 2023, warroom.armywarcollege.edu/articles/cyber-threats-finance.
 
-[^NPS]: Levenson, Kathleen Hyatt Zachary. Social Engineering Impacts on Government Acquisition. 1 May 2023, dair.nps.edu/handle/123456789/4858.
+[^5]: Levenson, Kathleen Hyatt Zachary. Social Engineering Impacts on Government Acquisition. 1 May 2023, dair.nps.edu/handle/123456789/4858.
 
-[^DoS]: Army, Department of Department of The. FM 2-22. 3 Human Intelligence Collector Operations. US Dept Of The Army, 2006, www.amazon.com/2-22-3-Human-Intelligence-Collector-Operations/dp/B08NDR1BBM.
+[^6]: Department of the Army. (2006). *FM 2-22.3: Human intelligence collector operations.* Headquarters, Department of the Army. https://www.amazon.com/2-22-3-Human-Intelligence-Collector-Operations/dp/B08NDR1BBM
 
-[^Fong]: See Allan Fong, Interrogations and False Confessions: How the Innocent Are Made Guilty, 30 S. Cal. Rev. L. & Soc. Just. 363, 388
+[^7]: See Allan Fong, Interrogations and False Confessions: How the Innocent Are Made Guilty, 30 S. Cal. Rev. L. & Soc. Just. 363, 388
 
-[^odni_intel]: ---. “What Is Intelligence?” www.dni.gov, www.dni.gov/index.php/what-we-do/what-is-intelligence. Accessed 24 Sept. 2025. (Office of the Director of National Intelligence, “What Is Intelligence?,” sec.HUMINT)
+[^8]: Office of the Director of National Intelligenc. “What Is Intelligence?” www.dni.gov/index.php/what-we-do/what-is-intelligence. Accessed 24 Sept. 2025. (Office of the Director of National Intelligence, “What Is Intelligence?,” sec.HUMINT)
+
+[^9]: “Intelligence Operations Explained.” ECU Online, 30 Aug. 2024, onlineprograms.ecu.edu/blog/intelligence-operations.
+
+[^10]: HUMINT-Human Intelligence Research Papers - Academia.edu. 1 Jan. 2025, www.academia.edu/Documents/in/HUMINT-Human_Intelligence.
