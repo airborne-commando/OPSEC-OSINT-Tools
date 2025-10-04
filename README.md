@@ -79,11 +79,11 @@ If you want some quick methodology I suggest you read this [markdown](./markdown
 
 > "On Oct. 1, 2013, an F.B.I. operation in a public library in San Francisco ended with the arrest of Ross Ulbricht, who was the brain behind Silk Road... At that moment, another agent took the open laptop while logged into the Silk Road administrator's panel" (Oliyaee, 2024, para. 2).[^60]
 
-> - "ULBRICHT created Silk Road in January 2011, and owned and operated the underground website until it was shut down by law enforcement authorities in October 2013" (U.S. Department of Justice, 2015, para. 1).[^5]
+>"ULBRICHT created Silk Road in January 2011, and owned and operated the underground website until it was shut down by law enforcement authorities in October 2013" (U.S. Department of Justice, 2015, para. 1).[^5]
 
-> - "The FBI arrested Ulbricht and seized his laptop on October 1, 2013. A judge sentenced Ulbricht to life in prison for drug trafficking, computer hacking, and money laundering in 2015" (FBI, n.d., para. 2).[^59]
+>"The FBI arrested Ulbricht and seized his laptop on October 1, 2013. A judge sentenced Ulbricht to life in prison for drug trafficking, computer hacking, and money laundering in 2015" (FBI, n.d., para. 2).[^59]
 
-> - "In 2015, Ulbricht was sentenced to life in prison but was pardoned in 2025" (Reiff, 2025, para. 3).[^61]
+>"In 2015, Ulbricht was sentenced to life in prison but was pardoned in 2025" (Reiff, 2025, para. 3).[^61]
 
 Ross was pardoned[^62] in 2025 by the trump administration.
 
