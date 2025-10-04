@@ -167,9 +167,9 @@ He shared a kitchen photo and people were able to deduce where he was due to an 
 
 * Leaving unused social media online
 
-Interacting with a target on social media has been shown to compromise anonymity, as noted by opsecfail. For instance, w0rmer uploaded a photo of his girlfriend that still contained GPS Exif data, which ultimately led investigators to her. When questioned, she admitted he had asked her to take the picture (bugzorc 2025, para. 3; opsecfail.github.io/blog.html?filecase=w0rmer)[^45].
+>Interacting with a target on social media has been shown to compromise anonymity, as noted by opsecfail. For instance, w0rmer uploaded a photo of his girlfriend that still contained GPS Exif data, which ultimately led investigators to her. When questioned, she admitted he had asked her to take the picture (bugzorc 2025, para. 3; opsecfail.github.io/blog.html?filecase=w0rmer)[^45].
 
-Similarly, w0rmer himself explained in an interview that he often provoked people online and had a deliberate process for cleaning photos of metadata. However, during one publishing slip, he accidentally uploaded the wrong image that contained Exif data, which gave authorities critical information (“W0rmer – Darknet Diaries” 2020, 00:25:58–00:26:41; darknetdiaries.com/transcript/63)[^46].
+>Similarly, w0rmer himself explained in an interview that he often provoked people online and had a deliberate process for cleaning photos of metadata. However, during one publishing slip, he accidentally uploaded the wrong image that contained Exif data, which gave authorities critical information (“W0rmer – Darknet Diaries” 2020, 00:25:58–00:26:41; darknetdiaries.com/transcript/63)[^46].
 
 * [examples of good and bad opsec and some osint.](./markdown/examples.md)
 * Also some expanded [examples](./markdown/expanded-examples/)
