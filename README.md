@@ -79,7 +79,7 @@ If you want some quick methodology I suggest you read this [markdown](./markdown
 
 > "On Oct. 1, 2013, an F.B.I. operation in a public library in San Francisco ended with the arrest of Ross Ulbricht, who was the brain behind Silk Road... At that moment, another agent took the open laptop while logged into the Silk Road administrator's panel" (Oliyaee, 2024, para. 2).[^60]
 
->"ULBRICHT created Silk Road in January 2011, and owned and operated the underground website until it was shut down by law enforcement authorities in October 2013" (U.S. Department of Justice, 2015, para. 1).[^5]
+>"ULBRICHT created Silk Road in January 2011, and owned and operated the underground website until it was shut down by law enforcement authorities in October 2013" <br>(U.S. Department of Justice, 2015, para. 1).[^5]
 
 >"The FBI arrested Ulbricht and seized his laptop on October 1, 2013. A judge sentenced Ulbricht to life in prison for drug trafficking, computer hacking, and money laundering in 2015" (FBI, n.d., para. 2).[^59]
 
@@ -300,13 +300,13 @@ An official [Justice site](https://www.justice.gov/jmd/ls/state) listing all sta
   
 - Grey literature:
 
->"Grey literature, as defined by the Welch Medical Library, is "information produced on all levels of government, academics, business and industry in electronic and print formats not controlled by commercial publishing i.e. where publishing is not the primary activity of the producing body" (Joseph, 2025, paras. 1–2)"[^37].
+>"Grey literature, as defined by the Welch Medical Library, is "information produced on all levels of government, academics, business and industry in electronic and print formats not controlled by commercial publishing i.e. where publishing is not the primary activity of the producing body" <br>(Joseph, 2025, paras. 1–2)"[^37].
 
 - genealogical:
   
 >"Genealogical research is the tracing of an individual's ancestral history using historical records, both official and unofficial" (University of Maryland Libraries, n.d., para. 1).[^39]
 
->"Genealogy is the study of families and their ancestors and histories" (Virginia Tech University Libraries, n.d., para. 1).[^38]
+>"Genealogy is the study of families and their ancestors and histories" <br>(Virginia Tech University Libraries, n.d., para. 1).[^38]
   
    - Genealogy: Using family history research and genealogy databases as an intelligence-gathering tool.
    - Death records: Gathering intelligence from records such as death notices, obituaries, gravestone databases, and burial registries.(news papers or local news sites) 
