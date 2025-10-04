@@ -143,8 +143,6 @@ Ross was pardoned[^62] in 2025 by the trump administration.
     - *Guccifer 2.0:* Forgot to activate VPN, exposing real IP and identity.[^3]
     - *Silk Road’s Ross Ulbricht:* Used personal email and left digital traces, leading to arrest.[^5]
 
-These guides collectively highlight the importance of strong operational security, the power and risks of OSINT, and the need for continuous vigilance and ethical conduct in information gathering and online behavior.
-
 ## (Operations Security) is a systematic process for:
 1. Identifying[^33]
 2. Protecting and controlling critical information[^33][^34]
