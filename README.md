@@ -284,10 +284,10 @@ A Parcel search for [tax history](https://public.eriecountypa.gov/property-tax-r
 
 An official [Justice site](https://www.justice.gov/jmd/ls/state) listing all states and their local judicial. Case search should be in state judiciary, also for other information such as tax records and property records.
 
-  - According to Johns Hopkins University[^67] it is. 
+- According to Johns Hopkins University it is. 
     
 
->“A subfield of publishing which distributes academic research and scholarship.”
+>“A subfield of publishing which distributes academic research and scholarship” (Shin, 2025)[^67].
 
 
 - Commercial data:
