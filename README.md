@@ -123,21 +123,23 @@ Ross was pardoned[^62] in 2025 by the trump administration.
 
 ## Real-World OSINT and OPSEC Examples
 
-- **Criminals**
-    - *Sony Pictures Hack (2014):* Used OSINT on staff and infrastructure for phishing and breach.[^68]
+**Criminals**
+*Sony Pictures Hack (2014):* Used OSINT on staff and infrastructure for phishing and breach.[^68]
 >"Email notifications sent via accounts like designedcuratedamy58[@]gmail.com alerted operators whenever targets began assessments or ran malicious curl commands" (Priya, 2025, para. 14).[^69]
-    - *Ashley Madison Breach (2015):* Used **CSINT** to leak sensitive user data, causing blackmail and public exposure.
+
+**Ashley Madison Breach (2015):** Used **CSINT** to leak sensitive user data, causing blackmail and public exposure.
+
 >“When the company balked, the group published personal information about 36 million users. That’s a lot of very personal information of a lot of people” (Schifferle, 2016, para. 5).[^25]
 
-- **Civilians**
+**Civilians**
     - *Identifying Russian Soldiers:* Used facial recognition and open-source images to ID participants in conflicts.[^55]
     - *Cameroon Investigation:* Used metadata and geolocation to verify military abuses.[^23]
 
-- **Law Enforcement**
+**Law Enforcement**
     - *Tracking Stolen Property:* Monitored online marketplaces to recover stolen goods.[^24]
     - *ShadowDragon’s SocialNet:* Mapped social networks from 200+ sources to aid investigations.[^4]
 
-- **OPSEC Failures**
+**OPSEC Failures**
     - *Guccifer 2.0:* Forgot to activate VPN, exposing real IP and identity.[^3]
     - *Silk Road’s Ross Ulbricht:* Used personal email and left digital traces, leading to arrest.[^5]
 
