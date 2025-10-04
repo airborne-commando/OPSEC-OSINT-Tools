@@ -90,7 +90,7 @@ Ross was pardoned[^62] in 2025 by the trump administration.
 - **LulzSec Hacking Group**
     - Members exposed themselves by discussing ops in public IRC[^56][^58][^21][^20], revealing personal info, using stolen cards[^57] to home addresses, and trusting informants.<br>
 
->"Spitler admitted to communicating during the data breach with his co-defendant, Andrew Auernheimer, 25, who was arrested January 18, 2011, in Fayetteville, Ark., while appearing in state court on unrelated drug charges. The two wrote each other during the breach using Internet Relay Chat, an Internet instant messaging program. Those chats included discussions between Spitler, Auernheimer, and other Goatse Security members about the best way to take advantage of the breach and associated theft" (Federal Bureau of Investigation, 2012).[^57]
+>"Spitler admitted to communicating during the data breach with his co-defendant, Andrew Auernheimer, 25, who was arrested January 18, 2011, in Fayetteville, Ark., while appearing in state court on unrelated drug charges. The two wrote each other during the breach using Internet Relay Chat, an Internet instant messaging program. Those chats included discussions between Spitler, Auernheimer, and other Goatse Security members about the best way to take advantage of the breach and associated theft" <br>(Federal Bureau of Investigation, 2012).[^57]
 
 - **General Bad OPSEC Practices**
     - Poor compartmentalization, leaking sensitive info, predictable naming, traceable work hours, and unsecured servers.
@@ -167,7 +167,7 @@ It's a security discipline and operations function that involves a continuous cy
 
 He shared a kitchen photo and people were able to deduce where he was due to an appliance. As stated by bugzorc opsecfail
 
->"Observant individuals quickly pinpointed his location, thanks to telltale signs like common household plugs and the typical kitchen setup. Moreover, the metadata of his posts gave him away." (bugzorc 2025, para. 1)[^43]
+>"Observant individuals quickly pinpointed his location, thanks to telltale signs like common household plugs and the typical kitchen setup. Moreover, the metadata of his posts gave him away." <br>(bugzorc 2025, para. 1)[^43]
 
 * Leaving unused social media online
 
