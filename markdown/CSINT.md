@@ -27,7 +27,9 @@ In summary:
 - CSINT may derive from human sources, such as interrogations, interviews, or insider reporting. This includes both government and civilian contexts—for example, corporate due diligence, employee vetting, or business negotiations.
 - HUMINT and CSINT overlap, but can be separate; it again all depends on the context. Was it a secret operation or an interview? Was this from a closed source document?
 
-See [HUMINT](HUMINT.md) and [Breached Data](../README.md#breached-data) for related examples. Analysts should be cautious: while closed sources are often more reliable, they are not immune to rumor or bias. As the CIA notes, restricted information “typically involves confidential personnel decisions, upcoming policy announcements relevant to staff, or compelling rumors” (CIA para. 22)[^4].  
+See [HUMINT](HUMINT.md) and [Breached Data](../README.md#breached-data) for related examples. Analysts should be cautious: while closed sources are often more reliable, they are not immune to rumor or bias. As the CIA notes, restricted information 
+
+>“typically involves confidential personnel decisions, upcoming policy announcements relevant to staff, or compelling rumors” (CIA para. 22)[^4].  
 
 Rumors can undermine or compromise the credibility of a human source, a risk particularly relevant when HUMINT and CSINT intersect.
 
