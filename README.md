@@ -285,22 +285,22 @@ An official [Justice site](https://www.justice.gov/jmd/ls/state) listing all sta
   - According to Johns Hopkins University[^67] it is. 
     
 
-“A subfield of publishing which distributes academic research and scholarship.”
+>“A subfield of publishing which distributes academic research and scholarship.”
 
 
 - Commercial data:
 
-  - "Commercial Data means any and all data and information relating to an identified or identifiable Person (whether the information is accurate or not), alone or in combination with other information, which Person is or was an actual or prospective customer of, or consumer of products offered by, the VS Business or L Brands Business, as applicable. Commercial Data means any and all data collected or otherwise processed by the Seller Entities relating to a customer of the Business" (Law Insider, 2025).[^36]
+>"Commercial Data means any and all data and information relating to an identified or identifiable Person (whether the information is accurate or not), alone or in combination with other information, which Person is or was an actual or prospective customer of, or consumer of products offered by, the VS Business or L Brands Business, as applicable. Commercial Data means any and all data collected or otherwise processed by the Seller Entities relating to a customer of the Business" (Law Insider, 2025).[^36]
   
 - Grey literature:
 
-  - Grey literature, as defined by the Welch Medical Library, is "information produced on all levels of government, academics, business and industry in electronic and print formats not controlled by commercial publishing i.e. where publishing is not the primary activity of the producing body" (Joseph, 2025, paras. 1–2)[^37].
+>"Grey literature, as defined by the Welch Medical Library, is "information produced on all levels of government, academics, business and industry in electronic and print formats not controlled by commercial publishing i.e. where publishing is not the primary activity of the producing body" (Joseph, 2025, paras. 1–2)"[^37].
 
 - genealogical:
   
-  "Genealogical research is the tracing of an individual's ancestral history using historical records, both official and unofficial" (University of Maryland Libraries, n.d., para. 1).[^39]
+>"Genealogical research is the tracing of an individual's ancestral history using historical records, both official and unofficial" (University of Maryland Libraries, n.d., para. 1).[^39]
 
-  "Genealogy is the study of families and their ancestors and histories" (Virginia Tech University Libraries, n.d., para. 1).[^38]
+>"Genealogy is the study of families and their ancestors and histories" (Virginia Tech University Libraries, n.d., para. 1).[^38]
   
    - Genealogy: Using family history research and genealogy databases as an intelligence-gathering tool.
    - Death records: Gathering intelligence from records such as death notices, obituaries, gravestone databases, and burial registries.(news papers or local news sites) 
@@ -341,14 +341,14 @@ These operators are not used unless you include them in your query—Google’s 
 
 ## In the year 2016, a basket weaving image board used OSINT to pay some supposed terrorist a visit from a govt in Russia resulting in airstrikes.
 
->In 2016, amid the Syrian Civil War, rebel groups tried to overthrow President Assad, leading to foreign involvement from the U.S. and Russia. On 4chan, users identified a rebel camp from a Jaysh al-Izza video and relayed its coordinates to Russian contacts, resulting in airstrikes after the camp was located twice (Pezle, 2022).[^8][^7]
+>"In 2016, amid the Syrian Civil War, rebel groups tried to overthrow President Assad, leading to foreign involvement from the U.S. and Russia. On 4chan, users identified a rebel camp from a Jaysh al-Izza video and relayed its coordinates to Russian contacts, resulting in airstrikes after the camp was located twice (Pezle, 2022)."[^8][^7]
 
 UPDATE: Turns out it was a really complex war[^19] the 4chan got involved in, still keeping this up as a key example however; the main issue is that they exposed their training locations with geographic locations to the internet like complete morons.
 Thus bad opsec.
 
 ## In 2017, Shia LaBeouf had a protest due to Trumps election; this resulted in a basket weaving image board using OSINT and [sky patterns to figure out where a flag is.
 
->In 2017, 4chan users managed to track down and replace Shia LaBeouf's "He Will Not Divide Us" protest flag. Using only the live-stream footage of the flag, they analyzed flight patterns, star positions, and a tweet to locate the flag in Greeneville, Tennessee. A local troll then honked his car horn until the sound was picked up on the live-stream, pinpointing the exact location. The flag was replaced with a Trump hat, marking the end of this elaborate trolling operation.[^6]
+>"In 2017, 4chan users managed to track down and replace Shia LaBeouf's "He Will Not Divide Us" protest flag. Using only the live-stream footage of the flag, they analyzed flight patterns, star positions, and a tweet to locate the flag in Greeneville, Tennessee. A local troll then honked his car horn until the sound was picked up on the live-stream, pinpointing the exact location. The flag was replaced with a Trump hat, marking the end of this elaborate trolling operation (Lamoureux, Mack 2017)."[^6]
 
 ## Digital profiling (OSINT profiling).
 
