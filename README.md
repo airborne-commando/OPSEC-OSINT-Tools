@@ -77,20 +77,20 @@ If you want some quick methodology I suggest you read this [markdown](./markdown
 - **Silk Road Case**
     - Ross Ulbricht[^5] linked to Silk Road by using his real name/email, posting about Tor, and failing to hide server IPs. The laptop was basically seized according to the FBI.
 
-- "On Oct. 1, 2013, an F.B.I. operation in a public library in San Francisco ended with the arrest of Ross Ulbricht, who was the brain behind Silk Road... At that moment, another agent took the open laptop while logged into the Silk Road administrator's panel" (Oliyaee, 2024, para. 2).[^60]
+> "On Oct. 1, 2013, an F.B.I. operation in a public library in San Francisco ended with the arrest of Ross Ulbricht, who was the brain behind Silk Road... At that moment, another agent took the open laptop while logged into the Silk Road administrator's panel" (Oliyaee, 2024, para. 2).[^60]
 
-- "ULBRICHT created Silk Road in January 2011, and owned and operated the underground website until it was shut down by law enforcement authorities in October 2013" (U.S. Department of Justice, 2015, para. 1).[^5]
+> - "ULBRICHT created Silk Road in January 2011, and owned and operated the underground website until it was shut down by law enforcement authorities in October 2013" (U.S. Department of Justice, 2015, para. 1).[^5]
 
-- "The FBI arrested Ulbricht and seized his laptop on October 1, 2013. A judge sentenced Ulbricht to life in prison for drug trafficking, computer hacking, and money laundering in 2015" (FBI, n.d., para. 2).[^59]
+> - "The FBI arrested Ulbricht and seized his laptop on October 1, 2013. A judge sentenced Ulbricht to life in prison for drug trafficking, computer hacking, and money laundering in 2015" (FBI, n.d., para. 2).[^59]
 
-- "In 2015, Ulbricht was sentenced to life in prison but was pardoned in 2025" (Reiff, 2025, para. 3).[^61]
+> - "In 2015, Ulbricht was sentenced to life in prison but was pardoned in 2025" (Reiff, 2025, para. 3).[^61]
 
 Ross was pardoned[^62] in 2025 by the trump administration.
 
 - **LulzSec Hacking Group**
     - Members exposed themselves by discussing ops in public IRC[^56][^58][^21][^20], revealing personal info, using stolen cards[^57] to home addresses, and trusting informants.<br>
 
-"Spitler admitted to communicating during the data breach with his co-defendant, Andrew Auernheimer, 25, who was arrested January 18, 2011, in Fayetteville, Ark., while appearing in state court on unrelated drug charges. The two wrote each other during the breach using Internet Relay Chat, an Internet instant messaging program. Those chats included discussions between Spitler, Auernheimer, and other Goatse Security members about the best way to take advantage of the breach and associated theft" (Federal Bureau of Investigation, 2012).[^57]
+>"Spitler admitted to communicating during the data breach with his co-defendant, Andrew Auernheimer, 25, who was arrested January 18, 2011, in Fayetteville, Ark., while appearing in state court on unrelated drug charges. The two wrote each other during the breach using Internet Relay Chat, an Internet instant messaging program. Those chats included discussions between Spitler, Auernheimer, and other Goatse Security members about the best way to take advantage of the breach and associated theft" (Federal Bureau of Investigation, 2012).[^57]
 
 - **General Bad OPSEC Practices**
     - Poor compartmentalization, leaking sensitive info, predictable naming, traceable work hours, and unsecured servers.
@@ -159,11 +159,11 @@ It's a security discipline and operations function that involves a continuous cy
      has a huge digital footprint and is easily fooled by trolls online.[^40][^41][^42"]
 
 * suspectAGB: as stated by the BBC.
-"Tariq Monteiro, 23, and Siyad Mohamud, 24, were part of a group which targeted Alex Smith over a gang-based feud as he left a restaurant near Euston station on 12 August 2019. The pair fled to Kenya immediately after the incident and were arrested in Nairobi last year. They both refused to appear for their sentencing hearing at the Old Bailey. Monteiro, of no fixed address, was ordered to serve a minimum of 24 years in prison, while Mohamud, of Barker Drive, Camden, will serve at least 23 years." (Evans 2023, para. 1–4)[^44]
+>"Tariq Monteiro, 23, and Siyad Mohamud, 24, were part of a group which targeted Alex Smith over a gang-based feud as he left a restaurant near Euston station on 12 August 2019. The pair fled to Kenya immediately after the incident and were arrested in Nairobi last year. They both refused to appear for their sentencing hearing at the Old Bailey. Monteiro, of no fixed address, was ordered to serve a minimum of 24 years in prison, while Mohamud, of Barker Drive, Camden, will serve at least 23 years." (Evans 2023, para. 1–4)[^44]
 
 He shared a kitchen photo and people were able to deduce where he was due to an appliance. As stated by bugzorc opsecfail
 
-"Observant individuals quickly pinpointed his location, thanks to telltale signs like common household plugs and the typical kitchen setup. Moreover, the metadata of his posts gave him away." (bugzorc 2025, para. 1)[^43]
+>"Observant individuals quickly pinpointed his location, thanks to telltale signs like common household plugs and the typical kitchen setup. Moreover, the metadata of his posts gave him away." (bugzorc 2025, para. 1)[^43]
 
 * Leaving unused social media online
 
@@ -341,14 +341,14 @@ These operators are not used unless you include them in your query—Google’s 
 
 ## In the year 2016, a basket weaving image board used OSINT to pay some supposed terrorist a visit from a govt in Russia resulting in airstrikes.
 
-  - In 2016, during the complex Syrian Civil War, various rebel groups—some with good intentions and others with nefarious motives—sought to overthrow President Assad. The chaos allowed terrorist groups to flourish, prompting intervention from the United States and Russia, with the former supporting rebels and the latter aiding Assad. An anonymous user on 4chan's Syria General board (SG) claimed that a Syrian rebel group, Jaysh al-Izza, posted a video on YouTube revealing their secret encampment. The group, linked to Al-Qaeda, was seen by 4chan users as a target. A notable 4chan user, Ivan Sirenko, who had connections with the Russian military, received the coordinates from the 4chan community and tweeted them to the Russian Ministry of Defense. This led to an airstrike on the encampment. Two months later, the same rebel group posted another video showing a new training camp. 4chan users once again pinpointed the location using landmarks seen in the video. After thorough verification, they sent the coordinates to Ivan, who facilitated another Russian airstrike.[^8][^7]
+>In 2016, amid the Syrian Civil War, rebel groups tried to overthrow President Assad, leading to foreign involvement from the U.S. and Russia. On 4chan, users identified a rebel camp from a Jaysh al-Izza video and relayed its coordinates to Russian contacts, resulting in airstrikes after the camp was located twice (Pezle, 2022).[^8][^7]
 
 UPDATE: Turns out it was a really complex war[^19] the 4chan got involved in, still keeping this up as a key example however; the main issue is that they exposed their training locations with geographic locations to the internet like complete morons.
 Thus bad opsec.
 
 ## In 2017, Shia LaBeouf had a protest due to Trumps election; this resulted in a basket weaving image board using OSINT and [sky patterns to figure out where a flag is.
 
-- In 2017, 4chan users managed to track down and replace Shia LaBeouf's "He Will Not Divide Us" protest flag. Using only the live-stream footage of the flag, they analyzed flight patterns, star positions, and a tweet to locate the flag in Greeneville, Tennessee. A local troll then honked his car horn until the sound was picked up on the live-stream, pinpointing the exact location. The flag was replaced with a Trump hat, marking the end of this elaborate trolling operation.[^6]
+>In 2017, 4chan users managed to track down and replace Shia LaBeouf's "He Will Not Divide Us" protest flag. Using only the live-stream footage of the flag, they analyzed flight patterns, star positions, and a tweet to locate the flag in Greeneville, Tennessee. A local troll then honked his car horn until the sound was picked up on the live-stream, pinpointing the exact location. The flag was replaced with a Trump hat, marking the end of this elaborate trolling operation.[^6]
 
 ## Digital profiling (OSINT profiling).
 
