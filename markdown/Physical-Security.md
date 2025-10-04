@@ -1,4 +1,4 @@
-Back to the [main guide](./README.md).
+Back to the [main guide](../README.md).
 
 ## Physical Security
 
