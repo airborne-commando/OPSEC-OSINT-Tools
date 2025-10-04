@@ -125,14 +125,18 @@ Ross was pardoned[^62] in 2025 by the trump administration.
 
 - **Criminals**
     - *Sony Pictures Hack (2014):* Used OSINT on staff and infrastructure for phishing and breach.[^68]
-    - "Email notifications sent via accounts like designedcuratedamy58[@]gmail.com alerted operators whenever targets began assessments or ran malicious curl commands" (Priya, 2025, para. 14).[^69]
-    - *Ashley Madison Breach (2015):* Used OSINT to leak sensitive user data, causing blackmail and public exposure.[^25]
+>"Email notifications sent via accounts like designedcuratedamy58[@]gmail.com alerted operators whenever targets began assessments or ran malicious curl commands" (Priya, 2025, para. 14).[^69]
+    - *Ashley Madison Breach (2015):* Used **CSINT** to leak sensitive user data, causing blackmail and public exposure.
+>“When the company balked, the group published personal information about 36 million users. That’s a lot of very personal information of a lot of people” (Schifferle, 2016, para. 5).[^25]
+
 - **Civilians**
     - *Identifying Russian Soldiers:* Used facial recognition and open-source images to ID participants in conflicts.[^55]
     - *Cameroon Investigation:* Used metadata and geolocation to verify military abuses.[^23]
+
 - **Law Enforcement**
     - *Tracking Stolen Property:* Monitored online marketplaces to recover stolen goods.[^24]
     - *ShadowDragon’s SocialNet:* Mapped social networks from 200+ sources to aid investigations.[^4]
+
 - **OPSEC Failures**
     - *Guccifer 2.0:* Forgot to activate VPN, exposing real IP and identity.[^3]
     - *Silk Road’s Ross Ulbricht:* Used personal email and left digital traces, leading to arrest.[^5]
@@ -274,7 +278,7 @@ Disinformation[^16][^17] in the context of OSINT (Open Source Intelligence) refe
 
 ## Sources of OSINT
 OSINT can gather information from various sources, including:
-- Public government data as stated by the University of North Texas Libraries[^25].
+- Public government data as stated by the University of North Texas Libraries[^35].
 
 Public data is data that is used, reused and or redistributed. Government entities operating at various judicial levels such as local, state, federal, and the international levels. This creates various amounts of public data, which is accessible without restrictions. Terms of use must be agreed to or approved depending on consideration before accessing these datasets and or records, such as Heath (HIPPA) and or Educational Data.
 
@@ -769,7 +773,7 @@ If you find this useful feel free to donate to this monero address:
 
 [^24]: MPA, Brandon Burley. “OSINT Tools for Investigators to Track Criminal Activity Online.” Lexipol Media Group, 23 Aug. 2025, www.police1.com/investigations/thinking-like-a-criminal-how-osint-can-take-your-investigations-further.
 
-[^25]: “Ashley Madison Settles With FTC Over Data Security.” Federal Trade Commission, 24 May 2022, www.ftc.gov/business-guidance/blog/2016/12/ashley-madison-settles-ftc-over-data-security.
+[^25]: Schifferle, L. W. (2016, December 14). *Ashley Madison settles with FTC over data security.* Federal Trade Commission. https://www.ftc.gov/business-guidance/blog/2016/12/ashley-madison-settles-ftc-over-data-security
 
 [^26]: DIA. “OPEN SOURCE INTELLIGENCE (OSINT).” Defense Intelligence Agency, 23 Oct. 2023, www.dia.mil/About/Open-Source-Intelligence.
 
