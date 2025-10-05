@@ -36,6 +36,12 @@ A comprehensive guide to operational security tools and techniques.
 - [DeepSeek](https://chat.deepseek.com/) - Requires account (censored on sensitive topics)
   - [Offline Version Guide](https://www.reddit.com/r/AIAssisted/comments/1ibv6g8/how_to_run_deepseek_r1_offline_on_your_computer/)
   - [LM Studio](https://lmstudio.ai/) - For running models locally
+    
+## Cloaking tools
+
+[fawkes](https://github.com/Shawn-Shan/fawkes), a facial cloaking tool that can run locally on Linux. Was test on arch. See issue [#191](https://github.com/Shawn-Shan/fawkes/issues/191)
+
+Protip: Doesn't hurt to write genuinely, act human and be human if doing [HUMINT](./HUMINT.md).
 
 ### Multilingual Tools
 - [Google Translate](https://translate.google.com/) - For language conversion
@@ -86,7 +92,11 @@ A comprehensive guide to operational security tools and techniques.
 
     - [Freenet](https://hyphanet.org/) (See below for Vulnerabilities)
         - Wikipedia article on [Vulnerabilities](https://en.wikipedia.org/wiki/Hyphanet#Vulnerabilities), not that I feel bad.
-        - An [Article](https://www.sacbee.com/news/local/crime/article305942121.html)
+
+
+According to *The Sacramento Bee* 
+
+>“the U.S. Attorney’s Office in Sacramento said two of them included a Lodi man, who was arrested for allegedly using the Freenet network to share child pornography, and a Solano County man, who was arrested for allegedly trafficking a 16-year-old girl who had been reported missing from Sacramento County” (The Sacramento Bee, 2025).[^9]
 
 Tor Also faced Vulnerabilities:
 
@@ -116,6 +126,9 @@ Boot inside your favorite VM/Hypervisor and you should be good to go!
 
 The reason why this isn't secure is that the host machine may be [compromised](https://tails.net/doc/advanced_topics/virtualization/index.en.html)
 and it defeats the whole purpose of TailsOS if you do this instead of installing it inside a USB. Only use this if you want to try the OS.
+
+>"Traces of your Tails session are likely to be left on the local hard disk. For example, host operating systems usually use swapping (or paging) which copies part of the RAM to the hard disk" (The Tails Project, n.d.). [^10]
+
 
 ---
 
@@ -174,20 +187,22 @@ To monitor I2P status:
 
 ## Virtualization
 
-**Virtualization** Virtual machines running a full operating system.(Yale University, 2014)[^Yale]
+**Virtualization** Virtual machines running a full operating system.(Yale University, 2014)[^3]
 
 ### How It Works
 
-* **Virtual Machines (VMs)**: Simulated systems that run independently on shared hardware.
-* **Hypervisor**: Software that manages VMs, directly on the CPU[^Yale]. 
+* **Virtual Machines (VMs)**: Simulated systems that run independently on shared hardware or on the cloud.
+* **Hypervisor**: Software that manages VMs, directly on the CPU[^3]. 
 
-  * **Type 1** runs directly on hardware (e.g., VMware ESXi).[^Caltech]
-  * **Type 2** runs on an OS, typically a server.[^Caltech]
+  * **Type 1** runs directly on hardware (e.g., VMware ESXi).[^4]
+  * **Type 2** runs on an OS, typically a server.[^4]
 
 
-How secure are Virtual machines?
+How secure are **Virtual machines?**
 
-As stated on The University of Tennessee's webpage "While virtual machines offer valuable flexibility, they can also create security vulnerabilities if they are not properly configured."[^utk]
+As stated on **The University of Tennessee's** webpage:
+
+>"While virtual machines offer valuable flexibility, they can also create security vulnerabilities if they are not properly configured" (University of Tennessee Office of Information Technology, n.d., para. 1).[^2]
 
 It can also depend on the host system. In an example the system gets compromised either physically or by a virus and the Virtual Machine is not secured inside a LUKS drive.
 
@@ -195,13 +210,17 @@ For LUKS, the user needs to enter the password typically in order to mount said 
 
 ### Types
 
-* **Server**: It is designed to operate on machines made of bare metal (The Linux Foundation).[^XCP-ng][^vanderbilt]
-* **Desktop**: Centralized desktops delivered to users, think amazon web service.[^GeeksforGeeks]
+* **Server**: It is designed to operate on machines made of bare metal (The Linux Foundation).[^6][^5]
+* **Desktop**: Centralized desktops delivered to users, think amazon web service.[^7]
+    - Can also be local use like virt-manager/KVM **Hypervisors**.
+      
+>"(Local desktop virtualization allows running a virtualization stack on a system physically accessible by the hypervisor, enabling the use of software on a specific OS without installing that OS by creating a virtualized instance) (Veeam, n.d.)."[^8]
+
 * **Network**: Virtual network channels.
 * **Storage**: Unified storage from multiple devices.
 * **Application**: Apps run independently of the OS.
 
-### Benefits
+### Benefits of a remote virtual machine
 
 * Better resource use
 * Lower hardware costs
@@ -209,9 +228,31 @@ For LUKS, the user needs to enter the password typically in order to mount said 
 * Improved security
 * Simplified backups and recovery
 
+
+### Downsides of a remote VM:
+
+* Security risks
+* Internet access only
+  
+
 ### Use Cases
 
 Core to cloud computing and enterprise IT, enabling efficient, scalable infrastructure management.
+
+
+### Benefits of a local virtual machine
+
+* Better Security
+* Ease of Access
+
+### Downsides of a local VM:
+
+* Hardware costs
+* Single point of failure
+
+### Use Cases
+
+Personal use cases, such as videogames to isolation of a user environment.
 
 ---
 
@@ -224,7 +265,7 @@ Core to cloud computing and enterprise IT, enabling efficient, scalable infrastr
 
 ### Email Services
 - [User/Email Generator](https://github.com/airborne-commando/user-email-gen) - For ProtonMail/cock.li
-    - PROTIP: For Proton, you'll probably want to use a VPN as TOR will get flagged; use Mullvad.
+    - PROTIP: For Proton, you'll probably want to use a VPN as TOR will get flagged; use Mullvad. Cock.li is back up but you'll need to use an email client, use the ones suggested below.
 - [Temp-Mail](https://temp-mail.org/en/) - Temporary email
 - [Username Generator](https://jimpix.co.uk/words/username-generator.php)
 - [cock.li](https://cock.li/register.php)
@@ -327,7 +368,7 @@ What I tend to do is save this in private notes inside simplex, I'd also recomme
 Then if i need, I share it with another simplex note on my phone by connecting my own phone instance and the desktop as a chat. Then forwarding it to private notes.
 After that is done, I delete the convo for both but keep private notes for both adding in redundancy. just save inside simplex and desktop to reduce data remnants.
 
-For SSD's I'd recommend using LUK's or a container as securely erasing in traditional means is basically useless if you want to format the entire drive.[^sciencedirect]
+For SSD's I'd recommend using LUK's or a container as securely erasing in traditional means is basically useless if you want to format the entire drive.[^1]
 
 ---
 
@@ -339,16 +380,22 @@ And again [You Didn't Have to Post That](https://www.youtube.com/watch?v=AkQaL9S
 
 ## References:
 
-[^sciencedirect]: "Layered Security." *ScienceDirect*, Elsevier B.V., 2025, www.sciencedirect.com/topics/computer-science/layered-security. Accessed 22 Sept. 2025.
+[^1]: "Layered Security." *ScienceDirect*, Elsevier B.V., 2025, www.sciencedirect.com/topics/computer-science/layered-security. Accessed 22 Sept. 2025.
 
-[^utk]: University of Tennessee, Knoxville. “Protecting Your Virtual Machines Office of Innovative Technologies.” The University of Tennessee Knoxville, oit.utk.edu/security/learning-library/article-archive/protecting-your-virtual-machines. Accessed 26 Sept. 2025.
+[^2]: University of Tennessee Office of Information Technology. (n.d.). *Protecting your virtual machines*. University of Tennessee. https://oit.utk.edu/security/learning-library/article-archive/protecting-your-virtual-machines
 
-[^Yale]: Yale University. “Virtualization.” yale, 17 June 2014, www.cs.yale.edu/homes/aspnes/pinewiki/Virtualization.html.
+[^3]: Yale University. “Virtualization.” yale, 17 June 2014, www.cs.yale.edu/homes/aspnes/pinewiki/Virtualization.html.
 
-[^Caltech]: Kelley, Karin. “Cloud Computing Tutorial: Virtualization, Hypervisors, and VMware Workstation - Caltech.” pg-p.ctme.caltech.edu, 24 June 2024, pg-p.ctme.caltech.edu/blog/cloud-computing/virtualization-hypervisors-and-vmware-workstation.
+[^4]: Kelley, Karin. “Cloud Computing Tutorial: Virtualization, Hypervisors, and VMware Workstation - Caltech.” pg-p.ctme.caltech.edu, 24 June 2024, pg-p.ctme.caltech.edu/blog/cloud-computing/virtualization-hypervisors-and-vmware-workstation.
 
-[^vanderbilt]: Vanderbilt University. “Virtual Servers.” Vanderbilt University, tdx.vanderbilt.edu/TDClient/33/Portal/Requests/ServiceDet?ID=147. Accessed 26 Sept. 2025.
+[^5]: Vanderbilt University. “Virtual Servers.” Vanderbilt University, tdx.vanderbilt.edu/TDClient/33/Portal/Requests/ServiceDet?ID=147. Accessed 26 Sept. 2025.
 
-[^XCP-ng]: The Linux Foundation. “XCP-ng Documentation.” Xcp-ng, docs.xcp-ng.org. Accessed 26 Sept. 2025.
+[^6]: The Linux Foundation. “XCP-ng Documentation.” Xcp-ng, docs.xcp-ng.org. Accessed 26 Sept. 2025.
 
-[^GeeksforGeeks]: GeeksforGeeks. “What Is Hosted Virtual Desktops (HVD)?” GeeksforGeeks, 23 July 2025, www.geeksforgeeks.org/cloud-computing/what-is-hosted-virtual-desktops-hvd/#.
+[^7]: GeeksforGeeks. “What Is Hosted Virtual Desktops (HVD)?” GeeksforGeeks, 23 July 2025, www.geeksforgeeks.org/cloud-computing/what-is-hosted-virtual-desktops-hvd/#.
+
+[^8]: Veeam. (n.d.). Local desktop virtualization. Veeam. https://www.veeam.com/glossary/desktop-virtualization.html
+
+[^9]: The Sacramento Bee. (2025, May 7). *Lodi man arrested in federal child pornography case, Solano suspect accused of trafficking teen*. The Sacramento Bee. https://www.sacbee.com/news/local/crime/article305942121.html 
+
+[^10]: The Tails Project. (n.d.). *Virtualization*. Tails. Retrieved October 4, 2025, from https://tails.net/doc/advanced_topics/virtualization/index.en.html
