@@ -36,10 +36,6 @@ A comprehensive guide to operational security tools and techniques.
 - [DeepSeek](https://chat.deepseek.com/) - Requires account (censored on sensitive topics)
   - [Offline Version Guide](https://www.reddit.com/r/AIAssisted/comments/1ibv6g8/how_to_run_deepseek_r1_offline_on_your_computer/)
   - [LM Studio](https://lmstudio.ai/) - For running models locally
-    
-## Cloaking tools
-
-[fawkes](https://github.com/Shawn-Shan/fawkes), a facial cloaking tool that can run locally on Linux. Was test on arch. See issue [#191](https://github.com/Shawn-Shan/fawkes/issues/191)
 
 Protip: Doesn't hurt to write genuinely, act human and be human if doing [HUMINT](./HUMINT.md).
 
@@ -60,6 +56,10 @@ Protip: Doesn't hurt to write genuinely, act human and be human if doing [HUMINT
   - Pair with [Upscale Media](https://www.upscale.media/)
 - [IOPaint](https://github.com/Sanster/IOPaint) - Local CPU-based inpainting
   - [Linux Launcher](https://github.com/airborne-commando/iopaint-launcher/)
+
+## Cloaking tools
+
+[fawkes](https://github.com/Shawn-Shan/fawkes), a facial cloaking tool that can run locally on Linux/Windows. Was tested on arch. See issue [#191](https://github.com/Shawn-Shan/fawkes/issues/191)
 
 ### Meta Tools
 - [ExifTool](https://exiftool.org/) - Metadata editing/stripping
