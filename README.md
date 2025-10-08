@@ -540,7 +540,7 @@ An automatic tool that I've made for [pa voter services](https://github.com/airb
 | **[archive.trace.rip](https://archive.trace.rip/)**          | detailed information    | user submitted     | Historical Data Breaches Archive                           | data breaches and scrapes throughout history                    |
 
 
-## Breach VIP API curl commands
+## Breach VIP API curl commands / Alias
 
     curl -X POST https://breach.vip/api/search -H "Content-Type: application/json" -d '{"term": "test@*.com","fields": ["email"],"wildcard": false, "case_sensitive": false}' > results-email.txt
     
@@ -549,6 +549,38 @@ An automatic tool that I've made for [pa voter services](https://github.com/airb
     curl -X POST https://breach.vip/api/search -H "Content-Type: application/json" -d '{"term": "000-*","fields": ["phone"],"wildcard": true, "case_sensitive": false}' > results-phone.txt
     
     curl -X POST https://breach.vip/api/search -H "Content-Type: application/json" -d '{"term": "john-doe","fields": ["name"],"wildcard": false, "case_sensitive": true}' > results-name.txt
+    
+    #### Place contents below in bashrc for terminal (linux)
+
+        breachsearch() {
+      curl -X POST https://breach.vip/api/search \
+           -H "Content-Type: application/json" \
+           -d "{\"term\": \"$1\",\"fields\": [\"email\"],\"wildcard\": false, \"case_sensitive\": false}" \
+       >     results-email.txt
+    }
+    
+    breachuser() {
+      curl -X POST https://breach.vip/api/search \
+           -H "Content-Type: application/json" \
+           -d "{\"term\": \"$1\",\"fields\": [\"username\"],\"wildcard\": false, \"case_sensitive\": true}" \
+       >     results-user.txt
+    }
+    
+    breachphone() {
+      curl -X POST https://breach.vip/api/search \
+           -H "Content-Type: application/json" \
+           -d "{\"term\": \"$1\",\"fields\": [\"phone\"],\"wildcard\": true, \"case_sensitive\": false}" \
+       >     results-phone.txt
+    }
+    
+    breachname() {
+      curl -X POST https://breach.vip/api/search \
+           -H "Content-Type: application/json" \
+           -d "{\"term\": \"$1\",\"fields\": [\"name\"],\"wildcard\": false, \"case_sensitive\": true}" \
+       >     results-name.txt
+    }
+
+
 
 Take a look at the documents which I will [link here](https://breach.vip/api/docs)
 
