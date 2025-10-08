@@ -303,15 +303,12 @@ An official [Justice site](https://www.justice.gov/jmd/ls/state) listing all sta
 >"Grey literature, as defined by the Welch Medical Library, is "information produced on all levels of government, academics, business and industry in electronic and print formats not controlled by commercial publishing i.e. where publishing is not the primary activity of the producing body" <br>(Joseph, 2025, paras. 1–2)"[^37].
 
 - genealogical:
-  
+- Genealogy: Using family history research and genealogy databases as an intelligence-gathering tool.
+    + Death records: Gathering intelligence from records such as death notices, obituaries, gravestone databases, and burial registries.(news papers or local news sites) 
+
 >"Genealogical research is the tracing of an individual's ancestral history using historical records, both official and unofficial" (University of Maryland Libraries, n.d., para. 1).[^39]
 
 >"Genealogy is the study of families and their ancestors and histories" <br>(Virginia Tech University Libraries, n.d., para. 1).[^38]
-  
-   - Genealogy: Using family history research and genealogy databases as an intelligence-gathering tool.
-   - Death records: Gathering intelligence from records such as death notices, obituaries, gravestone databases, and burial registries.(news papers or local news sites) 
-
-- people search aggregators[^54], typically used in the united states. can give you information on someone such as an email, home address, date of birth, etc.
 
 - Google Dorks:
 
@@ -486,6 +483,10 @@ Pipeline discussed [here](./markdown/opsec.md#opsec-pipeline-for-secure-files)
 ## People search tools (in the states):
 
 **DISCLAIMER: The type of info found on these sites appear to from other data brokers, social media profiles that are public or viewable by everyone, compiled data/info from federal, state, and local government public records.**
+
+---
+
+- people search aggregators[^54], typically used in the united states. can give you information on someone such as an email, home address, date of birth, etc.
 
 ---
 
