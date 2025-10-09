@@ -21,6 +21,7 @@
 8. [Digital Profiling](#digital-profiling-osint-profiling)
 9. [closed sourced](#closed-sourced-info)
       - [Breached Data](#breached-data)
+      - [Curl commands](#Curl-commands)
       - [CSINT](./markdown/CSINT.md)
 10. [IMINT](#IMINT)
     - [Reverse search](./markdown/IMINT.md#reverse-search-google)
@@ -539,19 +540,9 @@ An automatic tool that I've made for [pa voter services](https://github.com/airb
 | **[Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)**          | Email, Username, Domain, APK    | Infostealer infection indication, general information     | Free; no passwords/raw data                           | Infostealer only data                    |
 | **[archive.trace.rip](https://archive.trace.rip/)**          | detailed information    | user submitted     | Historical Data Breaches Archive                           | data breaches and scrapes throughout history                    |
 
+## Curl commands
 
-## Breach VIP API curl commands / Alias
-
-    curl -X POST https://breach.vip/api/search -H "Content-Type: application/json" -d '{"term": "test@*.com","fields": ["email"],"wildcard": false, "case_sensitive": false}' > results-email.txt
-    
-    curl -X POST https://breach.vip/api/search -H "Content-Type: application/json" -d '{"term": "test","fields": ["username"],"wildcard": false, "case_sensitive": true}' > results-user.txt
-    
-    curl -X POST https://breach.vip/api/search -H "Content-Type: application/json" -d '{"term": "000-*","fields": ["phone"],"wildcard": true, "case_sensitive": false}' > results-phone.txt
-    
-    curl -X POST https://breach.vip/api/search -H "Content-Type: application/json" -d '{"term": "john-doe","fields": ["name"],"wildcard": false, "case_sensitive": true}' > results-name.txt
-
-
-**Place contents below in bashrc for terminal (linux)**
+**Breach VIP API curl commands / Alias**
 
         breachsearch() {
       curl -X POST https://breach.vip/api/search \
@@ -581,6 +572,12 @@ An automatic tool that I've made for [pa voter services](https://github.com/airb
        >     results-name.txt
     }
 
+
+**R00M101**
+
+    analyze() {
+      curl -X GET "https://api.r00m101.com/analyze/$1" -H "accept: application/json"
+    }
 
 
 Take a look at the documents which I will [link here](https://breach.vip/api/docs)
