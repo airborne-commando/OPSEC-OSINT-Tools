@@ -544,39 +544,39 @@ An automatic tool that I've made for [pa voter services](https://github.com/airb
 
 **Breach VIP API curl commands / Alias**
 
-        breachsearch() {
+    breachemail() {
       curl -X POST https://breach.vip/api/search \
            -H "Content-Type: application/json" \
            -d "{\"term\": \"$1\",\"fields\": [\"email\"],\"wildcard\": false, \"case_sensitive\": false}" \
-       >     results-email.txt
+       >     /tmp/results-email.txt && cat /tmp/results-email.txt
     }
     
     breachuser() {
       curl -X POST https://breach.vip/api/search \
            -H "Content-Type: application/json" \
            -d "{\"term\": \"$1\",\"fields\": [\"username\"],\"wildcard\": false, \"case_sensitive\": true}" \
-       >     results-user.txt
+       >     /tmp/results-user.txt && cat /tmp/results-user.txt
     }
     
     breachphone() {
       curl -X POST https://breach.vip/api/search \
            -H "Content-Type: application/json" \
            -d "{\"term\": \"$1\",\"fields\": [\"phone\"],\"wildcard\": true, \"case_sensitive\": false}" \
-       >     results-phone.txt
+       >     /tmp/results-phone.txt && cat /tmp/results-phone.txt
     }
     
     breachname() {
       curl -X POST https://breach.vip/api/search \
            -H "Content-Type: application/json" \
            -d "{\"term\": \"$1\",\"fields\": [\"name\"],\"wildcard\": false, \"case_sensitive\": true}" \
-       >     results-name.txt
+       >     /tmp/results-name.txt && cat /tmp/results-name.txt
     }
 
 
 **R00M101**
 
     analyze() {
-      curl -X GET "https://api.r00m101.com/analyze/$1" -H "accept: application/json"
+      curl -X GET "https://api.r00m101.com/analyze/$1" -H "accept: application/json" > /tmp/reddit-user.txt && cat /tmp/reddit-user.txt
     }
 
 
@@ -734,7 +734,17 @@ flowchart TD
 
 **Notice** 
 
-[Results about you (google index)](https://myactivity.google.com/results-about-you) can also be emailed so keep that in mind when comparing info from these sources such as: [(OPT OUT)](#people-search-tools-in-the-states), [osint resources](https://sizeof.cat/post/osint-resources/), [osintframework](https://osintframework.com/), [awesome osint](https://github.com/jivoi/awesome-osint?tab=readme-ov-file#-people-investigations), [Internet tools](https://fmhy.xyz/internet-tools#open-source-intelligence), [The Osint Toolbox](https://github.com/The-Osint-Toolbox/People-Search-OSINT), [osint stuff tool collection](https://github.com/cipher387/osint_stuff_tool_collection?tab=readme-ov-file#universal-contact-search-and-leaks-search) Google will find websites containing your first-last name and address and will ask to remove it from the index. Before applying the removal process on google search be sure to remove info from the website itself that it's hosted on. Google Dorking seems to be a bit quicker and preemptive on removing info about yourself after you visit said sites (if applicable).
+[Results about you (google index)](https://myactivity.google.com/results-about-you) can also be emailed so keep that in mind when comparing info from these sources such as: 
+
+- [(OPT OUT)](#people-search-tools-in-the-states)
+- [osint resources](https://sizeof.cat/post/osint-resources/) 
+- [osintframework](https://osintframework.com/) 
+- [awesome osint](https://github.com/jivoi/awesome-osint?tab=readme-ov-file#-people-investigations) 
+- [Internet tools](https://fmhy.xyz/internet-tools#open-source-intelligence) 
+- [The Osint Toolbox](https://github.com/The-Osint-Toolbox/People-Search-OSINT) 
+- [osint stuff tool collection](https://github.com/cipher387/osint_stuff_tool_collection?tab=readme-ov-file#universal-contact-search-and-leaks-search) 
+  
+Google will find websites containing your first-last name and address and will ask to remove it from the index. Before applying the removal process on google search be sure to remove info from the website itself that it's hosted on. Google Dorking seems to be a bit quicker and preemptive on removing info about yourself after you visit said sites (if applicable).
 
 Also with doing google dorks the manual way is that you won't get flagged by google itself as a bot.
 
