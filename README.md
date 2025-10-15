@@ -333,6 +333,8 @@ An official [Justice site](https://www.justice.gov/jmd/ls/state) listing all sta
 | `"`                   | Exact phrase                                    | `"confidential file"`         |
 
 
+[Advanced Search Operators](https://docs.google.com/document/d/1ydVaJJeL1EYbWtlfj9TPfBTE5IBADkQfZrQaBZxqXGs) Created by [Daniel Russell](https://sites.google.com/site/dmrussell/more-about-dan)[^70].
+
 
 **Default Behavior**
 - Google treats multiple words as if connected by AND, so results must contain all terms unless you specify otherwise.
@@ -388,30 +390,31 @@ Three examples of GEOINT tools that you can access right now:
 
 ---
 
-| **Category**               | **Tool**                  | **Link**                                                                 | **Functionality**                                                                 | **Limitations/Notes**                                                                 |
-|----------------------------|--------------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| **Search Engine Queries**  | dorksearch                | [dorksearch](https://dorksearch.com/)        | Advanced Google dorking for targeted searches                                  | AI Doesn't work, have to build manually & internet access.                                              |
-|                            | Google-FU                | [GitHub](https://github.com/airborne-commando/GoogleFU-improved)        | Advanced Google dorking for targeted searches                                  | Rate limits apply; may trigger CAPTCHAs                                              |
-|                            | gdork                | [gist](https://gist.github.com/airborne-commando/d6430788b2c6b786f085a9133e88de52)        | Written in shell script, Gnu Linux                                  | In dev; not sure If I'll finish this.                                              |
-| **Bio-metric Analysis**     | Facecheck.ID             | [vin3110 repo](https://github.com/vin3110/facecheck.id-results-extractor) and [my repo](https://github.com/airborne-commando/facecheck.id-results-extractor-mobile/tree/main) that includes the [older scripts](https://github.com/airborne-commando/facecheck.id-results-extractor-mobile/tree/old) + [dev](https://github.com/airborne-commando/facecheck.id-results-extractor-mobile/tree/dev)     | Reverse image search bypassing paywalls. | Requires Tampermonkey; extracts source links only. You can cloak your images with tooks like [Fawkes](https://github.com/Shawn-Shan/fawkes) but results may vary. See issue [#191](https://github.com/Shawn-Shan/fawkes/issues/191) for resolving launching issues on linux. |
-| **Username/Email Search**  | Blackbird                | [GitHub](https://github.com/p1ngul1n0/blackbird)                       | Fast cross-platform username/email lookup                                      | CLI-only; lightweight                                                               |
-|                            | Crow (GUI for Blackbird) | [GitHub](https://github.com/airborne-commando/crow)                     | GUI version of Blackbird                                                       | Same functionality as CLI                                                           |
-|                            | Sherlock                 | [GitHub](https://github.com/sherlock-project/sherlock)                  | Comprehensive username search across 300+ sites                                | False positives (e.g., Imgur); CLI-based                                            |
-|                            | No-Shit-Sherlock (GUI)   | [GitHub](https://github.com/airborne-commando/no-shit-sherlock)         | GUI wrapper for Sherlock                                                       | Inherits Sherlock’s limitations                                                     |
-|                            | Maigret                  | [GitHub](https://github.com/soxoj/maigret)                              | Finds username connections (Sherlock fork)                                     | Focuses on profile linkages                                                         |
-|                            | Maigret-Night (GUI)      | [GitHub](https://github.com/airborne-commando/maigret-night)            | GUI for Maigret                                                                | Same as Maigret CLI                                                                 |
-|                            | Holehe                   | [GitHub](https://github.com/megadose/holehe)                            | Checks email usage across sites                                                | Imgur false positives; CLI-based                                                    |
-| **Email Compromises**      | Hudson Rock Extractor    | [GitHub](https://github.com/airborne-commando/hudsonrock-search-extractor)| Manual email breach checker (Flask-based)                                     | Not automated; requires manual input                                                |
-| **Geolocation/GEOINT**            | Google Maps              | [maps.google.com](https://maps.google.com/)                             | Pinpoint locations/compare landmarks                                           | Public data only; no advanced OSINT features                                        |
-|                            | Bing maps              | [bing maps](https://www.bing.com/maps)                             | Birds eye view, satellite, street view                                          | Quality may differ in birds eye compared to google                                        |
-|                            | Google Earth              | [Google Earth](https://earth.google.com/web)                            | 3D View, 2D view, satellite, street view, historical views                                          | Use in conjunction with google maps, bing maps or both.                                        |
-|                            | geohints                     | [geohints](https://geohints.com/)                                     | a curated list that contains the most accurate and detailed information about metas in Geoguessr as possible.| used for Geoguessr, but can be used to give clues in where an image is located.                                 |
-|                            | GeoGuessr GPT              | [GeoGuessr GPT](https://chatgpt.com/g/g-brlHi7t2R-geoguessr-gpt)                             | Use AI to pinpoint a photo                                          | Can give out false info; it's AI so ***it will*** hallucinate! Only 3 uploads for free users.                                        |
-|                            | findpiclocation              | [findpiclocation](https://findpiclocation.com/)                           | Use AI to pinpoint a photo                                          | May not be as accurate as GPT.                                        |
-| **Generalized OSINT**      | OSINT Rocks              | [osint.rocks](https://osint.rocks/)                                     | Multi-tool: Hudson Rock, Holehe, GHunt (Gmail), phone/domain/username look-ups  | Web-based; combines multiple tools in one interface                                 |
-| **MISC CLI tools**         | zabasearch-auto   | [GitHub](https://github.com/airborne-commando/zabasearch-auto)         | A CLI tool to look up public info on someone in the USA                                                       | CLI, advanced usage                                                     |
-|                            | link extractor and archive   | [GitHub](https://github.com/airborne-commando/link-extractor-and-archive)         | An archive tool for archive.ph, can extract links from a basic webpage                                                       | CLI, advanced usage; basic webpages only, Requires manual intervention (text edits FIND+REPLACE).                                                     |
-|                            | voter reg status   | [GitHub](https://github.com/airborne-commando/voter-reg-status)        | A CLI tool that looks up voter info on an person                                                       | Only in PA, Needs county, zip, first last name, DOB. Advanced usage. Census data may be out of date.                                                  |
+| Category | Tool | Link | Functionality | Limitations/Notes |
+| :--- | :--- | :--- | :--- | :--- |
+| **Search Engine Queries** | dorksearch | [dorksearch](https://dorksearch.com/) | Advanced Google dorking for targeted searches | AI doesn't work, have to build manually |
+| | Google-FU | [GitHub](https://github.com/airborne-commando/GoogleFU-improved) | Advanced Google dorking for targeted searches | Rate limits apply; may trigger CAPTCHAs |
+| | gdork | [gist](https://gist.github.com/airborne-commando/d6430788b2c6b786f085a9133e88de52) | Written in shell script, Gnu Linux | In dev; not sure if I'll finish this |
+| | Google | [advanced search feature](https://www.google.com/advanced_search) | Easier Google dorking directly from Google | Cannot save advanced searches; bookmark required. [Example usage](https://www.google.com/search?as_q=OSINT&as_epq=tools&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=github.com&as_occt=any&as_filetype=&tbs=) |
+| **Biometric Analysis** | Facecheck.ID | [vin3110 repo](https://github.com/vin3110/facecheck.id-results-extractor) • [my repo](https://github.com/airborne-commando/facecheck.id-results-extractor-mobile/tree/main) • [older scripts](https://github.com/airborne-commando/facecheck.id-results-extractor-mobile/tree/old) • [dev](https://github.com/airborne-commando/facecheck.id-results-extractor-mobile/tree/dev) | Reverse image search bypassing paywalls | Requires Tampermonkey; extracts source links only. Images can be cloaked with tools like [Fawkes](https://github.com/Shawn-Shan/fawkes) but results may vary. See [issue #191](https://github.com/Shawn-Shan/fawkes/issues/191) for Linux launch issues |
+| **Username/Email Search** | Blackbird | [GitHub](https://github.com/p1ngul1n0/blackbird) | Fast cross-platform username/email lookup | CLI-only; lightweight |
+| | Crow (GUI for Blackbird) | [GitHub](https://github.com/airborne-commando/crow) | GUI version of Blackbird | Same functionality as CLI |
+| | Sherlock | [GitHub](https://github.com/sherlock-project/sherlock) | Comprehensive username search across 300+ sites | False positives (e.g., Imgur); CLI-based |
+| | No-Shit-Sherlock (GUI) | [GitHub](https://github.com/airborne-commando/no-shit-sherlock) | GUI wrapper for Sherlock | Inherits Sherlock's limitations |
+| | Maigret | [GitHub](https://github.com/soxoj/maigret) | Finds username connections (Sherlock fork) | Focuses on profile linkages |
+| | Maigret-Night (GUI) | [GitHub](https://github.com/airborne-commando/maigret-night) | GUI for Maigret | Same as Maigret CLI |
+| | Holehe | [GitHub](https://github.com/megadose/holehe) | Checks email usage across sites | Imgur false positives; CLI-based |
+| **Email Compromises** | Hudson Rock Extractor | [GitHub](https://github.com/airborne-commando/hudsonrock-search-extractor) | Manual email breach checker (Flask-based) | Not automated; requires manual input |
+| **Geolocation/GEOINT** | Google Maps | [maps.google.com](https://maps.google.com/) | Pinpoint locations/compare landmarks | Public data only; no advanced OSINT features |
+| | Bing Maps | [bing maps](https://www.bing.com/maps) | Bird's eye view, satellite, street view | Bird's eye quality may differ compared to Google |
+| | Google Earth | [Google Earth](https://earth.google.com/web) | 3D View, 2D view, satellite, street view, historical views | Use in conjunction with other mapping services |
+| | geohints | [geohints](https://geohints.com/) | Curated list of accurate metadata for GeoGuessr | Used for GeoGuessr, but can provide location clues for images |
+| | GeoGuessr GPT | [GeoGuessr GPT](https://chatgpt.com/g/g-brlHi7t2R-geoguessr-gpt) | Use AI to pinpoint photo locations | Can give false info; AI hallucinations possible; only 3 uploads for free users |
+| | findpiclocation | [findpiclocation](https://findpiclocation.com/) | Use AI to pinpoint photo locations | May not be as accurate as GPT |
+| **Generalized OSINT** | OSINT Rocks | [osint.rocks](https://osint.rocks/) | Multi-tool: Hudson Rock, Holehe, GHunt (Gmail), phone/domain/username look-ups | Web-based; combines multiple tools in one interface |
+| **MISC CLI Tools** | zabasearch-auto | [GitHub](https://github.com/airborne-commando/zabasearch-auto) | CLI tool to look up public info on someone in the USA | CLI, advanced usage |
+| | link extractor and archive | [GitHub](https://github.com/airborne-commando/link-extractor-and-archive) | Archive tool for archive.ph, can extract links from basic webpages | CLI, advanced usage; basic webpages only; requires manual intervention (text edits FIND+REPLACE) |
+| | voter reg status | [GitHub](https://github.com/airborne-commando/voter-reg-status) | CLI tool that looks up voter info on a person | Only in PA; needs county, zip, first/last name, DOB; advanced usage; census data may be out of date |
 
 
 ---
@@ -905,3 +908,5 @@ If you find this useful feel free to donate to this monero address:
 [^68]: “North Korean Regime-Backed Programmer Charged With Conspiracy To.” United States Department of Justice, 6 Feb. 2025, www.justice.gov/archives/opa/pr/north-korean-regime-backed-programmer-charged-conspiracy-conduct-multiple-cyber-attacks-and.
 
 [^69]: Priya. (2025, September 5). *North Korean hackers shift strategies – Replacing old infrastructure with new assets*. *Cyberpress*. https://cyberpress.org/north-korean-hackers/
+
+[^70]: Russell, D. (n.d.). More about Daniel. Google Sites. https://sites.google.com/site/dmrussell/more-about-dan
