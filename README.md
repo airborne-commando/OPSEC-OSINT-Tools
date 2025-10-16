@@ -414,6 +414,7 @@ Three examples of GEOINT tools that you can access right now:
 | | GeoGuessr GPT | [GeoGuessr GPT](https://chatgpt.com/g/g-brlHi7t2R-geoguessr-gpt) | Use AI to pinpoint photo locations | Can give false info; AI hallucinations possible; only 3 uploads for free users |
 | | findpiclocation | [findpiclocation](https://findpiclocation.com/) | Use AI to pinpoint photo locations | May not be as accurate as GPT |
 | **Generalized OSINT** | OSINT Rocks | [osint.rocks](https://osint.rocks/) | Multi-tool: Hudson Rock, Holehe, GHunt (Gmail), phone/domain/username look-ups | Web-based; combines multiple tools in one interface |
+| | one-plus | [one-plus](https://one-plus.github.io/access.html) | A toolkit containing various tools and bookmark functions | The tools contained within each subsection may change without prior notice. |
 | **MISC CLI Tools** | zabasearch-auto | [GitHub](https://github.com/airborne-commando/zabasearch-auto) | CLI tool to look up public info on someone in the USA | CLI, advanced usage |
 | | link extractor and archive | [GitHub](https://github.com/airborne-commando/link-extractor-and-archive) | Archive tool for archive.ph, can extract links from basic webpages | CLI, advanced usage; basic webpages only; requires manual intervention (text edits FIND+REPLACE) |
 | | voter reg status | [GitHub](https://github.com/airborne-commando/voter-reg-status) | CLI tool that looks up voter info on a person | Only in PA; needs county, zip, first/last name, DOB; advanced usage; census data may be out of date |
