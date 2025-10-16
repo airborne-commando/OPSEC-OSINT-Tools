@@ -308,7 +308,7 @@ Personal use cases, such as videogames to isolation of a user environment.
 
 **Credit Card**
 - [Card Generator](https://www.creditcardvalidator.org/generator#) - Card Gen for fake numbers, you won't buy anything.
-- [Privacy](Privacy.com) - Virtual Card, you can set limits.
+- [Privacy](https://www.privacy.com/) - Virtual Card, you can set limits.
 
 Example from [paypal](https://developer.paypal.com/tools/sandbox/card-testing/), which also generates some fake numbers but gives you an idea. Still cannot buy anything.
 
