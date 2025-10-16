@@ -303,6 +303,15 @@ Personal use cases, such as videogames to isolation of a user environment.
 - [One-Time Pad Implementation](https://github.com/airborne-commando/one-time-pad-truly-random)
 - [Mouse-R](https://gist.github.com/airborne-commando/105e4c77598aab9662bca833ee944379) - use with veracrypt for mouse entropy
 
+**Zip**
+- [Random Address](https://zip.postcodebase.com/randomaddress) - Zip code gen for the US.
+
+**Credit Card**
+- [Card Generator](https://www.creditcardvalidator.org/generator#) - Card Gen for fake numbers, you won't buy anything.
+- [Privacy](Privacy.com) - Virtual Card, you can set limits.
+
+Example from [paypal](https://developer.paypal.com/tools/sandbox/card-testing/), which also generates some fake numbers but gives you an idea. Still cannot buy anything.
+
 ---
 
 # Secure File Transfer Methods in TailsOS
