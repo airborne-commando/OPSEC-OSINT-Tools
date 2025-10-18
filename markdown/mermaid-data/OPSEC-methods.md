@@ -14,7 +14,7 @@ flowchart LR
   end
  subgraph Security["Security"]
         Q["Security Contexts"]
-        R["Physical Security OPSEC<br>Measures: Barriers, surveillance, access control<br>Can Include Firearms: Yes, if justified"]
+        R["Physical Security OPSEC<br>Measures: Barriers, surveillance, access control, security personnel"]
         S["Chemical Security<br>Measures: Safe handling/storage<br>Can Include Chemicals: Not typically for defense"]
   end
  subgraph s1["Encryption/Decryption"]

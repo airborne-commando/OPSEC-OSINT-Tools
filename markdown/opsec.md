@@ -349,9 +349,9 @@ Example from [paypal](https://developer.paypal.com/tools/sandbox/card-testing/),
 
 ## OPSEC Pipeline for secure files
 
-| **Database** | **Human Password** | **Database** | **Generated** | **VeraCrypt** | **Generated** |
-|--------------|--------------------|--------------|---------------|--------------|---------------|
-| db1.kdbx   | `password123`      | db2.kdbx   | `ipri0-3ri-03ir-03ir0-3ir0-3wqirw3ir-0wi3ri0-w3ir-iw3-0` | VeraCrypt container | `fjeipfjopefjkpoewjf9pjepwujf9euf9wejfe9-fu90uefu` |
+| Database  |  Human Password  |  Database  |  Generated Password                                      |  VeraCrypt (db2.kdbx) |  Generated Password                               |
+| ----------|------------------|------------|----------------------------------------------------------|-----------------------|-------------------------------------------------- |
+| db1.kdbx  |  `password123`   |  db2.kdbx  | `ipri0-3ri-03ir-03ir0-3ir0-3wqirw3ir-0wi3ri0-w3ir-iw3-0` |  VeraCrypt container  | `fjeipfjopefjkpoewjf9pjepwujf9euf9wejfe9-fu90uefu`|
 
 What I tend to do is save this in private notes inside simplex, I'd also recommend not saving your password as `password123`.
 
