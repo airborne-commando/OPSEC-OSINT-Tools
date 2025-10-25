@@ -422,6 +422,9 @@ Three examples of GEOINT tools that you can access right now:
 | | Universal Background Check Exporter | [gist](https://gist.github.com/airborne-commando/cfdf2c1d6e27520f7446f6e774285237) | Exports searches from ZabaSearch, FastPeopleSearch and FastBackgroundCheck | Tapermonkey/greasemonkey script |
 | **Extensions** | Wayback machine | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new/) [Chrome](https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak?hl=en-US) | Search the wayback machine with an extension, can also look at deleted tweets. | Only archived tweets |
 | | Archive Page | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/archive-page/) [Chrome](https://chromewebstore.google.com/detail/archive-page/gcaimhkfmliahedmeklebabdgagipbia?hl=en-US) | Search archives with [archive.today](https://www.archive.today) | Again page needs to be archived if searched. | 
+| | Xcancel | [FF browser addon](https://addons.mozilla.org/en-US/firefox/addon/toxcancel/) and [chrome](https://chromewebstore.google.com/detail/xcancelcom-redirector) | Privacy-focused Twitter front-end | Some features are not available (such as twitter API, blackbird), can conflict with others | 
+| | reddit-uncensored             | [reddit-uncensored](https://github.com/Fubs/reddit-uncensored) | Automatically restores deleted posts and comments on Reddit using the Arctic Shift API | Browser addon (firefox, chrome), see [limitations](https://github.com/Fubs/reddit-uncensored?tab=readme-ov-file#limitations) |
+| | usertoihsoyct | [usertoihsoyct](https://github.com/airborne-commando/usertoihsoyct/tree/main) | redirects to ihsoyct when clicking on a username. | see [limitations](https://github.com/Fubs/reddit-uncensored?tab=readme-ov-file#limitations), Browser addon (firefox). |
 
 
 ---
@@ -629,14 +632,12 @@ Take a look at the documents which I will [link here](https://breach.vip/api/doc
 | **Instagram**| Dumpor               | [dumpor.com](https://dumpor.com/)    | View profiles/stories anonymously      | May have rate limits |
 |              | imginn               | [imginn.com](https://imginn.com/)    | View profiles/stories anonymously      |                      |
 | **Twitter**  | Sotwe                | [sotwe.com](https://www.sotwe.com/)  | Privacy-focused Twitter front-end             | No login required |
-|              | Xcancel              | [xcancel.com](https://xcancel.com/)  | Privacy-focused Twitter front-end             | No login required, Lightweight interface, [FF browser addon](https://addons.mozilla.org/en-US/firefox/addon/toxcancel/) and [chrome](https://chromewebstore.google.com/detail/xcancelcom-redirector) |
+|              | Xcancel              | [xcancel.com](https://xcancel.com/)  | Privacy-focused Twitter front-end             | No login required, Lightweight interface |
 |              | Nitter               | [nitter.net](https://nitter.net/)    | Privacy-focused Twitter front-end      | No login required |
 | **Facebook** | Facebook Search      | [facebook.com/search](https://www.facebook.com/search/) | Native Facebook search tool | Limited without login |
 |              | WhoPostedWhat       | [whopostedwhat.com](https://www.whopostedwhat.com/) | Search Facebook posts by date/keyword | Requires precise queries, public accounts |
 | **reddit**   | r00m101.com | [r00m101](https://r00m101.com/)       | Get detailed info from an active or deleted reddit account including “stage of life” and “hobbies”. | Pricing for full scope and features |
 |              | ihsoyct | [ihsoyct](https://ihsoyct.github.io/index.html) | Get archived posts from a reddit account from both APIs | [Host](https://arctic-shift.photon-reddit.com/live-charts/) can be down, [pushpull](https://pullpush.io/) is still non-functional as of writing. see [limitations](https://github.com/Fubs/reddit-uncensored?tab=readme-ov-file#limitations) different repo but raises a good point on archives. |
-|              | reddit-uncensored             | [reddit-uncensored](https://github.com/Fubs/reddit-uncensored) | Automatically restores deleted posts and comments on Reddit using the Arctic Shift API                              | Browser addon (firefox, chrome), see [limitations](https://github.com/Fubs/reddit-uncensored?tab=readme-ov-file#limitations) |
-|              | usertoihsoyct | [usertoihsoyct](https://github.com/airborne-commando/usertoihsoyct/tree/main) | redirects to ihsoyct when clicking on a username. | see [limitations](https://github.com/Fubs/reddit-uncensored?tab=readme-ov-file#limitations), Browser addon (firefox). |
 
 ---
 
