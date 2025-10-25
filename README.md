@@ -418,8 +418,8 @@ Three examples of GEOINT tools that you can access right now:
 | | one-plus | [one-plus](https://one-plus.github.io/access.html) | A toolkit containing various tools and bookmark functions | The tools contained within each subsection may change without prior notice. |
 | **MISC Tools** | zabasearch-auto | [GitHub](https://github.com/airborne-commando/zabasearch-auto) | CLI tool to look up public info on someone in the USA | CLI, advanced usage |
 | | link extractor and archive | [GitHub](https://github.com/airborne-commando/link-extractor-and-archive) | Archive tool for archive.ph, can extract links from basic webpages | CLI, advanced usage; basic webpages only; requires manual intervention (text edits FIND+REPLACE) |
-| | voter reg status | [gist](https://gist.github.com/airborne-commando/54f0f32b8cbce4bb8b76419159d3c2ff) | Tapermonkey script | Only in PA; needs zip,firstname,lastname,MM/DD/YYYY as an input. advanced usage; census data may be out of date |
-| | Universal Background Check Exporter | [gist](https://gist.github.com/airborne-commando/cfdf2c1d6e27520f7446f6e774285237) | Tapermonkey script | Exports searches from ZabaSearch, FastPeopleSearch and FastBackgroundCheck |
+| | voter reg status | [gist](https://gist.github.com/airborne-commando/54f0f32b8cbce4bb8b76419159d3c2ff) | Can export voter info as CSV | Only in PA; needs zip,firstname,lastname,MM/DD/YYYY as an input. census data may be out of date. It's a Tapermonkey/greasemonkey script and you'll need to clear cookies or run in private browsing |
+| | Universal Background Check Exporter | [gist](https://gist.github.com/airborne-commando/cfdf2c1d6e27520f7446f6e774285237) | Exports searches from ZabaSearch, FastPeopleSearch and FastBackgroundCheck | Tapermonkey/greasemonkey script |
 
 
 ---
