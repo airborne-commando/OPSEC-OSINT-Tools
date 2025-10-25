@@ -421,7 +421,7 @@ Three examples of GEOINT tools that you can access right now:
 | | voter reg status | [gist](https://gist.github.com/airborne-commando/54f0f32b8cbce4bb8b76419159d3c2ff) | Can export voter info as CSV | Only in PA; needs zip,firstname,lastname,MM/DD/YYYY as an input. census data may be out of date. It's a Tapermonkey/greasemonkey script and you'll need to clear cookies or run in private browsing |
 | | Universal Background Check Exporter | [gist](https://gist.github.com/airborne-commando/cfdf2c1d6e27520f7446f6e774285237) | Exports searches from ZabaSearch, FastPeopleSearch and FastBackgroundCheck | Tapermonkey/greasemonkey script |
 | **Extensions** | Wayback machine | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new/) [Chrome](https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak?hl=en-US) | Search the wayback machine with an extension, can also look at deleted tweets. | Only archived tweets |
-| | Archive Page | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/archive-page/) [Chrome](https://chromewebstore.google.com/detail/archive-page/gcaimhkfmliahedmeklebabdgagipbia?hl=en-US) | Search archives with [archive.today](archive.today) | Again page needs to be archived if searched. | 
+| | Archive Page | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/archive-page/) [Chrome](https://chromewebstore.google.com/detail/archive-page/gcaimhkfmliahedmeklebabdgagipbia?hl=en-US) | Search archives with [archive.today](https://www.archive.today) | Again page needs to be archived if searched. | 
 
 
 ---
