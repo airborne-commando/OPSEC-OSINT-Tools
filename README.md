@@ -416,9 +416,10 @@ Three examples of GEOINT tools that you can access right now:
 | | findpiclocation | [findpiclocation](https://findpiclocation.com/) | Use AI to pinpoint photo locations | May not be as accurate as GPT |
 | **Generalized OSINT** | OSINT Rocks | [osint.rocks](https://osint.rocks/) | Multi-tool: Hudson Rock, Holehe, GHunt (Gmail), phone/domain/username look-ups | Web-based; combines multiple tools in one interface |
 | | one-plus | [one-plus](https://one-plus.github.io/access.html) | A toolkit containing various tools and bookmark functions | The tools contained within each subsection may change without prior notice. |
-| **MISC CLI Tools** | zabasearch-auto | [GitHub](https://github.com/airborne-commando/zabasearch-auto) | CLI tool to look up public info on someone in the USA | CLI, advanced usage |
+| **MISC Tools** | zabasearch-auto | [GitHub](https://github.com/airborne-commando/zabasearch-auto) | CLI tool to look up public info on someone in the USA | CLI, advanced usage |
 | | link extractor and archive | [GitHub](https://github.com/airborne-commando/link-extractor-and-archive) | Archive tool for archive.ph, can extract links from basic webpages | CLI, advanced usage; basic webpages only; requires manual intervention (text edits FIND+REPLACE) |
-| | voter reg status | [GitHub](https://github.com/airborne-commando/voter-reg-status) | CLI tool that looks up voter info on a person | Only in PA; needs county, zip, first/last name, DOB; advanced usage; census data may be out of date |
+| | voter reg status | [gist](https://gist.github.com/airborne-commando/54f0f32b8cbce4bb8b76419159d3c2ff) | Tapermonkey script | Only in PA; needs zip,firstname,lastname,MM/DD/YYYY as an input. advanced usage; census data may be out of date |
+| | Universal Background Check Exporter | [gist](https://gist.github.com/airborne-commando/cfdf2c1d6e27520f7446f6e774285237) | Tapermonkey script | Exports searches from ZabaSearch, FastPeopleSearch and FastBackgroundCheck |
 
 
 ---
