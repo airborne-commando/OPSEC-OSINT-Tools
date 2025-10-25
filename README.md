@@ -219,7 +219,7 @@ OPSEC supplements other security disciplines rather than replacing them.
    - Pitfalls: you need to use TOR and Mullvad separately for maximum Anonymity, use a [Virtual Machine](./markdown/opsec.md#virtualization) for VPN's and TOR on another (or the host).
 
 3. **Identity**:  
-   - **Unique usernames** + **AI faces** + **word spinning** = harder to trace.  
+   - **Unique usernames** + **Unique behavior** = harder to trace.  
 
 4. **Self-Audit**:  
    - Regularly **opt out** of data brokers and **[OSINT yourself](#toolchain-self-osint)**.  
