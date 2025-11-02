@@ -303,9 +303,10 @@ An official [Justice site](https://www.justice.gov/jmd/ls/state) listing all sta
 
 >"Grey literature, as defined by the Welch Medical Library, is "information produced on all levels of government, academics, business and industry in electronic and print formats not controlled by commercial publishing i.e. where publishing is not the primary activity of the producing body" <br>(Joseph, 2025, paras. 1–2)"[^37].
 
-- genealogical:
-- Genealogy: Using family history research and genealogy databases as an intelligence-gathering tool.
-    + Death records: Gathering intelligence from records such as death notices, obituaries, gravestone databases, and burial registries.(news papers or local news sites) 
+- genealogical OSINT:
+
+> Genealogy: Using family history research and genealogy databases as an intelligence-gathering tool.
+> Death records: Gathering intelligence from records such as death notices, obituaries, gravestone databases, and burial registries.(news papers or local news sites) 
 
 >"Genealogical research is the tracing of an individual's ancestral history using historical records, both official and unofficial" (University of Maryland Libraries, n.d., para. 1).[^39]
 
@@ -396,7 +397,9 @@ Three examples of GEOINT tools that you can access right now:
 | | Google-FU | [GitHub](https://github.com/airborne-commando/GoogleFU-improved) | Advanced Google dorking | Rate limits, CAPTCHAs |
 | | gdork | [gist](https://gist.github.com/airborne-commando/d6430788b2c6b786f085a9133e88de52) | Shell script for Google dorking | In development tapermonkey script |
 | | Google Advanced | [Link](https://www.google.com/advanced_search) | Direct Google dorking | No saved searches; [Example](https://www.google.com/search?as_q=OSINT&as_epq=tools&as_sitesearch=github.com) |
-| **Biometric Analysis** | Facecheck.ID | [GitHub](https://github.com/airborne-commando/facecheck.id-results-extractor-mobile) | Reverse image search bypass | Tampermonkey required; source links only |
+| **Biometric Analysis** | Facecheck.ID | Fork [GitHub](https://github.com/airborne-commando/facecheck.id-results-extractor-mobile) [Main](https://github.com/vin3110/broken-access-control-poc) | Reverse image search bypass | Tampermonkey required; source links only |
+| **Genealogy** | genealogyintime | [genealogyintime](http://www.genealogyintime.com/tools/genealogy-search-engine.html) | A search engine that's specifically made for genealogy, can find obits and is *free** | not HTTPS, need to know what you're looking for. |
+| | findagrave | [findagrave](https://www.findagrave.com/) | A grave searching site | have to know the name of the person, city; also *may* not be listed. |
 | **Jobs** | Resume Indeed | [Link](https://resumes.indeed.com/) | Resume search | Expensive subscription |
 | | LinkedIn | [Link](https://LinkedIn.com/) | Company/person info | Verification often needed |
 | **Financial** | Paypal | [Link](https://www.paypal.com/us/home) | Person confirmation via email/phone | Account required |
