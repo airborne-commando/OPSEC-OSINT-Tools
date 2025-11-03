@@ -421,9 +421,9 @@ Three examples of GEOINT tools that you can access right now:
 | | one-plus | [Link](https://one-plus.github.io/access.html) | Toolkit with bookmarks | Tools may change |
 | **MISC Tools** | zabasearch-auto | [GitHub](https://github.com/airborne-commando/zabasearch-auto) | US public info lookup | CLI; advanced usage |
 | | link extractor and archive | [GitHub](https://github.com/airborne-commando/link-extractor-and-archive) | Archive.ph tool | CLI; basic pages; manual edits |
-| | voter reg status | [GitHub](https://github.com/airborne-commando/tapermonkey-collection/tree/main) | PA voter info export | CSV output; Tampermonkey |
-| | Universal Background Check | [GitHub](https://github.com/airborne-commando/tapermonkey-collection/tree/main) | Exports from PeopleSearch/Voter data (light) | Tampermonkey script, not accurate for mm-dd. it is with year on DOB for votes. |
-| | Breach.vip search and reddit analyzer | [GitHub](https://github.com/airborne-commando/tapermonkey-collection/tree/main) | search known breached databases check wayback machine API for twitter usernames, analyze Reddit usernames | Still in development, trying to figure out the kinks.
+| [Tapermonkey Scripts](https://github.com/airborne-commando/tapermonkey-collection/tree/main) | voter reg status |  | PA voter info export | CSV output; Tampermonkey |
+| | Universal Background Check |  | Exports from PeopleSearch/Voter data (light) | Tampermonkey script, not accurate for mm-dd. it is with year on DOB for votes. |
+| | Breach.vip search and reddit analyzer |  | search known breached databases check wayback machine API for twitter usernames, analyze Reddit usernames | Still in development, trying to figure out the kinks.
 | **Extensions** | Wayback machine | [FF](https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new/) [Chrome](https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak) | Wayback search; deleted tweets | Archived content only |
 | | Archive Page | [FF](https://addons.mozilla.org/en-US/firefox/addon/archive-page/) [Chrome](https://chromewebstore.google.com/detail/archive-page/gcaimhkfmliahedmeklebabdgagipbia) | Archive.today search | Page must be archived |
 | | Xcancel | [FF](https://addons.mozilla.org/en-US/firefox/addon/toxcancel/) [Chrome](https://chromewebstore.google.com/detail/xcancelcom-redirector) | Privacy Twitter front-end | Conflicts possible |
