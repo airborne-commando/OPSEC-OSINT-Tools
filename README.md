@@ -395,7 +395,7 @@ Three examples of GEOINT tools that you can access right now:
 | :--- | :--- | :--- | :--- | :--- |
 | **Search Engine Queries** | dorksearch | [Link](https://dorksearch.com/) | Advanced Google dorking | Manual query building |
 | | Google-FU | [GitHub](https://github.com/airborne-commando/GoogleFU-improved) | Advanced Google dorking | Rate limits, CAPTCHAs |
-| | gdork | [gist](https://gist.github.com/airborne-commando/d6430788b2c6b786f085a9133e88de52) | Shell script for Google dorking | In development tapermonkey script |
+| | gdork | [gist](https://github.com/airborne-commando/tapermonkey-collection/tree/main) | Shell script for Google dorking | In development tapermonkey script |
 | | Google Advanced | [Link](https://www.google.com/advanced_search) | Direct Google dorking | No saved searches; [Example](https://www.google.com/search?as_q=OSINT&as_epq=tools&as_sitesearch=github.com) |
 | **Biometric Analysis** | Facecheck.ID | Fork [GitHub](https://github.com/airborne-commando/facecheck.id-results-extractor-mobile) [Main](https://github.com/vin3110/broken-access-control-poc) | Reverse image search bypass | Tampermonkey required; source links only |
 | **Genealogy** | genealogyintime | [genealogyintime](http://www.genealogyintime.com/tools/genealogy-search-engine.html) | A search engine that's specifically made for genealogy, can find obits and is *free** | not HTTPS, need to know what you're looking for. |
@@ -901,7 +901,7 @@ If you find this useful feel free to donate to this monero address:
 
 [^59]: “Ross William Ulbricht’s Laptop.” FBI, www.fbi.gov/history/artifacts/ross-william-ulbrichts-laptop. Accessed 25 Sept. 2025.
 
-[^60]: Oliyaee, A. (2024, March 31). *Ross Ulbricht’s laptop: The heart of the Silk Road.* *Plasbit.* https://plasbit.com/blog/ross-ulbricht-laptop
+[^60]: Oliyaee, A. (2024, March 31). *Ross Ulbricht’s laptop: The heart of the Silk Road.* *Plasbit.* https://plasbit.com/blog/ross-ulbricht-laptop archived https://web.archive.org/web/20241110235927/https://plasbit.com/blog/ross-ulbricht-laptop
 
 [^61]: Reiff, Nathan. “Who Is Ross Ulbricht?” Investopedia, 24 Jan. 2025, www.investopedia.com/tech/ross-ulbricht-dark-net-pirate.
 
