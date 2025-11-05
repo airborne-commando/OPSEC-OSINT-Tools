@@ -27,7 +27,7 @@
     - [Reverse search](./markdown/IMINT.md#reverse-search-google)
     - [SOCMINT](./markdown/IMINT.md#socmint-social-intelligence)
 11. [Real world examples of OSINT](#real-world-examples-of-osint)
-      - [2016 Airstrike Coordination](#in-the-year-2016-a-basket-weaving-image-board-used-osint-to-pay-some-supposed-terrorist-a-vist-from-a-govt-in-russia-resulting-in-airstrikes)
+      - [2016 Airstrike Coordination](#in-the-year-2016-a-basket-weaving-image-board-used-osint-to-pay-some-supposed-terrorist-a-visit-from-a-govt-in-russia-resulting-in-airstrikes)
       - [2017 Shia LaBeouf Protest](#in-2017-shia-labeouf-had-a-protest-due-to-trumps-election-this-resulted-in-a-basket-weaving-image-board-using-osint-and-sky-patterns-to-figure-out-where-a-flag-is)
 12. [Tools](#tools)
       - [Toolchain Recommendations](#toolchain-recommendations)
