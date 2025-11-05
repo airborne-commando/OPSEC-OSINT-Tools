@@ -395,7 +395,7 @@ Three examples of GEOINT tools that you can access right now:
 | :--- | :--- | :--- | :--- | :--- |
 | **Search Engine Queries** | dorksearch | [Link](https://dorksearch.com/) | Advanced Google dorking | Manual query building |
 | | Google-FU | [GitHub](https://github.com/airborne-commando/GoogleFU-improved) | Advanced Google dorking | Rate limits, CAPTCHAs |
-| | gdork | [gist](https://github.com/airborne-commando/tapermonkey-collection/tree/main) | Shell script for Google dorking | In development tapermonkey script |
+| | gdork | [GitHub](https://github.com/airborne-commando/tapermonkey-collection/tree/main) | Shell script for Google dorking | In development tapermonkey script |
 | | Google Advanced | [Link](https://www.google.com/advanced_search) | Direct Google dorking | No saved searches; [Example](https://www.google.com/search?as_q=OSINT&as_epq=tools&as_sitesearch=github.com) |
 | **Biometric Analysis** | Facecheck.ID | Fork [GitHub](https://github.com/airborne-commando/facecheck.id-results-extractor-mobile) [Main](https://github.com/vin3110/broken-access-control-poc) | Reverse image search bypass | Tampermonkey required; source links only |
 | **Genealogy** | genealogyintime | [genealogyintime](http://www.genealogyintime.com/tools/genealogy-search-engine.html) | A search engine that's specifically made for genealogy, can find obits and is *free** | not HTTPS, need to know what you're looking for. |
@@ -793,7 +793,7 @@ If you find this useful feel free to donate to this monero address:
 
 [^6]: Lamoureux, Mack, and Mack Lamoureux. “How 4Chan’s Worst Trolls Pulled off the Heist of the Century.” VICE, 27 July 2024, www.vice.com/en/article/4chan-does-first-good-thing-pulls-off-the-heist-of-the-century1.
 
-[^7]: chasd00. "*Remember When 4chan Figured Out the Location of a Terrorist Training Camp From O...*" `|` Hacker News. 22 Dec. 2022. Hacker News, news.ycombinator.com/item?id=33913443. Accessed 24 Sept. 2025.
+[^7]: chasd00. "remember when 4chan figured out the location of a terrorist training camp from one of their PR photos and called in a literal airstrike? I like how 4chan is sometimes described as weaponized autism." 8 Dec. 2022, Imgur, https://imgur.com/N7DwWP1?r. Online forum comment.
 
 [^8]: “The Time 4Chan Called in an Airstrike.” Youtube, uploaded by Pezle, 17 Aug. 2023, www.youtube.com/watch?v=OR6epSP_Xlw.
 
