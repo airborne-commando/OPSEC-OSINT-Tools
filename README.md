@@ -783,7 +783,7 @@ If you find this useful feel free to donate to this monero address:
 
 [^2]: Mohammad Taha Khan, Joe DeBlasio, Geoffrey M. Voelker, Alex C. Snoeren, Chris Kanich, and Narseo Vallina-Rodriguez. 2018. An Empirical Analysis of the Commercial VPN Ecosystem. In Proceedings of the Internet Measurement Conference 2018 (IMC '18). Association for Computing Machinery, New York, NY, USA, 443–456. https://doi.org/10.1145/3278532.3278570
 
-[^3]: “Library Research Guides: Digital Privacy: Digital Privacy Practices.” Indiana University Bloomington, wayback machine, 7 July 2025, web.archive.org/web/20250208104257/https://guides.libraries.indiana.edu/c.php?g=1325689&p=9771453.
+[^3]: “Library Research Guides: Digital Privacy: Digital Privacy Practices.” Indiana University Bloomington, wayback machine, 7 July 2025, https://web.archive.org/web/20250208104257/https://guides.libraries.indiana.edu/c.php?g=1325689&p=9771453.
 
 [^3]: Department Of Justice. “Grand Jury Indicts 12 Russian Intelligence Officers for Hacking.” U.S. Department of Justice, 6 Feb. 2025, www.justice.gov/archives/opa/pr/grand-jury-indicts-12-russian-intelligence-officers-hacking-offenses-related-2016-election.
 
@@ -797,21 +797,21 @@ If you find this useful feel free to donate to this monero address:
 
 [^8]: “The Time 4Chan Called in an Airstrike.” Youtube, uploaded by Pezle, 17 Aug. 2023, www.youtube.com/watch?v=OR6epSP_Xlw.
 
-[^9]: "*Washington State Technology. What Is a VPN, and How Does It Work?*" Washington Technology Solutions. watech.wa.gov/what-vpn-and-how-does-it-work. Accessed 25 Sept. 2025.
+[^9]: "*Washington State Technology. What Is a VPN, and How Does It Work?*" Washington Technology Solutions. https://web.archive.org/web/20250403151533/https://watech.wa.gov/what-vpn-and-how-does-it-work. Accessed 25 Sept. 2025.
 
 [^10]: State Of New Jersey. “Virtual Private Networks.” State Of New Jersey Cybersecurity & Communications Integration Cell, www.cyber.nj.gov/guidance-and-best-practices/wi-fi-network-security/virtual-private-networks. Accessed 25 Sept. 2025.
 
-[^11]: New York University. “Demystifying the Dark Web: An Introduction to Tor and Onion Routing – Networks at ITP.” New York University, itp.nyu.edu/networks/explanations/demystifying-the-dark-web-an-introduction-to-tor-and-onion-routing.
+[^11]: New York University. “Demystifying the Dark Web: An Introduction to Tor and Onion Routing – Networks at ITP.” New York University, https://web.archive.org/web/20250811141831/https://itp.nyu.edu/networks/explanations/demystifying-the-dark-web-an-introduction-to-tor-and-onion-routing/.
 
-[^12]: CISA. “Defending Against Malicious Cyber Activity Originating From Tor.” Cybersecurity Infrastructure Security Agency, 2 Aug. 2021, www.cisa.gov/news-events/cybersecurity-advisories/aa20-183a.
+[^12]: CISA. “Defending Against Malicious Cyber Activity Originating From Tor.” Cybersecurity Infrastructure Security Agency, 2 Aug. 2021, https://web.archive.org/web/20250908095402/https://www.cisa.gov/news-events/cybersecurity-advisories/aa20-183a.
 
-[^13]: CIA. “CIA’s Latest Layer: An Onion Site - CIA.” CIA, 7 May 2019, www.cia.gov/stories/story/cias-latest-layer-an-onion-site.
+[^13]: CIA. “CIA’s Latest Layer: An Onion Site - CIA.” CIA, 7 May 2019, https://web.archive.org/web/20210205193613/https://www.cia.gov/stories/story/cias-latest-layer-an-onion-site/.
 
 [^14]: Kuo, Tsung-Ting et al. “Comparison of blockchain platforms: a systematic review and healthcare examples.” Journal of the American Medical Informatics Association : JAMIA vol. 26,5 (2019): 462-478. doi:10.1093/jamia/ocy185
 
 [^15]: Rüth, Jan, et al. “Digging into Browser-Based Crypto Mining.” Proceedings of the Internet Measurement Conference 2018, ACM, 2018, pp. 70–76. Crossref, https://doi.org/10.1145/3278532.3278539.
 
-[^16]: College of Staten Island. “CSI Library: Misinformation and Disinformation: Thinking Critically About Information Sources: Misinformation, Disinformation, and Malinformation.” Misinformation and Disinformation: Thinking Critically About Information Sources, uploaded by College of Staten Island, 25 Aug. 2025, library.csi.cuny.edu/misinformation.
+[^16]: College of Staten Island. “CSI Library: Misinformation and Disinformation: Thinking Critically About Information Sources: Misinformation, Disinformation, and Malinformation.” Misinformation and Disinformation: Thinking Critically About Information Sources, uploaded by College of Staten Island, 25 Aug. 2025, www.library.csi.cuny.edu/misinformation.
 
 [^17]: Ghenai, Amira, and Yelena Mejova. "Catching Fire: Identifying Propaganda on Social Media in the Context of the Russia-Ukraine War." *PLOS ONE*, vol. 17, no. 2, Feb. 2022, p. e0263421. *PubMed Central*, doi:10.1371/journal.pone.0263421. Accessed 22 Sept. 2025.
 
@@ -819,37 +819,37 @@ If you find this useful feel free to donate to this monero address:
 
 [^19]: “Syria’s Civil War Reignites in Dramatic Fashion as Russia Joins Airstrikes on Rebels Who Seized Aleppo.” CBS News, 2 Dec. 2024, www.cbsnews.com/news/syria-war-aleppo-airstrikes-russia-assad-rebels-offensive.
 
-[^20]: FBI. “Leading Member of the International Cyber Criminal Group LulzSec Sentenced in Manhattan Federal Court.” FBI, 27 May 2014, www.fbi.gov/contact-us/field-offices/newyork/news/press-releases/leading-member-of-the-international-cyber-criminal-group-lulzsec-sentenced-in-manhattan-federal-court.
+[^20]: FBI. “Leading Member of the International Cyber Criminal Group LulzSec Sentenced in Manhattan Federal Court.” FBI, 27 May 2014, https://www.fbi.gov/contact-us/field-offices/newyork/news/press-releases/leading-member-of-the-international-cyber-criminal-group-lulzsec-sentenced-in-manhattan-federal-court.
 
-[^21]: Hope Trampski. “Hacktivism: The Short Life of LulzSec.” Purdue University cyberTAP, 5 Dec. 2024, cyber.tap.purdue.edu/blog/articles/hacktivism-the-short-life-of-lulzsec.
+[^21]: Hope Trampski. “Hacktivism: The Short Life of LulzSec.” Purdue University cyberTAP, 5 Dec. 2024, https://web.archive.org/web/20250303215642/https://cyber.tap.purdue.edu/blog/articles/hacktivism-the-short-life-of-lulzsec/.
 
-[^22]: “Harvard Student Charged With Making Hoax Bomb Threat.” United States Department of Justice, 16 Dec. 2014, www.justice.gov/usao-ma/pr/harvard-student-charged-making-hoax-bomb-threat.
+[^22]: “Harvard Student Charged With Making Hoax Bomb Threat.” United States Department of Justice, 16 Dec. 2014, https://web.archive.org/web/20250710222935/https://www.justice.gov/usao-ma/pr/harvard-student-charged-making-hoax-bomb-threat.
 
 [^23]: “Cameroon: Soldiers Get 10 Years for Murder of Civilians.” Human Rights Watch, 28 Oct. 2020, www.hrw.org/news/2020/09/23/cameroon-soldiers-get-10-years-murder-civilians.
 
 [^24]: MPA, Brandon Burley. “OSINT Tools for Investigators to Track Criminal Activity Online.” Lexipol Media Group, 23 Aug. 2025, www.police1.com/investigations/thinking-like-a-criminal-how-osint-can-take-your-investigations-further.
 
-[^25]: Schifferle, L. W. (2016, December 14). *Ashley Madison settles with FTC over data security.* Federal Trade Commission. https://www.ftc.gov/business-guidance/blog/2016/12/ashley-madison-settles-ftc-over-data-security
+[^25]: Schifferle, L. W. (2016, December 14). *Ashley Madison settles with FTC over data security.* Federal Trade Commission. https://web.archive.org/web/20250801210212/https://www.ftc.gov/business-guidance/blog/2016/12/ashley-madison-settles-ftc-over-data-security
 
 [^26]: DIA. “OPEN SOURCE INTELLIGENCE (OSINT).” Defense Intelligence Agency, 23 Oct. 2023, www.dia.mil/About/Open-Source-Intelligence.
 
 [^27]: ODNI and CIA. “ODNI and CIA Release the Intelligence Community OSINT Strategy for 2024-2026.” office of the director of national intelligence, 8 Mar. 2024, www.dni.gov/index.php/newsroom/press-releases/press-releases-2024/3784-odni-and-cia-release-the-intelligence-community-osint-strategy-for-2024-2026.
 
-[^28]: “IC21: The Intelligence Community in the 21st Century.” U.S. Government Publishing Office, www.govinfo.gov/content/pkg/GPO-IC21/html/GPO-IC21-6.html. Accessed 25 Sept. 2025.
+[^28]: “IC21: The Intelligence Community in the 21st Century.” U.S. Government Publishing Office, https://web.archive.org/web/20250118091240/https://www.govinfo.gov/content/pkg/GPO-IC21/html/GPO-IC21-6.html. Accessed 25 Sept. 2025.
 
 [^29]: dni. “JCAT Intelligence Guide for First Responders.” Office of the Director of National Intelligence, www.dni.gov/nctc/jcat/jcat_ctguide/intel_guide.html. Accessed 25 Sept. 2025.
 
-[^30]: Gomzin, Slava. “Telegram May Not Be as Secure as It Claims.” IEEE Spectrum, 14 Oct. 2024, spectrum.ieee.org/telegram-security.
+[^30]: Gomzin, Slava. “Telegram May Not Be as Secure as It Claims.” IEEE Spectrum, 14 Oct. 2024, https://web.archive.org/web/20250905150200/https://spectrum.ieee.org/telegram-security.
 
-[^31]: Signal. “Is It Private? Can I Trust It?” Signal, support.signal.org/hc/en-us/articles/360007320391-Is-it-private-Can-I-trust-it. Accessed 25 Sept. 2025.
+[^31]: Signal. “Is It Private? Can I Trust It?” Signal, www.support.signal.org/hc/en-us/articles/360007320391-Is-it-private-Can-I-trust-it. Accessed 25 Sept. 2025.
 
-[^32]: “SimpleX: Redefining Privacy by Making Hard Choices.” SimpleX, 16 May 2024, simplex.chat/blog/20240516-simplex-redefining-privacy-hard-choices.html.
+[^32]: “SimpleX: Redefining Privacy by Making Hard Choices.” SimpleX, 16 May 2024, www.simplex.chat/blog/20240516-simplex-redefining-privacy-hard-choices.html.
 
-[^33]: CSRC Content Editor. “*Operations Security (OPSEC) - Glossary.* *CSRC.*” Computer Security Resource Center, csrc.nist.gov/glossary/term/operations_security. Accessed 25 Sept. 2025.
+[^33]: CSRC Content Editor. “*Operations Security (OPSEC) - Glossary.* *CSRC.*” Computer Security Resource Center, www.csrc.nist.gov/glossary/term/operations_security. Accessed 25 Sept. 2025.
 
-[^34]: Department Of Labor. “Operations Security (OPSEC).” United States Department Of Labor, www.dol.gov/agencies/oasam/centers-offices/emergency-management-center/operations-security. Accessed 25 Sept. 2025.
+[^34]: Department Of Labor. “Operations Security (OPSEC).” United States Department Of Labor, https://web.archive.org/web/20250516072228/https://www.dol.gov/agencies/oasam/centers-offices/emergency-management-center/operations-security. Accessed 25 Sept. 2025.
 
-[^35]: “Guides: Finding Datasets: Public Data Sources.” University of North Texas Libraries, 22 Jan. 2025, guides.library.unt.edu/datasets/public-data-sources.
+[^35]: “Guides: Finding Datasets: Public Data Sources.” University of North Texas Libraries, 22 Jan. 2025, https://guides.library.unt.edu/datasets/public-data-sources.
 
 [^36]: Law Insider. (2025). *Commercial data definition*. Law Insider Dictionary. Retrieved from https://www.lawinsider.com  
 
@@ -865,35 +865,35 @@ If you find this useful feel free to donate to this monero address:
 
 [^42"]: IMDb. “Christine Weston Chandler.” IMDb, www.imdb.com/name/nm4813395. Accessed 25 Sept. 2025.
 
-[^43]: bugzorc. “suspectAGB.” *opsecfail*, opsecfail.github.io/blog.html?filecase=suspectAGB. Accessed 25 Sept. 2025.
+[^43]: bugzorc. “suspectAGB.” *opsecfail*, www.opsecfail.github.io/blog.html?filecase=suspectAGB. Accessed 25 Sept. 2025.
 
 [^44]: Evans, Jacob. “Alex Smith: Drill Rappers Sentenced to Life Over Street Stabbing.” *BBC*, 12 May 2023, [www.bbc.com/news/uk-england-london-65570367](https://www.bbc.com/news/uk-england-london-65570367).
 
-[^45]: bugzorc. “W0RMER.” opsecfail, opsecfail.github.io/blog.html?filecase=w0rmer. Accessed 25 Sept. 2025.
+[^45]: bugzorc. “W0RMER.” opsecfail, https://opsecfail.github.io/blog.html?filecase=w0rmer. Accessed 25 Sept. 2025.
 
-[^46]: “W0rmer – Darknet Diaries.” darknetdiaries, episode 63, 14 Apr. 2020, darknetdiaries.com/transcript/63.
+[^46]: “W0rmer – Darknet Diaries.” darknetdiaries, episode 63, 14 Apr. 2020, https://darknetdiaries.com/transcript/63.
 
-[^47]: Centre for Information Resilience. “OSINT 101: What Is Open Source Intelligence (OSINT)? - Centre for Information Resilience.” Centre for Information Resilience, 1 Sept. 2023, www.info-res.org/afghan-witness/articles/osint-101-what-is-open-source-intelligence-osint. Accessed 25 Sept. 2025.
+[^47]: Centre for Information Resilience. “OSINT 101: What Is Open Source Intelligence (OSINT)? - Centre for Information Resilience.” Centre for Information Resilience, 1 Sept. 2023, https://info-res.org/afghan-witness/articles/osint-101-what-is-open-source-intelligence-osint. Accessed 25 Sept. 2025.
 
 [^48]: Wild, Johanna. “Introducing Bellingcat’s Collaborative Open Source Toolkit.” Bellingcat, 24 Sept. 2024, www.bellingcat.com/resources/2024/09/24/bellingcat-online-investigations-toolkit.
 
 [^49]: Ibm. “Penetration Testing.” ibm.com, www.ibm.com/think/topics/penetration-testing. Accessed 25 Sept. 2025.
 
-[^50]: Martisiute, Laura. “A Guide to Doxxing Yourself on the Internet - JoinDeleteMe.” joindeleteme, 22 Jan. 2024, joindeleteme.com/doxxing/a-guide-to-doxxing-yourself-on-the-internet.
+[^50]: Martisiute, Laura. “A Guide to Doxxing Yourself on the Internet - JoinDeleteMe.” joindeleteme, 22 Jan. 2024, www.joindeleteme.com/doxxing/a-guide-to-doxxing-yourself-on-the-internet.
 
-[^51]: U.S. Small Business Administration. “Market Research and Competitive Analysis.” U.S. Small Business Administration, www.sba.gov/business-guide/plan-your-business/market-research-competitive-analysis. Accessed 25 Sept. 2025.
+[^51]: U.S. Small Business Administration. “Market Research and Competitive Analysis.” U.S. Small Business Administration, https://web.archive.org/web/20250928084324/https://www.sba.gov/business-guide/plan-your-business/market-research-competitive-analysis archived. Accessed 25 Sept. 2025.
 
-[^52]: FBI. “Behavioral Analysis.” FBI, www.fbi.gov/how-we-investigate/behavioral-analysis. Accessed 25 Sept. 2025.
+[^52]: FBI. “Behavioral Analysis.” FBI, https://web.archive.org/web/20251002110329/https://www.fbi.gov/how-we-investigate/behavioral-analysis archived. Accessed 25 Sept. 2025.
 
 [^53]: Bagdasar, Hannah. “Recognising Sexual and Gender-Based Violence as an Open Source Researcher - Bellingcat.” Bellingcat, 3 Mar. 2023, www.bellingcat.com/resources/2023/03/03/sexual-and-gender-based-violence-open-source-researche-osint-digital.
 
-[^54]: FTC. “What to Know About People Search Sites That Sell Your Information.” FTC, July 2022, consumer.ftc.gov/articles/what-know-about-people-search-sites-sell-your-information.
+[^54]: FTC. “What to Know About People Search Sites That Sell Your Information.” FTC, July 2022, https://web.archive.org/web/20251004225452/https://consumer.ftc.gov/articles/what-know-about-people-search-sites-sell-your-information. archived
 
 [^55]: Bhuiyan, Johana. “Ukraine Uses Facial Recognition Software to Identify Russian Soldiers Killed in Combat.” The Guardian, 24 Mar. 2022, www.theguardian.com/technology/2022/mar/24/ukraine-facial-recognition-identify-russian-soldiers. Internet Archive, https://archive.ph/PGrf0
 
-[^56]: “Hacker Pleads Guilty to Infiltrating AT&T Servers, iPad Data Breach.” FBI, 23 June 2011, archives.fbi.gov/archives/newark/press-releases/2011/hacker-pleads-guilty-to-infiltrating-at-t-servers-ipad-data-breach.
+[^56]: “Hacker Pleads Guilty to Infiltrating AT&T Servers, iPad Data Breach.” FBI, 23 June 2011, https://web.archive.org/web/20250418203907/archives.fbi.gov/archives/newark/press-releases/2011/hacker-pleads-guilty-to-infiltrating-at-t-servers-ipad-data-breach. archived
 
-[^57]: Federal Bureau of Investigation. (2012, March 6). *Six hackers in the United States and abroad charged for crimes affecting over one million victims*. FBI. https://archives.fbi.gov/archives/newyork/press-releases/2012/six-hackers-in-the-united-states-and-abroad-charged-for-crimes-affecting-over-one-million-victims
+[^57]: Federal Bureau of Investigation. (2012, March 6). Six hackers in the United States and abroad charged for crimes affecting over one million victims. FBI. https://web.archive.org/web/20251006042908/https://archives.fbi.gov/archives/newyork/press-releases/2012/six-hackers-in-the-united-states-and-abroad-charged-for-crimes-affecting-over-one-million-victims archived
 
 [^58]: Katz, Basil. “Four Irish, British Suspects Helped Stratfor Hack: U.S.” Reuters, 2 May 2012, www.reuters.com/article/world/us/four-irish-british-suspects-helped-stratfor-hack-us-idUSBRE8411P7.
 
@@ -901,11 +901,11 @@ If you find this useful feel free to donate to this monero address:
 
 [^59]: “Ross William Ulbricht’s Laptop.” FBI, www.fbi.gov/history/artifacts/ross-william-ulbrichts-laptop. Accessed 25 Sept. 2025.
 
-[^60]: Oliyaee, A. (2024, March 31). *Ross Ulbricht’s laptop: The heart of the Silk Road.* *Plasbit.* https://plasbit.com/blog/ross-ulbricht-laptop archived https://web.archive.org/web/20241110235927/https://plasbit.com/blog/ross-ulbricht-laptop
+[^60]: Oliyaee, A. (2024, March 31). *Ross Ulbricht’s laptop: The heart of the Silk Road.* *Plasbit.* https://web.archive.org/web/20241110235927/https://plasbit.com/blog/ross-ulbricht-laptop
 
 [^61]: Reiff, Nathan. “Who Is Ross Ulbricht?” Investopedia, 24 Jan. 2025, www.investopedia.com/tech/ross-ulbricht-dark-net-pirate.
 
-[^62]: Hayes, Christal. “Trump Pardons Silk Road Creator Ross Ulbricht.” BBC, 22 Jan. 2025, www.bbc.com/news/articles/cz7e0jve875o. https://www.justice.gov/pardon/media/1386096/dl?inline pardon from trump
+[^62]: Hayes, Christal. “Trump Pardons Silk Road Creator Ross Ulbricht.” BBC, 22 Jan. 2025, www.bbc.com/news/articles/cz7e0jve875o. https://web.archive.org/web/20250922150728/https://www.justice.gov/pardon/media/1386096/dl?inlinepardon from trump
 
 [^63]: Mullvad. “No-logging of User Activity Policy.” Mullvad, 23 May 2025, mullvad.net/en/help/no-logging-data-policy.
 
@@ -917,7 +917,7 @@ If you find this useful feel free to donate to this monero address:
 
 [^67]: Shin, Nancy. "Scholarly Publishing Explained." *Welch Medical Library*, Johns Hopkins University, Sep 25, 2025. https://browse.welch.jhmi.edu/scholarly_publishing/explanation
 
-[^68]: “North Korean Regime-Backed Programmer Charged With Conspiracy To.” United States Department of Justice, 6 Feb. 2025, www.justice.gov/archives/opa/pr/north-korean-regime-backed-programmer-charged-conspiracy-conduct-multiple-cyber-attacks-and.
+[^68]: “North Korean Regime-Backed Programmer Charged With Conspiracy To.” United States Department of Justice, 6 Feb. 2025, https://web.archive.org/web/20251006082434/https://www.justice.gov/archives/opa/pr/north-korean-regime-backed-programmer-charged-conspiracy-conduct-multiple-cyber-attacks-and.
 
 [^69]: Priya. (2025, September 5). *North Korean hackers shift strategies – Replacing old infrastructure with new assets*. *Cyberpress*. https://cyberpress.org/north-korean-hackers/
 
