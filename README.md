@@ -395,7 +395,6 @@ Three examples of GEOINT tools that you can access right now:
 | :--- | :--- | :--- | :--- | :--- |
 | **Search Engine Queries** | dorksearch | [Link](https://dorksearch.com/) | Advanced Google dorking | Manual query building |
 | | Google-FU | [GitHub](https://github.com/airborne-commando/GoogleFU-improved) | Advanced Google dorking | Rate limits, CAPTCHAs |
-| | gdork | [GitHub](https://github.com/airborne-commando/tapermonkey-collection/tree/main) | Shell script for Google dorking | In development tapermonkey script |
 | | Google Advanced | [Link](https://www.google.com/advanced_search) | Direct Google dorking | No saved searches; [Example](https://www.google.com/search?as_q=OSINT&as_epq=tools&as_sitesearch=github.com) |
 | **Biometric Analysis** | Facecheck.ID | Fork [GitHub](https://github.com/airborne-commando/facecheck.id-results-extractor-mobile) [Main](https://github.com/vin3110/broken-access-control-poc) | Reverse image search bypass | Tampermonkey required; source links only |
 | **Genealogy** | genealogyintime | [genealogyintime](http://www.genealogyintime.com/tools/genealogy-search-engine.html) | A search engine that's specifically made for genealogy, can find obits and is *free** | not HTTPS, need to know what you're looking for. |
