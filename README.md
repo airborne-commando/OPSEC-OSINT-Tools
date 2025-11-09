@@ -59,7 +59,7 @@ after cloning.
 
 People trust the internet too much. In today’s world, online and offline are practically the same—truth and fiction blur. This README exists to raise awareness. Clone it, fork it, remix it, or even turn it into a [Rentry](https://rentry.co/) page. Spread the knowledge however you like.
 
-Also this guide can help prevent issues such as doxing. The obvious way is to follow [Key-Takeaways](#Key-Takeaways) and use [people search tools](#people-search-tools-in-the-states) with a self audit to reduce the amount of info you have on yourself publicly[^66][^50].
+Also this guide can help prevent issues such as doxing. The obvious way is to follow [Key-Takeaways](#Key-Takeaways) and use [people search tools](#people-search-tools-in-the-states) with a self audit to reduce the amount of info you have on yourself publicly[^66] [^50].
 
 Can you predict someone’s behavior with this? not exactly; people are unpredictable at times.
 
@@ -89,14 +89,14 @@ If you want some quick methodology I suggest you read this [markdown](./markdown
 Ross was pardoned[^62] in 2025 by the trump administration.
 
 - **LulzSec Hacking Group**
-    - Members exposed themselves by discussing ops in public IRC[^56][^58][^21][^20], revealing personal info, using stolen cards[^57] to home addresses, and trusting informants.<br>
+    - Members exposed themselves by discussing ops in public IRC[^56] [^58] [^21] [^20], revealing personal info, using stolen cards[^57] to home addresses, and trusting informants.<br>
 
 >"Spitler admitted to communicating during the data breach with his co-defendant, Andrew Auernheimer, 25, who was arrested January 18, 2011, in Fayetteville, Ark., while appearing in state court on unrelated drug charges. The two wrote each other during the breach using Internet Relay Chat, an Internet instant messaging program. Those chats included discussions between Spitler, Auernheimer, and other Goatse Security members about the best way to take advantage of the breach and associated theft" <br>(Federal Bureau of Investigation, 2012).[^57]
 
 - **General Bad OPSEC Practices**
     - Poor compartmentalization, leaking sensitive info, predictable naming, traceable work hours, and unsecured servers.
 - **Mullvad VPN: Security Contrast**[^2] [^3]
-    - Features: anonymous accounts, strong encryption, no-logs, lockdown mode, DNS blockers, open-source, accepts Monero/cash and is independently audited[^64][^65][^63].
+    - Features: anonymous accounts, strong encryption, no-logs, lockdown mode, DNS blockers, open-source, accepts Monero/cash and is independently audited[^64] [^65] [^63].
     - **Caution:** No tool is foolproof; human error remains the weakest link.
 
 
@@ -208,9 +208,9 @@ OPSEC supplements other security disciplines rather than replacing them.
 
 ### **Key Takeaways**
 1. **Messaging**:  
-   - **Signal** OR **Simplex** > **Telegram** for privacy.[^30][^31][^32]
+   - **Signal** OR **Simplex** > **Telegram** for privacy.[^30] [^31] [^32]
 
-   - Remember: E2E ≠ total anonymity (metadata leaks/habits matter)[^45][^46][^8][^43].
+   - Remember: E2E ≠ total anonymity (metadata leaks/habits matter)[^45] [^46] [^8] [^43].
 
 
 2. **Anonymity**:  
@@ -234,7 +234,7 @@ By TOR I mean Tor Browser, VPN as in Virtual Private Network, and by Virtual Pri
 
 Check Wikipedia or the sources cited If you're confused on all of these here:
 1. VPN service[^9][^10], what we're gonna use here.
-2. TOR, What should be used separately.[^12][^11][^13]
+2. TOR, What should be used separately.[^12] [^11] [^13]
 3. XMR, for VPN's that take XMR as payment.[^14]
 
 ---
@@ -348,7 +348,7 @@ These operators are not used unless you include them in your query—Google’s 
 
 ## In the year 2016, a basket weaving image board used OSINT to pay some supposed terrorist a visit from a govt in Russia resulting in airstrikes.
 
->"In 2016, amid the Syrian Civil War, rebel groups tried to overthrow President Assad, leading to foreign involvement from the U.S. and Russia. On 4chan, users identified a rebel camp from a Jaysh al-Izza video and relayed its coordinates to Russian contacts, resulting in airstrikes after the camp was located twice (Pezle, 2022)."[^8][^7]
+>"In 2016, amid the Syrian Civil War, rebel groups tried to overthrow President Assad, leading to foreign involvement from the U.S. and Russia. On 4chan, users identified a rebel camp from a Jaysh al-Izza video and relayed its coordinates to Russian contacts, resulting in airstrikes after the camp was located twice (Pezle, 2022)."[^8] [^7]
 
 UPDATE: Turns out it was a really complex war[^19] the 4chan got involved in, still keeping this up as a key example however; the main issue is that they exposed their training locations with geographic locations to the internet like complete morons.
 Thus bad opsec.
