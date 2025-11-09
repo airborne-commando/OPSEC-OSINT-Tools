@@ -537,9 +537,9 @@ Pipeline discussed [here](./markdown/opsec.md#opsec-pipeline-for-secure-files)
 
 ## Grey literature
 
-Use this site; [do not register](https://vote.gov/register), check a voter registration. Will probably need more info in some states; while others need less.
+To keep it short, again govt data!
 
-An automatic tool that I've made for [pa voter services](https://github.com/airborne-commando/voter-reg-status). Feel free to fork for other states.
+Use [these tools listed](https://github.com/airborne-commando/tapermonkey-collection/tree/main)
 
 ## Breached Data:
 ---
@@ -811,7 +811,7 @@ If you find this useful feel free to donate to this monero address:
 
 [^15]: Rüth, Jan, et al. “Digging into Browser-Based Crypto Mining.” Proceedings of the Internet Measurement Conference 2018, ACM, 2018, pp. 70–76. Crossref, https://doi.org/10.1145/3278532.3278539.
 
-[^16]: College of Staten Island. “CSI Library: Misinformation and Disinformation: Thinking Critically About Information Sources: Misinformation, Disinformation, and Malinformation.” Misinformation and Disinformation: Thinking Critically About Information Sources, uploaded by College of Staten Island, 25 Aug. 2025, www.library.csi.cuny.edu/misinformation.
+[^16]: College of Staten Island Library. (2025, August 26). *Misinformation and disinformation: Thinking critically about information sources.* https://library.csi.cuny.edu/misinformation
 
 [^17]: Ghenai, Amira, and Yelena Mejova. "Catching Fire: Identifying Propaganda on Social Media in the Context of the Russia-Ukraine War." *PLOS ONE*, vol. 17, no. 2, Feb. 2022, p. e0263421. *PubMed Central*, doi:10.1371/journal.pone.0263421. Accessed 22 Sept. 2025.
 
