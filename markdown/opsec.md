@@ -210,7 +210,7 @@ For LUKS, the user needs to enter the password typically in order to mount said 
 
 ### Types
 
-* **Server**: It is designed to operate on machines made of bare metal (The Linux Foundation).[^6][^5]
+* **Server**: It is designed to operate on machines made of bare metal (The Linux Foundation).[^6] [^5]
 * **Desktop**: Centralized desktops delivered to users, think amazon web service.[^7]
     - Can also be local use like virt-manager/KVM **Hypervisors**.
       

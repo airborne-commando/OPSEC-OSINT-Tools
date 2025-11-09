@@ -51,7 +51,7 @@ See also [HUMINT](./HUMINT.md) as you'll need to collect methods and interperson
 
 > "Although most biographies are about well-known individuals, everyone has biographical information about their own lives" (Vocabulary.com, n.d.).[^8].
 
-Start by building a **digital biography**[^3][^4][^7] of the subject:
+Start by building a **digital biography**[^3] [^4] [^7] of the subject:
 
 - Gather identifiers (usernames, email addresses, phone numbers).
 - Track websites visited, forum posts, social media profiles, and public comments.

@@ -377,10 +377,10 @@ See also **[CSINT](./markdown/CSINT.md)**
 
 # IMINT
 
-[IMINT](./markdown/IMINT.md)(Image Intelligence) involves collecting and analyzing visual imagery—satellite, aerial, drone, or ground photos—to extract useful information.[^1][^28]
+[IMINT](./markdown/IMINT.md)(Image Intelligence) involves collecting and analyzing visual imagery—satellite, aerial, drone, or ground photos—to extract useful information.[^1] [^28]
 Contains information such as [SOCMINT](./markdown/IMINT.md#socmint-social-intelligence) and [Reverse Search](./markdown/IMINT.md#reverse-search-google).
 
-GEOINT[^1][^28] is information on geographic locations. Geospatial data may also be called GEOINT data. It's to understand human activity or events and to layer that with data along with geolocations and timing. It has non-military uses as well, example would be for first responders issuing an emergency for a wildfire[^29].
+GEOINT[^1] [^28] is information on geographic locations. Geospatial data may also be called GEOINT data. It's to understand human activity or events and to layer that with data along with geolocations and timing. It has non-military uses as well, example would be for first responders issuing an emergency for a wildfire[^29].
 
 Three examples of GEOINT tools that you can access right now:
 - [Earth](https://earth.google.com/web/)
