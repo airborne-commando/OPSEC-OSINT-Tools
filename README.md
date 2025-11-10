@@ -86,7 +86,7 @@ If you want some quick methodology I suggest you read this [markdown](./markdown
 
 >"In 2015, Ulbricht was sentenced to life in prison but was pardoned in 2025" (Reiff, 2025, para. 3).[^61]
 
-Ross was pardoned[^62] in 2025 by the trump administration.
+Ross was pardoned[^62] [^71] in 2025 by the trump administration.
 
 - **LulzSec Hacking Group**
     - Members exposed themselves by discussing ops in public IRC[^56] [^58] [^21] [^20], revealing personal info, using stolen cards[^57] to home addresses, and trusting informants.<br>
@@ -909,7 +909,7 @@ If you find this useful feel free to donate to this monero address:
 
 [^61]: Reiff, Nathan. “Who Is Ross Ulbricht?” Investopedia, 24 Jan. 2025, www.investopedia.com/tech/ross-ulbricht-dark-net-pirate.
 
-[^62]: Hayes, Christal. “Trump Pardons Silk Road Creator Ross Ulbricht.” BBC, 22 Jan. 2025, www.bbc.com/news/articles/cz7e0jve875o. https://web.archive.org/web/20250124015136/https://www.justice.gov/pardon/media/1386096/dl pardon from trump
+[^62]: Hayes, Christal. “Trump Pardons Silk Road Creator Ross Ulbricht.” BBC, 22 Jan. 2025, www.bbc.com/news/articles/cz7e0jve875o.
 
 [^63]: Mullvad. “No-logging of User Activity Policy.” Mullvad, 23 May 2025, mullvad.net/en/help/no-logging-data-policy.
 
@@ -926,3 +926,5 @@ If you find this useful feel free to donate to this monero address:
 [^69]: Priya. (2025, September 5). *North Korean hackers shift strategies – Replacing old infrastructure with new assets*. *Cyberpress*. https://cyberpress.org/north-korean-hackers/
 
 [^70]: Russell, D. (n.d.). More about Daniel. Google Sites. https://sites.google.com/site/dmrussell/more-about-dan
+
+[^71]: Department of Justice. (2025, January 21). Ross William Ulbricht: A full and unconditional pardon. https://web.archive.org/web/20250124015136/https://www.justice.gov/pardon/media/1386096/dl
