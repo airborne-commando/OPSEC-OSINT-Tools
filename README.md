@@ -909,7 +909,7 @@ If you find this useful feel free to donate to this monero address:
 
 [^61]: Reiff, Nathan. “Who Is Ross Ulbricht?” Investopedia, 24 Jan. 2025, www.investopedia.com/tech/ross-ulbricht-dark-net-pirate.
 
-[^62]: Hayes, Christal. “Trump Pardons Silk Road Creator Ross Ulbricht.” BBC, 22 Jan. 2025, www.bbc.com/news/articles/cz7e0jve875o. https://web.archive.org/web/20250922150728/https://www.justice.gov/pardon/media/1386096/dl?inlinepardon from trump
+[^62]: Hayes, Christal. “Trump Pardons Silk Road Creator Ross Ulbricht.” BBC, 22 Jan. 2025, www.bbc.com/news/articles/cz7e0jve875o. https://web.archive.org/web/20250124015136/https://www.justice.gov/pardon/media/1386096/dl pardon from trump
 
 [^63]: Mullvad. “No-logging of User Activity Policy.” Mullvad, 23 May 2025, mullvad.net/en/help/no-logging-data-policy.
 
