@@ -2,7 +2,9 @@
 <img width="auto" height="auto" alt="OSINT" src="./img/png/OSINT.png" />
 </p>
 
-## Table of Contents
+----
+
+# Table of Contents
 
 
 1. [disclaimer](#disclaimer)
@@ -37,7 +39,7 @@
 16. [Social Media](#social-media)
 17. [Self OSINT](#toolchain-self-osint)
 18. [Curated lists](#curated-lists)
-19. [References](#References)
+19. [References](#references)
 
 ## ***DISCLAIMER***
 
@@ -246,7 +248,7 @@ For full tool details, see the **[OPSEC Tools List](./markdown/opsec.md)**.
 
 ## disinformation
 
-Disinformation[^16][^17] in the context of OSINT (Open Source Intelligence) refers to deliberate actions taken to obscure, mislead, or mask the true activities, intentions, or identities of individuals or organizations from those conducting open-source intelligence gathering. [here](./markdown/disinformation.md).
+[Disinformation](./markdown/disinformation.md)[^16][^17] in the context of OSINT (Open Source Intelligence) refers to deliberate actions taken to obscure, mislead, or mask the true activities, intentions, or identities of individuals or organizations from those conducting open-source intelligence gathering.
 
 ## Open Source Intelligence (OSINT)
 
