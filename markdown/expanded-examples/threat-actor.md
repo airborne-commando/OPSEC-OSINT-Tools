@@ -26,7 +26,7 @@ Think like Chris Chan but less autistic[^3] and gross[^4]. Much like Chris Chan 
 Ok so now what? what can s/he gather? let's refer to this graph.
 
 <p align="center">
-<img src="../../img/svg/data-collection-pipeline.svg" alt="OSINT Framework" width="auto" height="auto" />
+<img src="../../img/svg/data-collection-pipeline.svg" alt="OSINT Framework" width="1000" height="1000" />
 </p>
 
 The threat actor had started with Planning and Collection, as stated in the The Intelligence Cycle:
