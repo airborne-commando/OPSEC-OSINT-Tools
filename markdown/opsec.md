@@ -15,7 +15,8 @@ A comprehensive guide to operational security tools and techniques.
 - [Cryptocurrency](#cryptocurrency)
 - [Data Destruction](#data-destruction)
 - [Miscellaneous](#miscellaneous)
-- [References](#References)
+- [References](#references)
+- [Further reading](#further-reading)
 - back to [main guide](../README.md)
 
 ---
@@ -379,6 +380,10 @@ After that is done, I delete the convo for both but keep private notes for both 
 
 For SSD's I'd recommend using LUK's or a container as securely erasing in traditional means is basically useless if you want to format the entire drive.[^1]
 
+You may also just send things to RAM and do a shutdown:
+
+"Tmpfs is a file system which keeps all files in virtual memory. Everything in tmpfs is temporary in the sense that no files will be created on your hard drive. If you unmount a tmpfs instance, everything stored therein is lost" ("Tmpfs is a file system," 2001).[^11]
+
 ---
 
 
@@ -386,6 +391,10 @@ For SSD's I'd recommend using LUK's or a container as securely erasing in tradit
 And again [You Didn't Have to Post That](https://www.youtube.com/watch?v=AkQaL9SU2BY).
 
 ---
+
+## Further reading:
+
+* [System Manager's Manual - mount_tmpfs](http://obsdman.cs.toronto.edu/mount_tmpfs.8)
 
 ## References:
 
@@ -408,3 +417,5 @@ And again [You Didn't Have to Post That](https://www.youtube.com/watch?v=AkQaL9S
 [^9]: The Sacramento Bee. (2025, May 7). *Lodi man arrested in federal child pornography case, Solano suspect accused of trafficking teen*. The Sacramento Bee. https://www.sacbee.com/news/local/crime/article305942121.html 
 
 [^10]: The Tails Project. (n.d.). *Virtualization*. Tails. Retrieved October 4, 2025, from https://tails.net/doc/advanced_topics/virtualization/index.en.html
+
+[^11]: Rohland, C. (Original work published 2001, December 01). Tmpfs - a file system which keeps all files in virtual memory. Updated by Dickins, H., & Kosaki, M. (2010). Retrieved November 10, 2025, from https://research.cs.wisc.edu/adsl/Software/tratr/.scripts/tratr/Documentation/filesystems/tmpfs.txt
