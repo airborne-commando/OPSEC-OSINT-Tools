@@ -15,8 +15,8 @@ A comprehensive guide to operational security tools and techniques.
 - [Cryptocurrency](#cryptocurrency)
 - [Data Destruction](#data-destruction)
 - [Miscellaneous](#miscellaneous)
-- [References](#references)
 - [Further reading](#further-reading)
+- [References](#references)
 - back to [main guide](../README.md)
 
 ---
@@ -380,7 +380,7 @@ After that is done, I delete the convo for both but keep private notes for both 
 
 For SSD's I'd recommend using LUK's or a container as securely erasing in traditional means is basically useless if you want to format the entire drive.[^1]
 
-You may also just send things to RAM and do a shutdown:
+You may also just send things to RAM with tmpfs and do a shutdown as it lets normal users write into it:
 
 "Tmpfs is a file system which keeps all files in virtual memory. Everything in tmpfs is temporary in the sense that no files will be created on your hard drive. If you unmount a tmpfs instance, everything stored therein is lost" ("Tmpfs is a file system," 2001).[^11]
 
@@ -395,6 +395,8 @@ And again [You Didn't Have to Post That](https://www.youtube.com/watch?v=AkQaL9S
 ## Further reading:
 
 * [System Manager's Manual - mount_tmpfs](http://obsdman.cs.toronto.edu/mount_tmpfs.8)
+* [The Linux Kernel Archives - tmpfs](https://www.kernel.org/doc/html/latest/filesystems/tmpfs.html)
+* [The Linux Kernel Archives - ramfs and tmpfs](https://www.kernel.org/doc/html/latest/filesystems/ramfs-rootfs-initramfs.html#ramfs-and-tmpfs)
 
 ## References:
 
