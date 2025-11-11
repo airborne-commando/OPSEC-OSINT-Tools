@@ -291,10 +291,10 @@ Personal use cases, such as videogames to isolation of a user environment.
 ---
 
 ## Data Destruction
-- [DBAN](https://dban.org/) - HDD wiping; VM. Not good for SSD's see below.
-- [Arch Linux Wipe Guide](https://wiki.archlinux.org/title/Securely_wipe_disk)
-- [NVMe/SSD/HDD Nuke Script](https://gist.github.com/airborne-commando/6a690bd0644a9f1d76bc8c585d9ee969)
-- [physical destruction](physical-destruction.md)
+- [DBAN](https://dban.org/) - HDD wiping; VM. Not good for SSD's
+- [Arch Linux Wipe Guide](https://wiki.archlinux.org/title/Securely_wipe_disk) Shows how to effectively wipe an SSD.
+- [NVMe/SSD/HDD Nuke Script](https://gist.github.com/airborne-commando/6a690bd0644a9f1d76bc8c585d9ee969) may brick your drives, trust me.
+- [physical destruction](physical-destruction.md) last ditch effort, may be costly.
 
 ---
 
