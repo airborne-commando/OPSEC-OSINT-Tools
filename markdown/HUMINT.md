@@ -16,6 +16,9 @@
 
 > "HUMINT tasks include conducting source operations, engaging with host nation officials and allies, debriefing U.S. and foreign personnel, questioning detainees, and exploiting documents and media. Potential sources can range from detainees, refugees, and local residents to friendly forces and members of governmental or non-governmental organizations. Essentially, a HUMINT source is anyone who possesses first- or second-hand information"(Department of the Army, 2006, p. 4).[^6]
 
+>"Despite the widespread demonization of mass social engineering by the 1970s, the concept of social engineering itself persisted during that period.
+ A new, more individualized kind of social engineering surfaced while Americans were protesting the notion that elite technocrats sought to manipulate public opinion on a large scale.  It will be most closely linked to phone phreak and computer hacker cultures." (Gehl & Lawson, 2022, p. 50)
+
 ## What is HUMINT?
 
 HUMINT involves collecting information through direct contact with individuals. It can be:
@@ -164,3 +167,5 @@ As the CIA notes
 [^9]: “Intelligence Operations Explained.” ECU Online, 30 Aug. 2024, onlineprograms.ecu.edu/blog/intelligence-operations.
 
 [^10]: HUMINT-Human Intelligence Research Papers - Academia.edu. 1 Jan. 2025, www.academia.edu/Documents/in/HUMINT-Human_Intelligence.
+
+[^11]: Gehl, R. W., & Lawson, S. T. (2022). Social engineering: How crowdmasters, phreaks, hackers, and trolls created a new form of manipulation. The MIT Press.
