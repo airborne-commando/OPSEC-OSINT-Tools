@@ -120,7 +120,7 @@ The actor correlated all the intelligence—OSINT, SOCMINT (Social Media Intelli
 
 Explanation on political leanings:
 
-The political leanings were all figured out with this script named [voter reg status](https://github.com/airborne-commando/voter-reg-status), all it does it guess the DOB of someone if you have enough info (such as zip and county)
+The political leanings were all figured out with this script named [voter reg status](https://github.com/airborne-commando/tampermonkey-collection/tree/main#voter-reg-status-tapermonkey-edition) (now tampermonkey), all it does it guess the DOB of someone if you have enough info (such as zip and county)
 
 #### **Conclusion (Phases 8 & 9)**
 The threat actor Used Phase 8 (a counter-OSINT audit, which is a defensive step) and used an alias and burner email address on a fetish site that the target was on for HUMINT (earlier step), and also went to **Phase 9**.
