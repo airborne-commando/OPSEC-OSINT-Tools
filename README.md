@@ -398,14 +398,14 @@ Three examples of GEOINT tools that you can access right now:
 | **Search Engine Queries** | dorksearch | [Link](https://dorksearch.com/) | Advanced Google dorking | Manual query building |
 | | Google-FU | [GitHub](https://github.com/airborne-commando/GoogleFU-improved) | Advanced Google dorking | Rate limits, CAPTCHAs |
 | | Google Advanced | [Link](https://www.google.com/advanced_search) | Direct Google dorking | No saved searches; [Example](https://www.google.com/search?as_q=OSINT&as_epq=tools&as_sitesearch=github.com) |
-| **Biometric Analysis** | Facecheck.ID | Fork [GitHub](https://github.com/airborne-commando/facecheck.id-results-extractor-mobile) [Main](https://github.com/vin3110/broken-access-control-poc) | Reverse image search bypass | Tampermonkey required; source links only |
+| **Biometric Analysis** | Facecheck.ID | [Forked Repo](https://github.com/airborne-commando/facecheck.id-results-extractor-mobile) [Main Repo](https://github.com/vin3110/broken-access-control-poc) | Reverse image search bypass | Tampermonkey required; source links only |
 | **Genealogy** | genealogyintime | [genealogyintime](http://www.genealogyintime.com/tools/genealogy-search-engine.html) | A search engine that's specifically made for genealogy, can find obits and is *free** | not HTTPS, need to know what you're looking for. |
 | | findagrave | [findagrave](https://www.findagrave.com/) | A grave searching site | have to know the name of the person, city; also *may* not be listed. |
 | **Jobs** | Resume Indeed | [Link](https://resumes.indeed.com/) | Resume search | Expensive subscription |
 | | LinkedIn | [Link](https://LinkedIn.com/) | Company/person info | Verification often needed |
 | **Financial** | Paypal | [Link](https://www.paypal.com/us/home) | Person confirmation via email/phone | Account required |
 | **Username/Email Search** | Blackbird | [GitHub](https://github.com/p1ngul1n0/blackbird) | Cross-platform username/email lookup | CLI only |
-| | Crow (GUI) | [GitHub](https://github.com/airborne-commando/crow) | GUI for Blackbird | Same as CLI |
+| | Crow (GUI) | [GitHub](https://github.com/airborne-commando/crow) | GUI for Blackbird, comes with IP spoofing (TOR) | Same as CLI. |
 | | Sherlock | [GitHub](https://github.com/sherlock-project/sherlock) | Username search (300+ sites) | CLI; false positives |
 | | No-Shit-Sherlock | [GitHub](https://github.com/airborne-commando/no-shit-sherlock) | GUI for Sherlock | Inherits limitations |
 | | Maigret | [GitHub](https://github.com/soxoj/maigret) | Username connections | Sherlock fork |
@@ -424,7 +424,8 @@ Three examples of GEOINT tools that you can access right now:
 | | link extractor and archive | [GitHub](https://github.com/airborne-commando/link-extractor-and-archive) | Archive.ph tool | CLI; basic pages; manual edits |
 | [Tampermonkey Scripts](https://github.com/airborne-commando/tampermonkey-collection/tree/main) | voter reg status |  | PA voter info export | CSV output; Tampermonkey |
 | | Universal Background Check |  | Exports from PeopleSearch/Voter data (light) | Tampermonkey script, not accurate for mm-dd. it is with year on DOB for votes. |
-| | Breach.vip search and reddit analyzer |  | search known breached databases check wayback machine API for twitter usernames, analyze Reddit usernames | Still in development, trying to figure out the kinks.
+| | Breach.vip search and reddit analyzer |  | search known breached databases check wayback machine API for twitter usernames, analyze Reddit usernames | Still in development, trying to figure out the kinks. |
+| | **Note** | You may check for any of these scripts inside the link above, as more will be added or updated possibly without warning. | | |
 | **Extensions** | Wayback machine | [FF](https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new/) [Chrome](https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak) | Wayback search; deleted tweets | Archived content only |
 | | Archive Page | [FF](https://addons.mozilla.org/en-US/firefox/addon/archive-page/) [Chrome](https://chromewebstore.google.com/detail/archive-page/gcaimhkfmliahedmeklebabdgagipbia) | Archive.today search | Page must be archived |
 | | Xcancel | [FF](https://addons.mozilla.org/en-US/firefox/addon/toxcancel/) [Chrome](https://chromewebstore.google.com/detail/xcancelcom-redirector) | Privacy Twitter front-end | Conflicts possible |
