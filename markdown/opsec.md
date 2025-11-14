@@ -15,7 +15,7 @@ A comprehensive guide to operational security tools and techniques.
 - [Cryptocurrency](#cryptocurrency)
 - [Data Destruction](#data-destruction)
 - [Miscellaneous](#miscellaneous)
-- [Further reading](#further-reading)
+- [External Links](#external-links)
 - [References](#references)
 - back to [main guide](../README.md)
 
@@ -392,11 +392,10 @@ And again [You Didn't Have to Post That](https://www.youtube.com/watch?v=AkQaL9S
 
 ---
 
-## Further reading:
+## External Links:
 
-* [System Manager's Manual - mount_tmpfs](http://obsdman.cs.toronto.edu/mount_tmpfs.8)
-* [The Linux Kernel Archives - tmpfs](https://www.kernel.org/doc/html/latest/filesystems/tmpfs.html)
-* [The Linux Kernel Archives - ramfs and tmpfs](https://www.kernel.org/doc/html/latest/filesystems/ramfs-rootfs-initramfs.html#ramfs-and-tmpfs)
+* [The Linux Kernel Archives - tmpfs (August 23, 2024)](https://www.kernel.org/doc/html/latest/filesystems/tmpfs.html)
+* [Ramfs, rootfs and initramfs — Linux Kernel documentation (October 17, 2005)](https://www.kernel.org/doc/html/latest/filesystems/ramfs-rootfs-initramfs.html#ramfs-rootfs-and-initramfs)
 
 ## References:
 
