@@ -291,12 +291,6 @@ A Parcel search for [tax history](https://public.eriecountypa.gov/property-tax-r
 
 An official [Justice site](https://www.justice.gov/jmd/ls/state) listing all states and their local judicial. Case search should be in state judiciary, also for other information such as tax records and property records.
 
-- According to Johns Hopkins University it is. 
-    
-
->“A subfield of publishing which distributes academic research and scholarship” (Shin, 2025)[^67].
-
-
 - Commercial data:
 
 >"Commercial Data means any and all data and information relating to an identified or identifiable Person (whether the information is accurate or not), alone or in combination with other information, which Person is or was an actual or prospective customer of, or consumer of products offered by, the VS Business or L Brands Business, as applicable. Commercial Data means any and all data collected or otherwise processed by the Seller Entities relating to a customer of the Business" (Law Insider, 2025).[^36]
@@ -304,6 +298,17 @@ An official [Justice site](https://www.justice.gov/jmd/ls/state) listing all sta
 - Grey literature:
 
 >"Grey literature, as defined by the Welch Medical Library, is "information produced on all levels of government, academics, business and industry in electronic and print formats not controlled by commercial publishing i.e. where publishing is not the primary activity of the producing body" <br>(Joseph, 2025, paras. 1–2)"[^37].
+
+- In academics, the definition for Scholarly Publishing would be the following in accordance to Johns Hopkins University:
+
+>“A subfield of publishing which distributes academic research and scholarship” (Shin, 2025)[^67].
+
+Which can also encompass these three things:
+* Grey literature 
+* Self-Publication
+* Scholarly Publishing
+
+Scholarly Publishing is done at a rigorous peer review process.
 
 - genealogical OSINT:
 
@@ -313,6 +318,8 @@ An official [Justice site](https://www.justice.gov/jmd/ls/state) listing all sta
 >"Genealogical research is the tracing of an individual's ancestral history using historical records, both official and unofficial" (University of Maryland Libraries, n.d., para. 1).[^39]
 
 >"Genealogy is the study of families and their ancestors and histories" <br>(Virginia Tech University Libraries, n.d., para. 1).[^38]
+
+Genealogy is the study of a family member, or the study of someones family tree or genealogical background. Not to be confused with forensics and DNA.
 
 - Google Dorks:
 
@@ -343,7 +350,7 @@ An official [Justice site](https://www.justice.gov/jmd/ls/state) listing all sta
 - Google treats multiple words as if connected by AND, so results must contain all terms unless you specify otherwise.
 - Quotation marks, site:, and filetype: are among the most commonly used explicit operators for more targeted searches.
 
-These operators are not used unless you include them in your query—Google’s default is simply to return results matching all your search terms, ranked by relevance.
+These operators are not used unless you include them in your query. Google’s default is simply to return results matching all your search terms, ranked by relevance.
 
 
 ### Real world examples of OSINT
@@ -783,6 +790,9 @@ If you find this useful feel free to donate to this monero address:
 <code>8BPdcsLtA5iWLNTWvYzUVyTWtQkM62e8r7xqAuwjXTSC4RcoSWqpmtyLsMYvz3QNZtT1rbgPUnmVpMAudhxTn6zkRxUFcZN</code>
 </p>
 
+## External links:
+
+[Academic publishing overview - Copyright (updated Jun 24, 2025)](https://guides.library.cmu.edu/c.php?g=1161877&p=9949658)
 
 ## References:
 
