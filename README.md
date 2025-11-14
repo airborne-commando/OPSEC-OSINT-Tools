@@ -425,7 +425,7 @@ Three examples of GEOINT tools that you can access right now:
 | [Tampermonkey Scripts](https://github.com/airborne-commando/tampermonkey-collection/tree/main) | voter reg status |  | PA voter info export | CSV output; Tampermonkey |
 | | Universal Background Check |  | Exports from PeopleSearch/Voter data (light) | Tampermonkey script, not accurate for mm-dd. it is with year on DOB for votes. |
 | | Breach.vip search and reddit analyzer |  | search known breached databases check wayback machine API for twitter usernames, analyze Reddit usernames | Still in development, trying to figure out the kinks. |
-| | **Note** | You may check for any of these scripts inside the link above, as more will be added or updated possibly without warning. | | |
+| **Note** | | You may check for any of these scripts inside the link above, as more will be added or updated possibly without warning. | | |
 | **Extensions** | Wayback machine | [FF](https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new/) [Chrome](https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak) | Wayback search; deleted tweets | Archived content only |
 | | Archive Page | [FF](https://addons.mozilla.org/en-US/firefox/addon/archive-page/) [Chrome](https://chromewebstore.google.com/detail/archive-page/gcaimhkfmliahedmeklebabdgagipbia) | Archive.today search | Page must be archived |
 | | Xcancel | [FF](https://addons.mozilla.org/en-US/firefox/addon/toxcancel/) [Chrome](https://chromewebstore.google.com/detail/xcancelcom-redirector) | Privacy Twitter front-end | Conflicts possible |
