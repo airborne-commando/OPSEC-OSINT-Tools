@@ -1,7 +1,7 @@
 ## Table of Contents
-- [Closed-Source Intelligence](#Closed-Source-Intelligence-(CSINT))
-- [In historical context for CSINT](#In-historical-context-for-CSINT)
-- [References](#References)
+- [Closed-Source Intelligence](#closed-Source-Intelligence-(CSINT))
+- [In historical context for CSINT](#in-historical-context-for-CSINT)
+- [References](#references)
 - back to [main guide](../README.md)
   
 ## Closed-Source Intelligence (CSINT)

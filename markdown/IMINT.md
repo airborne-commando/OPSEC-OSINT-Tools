@@ -13,8 +13,7 @@
    * [Extra Tips](#extra-tips)  
 
 
-3 [GEOINT (Geographical Intelligence)](#GEOINT)
-   * [What is GEOINT]()
+3 [GEOINT (Geographical Intelligence)](#geoint-geographical-intelligence)
 
 4. [IMINT (Imagery Intelligence)](#imint-imagery-intelligence)  
    * [Definition](#definition)  
@@ -80,15 +79,11 @@ Reverse image search tools like **Google Image Search** and **Google Lens** enab
 
 ---
 
-
-
-# GEOINT
+# GEOINT (Geographical Intelligence)
 
 What is GEOINT?[^odni]
 
 Geospatial Intelligence is the analysis and visual representation of security related activities on the earth. It is produced through an integration of imagery, imagery intelligence, and geospatial information.
-
-
 
 # IMINT (Imagery Intelligence)
 

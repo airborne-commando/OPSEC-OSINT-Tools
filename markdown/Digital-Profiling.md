@@ -13,7 +13,7 @@
 - [Summary Table: Digital Profiling Process](#summary-table-digital-profiling-process)
 - [Applying psyops operations](#applying-psyops)
 - [Best Way to Fight Against OSINT Profiling](#best-way-to-fight-against-osint-profiling)
-- [References](#References)
+- [References](#references)
 - back to [main guide](../README.md)
 
 # Digital Profiling pipeline

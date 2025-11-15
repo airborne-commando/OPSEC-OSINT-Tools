@@ -121,7 +121,7 @@ Tor Also faced Vulnerabilities:
 ---
 
 - [ISO image](https://tails.net/install/download-iso/index.en.html)
-  - In conjunction you'll need to try one of these [Virtualization](#virtualization)
+  - In conjunction you'll need to try one of these under [Virtualization](#virtualization)
 
 Boot inside your favorite VM/Hypervisor and you should be good to go!
 

@@ -4,10 +4,10 @@
 - [What is HUMINT?](#what-is-humint)
 - [Everyday Examples of HUMINT](#everyday-examples-of-humint)
 - [Civilian Examples](#civilian-examples)
-- [Detailed examples](#Detailed-examples)
+- [Detailed examples](#detailed-examples)
 - [RUMINT vs HUMINT](#rumint-vs-humint)
 - [Summary Table](#summary-table)
-- [References](#References)
+- [References](#references)
 - back to [main guide](../README.md)
 
 # HUMINT Overview
@@ -119,7 +119,7 @@ HUMINT isn't limited to espionage—it appears in many civilian and professional
 
 | Pros                                | Cons                                            |
 | ----------------------------------- | ----------------------------------------------- |
-| Early warnings and hidden leads     | [Unverified and easily manipulated](disinformation.md)               |
+| Early warnings and hidden leads     | [Unverified and easily manipulated](disinformation.md)       |
 | Gauges public sentiment             | May waste resources or damage credibility       |
 
 ### HUMINT (Human Intelligence)
