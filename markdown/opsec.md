@@ -394,8 +394,9 @@ And again [You Didn't Have to Post That](https://www.youtube.com/watch?v=AkQaL9S
 
 ## External Links:
 
-* [The Linux Kernel Archives - tmpfs (August 23, 2024)](https://www.kernel.org/doc/html/latest/filesystems/tmpfs.html)
+* [The Linux Kernel Archives — tmpfs (August 23, 2024)](https://www.kernel.org/doc/html/latest/filesystems/tmpfs.html)
 * [Ramfs, rootfs and initramfs — Linux Kernel documentation (October 17, 2005)](https://www.kernel.org/doc/html/latest/filesystems/ramfs-rootfs-initramfs.html#ramfs-rootfs-and-initramfs)
+* [tmpfs(5) manual page — Arch Linux Man Pages (updated Sep 21, 2025, Linux man-pages 6.16)](https://man.archlinux.org/man/tmpfs.5)
 
 ## References:
 
