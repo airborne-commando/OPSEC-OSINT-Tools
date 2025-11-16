@@ -815,6 +815,14 @@ If you find this useful feel free to donate to this monero address:
     │ zabasearch-auto                         rad:zR4NNdHXGgpCxHn5eiXVUZijexG8    public                                   |
 
 
+Feel free to seed with this command for example:
+
+    rad seed rad:zaEB6y3UmpK8TGkdNNMAsuAUeEyG
+
+You may find these with for example:
+
+    https://app.radicle.xyz/nodes/rosa.radicle.xyz/rad:zaEB6y3UmpK8TGkdNNMAsuAUeEyG
+
 ## External links:
 
 [Academic publishing overview - Copyright (updated Jun 24, 2025)](https://guides.library.cmu.edu/c.php?g=1161877&p=9949658)
