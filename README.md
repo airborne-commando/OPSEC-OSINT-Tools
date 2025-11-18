@@ -795,22 +795,7 @@ If you find this useful feel free to donate to this monero address:
 
 ## Made a radicle seed for some of my forks and repos! Feel free to seed.
 
-    Crow                                    rad:z48PdBo9VBtx8AqoMRc6cNQASQme6   public 
-    GoogleFU-improved                       rad:z38V3RnJdpjZUS9GMyMjWuN6AuyAt   public 
-    OPSEC-OSINT-Tools                       rad:zaEB6y3UmpK8TGkdNNMAsuAUeEyG    public                 OPSEC-OSINT-Tools 
-    civitai-mirror-list                     rad:z3c5n7goyFWZmYSysNtag1agmQxAb   public 
-    clustrmaps-scraper                      rad:z2rPLV6cPq7Q9mqk9nkZCyWc2u53r   public 
-    facecheck.id-results-extractor          rad:zqqFyA2Z5smfuAjuvqRt3jPdUaKX    public 
-    ice-breaker                             rad:zRhYf35z5JFPSgHmNYYGNaM2gBeg    public 
-    iopaint-launcher                        rad:z2MGSZGW3nXGyfKeCZqLoVa2d1xcL   public 
-    link-extractor-and-archive              rad:z45ofNkqhKVKdkse9QUdqjGJh32M6   public 
-    maigret-night                           rad:zhoMgeb6QoBhhYYHgZQZx9XEs4Je    public 
-    no-shit-sherlock                        rad:z29XGre5y61Qd2Crs4TUN9MJtG1nY   public 
-    pacourts-casesearch-CLI                 rad:z3LF3YeYtXgoHeBtRJpfPxVx2TNLV   public 
-    tampermonkey-collection                 rad:z3hwPHVEbQpLgUJto4s9GZnbTddvG   public 
-    user-email-gen                          rad:zw9g9LwELuB5U76QftwvN2QRPrsu    public 
-    usertoihsoyct                           rad:z2mBrgnQTaQDjCxQw9DHoJVztbLRM   public 
-    zabasearch-auto                         rad:zR4NNdHXGgpCxHn5eiXVUZijexG8    public 
+    https://app.radicle.xyz/nodes/rosa.radicle.xyz/users/did:key:z6MkjuFgGz8T6oY95gV491a6zxLWvq5r87pTATEZh8d3tK9a
 
 
 Feel free to seed with this command for example:
