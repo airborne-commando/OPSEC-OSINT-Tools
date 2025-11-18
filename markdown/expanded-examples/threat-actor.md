@@ -7,7 +7,7 @@ As stated in this graph and in the markdown for [Digital Profiling](../Digital-P
 **NOTE: DO NOT DO ANYHING DUMB LOL**
 
 <p align="center">
-<img  src="../../img/svg/digital-profiling.svg" alt="Digital Profiling" width="auto" height="auto" />
+<img  src="../../img/png/graphs/digi-profiling.png" alt="Digital Profiling" width="auto" height="auto" />
 </p>
 
 You can build a somewhat clear profile on someone; what their motives are, what they are feeling possibly, what makes them tick...
@@ -87,7 +87,7 @@ The threat actor had done what was stated by the JCAT Intelligence Guide For Fir
 
 **Much like this graph here:**
 <p align="center">
-<img src="../../img/svg/Recon.svg" width="300" height="auto" />
+<img src="../../img/png/graphs/Recon.png" width="300" height="auto" />
 </p>
 
 #### **Phases 4, 5, & 6: Image Intelligence (IMINT) and cross reference**
