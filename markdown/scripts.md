@@ -1,6 +1,8 @@
 # Collection of scripts
 
-# Nuke
+[main guide](../README.md)
+
+### Nuke
 
 WIll let you try to scrub and sanatize nvme, ssd, hdd; **BE WARNED** it may brick your device.
 
@@ -346,3 +348,208 @@ Fixed the menu screen from being broken with secure ata erase.
 Will show you the logs after the wipe if you requested it.
 
 Made DoD a default selection, also made the script warn the user about secure ata erase potentially bricking the selected hard drive. 
+
+# mouse-r
+
+* record and playback mouse movement; useful for veracrypt.
+
+---
+
+		Python3 -m venv venv
+		
+		Source venv/bin/activate
+		
+		pip install pyautogui numpy matplotlib scipy pynput
+
+---
+
+```
+import time
+import json
+import numpy as np
+import pyautogui
+from scipy.interpolate import make_interp_spline
+from pynput import mouse
+
+class UltraFastMouseRecorder:
+    def __init__(self):
+        self.recorded_data = []
+        self.is_recording = False
+        self.listener = None
+        self.screen_width, self.screen_height = pyautogui.size()
+        
+    def start_recording(self):
+        """Start recording mouse movements with high precision"""
+        self.recorded_data = []
+        self.is_recording = True
+        print("Recording started... Press middle mouse button to stop.")
+        
+        def on_move(x, y):
+            if self.is_recording:
+                self.recorded_data.append({
+                    'x': x,
+                    'y': y,
+                    'time': time.perf_counter()  # Highest precision timer
+                })
+                
+        def on_click(x, y, button, pressed):
+            if button == mouse.Button.middle and pressed:
+                self.stop_recording()
+                return False
+                
+        self.listener = mouse.Listener(
+            on_move=on_move,
+            on_click=on_click
+        )
+        self.listener.start()
+        
+    def stop_recording(self):
+        """Stop recording mouse movements"""
+        self.is_recording = False
+        if self.listener:
+            self.listener.stop()
+        print(f"Recording stopped. Captured {len(self.recorded_data)} points.")
+        
+    def save_to_file(self, filename):
+        """Save recorded data to a JSON file"""
+        with open(filename, 'w') as f:
+            json.dump(self.recorded_data, f)
+        print(f"Data saved to {filename}")
+        
+    def load_from_file(self, filename):
+        """Load recorded data from a JSON file"""
+        with open(filename, 'r') as f:
+            self.recorded_data = json.load(f)
+        print(f"Loaded {len(self.recorded_data)} points from {filename}")
+        return self.recorded_data
+        
+    def optimize_playback_data(self, speed_factor=10.0):
+        """Pre-process data for ultra-fast playback"""
+        if len(self.recorded_data) < 2:
+            return self.recorded_data
+            
+        # Convert to numpy arrays for faster processing
+        x = np.array([p['x'] for p in self.recorded_data])
+        y = np.array([p['y'] for p in self.recorded_data])
+        t = np.array([p['time'] for p in self.recorded_data])
+        
+        # Calculate time differences and apply speed factor
+        t_diff = np.diff(t)
+        t_diff = t_diff / speed_factor
+        
+        # Create optimized data structure
+        optimized_data = []
+        for i in range(len(x)):
+            optimized_data.append({
+                'x': x[i],
+                'y': y[i],
+                'time_diff': t_diff[i-1] if i > 0 else 0
+            })
+            
+        return optimized_data
+        
+    def ultra_fast_playback(self, speed_factor=10.0, relative=False, loop_count=1, loop_delay=0.0):
+        """Extremely fast playback implementation with looping support"""
+        if not self.recorded_data:
+            print("No data to play back")
+            return
+            
+        if loop_count <= 0:
+            print("Invalid loop count. Must be 1 or greater.")
+            return
+            
+        print(f"Ultra-fast playback at {speed_factor}x speed for {loop_count} loop(s)...")
+        if loop_count > 1:
+            print(f"Loop delay: {loop_delay}s between iterations")
+        
+        # Pre-process data for optimal playback
+        playback_data = self.optimize_playback_data(speed_factor)
+        
+        for loop_iteration in range(loop_count):
+            if loop_count > 1:
+                print(f"Starting loop {loop_iteration + 1}/{loop_count}")
+            
+            # Move to starting position immediately with no delay
+            first_point = playback_data[0]
+            pyautogui.moveTo(first_point['x'], first_point['y'], _pause=False)
+            
+            # Use the most performant loop structure
+            start_time = time.perf_counter()
+            
+            for i in range(1, len(playback_data)):
+                point = playback_data[i]
+                
+                # Calculate target time using pre-computed time differences
+                target_time = start_time + point['time_diff']
+                
+                # Busy-wait for maximum precision (remove sleep completely)
+                while time.perf_counter() < target_time:
+                    pass
+                    
+                # Move mouse with absolute minimum overhead
+                if relative:
+                    current_x, current_y = pyautogui.position()
+                    dx = point['x'] - current_x
+                    dy = point['y'] - current_y
+                    pyautogui.move(dx, dy, _pause=False)
+                else:
+                    pyautogui.moveTo(point['x'], point['y'], _pause=False)
+            
+            # Add delay between loops if specified and not the last iteration
+            if loop_delay > 0 and loop_iteration < loop_count - 1:
+                time.sleep(loop_delay)
+                
+        print(f"Playback complete. Average speed: {self.calculate_average_speed(playback_data):.6f}s per point")
+        
+    def calculate_average_speed(self, playback_data):
+        """Calculate average time between points"""
+        if len(playback_data) < 2:
+            return 0
+        total_time = sum(p['time_diff'] for p in playback_data[1:])
+        return total_time / (len(playback_data) - 1)
+
+# Example usage
+if __name__ == "__main__":
+    recorder = UltraFastMouseRecorder()
+    
+    print("1. Record new movements")
+    print("2. Load from file")
+    print("3. Ultra-fast playback")
+    print("4. Ultra-fast playback with looping")
+    print("5. Save to file")
+    print("6. Exit")
+    
+    while True:
+        choice = input("Select an option (1-6): ")
+        
+        if choice == '1':
+            recorder.start_recording()
+            while recorder.is_recording:
+                time.sleep(0.1)
+        elif choice == '2':
+            filename = input("Enter filename to load: ")
+            recorder.load_from_file(filename)
+        elif choice == '3':
+            speed_input = input("Enter speed factor (e.g., 10 for 10x speed) [default: 1]: ").strip()
+            speed_factor = float(speed_input) if speed_input else 1.0
+            relative = input("Use relative movements? (y/n): ").lower() == 'y'
+            recorder.ultra_fast_playback(speed_factor=speed_factor, relative=relative)
+        elif choice == '4':
+            speed_input = input("Enter speed factor (e.g., 10 for 10x speed) [default: 1]: ").strip()
+            speed_factor = float(speed_input) if speed_input else 1.0
+            relative = input("Use relative movements? (y/n): ").lower() == 'y'
+            loop_input = input("Enter number of loops (1 for single playback) [default: 1]: ").strip()
+            loop_count = int(loop_input) if loop_input else 1
+            loop_delay = 0.0
+            if loop_count > 1:
+                delay_input = input("Enter delay between loops in seconds [default: 0]: ").strip()
+                loop_delay = float(delay_input) if delay_input else 0.0
+            recorder.ultra_fast_playback(speed_factor=speed_factor, relative=relative, 
+                                       loop_count=loop_count, loop_delay=loop_delay)
+        elif choice == '5':
+            filename = input("Enter filename to save: ")
+            recorder.save_to_file(filename)
+        elif choice == '6':
+            break
+```
+

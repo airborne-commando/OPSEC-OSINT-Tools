@@ -17,6 +17,7 @@
    - [How to OPSEC](#how-to-opsec)
    - [Physical Security](./markdown/Physical-Security.md)
       - [disinformation](#disinformation) 
+      - [scripts](./markdown/scripts.md) A collection of scripts from my gists
 7. [Open Source Intelligence (OSINT)](#open-source-intelligence-osint)
    - [Who uses Open-Source Intelligence (OSINT)?](#who-uses-open-source-intelligence-osint)
    - [Sources of OSINT](#sources-of-osint)
