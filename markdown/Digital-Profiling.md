@@ -19,7 +19,7 @@
 # Digital Profiling pipeline
 
 <p align="center">
-<img alt="Digital Profiling" src="../img/svg/digital-profiling.svg" />
+<img alt="Digital Profiling" src="../img/png/graphs/digi-profiling.png" />
 </p>
 
 # Digital Profiling and Behavioral Analysis Guide

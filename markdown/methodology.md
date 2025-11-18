@@ -1,4 +1,4 @@
-# methodology
+../img/png/graphs/# methodology
 
 A list of methodologies or a systematic approach. Everything will be found in the [main guide](../README.md).
 
@@ -16,7 +16,7 @@ A list of methodologies or a systematic approach. Everything will be found in th
 # 🔄 Unified OPSEC–OSINT Lifecycle
 
 <p align="center">
-<img width="auto" height="auto" alt="Unified OPSEC–OSINT Lifecycle" src="../img/svg/OPSEC–OSINT-lifecycle.svg" />
+<img width="auto" height="auto" alt="Unified OPSEC–OSINT Lifecycle" src="../img/png/graphs/OPSEC–OSINT-lifecycle.png" />
 </p>
 
 

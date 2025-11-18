@@ -1,5 +1,5 @@
 <p align="center">
-<img width="auto" height="auto" alt="OSINT" src="./img/png/OSINT.png" />
+<img width="auto" height="auto" alt="OSINT" src="./img/png/misc/OSINT.png" />
 </p>
 
 ----
@@ -788,7 +788,7 @@ Additional tools:
 
 If you find this useful feel free to donate to this monero address:
 
-<p align="left"><img width="15%" height="auto" alt="monero" src="./img/png/monero.png"/></p>
+<p align="left"><img width="15%" height="auto" alt="monero" src="./img/png/misc/monero.png"/></p>
 <p>
 <code>8BPdcsLtA5iWLNTWvYzUVyTWtQkM62e8r7xqAuwjXTSC4RcoSWqpmtyLsMYvz3QNZtT1rbgPUnmVpMAudhxTn6zkRxUFcZN</code>
 </p>

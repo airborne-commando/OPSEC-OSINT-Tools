@@ -7,7 +7,7 @@ Protective intelligence investigative techniques focus on identifying and assess
 On the cyber side, agencies use threat hunting techniques such as Indicators of Compromise (IOCs) analysis, which involves searching logs and network traffic for digital signs of malicious activity. They also employ analysis of Tactics, Techniques, and Procedures (TTPs) to understand how threat actors conduct attacks, allowing more efficient detection and response tailored to known attacker behaviors. Digital forensics and incident response (DFIR) investigations help identify, investigate, and remediate cyberattacks within networks by thorough review of logs, file systems, and user activities.
 
 <p align="center">
-<img width="auto" height="auto" alt="Digital Profiling" src="../../img/svg/OSINT-framework.svg" />
+<img width="auto" height="auto" alt="Digital Profiling" src="../../img/png/graphs/OSINT-Framework.png" />
 </p>
 
 The flowchart example provided aligns well with the investigative and operational framework that a three-letter agency might deploy against a threat actor. It includes structured phases such as:
