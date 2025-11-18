@@ -124,7 +124,9 @@ The methodology remains consistent, but the intent, legal boundaries, and final 
 
 
 # mermaid data
-This DIR contains the mermaid data for graphs for markdowns.
+This DIR contains the mermaid data for graphs for markdowns. You may look as some graphs are too big to export such as for example the [data-collection-pipeline.md](../markdown/mermaid-data/data-collection-pipeline.md)
+
+**Note:** May not render correcntly on sites like radicle
 
 
 ## 📁 Repository Structure
