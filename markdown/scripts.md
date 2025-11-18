@@ -4,7 +4,7 @@
 
 ### Nuke
 
-WIll let you try to scrub and sanatize nvme, ssd, hdd; **BE WARNED** it may brick your device.
+Will let you try to scrub and sanatize nvme, ssd, hdd; **BE WARNED** it may brick your device.
 
 ```
 #!/bin/bash
