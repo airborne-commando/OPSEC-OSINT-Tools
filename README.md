@@ -68,6 +68,10 @@ Also this guide can help prevent issues such as doxing. The obvious way is to fo
 
 Can you predict someone’s behavior with this? not exactly; people are unpredictable at times.
 
+
+> “Privacy is necessary for an open society in the electronic age. Privacy is not secrecy. A private matter is something one doesn’t want the whole world to know, but a secret matter is something one doesn’t want anybody to know. Privacy is the power to selectively reveal oneself to the world.” (Hughes, 1993, para. 1)
+
+
 # OSINT/OPSEC Tools
 
 A list of OSINT/OPSEC tools I made, forked, and/or use.
@@ -813,6 +817,8 @@ And to clone with any of my repos that were seed by me:
 
 [Academic publishing overview - Copyright (updated Jun 24, 2025)](https://guides.library.cmu.edu/c.php?g=1161877&p=9949658)
 
+
+
 ## References:
 
 [^1]: Office of the Director of National Intelligence. “Intelligence Community.” Office of the Director of National Intelligence, www.odni.gov/index.php/ncsc-what-we-do/121-dni/intelligence-community. Accessed 24 Sept. 2025. (Office of the Director of National Intelligence, “What Is Intelligence?,” sec.HUMINT)
@@ -960,3 +966,5 @@ And to clone with any of my repos that were seed by me:
 [^70]: Russell, D. (n.d.). More about Daniel. Google Sites. https://sites.google.com/site/dmrussell/more-about-dan
 
 [^71]: Department of Justice. (2025, January 21). Ross William Ulbricht: A full and unconditional pardon. https://web.archive.org/web/20250124015136/https://www.justice.gov/pardon/media/1386096/dl
+
+[^72]: Hughes, E. (1993, March 9). *A Cypherpunk’s manifesto*. Activism.net. https://www.activism.net/cypherpunk/manifesto.html
