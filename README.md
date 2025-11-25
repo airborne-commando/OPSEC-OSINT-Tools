@@ -801,7 +801,7 @@ If you find this useful feel free to donate to this monero address:
 </p>
 
 
-**Made a radicle seed for some of my forks and repos! Feel free to seed.**
+**Made a radicle seed for some of my forks and repos! Feel free to seed, clone and fork.**
 
 My node:
 
