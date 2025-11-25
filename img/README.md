@@ -5,3 +5,4 @@ Contains the Image Directory for the graphs used for [the guide](../README.md) a
   * /ROOT-DIR/img/svg SVG files
   * /ROOT-DIR/img/png/ transparent PNG files for the readme, HQ.
   * /ROOT-DIR/img/png/misc logo and monero address
+  * /ROOT-DIR/img/png/graphs logo and monero address
