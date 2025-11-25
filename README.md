@@ -41,7 +41,6 @@
 17. [Self OSINT](#toolchain-self-osint)
 18. [Curated lists](#curated-lists)
 19. [External Links](#external-links)
-20. [Made a radicle seed for some of my forks and repos! Feel free to seed.](#made-a-radicle-seed-for-some-of-my-forks-and-repos-feel-free-to-seed)
 19. [References](#references)
 
 ## ***DISCLAIMER***
@@ -802,7 +801,7 @@ If you find this useful feel free to donate to this monero address:
 </p>
 
 
-## Made a radicle seed for some of my forks and repos! Feel free to seed.
+**Made a radicle seed for some of my forks and repos! Feel free to seed.**
 
 My node:
 
