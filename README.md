@@ -801,9 +801,9 @@ If you find this useful feel free to donate to this monero address:
 </p>
 
 
-**Made a radicle seed for some of my forks and repos! Feel free to seed, clone and fork.**
+**Made a radicle account for some of my forks and repos! Feel free to seed, clone and fork.**
 
-My node:
+My node/account:
 
     https://app.radicle.xyz/nodes/rosa.radicle.xyz/users/did:key:z6MkjuFgGz8T6oY95gV491a6zxLWvq5r87pTATEZh8d3tK9a
 
