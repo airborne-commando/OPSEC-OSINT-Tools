@@ -144,15 +144,20 @@ Ross was pardoned[^62] [^71] in 2025 by the trump administration.
 >“When the company balked, the group published personal information about 36 million users. That’s a lot of very personal information of a lot of people” (Schifferle, 2016, para. 5).[^25]
 
 **Civilians**
+
 - *Identifying Russian Soldiers:* Used facial recognition and open-source images to ID participants in conflicts.[^55]
+
 - *Cameroon Investigation:* Used metadata and geolocation to verify military abuses.[^23]
 
 **Law Enforcement**
 - *Tracking Stolen Property:* Monitored online marketplaces to recover stolen goods.[^24]
+
 - *ShadowDragon’s SocialNet:* Mapped social networks from 200+ sources to aid investigations.[^4]
 
 **OPSEC Failures**
+
 - *Guccifer 2.0:* Forgot to activate VPN, exposing real IP and identity.[^3]
+
 - *Silk Road’s Ross Ulbricht:* Used personal email and left digital traces, leading to arrest.[^5]
 
 ## (Operations Security) is a systematic process for:
