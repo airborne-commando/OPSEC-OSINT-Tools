@@ -96,7 +96,7 @@ A list of methodologies or a systematic approach. Everything will be found in th
 
 2. **Privacy Hardening**  
    - Lock down social media privacy.  
-   - Opt-out of brokers via [Big Ass List](README.md#curated-lists) / IntelTechniques workbook.
+   - Opt-out of brokers via [Big Ass List / IntelTechniques workbook](README.md#curated-lists).
 
 3. **disinfo Ops**  
    - Flood decoy identities.  
