@@ -136,7 +136,9 @@ Ross was pardoned[^62] [^71] in 2025 by the trump administration.
 ## Real-World OSINT and OPSEC Examples
 
 **Criminals**
+
 *Sony Pictures Hack (2014):* Used OSINT on staff and infrastructure for phishing and breach.[^68]
+
 >"Email notifications sent via accounts like designedcuratedamy58[@]gmail.com alerted operators whenever targets began assessments or ran malicious curl commands" (Priya, 2025, para. 14).[^69]
 
 **Ashley Madison Breach (2015):** Used **CSINT** to leak sensitive user data, causing blackmail and public exposure.
@@ -150,6 +152,7 @@ Ross was pardoned[^62] [^71] in 2025 by the trump administration.
 - *Cameroon Investigation:* Used metadata and geolocation to verify military abuses.[^23]
 
 **Law Enforcement**
+
 - *Tracking Stolen Property:* Monitored online marketplaces to recover stolen goods.[^24]
 
 - *ShadowDragon’s SocialNet:* Mapped social networks from 200+ sources to aid investigations.[^4]
