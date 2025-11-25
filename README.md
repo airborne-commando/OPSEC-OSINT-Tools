@@ -820,7 +820,9 @@ And to clone with any of my repos that were seed by me:
 
 [Academic publishing overview - Copyright (updated Jun 24, 2025)](https://guides.library.cmu.edu/c.php?g=1161877&p=9949658)
 
-[An in-depth guide to choosing a VPN](https://freedom.press/digisec/blog/choosing-a-vpn/)
+[An in-depth guide to choosing a VPN - Network security (Updated Jan. 18, 2025)](https://freedom.press/digisec/blog/choosing-a-vpn/)
+
+[Best VPN Services: Which performs best? - VPN (November 1, 2025)](https://cyberinsider.com/vpn/best/)
 
 ## References:
 
