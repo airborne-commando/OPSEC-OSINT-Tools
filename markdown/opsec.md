@@ -86,7 +86,12 @@ Protip: Doesn't hurt to write genuinely, act human and be human if doing [HUMINT
 ## Anonymity Tools
 - Ip Hiders and VPNS
     - [Tor Project](https://www.torproject.org/)
-    - [Mullvad VPN](https://mullvad.net/en)
+    
+**What is tor?**:
+
+>"TOR is developed and maintained by the The Tor Project, Inc. When you look at the Tor Project's About Page, you'll notice that its an entity labeled as a 501(c)3; this is a type of nonprofit organization. Information about nonprofits can be found in their own set of databases. Check out GuideStar Pro and search for the the Tor Project to learn more about the foundation developing this web browser."(Indiana University Bloomington, 2024)[^12]
+
+- [Mullvad VPN](https://mullvad.net/en)
 
     - [I2P](https://geti2p.net/en/)
         - [More info about it here](https://geti2p.net/en/about/intro)
@@ -422,3 +427,5 @@ And again [You Didn't Have to Post That](https://www.youtube.com/watch?v=AkQaL9S
 [^10]: The Tails Project. (n.d.). *Virtualization*. Tails. Retrieved October 4, 2025, from https://tails.net/doc/advanced_topics/virtualization/index.en.html
 
 [^11]: Rohland, C. (Original work published 2001, December 01). Tmpfs - a file system which keeps all files in virtual memory. Updated by Dickins, H., & Kosaki, M. (2010). Retrieved November 10, 2025, from https://research.cs.wisc.edu/adsl/Software/tratr/.scripts/tratr/Documentation/filesystems/tmpfs.txt
+
+[^12]: “Library Research Guides: Digital Privacy: Digital Privacy Practices.” Indiana University Bloomington, wayback machine, 7 July 2025, https://web.archive.org/web/20250208104257/https://guides.libraries.indiana.edu/c.php?g=1325689&p=9771453.
