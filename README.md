@@ -922,7 +922,7 @@ And to clone with any of my repos that were seed by me:
 
 [^43]: bugzorc. “suspectAGB.” *opsecfail*, www.opsecfail.github.io/blog.html?filecase=suspectAGB. Accessed 25 Sept. 2025.
 
-[^44]: Evans, Jacob. “Alex Smith: Drill Rappers Sentenced to Life Over Street Stabbing.” *BBC*, 12 May 2023, [www.bbc.com/news/uk-england-london-65570367](https://www.bbc.com/news/uk-england-london-65570367).
+[^44]: Evans, Jacob. “Alex Smith: Drill Rappers Sentenced to Life Over Street Stabbing.” *BBC*, 12 May 2023, www.bbc.com/news/uk-england-london-65570367.
 
 [^45]: bugzorc. “W0RMER.” opsecfail, https://opsecfail.github.io/blog.html?filecase=w0rmer. Accessed 25 Sept. 2025.
 
