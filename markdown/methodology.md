@@ -1,4 +1,4 @@
-../img/png/graphs/# methodology
+# methodology
 
 A list of methodologies or a systematic approach. Everything will be found in the [main guide](../README.md).
 
