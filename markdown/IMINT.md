@@ -64,13 +64,13 @@ Reverse image search tools like **Google Image Search** and **Google Lens** enab
 - View results showing visually similar images and related pages.
 
 ### What You Can Use It For
-- **Find an article:** Locate the original article or similar ones using screenshots or photos.[^bellingcat_newtech]
+- **Find an article:** Locate the original article or similar ones using screenshots or photos.[^9]
 - **Identify device name or type:** Identify brands and models of devices (e.g., Samsung, Pixel, Apple).
-- **Find brand, restaurant, or location:** Recognize logos, storefronts, food items, or landmarks.[^bellingcat_newtech]
+- **Find brand, restaurant, or location:** Recognize logos, storefronts, food items, or landmarks.[^9]
 
 ### What You Cannot Do
 - **Reverse search people:** Not designed for facial recognition or identifying individuals.
-- If you wanted to reverse search people, please use this tool for [facecheck.id](https://github.com/vin3110/facecheck.id-results-extractor).[^osint45][^osint_aug23][^osint_apr23]
+- If you wanted to reverse search people, please use this tool for [facecheck.id](https://github.com/vin3110/facecheck.id-results-extractor).[^13][^14][^15]
 
 ### Extra Tips
 - On mobile browsers, request the desktop site for full features.
@@ -81,22 +81,22 @@ Reverse image search tools like **Google Image Search** and **Google Lens** enab
 
 # GEOINT (Geographical Intelligence)
 
-What is GEOINT?[^odni]
+What is GEOINT?[^1]
 
 Geospatial Intelligence is the analysis and visual representation of security related activities on the earth. It is produced through an integration of imagery, imagery intelligence, and geospatial information.
 
 # IMINT (Imagery Intelligence)
 
 ### Definition
-IMINT—Imagery Intelligence[^odni] includes representations of objects reproduced electronically or by optical means on film, electronic display devices, or other media. Imagery can be derived from visual photography, radar sensors, and electro-optics. NGA is the manager for all imagery intelligence activities, both classified and unclassified, within the government, including requirements, collection, processing, exploitation, dissemination, archiving, and retrieval.[^odni]
+IMINT—Imagery Intelligence[^1] includes representations of objects reproduced electronically or by optical means on film, electronic display devices, or other media. Imagery can be derived from visual photography, radar sensors, and electro-optics. NGA is the manager for all imagery intelligence activities, both classified and unclassified, within the government, including requirements, collection, processing, exploitation, dissemination, archiving, and retrieval.[^1]
 
 ### Who Uses IMINT?
-- **Civilians:** Disaster tracking, social media verification, urban planning (unclassified).[^govinfo]
-- **Law Enforcement:** Surveillance, crime investigation, missing persons search (classified).[^odni]
+- **Civilians:** Disaster tracking, social media verification, urban planning (unclassified).[^12]
+- **Law Enforcement:** Surveillance, crime investigation, missing persons search (classified).[^1]
 
 ### SOCMINT (Social Intelligence)
 
-SOCMINT[^hhs][^rit] refers to collecting and analyzing digital data about social relationships and networks, primarily through metadata, social media activity, and geolocation data. It focuses on:
+SOCMINT[^4][^2] refers to collecting and analyzing digital data about social relationships and networks, primarily through metadata, social media activity, and geolocation data. It focuses on:
 
 - **Social Networks:** Mapping social dynamics and connections.
 - **Data Sources:** Social platforms (Facebook, Instagram, LinkedIn), communications metadata, location info.
@@ -132,29 +132,29 @@ Use IMINT responsibly, respecting privacy and laws, especially with personally i
 Combining visual intelligence (IMINT) with social data (SOCMINT) and digital profiling significantly enhances investigative depth and accuracy.
 
 ### Multidimensional Intelligence
-- IMINT provides visual context (locations, layouts, environmental changes).[^pezle][^vice4chan]
-- SOCMINT and digital profiling supply social and behavioral data from online footprints.[^pezle][^vice4chan]
-- Google Reverse search can identify landmarks, devices and brands.[^bellingcat_reverse][^bellingcat_newtech]
+- IMINT provides visual context (locations, layouts, environmental changes).[^7][^8]
+- SOCMINT and digital profiling supply social and behavioral data from online footprints.[^7][^8]
+- Google Reverse search can identify landmarks, devices and brands.[^10][^9]
 - Together, these reveal identities, timelines, and interactions in a holistic manner.
 
 ### Enhanced Geolocation
-- Identify landmarks in images via IMINT.[^pezle][^vice4chan]
-- Cross-reference with social data and OSINT tools to connect locations with people or events.[^pezle][^vice4chan]
+- Identify landmarks in images via IMINT.[^7][^8]
+- Cross-reference with social data and OSINT tools to connect locations with people or events.[^7][^8]
 
 ### Improved Digital Profiling
-- Analyze social media[^kraakevik] images with IMINT location verification.[^pezle][^vice4chan]
-- Use Google reverse search to figure out a device and a users ecosystem (android, apple, mac) and to find landmarks or brands (a restaurant, a landmark, et al).[^bellingcat_reverse][^bellingcat_newtech][^vice4chan]
-- Layer data from emails, usernames, and phone lookups to build comprehensive profiles.[^dol]
+- Analyze social media[^3] images with IMINT location verification.[^7][^8]
+- Use Google reverse search to figure out a device and a users ecosystem (android, apple, mac) and to find landmarks or brands (a restaurant, a landmark, et al).[^10][^9][^8]
+- Layer data from emails, usernames, and phone lookups to build comprehensive profiles.[^11]
 
 ### OPSEC Assessment
-- Use IMINT to assess physical security vulnerabilities (entry points, cameras).[^pezle][^vice4chan][^pubs98]
+- Use IMINT to assess physical security vulnerabilities (entry points, cameras).[^7][^8][^16]
 - Use OSINT to identify digital exposure (breached credentials, leaked emails).
 - This combined view uncovers physical and cyber vulnerabilities.
 
 ### Real-World Applications
-- Missing persons searches combining photo and location data.[^maltego]
-- Crime scene analysis with visual and digital evidence[^NIJ].
-- Event verification by matching social media and satellite data[^pezle][^vice4chan].
+- Missing persons searches combining photo and location data.[^5]
+- Crime scene analysis with visual and digital evidence[^6].
+- Event verification by matching social media and satellite data[^7][^8].
 
 ---
 
@@ -185,34 +185,34 @@ back to the readme [main OPSEC-OSINT-Tools repository](../README.md).
 
 ## References:
 
-[^odni]: ---. "Intelligence Community." Office of the Director of National Intelligence, https://www.odni.gov/index.php/ncsc-what-we-do/121-dni/intelligence-community. Accessed 22 Sept. 2025.
+[^1]:  Office of the Director of National Intelligence. “Intelligence Community.” Office of the Director of National Intelligence, www.odni.gov/index.php/ncsc-what-we-do/121-dni/intelligence-community. Accessed 25 Nov. 2025. (Office of the Director of National Intelligence, sec.Types of Intelligence)
 
-[^rit]: “Social Media Intelligence Best Practices.” Rochester Institute of Technology, 2023-10_CPSI, Rochester Institute of Technology, Oct. 2023, www.rit.edu/liberalarts/sites/rit.edu.liberalarts/files/docs/CRIM%20Resources/2023-10_CPSI%20Working%20Paper_Social%20Media%20Intelligence%20Best%20Practices.pdf.
+[^2]: “Social Media Intelligence Best Practices.” Rochester Institute of Technology, 2023-10_CPSI, Rochester Institute of Technology, Oct. 2023, www.rit.edu/liberalarts/sites/rit.edu.liberalarts/files/docs/CRIM%20Resources/2023-10_CPSI%20Working%20Paper_Social%20Media%20Intelligence%20Best%20Practices.pdf.
 
-[^kraakevik]: Kraakevik, Jeff. “Crafting a positive professional digital profile to augment your practice.” Neurology. Clinical practice vol. 6,1 (2016): 87-93. doi:10.1212/CPJ.0000000000000211
+[^3]: Kraakevik, Jeff. “Crafting a positive professional digital profile to augment your practice.” Neurology. Clinical practice vol. 6,1 (2016): 87-93. doi:10.1212/CPJ.0000000000000211
 
-[^hhs]: “HC3: Analyst Note.” U.S Department of Health and Human Services, 202208091700, Washington D.C., United States of America, Health and Human Services, 9 Aug. 2022, web.archive.org/web/20230617000751/https://www.hhs.gov/sites/default/files/osint-how-to-analyst-note-tlpwhite.pdf.
+[^4]: “HC3: Analyst Note.” U.S Department of Health and Human Services, 202208091700, Washington D.C., United States of America, Health and Human Services, 9 Aug. 2022, http://web.archive.org/web/20230617000751/https://www.hhs.gov/sites/default/files/osint-how-to-analyst-note-tlpwhite.pdf.
 
-[^maltego]: Mathieu Gaucheler. “How OSINT Helps Find Missing Persons.” Maltego, 2 May 2025, www.maltego.com/blog/how-osint-helps-find-missing-persons.
+[^5]: Mathieu Gaucheler. “How OSINT Helps Find Missing Persons.” Maltego, 2 May 2025, www.maltego.com/blog/how-osint-helps-find-missing-persons.
 
-[^NIJ]: Tracey L. Johnson, Basia E. Lopez, Jonathan McGrath, Caleb D. Hudgins, Meaghan L. Pimsler, and Veronica White, "Introducing the NIJ Forensic Intelligence Framework: Pillars and Guiding Principles for Successful Implementation," National Institute of Justice, NCJ 309128, November 2024.
+[^6]: Tracey L. Johnson, Basia E. Lopez, Jonathan McGrath, Caleb D. Hudgins, Meaghan L. Pimsler, and Veronica White, "Introducing the NIJ Forensic Intelligence Framework: Pillars and Guiding Principles for Successful Implementation," National Institute of Justice, NCJ 309128, November 2024.
 
-[^pezle]: “The Time 4Chan Called in an Airstrike.” Youtube, uploaded by Pezle, 17 Aug. 2023, www.youtube.com/watch?v=OR6epSP_Xlw.
+[^7]: “The Time 4Chan Called in an Airstrike.” Youtube, uploaded by Pezle, 17 Aug. 2023, www.youtube.com/watch?v=OR6epSP_Xlw.
 
-[^vice4chan]: Lamoureux, Mack, and Mack Lamoureux. “How 4Chan’s Worst Trolls Pulled off the Heist of the Century.” VICE, 27 July 2024, www.vice.com/en/article/4chan-does-first-good-thing-pulls-off-the-heist-of-the-century1.
+[^8]: Lamoureux, Mack, and Mack Lamoureux. “How 4Chan’s Worst Trolls Pulled off the Heist of the Century.” VICE, 27 July 2024, www.vice.com/en/article/4chan-does-first-good-thing-pulls-off-the-heist-of-the-century1.
 
-[^bellingcat_newtech]: Postma, Foeke. “Using New Tech to Investigate Old Photographs - Bellingcat.” Bellingcat, 9 Aug. 2022, www.bellingcat.com/resources/2022/08/09/using-new-tech-to-investigate-old-photographs.
+[^9]: Postma, Foeke. “Using New Tech to Investigate Old Photographs - Bellingcat.” Bellingcat, 9 Aug. 2022, www.bellingcat.com/resources/2022/08/09/using-new-tech-to-investigate-old-photographs.
 
-[^bellingcat_reverse]: Toler, Aric. “Guide to Using Reverse Image Search for Investigations - Bellingcat.” Bellingcat, 27 Dec. 2019, www.bellingcat.com/resources/how-tos/2019/12/26/guide-to-using-reverse-image-search-for-investigations.
+[^10]: Toler, Aric. “Guide to Using Reverse Image Search for Investigations - Bellingcat.” Bellingcat, 27 Dec. 2019, www.bellingcat.com/resources/how-tos/2019/12/26/guide-to-using-reverse-image-search-for-investigations.
 
-[^dol]: Jain, Shefali. “10 Best Background Check Sites In 2022.” United States Department Of Labor, 6 Jan. 2022, www.dol.gov/sites/dolgov/files/ETA/advisories/TEIN/2000/youth.htm.
+[^11]: Jain, Shefali. “10 Best Background Check Sites In 2022.” United States Department Of Labor, 6 Jan. 2022, www.dol.gov/sites/dolgov/files/ETA/advisories/TEIN/2000/youth.htm.
 
-[^govinfo]: “IC21: The Intelligence Community in the 21st Century.” U.S. Government Publishing Office, www.govinfo.gov/content/pkg/GPO-IC21/html/GPO-IC21-6.html. Accessed 25 Sept. 2025.
+[^12]: “IC21: The Intelligence Community in the 21st Century.” U.S. Government Publishing Office, www.govinfo.gov/content/pkg/GPO-IC21/html/GPO-IC21-6.html. Accessed 25 Sept. 2025.
 
-[^osint45]: Creps, Jake. “The OSINT Newsletter - Issue #45.” The OSINT Newsletter, 4 Mar. 2024, osintnewsletter.com/p/45. https://archive.ph/7koNk
+[^13]: Creps, Jake. “The OSINT Newsletter - Issue #45.” The OSINT Newsletter, 4 Mar. 2024, https://osintnewsletter.com/p/45
 
-[^osint_aug23]: Creps, Jake. “The OSINT Newsletter - August 2023 OSINT Review.” The OSINT Newsletter, 14 Aug. 2023, osintnewsletter.com/p/the-osint-newsletter-august-2023. https://archive.ph/dZdBA
+[^14]: Creps, Jake. “The OSINT Newsletter - August 2023 OSINT Review.” The OSINT Newsletter, 14 Aug. 2023, https://osintnewsletter.com/p/the-osint-newsletter-august-2023.
 
-[^osint_apr23]: Creps, Jake. “The OSINT Newsletter - April 2023 OSINT Review.” The OSINT Newsletter, 15 Apr. 2023, osintnewsletter.com/p/april-osint-2023. https://archive.ph/BPW3U
+[^15]: Creps, Jake. “The OSINT Newsletter - April 2023 OSINT Review.” The OSINT Newsletter, 15 Apr. 2023, https://osintnewsletter.com/p/april-osint-2023.
 
-[^pubs98]: Szuba, Tom, et al. “Chapter 5-Protecting Your System: Physical Security.” The Institute of Education Sciences, The Institute of Education Sciences, 1998, pp. 55–62. nces.ed.gov/pubs98/safetech/chapter5.asp.
+[^16]: Szuba, Tom, et al. “Chapter 5-Protecting Your System: Physical Security.” The Institute of Education Sciences, The Institute of Education Sciences, 1998, pp. 55–62. https://nces.ed.gov/pubs98/safetech/chapter5.asp.

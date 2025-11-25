@@ -22,40 +22,40 @@
 ## Criminals: Leveraging OSINT for Malicious Activities
 
 ### **Sony Pictures Hack (2014)**
-Attackers conducted extensive OSINT to gather information about Sony's network infrastructure and employees[^dojnk]. They utilized publicly available data from social media profiles and company websites to craft targeted phishing emails, leading to a significant data breach. 
+Attackers conducted extensive OSINT to gather information about Sony's network infrastructure and employees[^6]. They utilized publicly available data from social media profiles and company websites to craft targeted phishing emails, leading to a significant data breach. 
 
 ### **Ashley Madison Breach (2015)**
-The "Impact Team"[^ftcamd] exploited OSINT techniques to access and leak sensitive user data from the Ashley Madison website. The breach exposed personal information of millions, leading to blackmail and public shaming. 
+The "Impact Team"[^5] exploited OSINT techniques to access and leak sensitive user data from the Ashley Madison website. The breach exposed personal information of millions, leading to blackmail and public shaming. 
 
 ---
 
 ## Civilians: Utilizing OSINT for Advocacy and Investigation
 
-**Identification of Russian Soldiers in Ukraine Conflict** [^guardian]
+**Identification of Russian Soldiers in Ukraine Conflict** [^7]
 Online investigators used facial recognition tools like FindClone and PimEyes to identify Russian soldiers involved in the Ukraine conflict. By analyzing publicly available images and videos, they were able to match faces and uncover identities. 
 
 ### **BBC Investigation into Cameroonian Military Abuses**
-The BBC[^hrwcam] employed OSINT techniques to verify the authenticity of a video showing Cameroonian soldiers executing civilians. By analyzing metadata, geolocation, and other open-source information, they confirmed the video's legitimacy. 
+The BBC[^1] employed OSINT techniques to verify the authenticity of a video showing Cameroonian soldiers executing civilians. By analyzing metadata, geolocation, and other open-source information, they confirmed the video's legitimacy. 
 
 ---
 
 ## Law Enforcement: Applying OSINT in Investigations
 
 ### **Tracking Stolen Property Online**
-Law enforcement agencies[^police1] have increasingly used OSINT to monitor online marketplaces like Facebook Marketplace and OfferUp for stolen goods. By analyzing listings and user information, they can trace and recover stolen items. 
+Law enforcement agencies[^2] have increasingly used OSINT to monitor online marketplaces like Facebook Marketplace and OfferUp for stolen goods. By analyzing listings and user information, they can trace and recover stolen items. 
 
 ### **Use of ShadowDragon's SocialNet**
-Agencies utilize tools like ShadowDragon's SocialNet[^dhsfoia] to collect data from over 200 online sources. This assists in mapping social networks and identifying relationships between individuals, aiding in criminal investigations. 
+Agencies utilize tools like ShadowDragon's SocialNet[^3] to collect data from over 200 online sources. This assists in mapping social networks and identifying relationships between individuals, aiding in criminal investigations. 
 
 ---
 
 ## OPSEC Failures: Lessons from Real-World Mistakes
 
 ### **Guccifer 2.0's VPN Error**
-The hacker known as Guccifer 2.0[^doj] failed to activate a VPN before logging into a social media account, inadvertently revealing their real IP address. This mistake led to the identification of the hacker as a Russian GRU agent. 
+The hacker known as Guccifer 2.0[^4] failed to activate a VPN before logging into a social media account, inadvertently revealing their real IP address. This mistake led to the identification of the hacker as a Russian GRU agent. 
 
 ### **Silk Road's Ross Ulbricht**
-Ross Ulbricht[^ulbricht], the founder of the Silk Road marketplace, made critical OPSEC errors, such as using his personal email address in early communications. These mistakes facilitated law enforcement's efforts to trace and apprehend him. 
+Ross Ulbricht[^8], the founder of the Silk Road marketplace, made critical OPSEC errors, such as using his personal email address in early communications. These mistakes facilitated law enforcement's efforts to trace and apprehend him. 
 
 ---
 
@@ -65,18 +65,18 @@ These examples underscore the dual-edged nature of OSINT and OPSEC tools. While 
 
 ## References:
 
-[^hrwcam]: Human Rights Watch. "Cameroon: Soldiers Get 10 Years for Murder of Civilians." *Human Rights Watch*, 23 Sept. 2020, https://www.hrw.org/news/2020/09/23/cameroon-soldiers-get-10-years-murder-civilians.
+[^1]: Human Rights Watch. "Cameroon: Soldiers Get 10 Years for Murder of Civilians." *Human Rights Watch*, 23 Sept. 2020, https://www.hrw.org/news/2020/09/23/cameroon-soldiers-get-10-years-murder-civilians.
 
-[^police1]: MPA, Brandon Burley. “OSINT Tools for Investigators to Track Criminal Activity Online.” Lexipol Media Group, 23 Aug. 2025, www.police1.com/investigations/thinking-like-a-criminal-how-osint-can-take-your-investigations-further.
+[^2]: MPA, Brandon Burley. “OSINT Tools for Investigators to Track Criminal Activity Online.” Lexipol Media Group, 23 Aug. 2025, www.police1.com/investigations/thinking-like-a-criminal-how-osint-can-take-your-investigations-further.
 
-[^dhsfoia]: United States Department of Homeland Security. “Freedom of Information Act (FOIA) Activity for the Week.” Department of Homeland Security, 25_0731, DHS Privacy Office, 20 Mar. 2025, www.dhs.gov/sites/default/files/2025-07/25_0731_PRIV_Chief_FOIA_Officers_Weekly_Report_March_31_25_to_June_30_25.pdf.
+[^3]: Department of Homeland Security. Freedom of Information Act (FOIA) Activity for the Week of March 20, 2025- March 26, 2025 DHS Privacy Office March 31, 2025 Weekly FOIA Report. 31 Mar. 2025, www.dhs.gov/sites/default/files/2025-07/25_0731_PRIV_Chief_FOIA_Officers_Weekly_Report_March_31_25_to_June_30_25.pdf.
 
-[^doj]: "---." “Grand Jury Indicts 12 Russian Intelligence Officers for Hacking.” United States Department of Justice, 13 July 2018, www.justice.gov/archives/opa/pr/grand-jury-indicts-12-russian-intelligence-officers-hacking-offenses-related-2016-election.
+[^4]: Department Of Justice. “Grand Jury Indicts 12 Russian Intelligence Officers for Hacking.” U.S. Department of Justice, 6 Feb. 2025, www.justice.gov/archives/opa/pr/grand-jury-indicts-12-russian-intelligence-officers-hacking-offenses-related-2016-election.
 
-[^ftcamd]: “---.” Federal Trade Commission, 24 May 2022, www.ftc.gov/business-guidance/blog/2016/12/ashley-madison-settles-ftc-over-data-security.
+[^5]: Schifferle, L. W. (2016, December 14). *Ashley Madison settles with FTC over data security.* Federal Trade Commission. https://web.archive.org/web/20250801210212/https://www.ftc.gov/business-guidance/blog/2016/12/ashley-madison-settles-ftc-over-data-security
 
-[^dojnk]: “---.” United States Department of Justice, 6 Sept. 2018, www.justice.gov/archives/opa/pr/north-korean-regime-backed-programmer-charged-conspiracy-conduct-multiple-cyber-attacks-and.
+[^6]: “North Korean Regime-Backed Programmer Charged With Conspiracy To.” United States Department of Justice, 6 Feb. 2025, https://web.archive.org/web/20251006082434/https://www.justice.gov/archives/opa/pr/north-korean-regime-backed-programmer-charged-conspiracy-conduct-multiple-cyber-attacks-and.
 
-[^guardian]: Hern, Alex. “Ukraine Uses Facial Recognition Software to Identify Russian Soldiers Killed in Combat.” The Guardian, 24 Mar. 2022, www.theguardian.com/technology/2022/mar/24/ukraine-facial-recognition-identify-russian-soldiers.
+[^7]: Bhuiyan, Johana. “Ukraine Uses Facial Recognition Software to Identify Russian Soldiers Killed in Combat.” The Guardian, 24 Mar. 2022, www.theguardian.com/technology/2022/mar/24/ukraine-facial-recognition-identify-russian-soldiers.
 
-[^ulbricht]: “---.” United States Department of Justice, 29 May 2015, www.justice.gov/usao-sdny/pr/ross-ulbricht-aka-dread-pirate-roberts-sentenced-manhattan-federal-court-life-prison.
+[^8]: “Ross Ulbricht, a/K/a ‘Dread Pirate Roberts,’ Sentenced in Manhattan.” U.S. Department of Justice, 29 May 2015, www.justice.gov/usao-sdny/pr/ross-ulbricht-aka-dread-pirate-roberts-sentenced-manhattan-federal-court-life-prison.
