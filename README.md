@@ -41,7 +41,7 @@
 17. [Self OSINT](#toolchain-self-osint)
 18. [Curated lists](#curated-lists)
 19. [External Links](#external-links)
-19. [References](#references)
+20. [References](#references)
 
 ## ***DISCLAIMER***
 
