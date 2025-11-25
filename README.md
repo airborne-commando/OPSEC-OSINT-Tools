@@ -332,7 +332,7 @@ Scholarly Publishing is done at a rigorous peer review process.
 > Genealogy: Using family history research and genealogy databases as an intelligence-gathering tool.
 > Death records: Gathering intelligence from records such as death notices, obituaries, gravestone databases, and burial registries.(news papers or local news sites) 
 
->"Genealogical research is the tracing of an individual's ancestral history using historical records, both official and unofficial" (University of Maryland Libraries, n.d., para. 1).[^39]
+>"Genealogical research is the tracing of an individual's ancestral history using historical records, both official and unofficial" (University of Maryland Libraries, 2023, para. 1).[^39]
 
 >"Genealogy is the study of families and their ancestors and histories" <br>(Virginia Tech University Libraries, n.d., para. 1).[^38]
 
@@ -910,7 +910,7 @@ And to clone with any of my repos that were seed by me:
 
 [^37]: Joseph, E. (2025, September 24). *What is grey literature?* Johns Hopkins University, Welch Medical Library. https://browse.welch.jhmi.edu/c.php?g=1195274
 
-[^38]: University of Maryland Libraries. (n.d.). *Research guides: Maryland genealogy: What is genealogical research?* University of Maryland. https://lib.guides.umd.edu/c.php?g=326980&p=2198795 
+[^38]: University of Maryland Libraries. (2023). *Research guides: Maryland genealogy: What is genealogical research?* University of Maryland. https://lib.guides.umd.edu/c.php?g=326980&p=2198795 
 
 [^39]: Virginia Tech University Libraries. (n.d.). *Research guides: Genealogy: Index.* Virginia Tech. https://guides.lib.vt.edu/topics/genealogy
 
