@@ -46,11 +46,16 @@
 
 ## ***DISCLAIMER***
 
-I am **not responsible** for any misuse, abuse, or unethical actions taken with the tools or methods listed here. **OSINT is a neutral technique**—anyone can use it, and anyone can be targeted.
+I am **not responsible** for any misuse, abuse, or unethical actions taken with the tools or methods listed here. **OSINT is a neutral technique** anyone can use it, and anyone can be targeted.
 
 **On a matter of privacy**
 
 > “Privacy is necessary for an open society in the electronic age. Privacy is not secrecy. A private matter is something one doesn’t want the whole world to know, but a secret matter is something one doesn’t want anybody to know. Privacy is the power to selectively reveal oneself to the world.” (Hughes, 1993, para. 1)[^72]
+
+
+Also a forward to **YOU** the practitioners **of all kinds**:
+
+>Do not solely rely or depend on this guide alone, use various sources you may find out there on the Internet.
 
 ## Suggestions
 
