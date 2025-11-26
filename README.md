@@ -533,18 +533,18 @@ Pipeline discussed [here](./markdown/opsec.md#opsec-pipeline-for-secure-files)
 
 ---
 
-| **Tool**               | **Lookup By**                | **Returns**                              | **Notes**                                                                 |
-|------------------------|-----------------------------|------------------------------------------|---------------------------------------------------------------------------|
-| **[FastPeopleSearch](https://www.fastpeoplesearch.com/)**   | Name, Phone, Address        | Age, Address, Phone, Email               | Free; data may be outdated.                                               |
-| **[That's Them](https://thatsthem.com/)**        | Name, Email, IP, VIN, Phone | IP, Addresses, Phone, Email              | Aggregates data from Intelius/Spokeo; some paid results.                 |
-| **[Nuwber](https://nuwber.com/)**            | Name, Phone, Email, Address | DOB, Address, Email, Phone               | Detailed reports may require payment.                                    |
-| **[IDCrawl](https://idcrawl.com/)**           | Name, Username, Phone, Email | Names, Usernames, Phone, Email           | Focuses on usernames/social media.                                       |
-| **[PeekYou](https://www.peekyou.com/)**           | Name, Username, State       | Age, Social Media, Emails, Addresses     | Strong for social media profiling.                                       |
-| **[Webmii](https://webmii.com/)**            | First + Last Name           | Social Media, Search Results             | Lightweight; scans public web/social profiles.                           |
-| **[PublicRecords](https://www.publicrecords.onlinesearches.com/)**     | Name, Address, State        | Name, Address, Partial Phone             | Free directory; redirects to Intelius for paid details.                  |
-| **[ClustrMaps](https://clustrmaps.com/)**        | Name, Address               | Addresses, Residents, Property, IP Data  | Focuses on geolocation/demographics; may include ownership history.      |
-| **[fastbackgroundcheck](https://www.fastbackgroundcheck.com)** | Name, Address, Phone Number | Name, Address, Phone Number, Emails | Seems to comb though billions of records as stated on it's [website](https://www.fastbackgroundcheck.com/about) |
-| **[zbase](https://www.zabasearch.com/)** | first, last name, city state | Names, Possible Relatives, User IDs, Address, Phone Number, Emails, education, job history | comes from various sources, as stated on it's [faq](https://www.zabasearch.com/faq/), free partial look up and is **accurate*** |
+| **Tool**                        | **Lookup By**                            | **Returns**                              | **Notes**                                                                                                                             
+|------------------------------- | ------------------------------------------|------------------------------------------|----------------------------------------------------------------------------------------------------- |
+| **[FastPeopleSearch](https://www.fastpeoplesearch.com/)**    | Name, Phone, Address                     | Age, Address, Phone, Email               | Free; data may be outdated.                                                                          |
+| **[That's Them](https://thatsthem.com/)**         | Name, Email, IP, VIN, Phone              | IP, Addresses, Phone, Email              | Aggregates data from Intelius/Spokeo; some paid results.                                             |
+| **[Nuwber](https://nuwber.com/)**              | Name, Phone, Email, Address              | DOB, Address, Email, Phone               | Detailed reports may require payment.                                                                |
+| **[IDCrawl](https://idcrawl.com/)**             | Name, Username, Phone, Email             | Names, Usernames, Phone, Email           | Focuses on usernames/social media.                                                                   |
+| **[PeekYou](https://www.peekyou.com/)**             | Name, Username, State                    | Age, Social Media, Emails, Addresses     | Strong for social media profiling.                                                                   |
+| **[Webmii](https://webmii.com/)**              | First + Last Name                        | Social Media, Search Results             | Lightweight; scans public web/social profiles.                                                       |
+| **[PublicRecords](https://www.publicrecords.onlinesearches.com/)**       | Name, Address, State                     | Name, Address, Partial Phone             | Free directory; redirects to Intelius for paid details.                                              |
+| **[ClustrMaps](https://clustrmaps.com/)**          | Name, Address                            | Addresses, Residents, Property, IP Data  | Focuses on geolocation/demographics; may include ownership history.                                  |
+| **[fastbackgroundcheck](https://www.fastbackgroundcheck.com)** | Name, Address, Phone Number              | Name, Address, Phone Number, Emails      | Seems to comb though billions of records as stated on it's [website](https://www.fastbackgroundcheck.com/about)                           |
+| **[zbase](https://www.zabasearch.com/)**               | first, last name, city state             | Names, Possible Relatives, et al         | comes from various sources, as stated on it's [faq](https://www.zabasearch.com/faq/), free partial look up and is **accurate*** |
 
 ---
 
