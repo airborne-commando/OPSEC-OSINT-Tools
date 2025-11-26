@@ -738,7 +738,9 @@ Take a look at the documents which I will [link here](https://breach.vip/api/doc
 
 **Newsletter(s):**
 
-- [OSINT news letter](https://osintnewsletter.com) Protip: use "topic" site:https://osintnewsletter.com
+- [OSINT news letter](https://osintnewsletter.com) 
+
+**Protip:** use "topic" site:https://osintnewsletter.com
 
 ***example:*** 
 
