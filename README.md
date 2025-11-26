@@ -337,11 +337,10 @@ Scholarly Publishing is done at a rigorous peer review process.
 >"Genealogy is the study of families and their ancestors and histories" <br>(Virginia Tech University Libraries, n.d., para. 1).[^38]
 
 Genealogy is the study of a family member, or the study of someones family tree or genealogical background. Not to be confused with forensics and DNA.
-
-- Google Dorks:
-
-| Operator              | Description                                     | Example                       |
+ 
+|                       |                  Google Dorks:                  |                               |
 | --------------------- | ----------------------------------------------- | ----------------------------- |
+| Operator              | Description                                     | Example                       |
 | `site:`               | Search within a specific website or domain      | `site:example.com`            |
 | `intitle:`            | Find pages with specific words in the **title** | `intitle:"login page"`        |
 | `allintitle:`         | All words must appear in the **title**          | `allintitle:admin login`      |
