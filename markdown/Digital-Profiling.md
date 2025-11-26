@@ -28,6 +28,10 @@ Digital profiling and behavioral analysis[^2] are powerful techniques for unders
 
 >"Threatening or intimidating security messages are not particularly effective, especially because they increase stress to such an extent that the individual may even be repulsed or deny the existence of the need for any security decision" (Bada, Sasse, & Nurse, 2019, p. 4.1)[^6].
 
+See also harassment:
+
+>"to annoy persistently, to create an unpleasant or hostile situation for especially by uninvited and unwelcome verbal or physical conduct." (Merriam-Webster, 2025)[^10]
+
 ---
 
 ## 1. Understand the Basics
@@ -210,3 +214,5 @@ In essence, this mindset places you in a constant state of alert—treating huma
 [^8]: Vocabulary.com. (n.d.). Biographical. In Vocabulary.com Dictionary. Retrieved September 30, 2025, from https://www.vocabulary.com/dictionary/biographical
 
 [^9]: FBI, & Block, S. (2016, April 8). *Using human sources in counterterrorism operations: Understanding the motivations and political impact*. FBI Law Enforcement Bulletin. https://leb.fbi.gov/articles/featured-articles/using-human-sources-in-counterterrorism-operations-understanding-the-motivations-and-political-impact
+
+[^10]: “Harass.” Merriam-Webster.com Dictionary, Merriam-Webster, https://www.merriam-webster.com/dictionary/harass. Accessed 26 Nov. 2025.
