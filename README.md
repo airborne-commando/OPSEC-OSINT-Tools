@@ -752,7 +752,7 @@ Take a look at the documents which I will [link here](https://breach.vip/api/doc
 
 **OPT OUTs**
 
-- A whole [big ass list](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) to opt out and to compare info.
+- A whole [Opt Out list](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) to opt out and to compare info.
 
 - [inteltechniques opt out workbook](https://inteltechniques.com/workbook.html)
 
@@ -768,7 +768,7 @@ Google dorks:
 ```mermaid
 flowchart TD
     A@{ label: "Google Search Query:<br>'first last' 'Street Address'<br>'City state' 'age'" } --> B["Results about you"]
-    B --> C["Big Ass Data Broker Opt Out List"]
+    B --> C["Broker Opt Out List"]
     C --> D["IntelTechniques<br>Opt-Out Workbook"]
     D --> E["People Search Tools"]
 
