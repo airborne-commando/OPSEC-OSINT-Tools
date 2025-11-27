@@ -18,7 +18,9 @@ A list of methodologies or a systematic approach. Everything will be found in th
 <p align="center">
 <img width="auto" height="auto" alt="Unified OPSEC–OSINT Lifecycle" src="../img/png/graphs/OPSEC–OSINT-lifecycle.png" />
 </p>
-
+<p align="center">
+Lifecycle Graph, a higher quality can be viewed <a href="../img/jpg/OPSEC–OSINT-lifecycle.jpg">here</a>.
+</p>
 
 # 🛡️ OPSEC–OSINT Master Lifecycle
 
