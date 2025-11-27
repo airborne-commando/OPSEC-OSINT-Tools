@@ -780,6 +780,11 @@ flowchart TD
 ```
 
 
+### And the final graph, the data collection pipeline:
+
+<p align="center"><img width="auto" height="auto" alt="data collection" src="./img/png/graphs/data-collection-pipeline.png"/></p>
+
+
 **Notice** 
 
 [Results about you (google index)](https://myactivity.google.com/results-about-you) can also be emailed so keep that in mind when comparing info from these sources such as: 
