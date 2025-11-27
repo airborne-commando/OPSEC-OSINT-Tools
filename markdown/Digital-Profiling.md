@@ -21,10 +21,14 @@
 <p align="center">
 <img alt="Digital Profiling" src="../img/png/graphs/digi-profiling.png" />
 </p>
+<p align="center">
+Digital Profiling Graph, a higher quality can be viewed <a href="../img/jpg/digi-profiling.jpg">here</a>.
+</p>
+
 
 # Digital Profiling and Behavioral Analysis Guide
 
-Digital profiling and behavioral analysis[^2] are powerful techniques for understanding individuals based on their online activities and digital footprints. While these methods are often used by professionals, you can apply many of the same principles and processes yourself by following a structured approach.
+Digital profiling and behavioral analysis[^2] are powerful techniques for understanding individuals based on their online activities and digital footprints. While these methods are often used by professionals, you can apply many of the same principles and processes yourself by following a structured approach. Be wary of the following however.
 
 >"Threatening or intimidating security messages are not particularly effective, especially because they increase stress to such an extent that the individual may even be repulsed or deny the existence of the need for any security decision" (Bada, Sasse, & Nurse, 2019, p. 4.1)[^6].
 
