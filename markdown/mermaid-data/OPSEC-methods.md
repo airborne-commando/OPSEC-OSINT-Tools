@@ -45,8 +45,9 @@ flowchart LR
     J1 --> K
     K --> J
     J --> L
+
     P@{ shape: rect}
-    style s1 fill:transparent,stroke:none
-    style Security fill:transparent,stroke:none
-    style subGraph0 stroke:none,fill:transparent
+    style s1 fill:#424242,stroke:none,color:#FFFFFF
+    style Security fill:#424242,stroke:none,color:#FFFFFF
+    style subGraph0 stroke:none,fill:#424242,color:#FFFFFF
 ```
