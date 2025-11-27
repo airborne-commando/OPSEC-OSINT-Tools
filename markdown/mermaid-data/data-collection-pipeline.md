@@ -55,7 +55,7 @@ flowchart TB
     n4 -- Seeing if the source is correct --> F
     F -- Recheck the source, multiple times --> G
     G -- "<span style=padding-left:>Of how, what and why.</span>" --> G3
-    G1 -- Luks, keepassxc, cold storage with as passphrase --- H3
+    G1 -- Luks, keepassxc, cold storage with a passphrase --- H3
     H -- "<span style=padding-left:>Automated Tools &amp; Scripts<br></span>such as Chrome Driver and Python" --> n4
     s1 <--> s2
 
