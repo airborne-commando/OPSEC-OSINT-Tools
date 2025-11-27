@@ -20,5 +20,23 @@ flowchart LR
     F --> G
     G --> H
     H --> I
-    style subGraph0 fill:transparent,stroke:none
+
+    style A color:#FFFFFF,fill:#424242
+    style B color:#FFFFFF,fill:#424242
+    style C fill:#424242,color:#FFFFFF
+    style D fill:#424242,color:#FFFFFF
+    style E color:#FFFFFF,fill:#424242
+    style F color:#FFFFFF,fill:#424242
+    style G fill:#424242,color:#FFFFFF
+    style H color:#FFFFFF,fill:#424242
+    style I color:#FFFFFF,fill:#424242
+    style subGraph0 fill:#757575,stroke:none,color:#FFFFFF
+    linkStyle 0 stroke:#FFFFFF,fill:none
+    linkStyle 1 stroke:#FFFFFF,fill:none
+    linkStyle 2 stroke:#FFFFFF,fill:none
+    linkStyle 3 stroke:#FFFFFF,fill:none
+    linkStyle 4 stroke:#FFFFFF,fill:none
+    linkStyle 5 stroke:#FFFFFF,fill:none
+    linkStyle 6 stroke:#FFFFFF,fill:none
+    linkStyle 7 stroke:#FFFFFF,fill:none
 ```

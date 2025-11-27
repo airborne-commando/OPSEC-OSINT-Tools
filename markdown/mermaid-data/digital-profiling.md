@@ -1,5 +1,5 @@
 ```mermaid
-flowchart TD
+flowchart TB
  subgraph DefensiveMindset["Parallel: Defensive Psyop Mindset"]
         M["Analyze for Manipulation<br>Question Intentions, Dissect Language"]
         L["View Interaction as Potential Threat"]
@@ -21,5 +21,9 @@ flowchart TD
     M --> N
     N --> O
 
-    style DefensiveMindset fill:transparent,stroke:none
+    style M fill:#616161,color:#FFFFFF
+    style L color:#FFFFFF,fill:#616161
+    style N color:#FFFFFF,fill:#616161
+    style O color:#FFFFFF,fill:#616161
+    style DefensiveMindset fill:#757575,stroke:none,color:#FFFFFF
 ```

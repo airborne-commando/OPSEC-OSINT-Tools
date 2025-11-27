@@ -1,9 +1,9 @@
 ```mermaid
 ---
 config:
-  layout: dagre
+  layout: elk
 ---
-flowchart TD
+flowchart TB
  subgraph LEGEND["Legend"]
         L_Phase["Phase<br>Primary Process"]
         L_Step["Process Step"]
@@ -12,8 +12,7 @@ flowchart TD
         L_Data["Data Node / Source"]
         L_Audit["Audit & Review"]
   end
- subgraph P1["Phase 1: 
- Planning & Scoping"]
+ subgraph P1["Phase 1: Planning & Scoping"]
         A@{ label: "<span style=\"padding-left:\">1b. <br/>Threat Modeling <br/>&amp;<br>OPSEC Baseline</span>" }
         TM@{ label: "<span style=\"padding-left:\">1. Define Target &amp; Objective<br>- What do you need to know?<br>- Define output: <br>map, timeline &amp; network</span>" }
         B["3. 
@@ -85,6 +84,7 @@ flowchart TD
     DM --> n1
     PDP --> n1
     END_Good -. Data is never finished .- n1
+
     A@{ shape: rect}
     TM@{ shape: rect}
     n1@{ shape: diam}
@@ -124,6 +124,30 @@ flowchart TD
     classDef defensive fill:#fff3cd,stroke:#856404,stroke-width:2px,color:#000
     classDef data fill:#f8d7da,stroke:#721c24,stroke-width:1px,color:#000
     classDef audit fill:#fffd6e, stroke:#383d41, stroke-width:2px, color:#000
-    style P1 color:#FFFFFF,stroke:none
-    style LEGEND color:#FFFFFF,fill:transparent,stroke:none
+    style P1 color:#FFFFFF,stroke:none,fill:#757575
+    style LEGEND color:#FFFFFF,fill:#757575,stroke:none
+    linkStyle 0 stroke:#000000
+    linkStyle 1 stroke:#000000,fill:none
+    linkStyle 2 stroke:#000000,fill:none
+    linkStyle 3 stroke:#000000,fill:none
+    linkStyle 4 stroke:#000000,fill:none
+    linkStyle 5 stroke:#000000,fill:none
+    linkStyle 6 stroke:#000000,fill:none
+    linkStyle 7 stroke:#000000,fill:none
+    linkStyle 8 stroke:#000000,fill:none
+    linkStyle 9 stroke:#000000,fill:none
+    linkStyle 10 stroke:#000000,fill:none
+    linkStyle 11 stroke:#000000,fill:none
+    linkStyle 12 stroke:#000000,fill:none
+    linkStyle 13 stroke:#000000,fill:none
+    linkStyle 14 stroke:#000000,fill:none
+    linkStyle 15 stroke:#000000,fill:none
+    linkStyle 16 stroke:#000000,fill:none
+    linkStyle 17 stroke:#000000,fill:none
+    linkStyle 18 stroke:#000000,fill:none
+    linkStyle 19 stroke:#000000,fill:none
+    linkStyle 20 stroke:#FFFFFF,fill:none
+    linkStyle 21 stroke:#FFFFFF,fill:none
+    linkStyle 22 stroke:#FFFFFF,fill:none
+    linkStyle 23 stroke:#FFFFFF,fill:none
 ```

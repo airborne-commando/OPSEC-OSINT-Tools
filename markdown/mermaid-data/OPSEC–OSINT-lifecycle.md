@@ -1,5 +1,5 @@
 ```mermaid
-flowchart TD
+flowchart TB
  subgraph subGraph0["Core Defensive Cycle"]
         A["1. Threat Modeling &amp;<br>OPSEC Baseline"]
         B["2. Self-OSINT/SOCMINT Audit<br>Map Your Exposure"]
@@ -22,5 +22,24 @@ flowchart TD
     H -- Provides Deep<br>Adversary Insight --> F
     F -- "Adapt & Re-evaluate" --> A
 
-    style subGraph0 fill:transparent,stroke:none
+    style A color:#FFFFFF,fill:#424242
+    style B color:#FFFFFF,fill:#424242
+    style C color:#FFFFFF,fill:#424242
+    style H color:#FFFFFF,fill:#424242
+    style D color:#FFFFFF,fill:#424242
+    style E color:#FFFFFF,fill:#424242
+    style F color:#FFFFFF,fill:#424242
+    style subGraph0 fill:#616161,stroke:none,color:#FFFFFF
+    linkStyle 0 stroke:#FFFFFF,fill:none
+    linkStyle 1 stroke:#FFFFFF,fill:none
+    linkStyle 2 stroke:#FFFFFF,fill:none
+    linkStyle 3 stroke:#FFFFFF,fill:none
+    linkStyle 4 stroke:#FFFFFF,fill:none
+    linkStyle 5 stroke:#FFFFFF,fill:none
+    linkStyle 6 stroke:#FFFFFF,fill:none
+    linkStyle 7 stroke:#FFFFFF,fill:none
+    linkStyle 8 stroke:#FFFFFF,fill:none
+    linkStyle 9 stroke:#FFFFFF,fill:none
+    linkStyle 10 stroke:#FFFFFF,fill:none
+    linkStyle 11 stroke:#FFFFFF,fill:none
 ```
