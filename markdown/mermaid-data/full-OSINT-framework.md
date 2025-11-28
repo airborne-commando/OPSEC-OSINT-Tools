@@ -3,7 +3,7 @@
 config:
   layout: elk
 ---
-flowchart TB
+flowchart LR
  subgraph LEGEND["Legend"]
         L_Phase["Phase<br>Primary Process"]
         L_Step["Process Step"]
@@ -15,21 +15,26 @@ flowchart TB
  subgraph P1["Phase 1: Planning & Scoping"]
         A@{ label: "<span style=\"padding-left:\">1b. <br/>Threat Modeling <br/>&amp;<br>OPSEC Baseline</span>" }
         TM@{ label: "<span style=\"padding-left:\">1. Define Target &amp; Objective<br>- What do you need to know?<br>- Define output: <br>map, timeline &amp; network</span>" }
+        n1["See phase 1 &amp; 1b"]
+  end
+ subgraph s1["Passive Collection"]
+        C["2. 
+        Collect OSINT 
+        &amp; 
+        SOCMINT<br>- Gather public data:<br>news, filings, govt<br>- Scrape social media SOCMINT"]
         B["3. 
         Lay Psychological Foundation<br>- Analyze tone 
         &amp; 
         sentiment NLP<br>- Track behavioral cues 
         &amp; 
         timing"]
-        C["2. 
-        Collect OSINT 
-        &amp; 
-        SOCMINT<br>- Gather public data:<br>news, filings, govt<br>- Scrape social media SOCMINT"]
         DB["3c. 
         Digital Biography<br>Gather IDs, emails,<br>social profiles &amp; posts"]
         BP["3d.<br>Analyze Behavioral Patterns<br>Find patterns in time, topics &amp; networks"]
         CA["3e. 
         Assess Competencies<br>&amp;<br>Affinities<br><br>Technical skill<br>&amp;<br>privacy awareness"]
+  end
+ subgraph s2["<span style=padding-left:><span style=padding-left:><span style=padding-left:><span style=padding-left:>Active Collection</span></span></span></span>"]
         D["4. 
         Acquire IMINT<br>- Satellite:<br>Google Earth, Bing<br>- Drone:<br>Legal flights only<br>- On-foot:<br>Public photography"]
         E["5. 
@@ -42,26 +47,27 @@ flowchart TB
         PF["8. 
         Compile &amp; Report Findings<br>- Synthesize into 
         timeline &amp; map<br>- List key findings &amp; risks"]
+  end
+ subgraph s3["Phase 5: Defensive ops"]
         H["9. 
         Counter-OSINT Audit<br>- Strip metadata from your files<br>- Audit your own digital footprint<br>- Monitor for self-leaks"]
-        CI["10. 
-        Counter-Intelligence<br>Privacy Hardening,<br>Disinformation<br>&amp;<br>SOCMINT Monitoring"]
         PDP["11. 
         Physical &amp; Data Protection"]
+        CI["10. 
+        Counter-Intelligence<br>Privacy Hardening,<br>Disinformation<br>&amp;<br>SOCMINT Monitoring"]
+  end
+ subgraph s4["Phase 6:"]
         I["12. 
         Finalize &amp; Secure Report<br>- Encrypt &amp; secure report"]
         CR["13. 
         Continuous Review 
         &amp;<br>PsyOps Awareness"]
-        DM["Defensive Psyop Mindset"]
         EC["Ethical &amp; Legal Check<br>All data public and legally obtained?"]
-        END_Good["Process Complete"]
         END_Bad["Stop 
         &amp; 
         Securely Delete Data"]
+        END_Good["Process Complete"]
   end
-    PF -- Phase 6:<br>Reporting &amp; Integration --> I
-    PF -- Phase 5:<br>Defensive Operations --> H
     I -- Phase 0:<br>Ethical &amp; Legal Gate --> EC
     I --> CR
     EC -- Yes --> END_Good
@@ -73,17 +79,24 @@ flowchart TB
     F -- Phase 4:<br>Analysis &amp; Synthesis --> G
     H --> CI
     CI --> PDP
-    CR --> DM
     G --> PF
     TM --> A
-    A -- "<span style=padding-left:>Phase 2:<br>Passive Collection<br>(SOCMINT &amp; OSINT)</span>" --> C
     C --> B
     B --> DB
-    CA -- "<span style=padding-left:><span style=padding-left:><span style=padding-left:>Phase 3:<br>Active Collection<br>(IMINT &amp; GEOINT)</span></span></span>" --> D
-    END_Bad --> n1["See phase 1 &amp; 1b"]
-    DM --> n1
-    PDP --> n1
-    END_Good -. Data is never finished .- n1
+    L_Data ~~~ L_Audit
+    L_Defensive ~~~ L_Data
+    L_Security ~~~ L_Defensive
+    L_Step ~~~ L_Security
+    L_Phase ~~~ L_Step
+    END_Bad --> END_Good
+    CR -- "<span style=padding-left:>Defensive Psyop Mindset</span>" --> EC
+    s1 -- "<span style=padding-left:><span style=padding-left:><span style=padding-left:><span style=padding-left:>Phase 3:<br>Active Collection<br>(IMINT &amp; GEOINT)</span></span></span></span>" --> s2
+    P1 -- "<span style=padding-left:><span style=padding-left:>Phase 2:<br>Passive Collection<br>(SOCMINT &amp; OSINT)</span></span>" --> s1
+    s2 -- "<span style=padding-left:>Phase 6:<br>Reporting &amp; Integration</span>" --> P1
+    s2 -- "<span style=padding-left:><span style=padding-left:>Phase 5:<br>Defensive Operations</span></span>" --> s3
+    s3 -- "<span style=padding-left:><span style=padding-left:>Phase 6:<br>Reporting &amp; Integration</span></span>" --> P1
+    s4 --> P1
+    s3 --> s4
 
     A@{ shape: rect}
     TM@{ shape: rect}
@@ -96,8 +109,9 @@ flowchart TB
      L_Audit:::audit
      A:::audit
      TM:::phase
-     B:::phase
+     n1:::audit
      C:::step
+     B:::phase
      DB:::data
      BP:::data
      CA:::data
@@ -107,15 +121,13 @@ flowchart TB
      G:::step
      PF:::step
      H:::defensive
-     CI:::defensive
      PDP:::defensive
+     CI:::defensive
      I:::security
      CR:::defensive
-     DM:::defensive
      EC:::audit
-     END_Good:::step
      END_Bad:::step
-     n1:::audit
+     END_Good:::step
      P1:::phaseCluster
     classDef phaseCluster fill:none,stroke:#333,stroke-width:3px,color:#000
     classDef phase fill:#e6f3ff,stroke:#333,stroke-width:2px,color:#000
@@ -124,9 +136,13 @@ flowchart TB
     classDef defensive fill:#fff3cd,stroke:#856404,stroke-width:2px,color:#000
     classDef data fill:#f8d7da,stroke:#721c24,stroke-width:1px,color:#000
     classDef audit fill:#fffd6e, stroke:#383d41, stroke-width:2px, color:#000
+    style s1 color:#FFFFFF,fill:#757575
+    style s2 fill:#757575,color:#FFFFFF
     style P1 color:#FFFFFF,stroke:none,fill:#757575
+    style s3 fill:#757575,color:#FFFFFF
+    style s4 fill:#757575,color:#FFFFFF
     style LEGEND color:#FFFFFF,fill:#757575,stroke:none
-    linkStyle 0 stroke:#000000
+    linkStyle 0 stroke:#000000,fill:none
     linkStyle 1 stroke:#000000,fill:none
     linkStyle 2 stroke:#000000,fill:none
     linkStyle 3 stroke:#000000,fill:none
@@ -141,13 +157,11 @@ flowchart TB
     linkStyle 12 stroke:#000000,fill:none
     linkStyle 13 stroke:#000000,fill:none
     linkStyle 14 stroke:#000000,fill:none
-    linkStyle 15 stroke:#000000,fill:none
-    linkStyle 16 stroke:#000000,fill:none
-    linkStyle 17 stroke:#000000,fill:none
-    linkStyle 18 stroke:#000000,fill:none
-    linkStyle 19 stroke:#000000,fill:none
-    linkStyle 20 stroke:#FFFFFF,fill:none
-    linkStyle 21 stroke:#FFFFFF,fill:none
-    linkStyle 22 stroke:#FFFFFF,fill:none
-    linkStyle 23 stroke:#FFFFFF,fill:none
+    linkStyle 22 stroke:#D50000,fill:none
+    linkStyle 23 stroke:#D50000,fill:none
+    linkStyle 24 stroke:#D50000,fill:none
+    linkStyle 25 stroke:#D50000,fill:none
+    linkStyle 26 stroke:#D50000,fill:none
+    linkStyle 27 stroke:#D50000,fill:none
+    linkStyle 28 stroke:#D50000,fill:none
 ```
