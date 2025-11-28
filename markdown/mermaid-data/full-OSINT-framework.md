@@ -15,9 +15,8 @@ flowchart LR
  subgraph P1["Phase 1: Planning & Scoping"]
         A@{ label: "<span style=\"padding-left:\">1b. <br/>Threat Modeling <br/>&amp;<br>OPSEC Baseline</span>" }
         TM@{ label: "<span style=\"padding-left:\">1. Define Target &amp; Objective<br>- What do you need to know?<br>- Define output: <br>map, timeline &amp; network</span>" }
-        n1["See phase 1 &amp; 1b"]
   end
- subgraph s1["Passive Collection"]
+ subgraph s1["<span style=padding-left:><span style=padding-left:><span style=padding-left:>Phase 2:<br>Passive Collection<br>(SOCMINT &amp; OSINT)</span></span></span>"]
         C["2. 
         Collect OSINT 
         &amp; 
@@ -34,7 +33,7 @@ flowchart LR
         CA["3e. 
         Assess Competencies<br>&amp;<br>Affinities<br><br>Technical skill<br>&amp;<br>privacy awareness"]
   end
- subgraph s2["<span style=padding-left:><span style=padding-left:><span style=padding-left:><span style=padding-left:>Active Collection</span></span></span></span>"]
+ subgraph s2["<span style=padding-left:><span style=padding-left:><span style=padding-left:><span style=padding-left:><span style=padding-left:>Phase 3:<br>Active Collection<br>(IMINT &amp; GEOINT)</span></span></span></span></span>"]
         D["4. 
         Acquire IMINT<br>- Satellite:<br>Google Earth, Bing<br>- Drone:<br>Legal flights only<br>- On-foot:<br>Public photography"]
         E["5. 
@@ -48,7 +47,7 @@ flowchart LR
         Compile &amp; Report Findings<br>- Synthesize into 
         timeline &amp; map<br>- List key findings &amp; risks"]
   end
- subgraph s3["Phase 5: Defensive ops"]
+ subgraph s3["<span style=padding-left:><span style=padding-left:><span style=padding-left:>Phase 5:<br>Defensive Operations</span></span></span>"]
         H["9. 
         Counter-OSINT Audit<br>- Strip metadata from your files<br>- Audit your own digital footprint<br>- Monitor for self-leaks"]
         PDP["11. 
@@ -56,7 +55,7 @@ flowchart LR
         CI["10. 
         Counter-Intelligence<br>Privacy Hardening,<br>Disinformation<br>&amp;<br>SOCMINT Monitoring"]
   end
- subgraph s4["Phase 6:"]
+ subgraph s4["<span style=padding-left:><span style=padding-left:><span style=padding-left:>Phase 6:<br>Reporting &amp; Integration</span></span></span>"]
         I["12. 
         Finalize &amp; Secure Report<br>- Encrypt &amp; secure report"]
         CR["13. 
@@ -67,6 +66,7 @@ flowchart LR
         &amp; 
         Securely Delete Data"]
         END_Good["Process Complete"]
+        n1["See phase 1 &amp; 1b<br>Data is never complete"]
   end
     I -- Phase 0:<br>Ethical &amp; Legal Gate --> EC
     I --> CR
@@ -90,13 +90,7 @@ flowchart LR
     L_Phase ~~~ L_Step
     END_Bad --> END_Good
     CR -- "<span style=padding-left:>Defensive Psyop Mindset</span>" --> EC
-    s1 -- "<span style=padding-left:><span style=padding-left:><span style=padding-left:><span style=padding-left:>Phase 3:<br>Active Collection<br>(IMINT &amp; GEOINT)</span></span></span></span>" --> s2
-    P1 -- "<span style=padding-left:><span style=padding-left:>Phase 2:<br>Passive Collection<br>(SOCMINT &amp; OSINT)</span></span>" --> s1
-    s2 -- "<span style=padding-left:>Phase 6:<br>Reporting &amp; Integration</span>" --> P1
-    s2 -- "<span style=padding-left:><span style=padding-left:>Phase 5:<br>Defensive Operations</span></span>" --> s3
-    s3 -- "<span style=padding-left:><span style=padding-left:>Phase 6:<br>Reporting &amp; Integration</span></span>" --> P1
-    s4 --> P1
-    s3 --> s4
+    END_Good --> n1
 
     A@{ shape: rect}
     TM@{ shape: rect}
@@ -109,7 +103,6 @@ flowchart LR
      L_Audit:::audit
      A:::audit
      TM:::phase
-     n1:::audit
      C:::step
      B:::phase
      DB:::data
@@ -128,6 +121,7 @@ flowchart LR
      EC:::audit
      END_Bad:::step
      END_Good:::step
+     n1:::audit
      P1:::phaseCluster
     classDef phaseCluster fill:none,stroke:#333,stroke-width:3px,color:#000
     classDef phase fill:#e6f3ff,stroke:#333,stroke-width:2px,color:#000
@@ -136,11 +130,11 @@ flowchart LR
     classDef defensive fill:#fff3cd,stroke:#856404,stroke-width:2px,color:#000
     classDef data fill:#f8d7da,stroke:#721c24,stroke-width:1px,color:#000
     classDef audit fill:#fffd6e, stroke:#383d41, stroke-width:2px, color:#000
+    style P1 color:#FFFFFF,stroke:none,fill:#757575
+    style s4 fill:#757575,color:#FFFFFF
     style s1 color:#FFFFFF,fill:#757575
     style s2 fill:#757575,color:#FFFFFF
-    style P1 color:#FFFFFF,stroke:none,fill:#757575
     style s3 fill:#757575,color:#FFFFFF
-    style s4 fill:#757575,color:#FFFFFF
     style LEGEND color:#FFFFFF,fill:#757575,stroke:none
     linkStyle 0 stroke:#000000,fill:none
     linkStyle 1 stroke:#000000,fill:none
@@ -157,11 +151,4 @@ flowchart LR
     linkStyle 12 stroke:#000000,fill:none
     linkStyle 13 stroke:#000000,fill:none
     linkStyle 14 stroke:#000000,fill:none
-    linkStyle 22 stroke:#D50000,fill:none
-    linkStyle 23 stroke:#D50000,fill:none
-    linkStyle 24 stroke:#D50000,fill:none
-    linkStyle 25 stroke:#D50000,fill:none
-    linkStyle 26 stroke:#D50000,fill:none
-    linkStyle 27 stroke:#D50000,fill:none
-    linkStyle 28 stroke:#D50000,fill:none
 ```
