@@ -406,6 +406,11 @@ And again [You Didn't Have to Post That](https://www.youtube.com/watch?v=AkQaL9S
 * [The Linux Kernel Archives — tmpfs (August 23, 2024)](https://www.kernel.org/doc/html/latest/filesystems/tmpfs.html)
 * [Ramfs, rootfs and initramfs — Linux Kernel documentation (October 17, 2005)](https://www.kernel.org/doc/html/latest/filesystems/ramfs-rootfs-initramfs.html#ramfs-rootfs-and-initramfs)
 * [tmpfs(5) manual page — Arch Linux Man Pages (updated Sep 21, 2025, Linux man-pages 6.16)](https://man.archlinux.org/man/tmpfs.5)
+* [cryptsetup - DMCrypt (Updated June 14th, 2025)](https://gitlab.com/cryptsetup/cryptsetup/-/wikis/DMCrypt)
+* [cryptsetup home page](https://gitlab.com/cryptsetup/cryptsetup)
+* [cryptsetup(8) manual page — Arch Linux Man Pages(updated Aug 13th, 2025, Linux man-pages 2.8.1-1)](https://man.archlinux.org/man/core/cryptsetup/cryptsetup.8.en)
+* [Chapter 29 Section 2 - Encrypting block devices using dm-crypt/LUKS - redhat documentation (2025)](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/5/html/installation_guide/ch29s02)
+* [dm-crypt - Archlinux Wikipedia (Updated on 21 June, 2025)](https://wiki.archlinux.org/title/Dm-crypt)
 
 ## References:
 
