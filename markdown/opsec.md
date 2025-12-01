@@ -33,27 +33,27 @@ OPSEC Methods Graph, a higher quality can be viewed <a href="../img/jpg/OPSEC-me
 ## Content Obfuscation
 
 ### Text Rewriting Tools
-- [Free Article Spinner](https://free-article-spinner.com/) - Basic and advanced paraphrasing
-- [RewriteTools](https://www.rewritertools.com/article-spinner) - Simple article spinner
-- [SEO Tool Station](https://seotoolstation.com/article-rewriter) - SEO-focused rewriter (use Tor after few attempts)
-- [ChatGPT](https://chatgpt.com/) - "Rewrite this as..." prompt (censorship aware)
-- [DeepSeek](https://chat.deepseek.com/) - Requires account (censored on sensitive topics)
-  - [Offline Version Guide](https://www.reddit.com/r/AIAssisted/comments/1ibv6g8/how_to_run_deepseek_r1_offline_on_your_computer/)
-  - [LM Studio](https://lmstudio.ai/) - For running models locally
+- [Free Article Spinner](https://free-article-spinner.com/) - Basic and advanced paraphrasing.
+- [RewriteTools](https://www.rewritertools.com/article-spinner) - Simple article spinner.
+- [SEO Tool Station](https://seotoolstation.com/article-rewriter) - SEO-focused rewriter (use Tor after few attempts).
+- [ChatGPT](https://chatgpt.com/) - "Rewrite this as..." prompt (censorship aware).
+- [DeepSeek](https://chat.deepseek.com/) - Requires account (censored on sensitive topics).
+  - [Offline Version Guide](https://www.reddit.com/r/AIAssisted/comments/1ibv6g8/how_to_run_deepseek_r1_offline_on_your_computer/).
+  - [LM Studio](https://lmstudio.ai/) - For running models locally.
 
 Protip: Doesn't hurt to write genuinely, act human and be human if doing [HUMINT](./HUMINT.md).
 
 ### Multilingual Tools
-- [Google Translate](https://translate.google.com/) - For language conversion
+- [Google Translate](https://translate.google.com/) - For language conversion.
 
 ---
 
 ## Image Generation & Editing
 
 ### Generation Tools
-- [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Local image generation
-  - [Civitai Model Repository](https://civitai.com/models) - Use 1.5 models for older GPUs
-- [This Person Does Not Exist](https://thispersondoesnotexist.com/) - Quick face generation (has watermark)
+- [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Local image generation.
+  - [Civitai Model Repository](https://civitai.com/models) - Use 1.5 models for older GPUs.
+- [This Person Does Not Exist](https://thispersondoesnotexist.com/) - Quick face generation (has watermark).
 
 ### Editing Tools
 - [Free Inpaint](https://pincel.app/tools/inpaint) - Web-based inpainting
@@ -82,9 +82,9 @@ Protip: Doesn't hurt to write genuinely, act human and be human if doing [HUMINT
 ---
 
 # Encryption
-- [veracrypt](https://veracrypt.io/en/Beginner's%20Tutorial.html) - Container/drive encryption
-- [LUKS](https://guardianproject.info/archive/luks/) - Hard drive encryption
-- [keepassxc](https://keepassxc.org/) - Passwords and secure notes
+- [veracrypt](https://veracrypt.io/en/Beginner's%20Tutorial.html) - Container/drive encryption.
+- [LUKS](https://guardianproject.info/archive/luks/) - Hard drive encryption.
+- [keepassxc](https://keepassxc.org/) - Passwords and secure notes.
 
 ## Anonymity Tools
 - Ip Hiders and VPNS
@@ -107,25 +107,28 @@ According to *The Sacramento Bee*
 
 >“the U.S. Attorney’s Office in Sacramento said two of them included a Lodi man, who was arrested for allegedly using the Freenet network to share child pornography, and a Solano County man, who was arrested for allegedly trafficking a 16-year-old girl who had been reported missing from Sacramento County” (The Sacramento Bee, 2025).[^9]
 
-Tor Also faced Vulnerabilities:
+Tor Also faced Vulnerabilities from either:
 
-- [timing analyses](https://www.pcmag.com/news/tor-dark-web-browser-users-reportedly-unmasked-by-police)
-- They even state it's most likely [user error](https://support.torproject.org/faq/staying-anonymous/)
+- timing analyses[^13].
+- user error[^14].
+  
+>"Tor does not protect all of your computer's Internet traffic when you run it. Tor only protects applications that are properly configured to send their Internet traffic through Tor."
 
 ---
 
 - Operating Systems
-    - [tails OS](https://tails.net/) - Live USB OS
-    - [Whonix](https://www.whonix.org/) - VM-based anonymity OS
+    - [tails OS](https://tails.net/) - Live USB OS.
+    - [Whonix](https://www.whonix.org/) - VM-based anonymity OS.
 
 
 - Phones
     - Android
-        - [GrapheneOS](https://grapheneos.org/) - GrapheneOS is a privacy and security-focused mobile operating system based on the Android Open Source Project (AOSP). 
-        - [CalyxOS](https://calyxos.org/) - CalyxOS is a privacy-focused, open-source Android operating system designed to give everyday users greater control over their data and digital security.
+        - **GrapheneOS** - GrapheneOS is a privacy and security-focused mobile operating system based on the Android Open Source Project (AOSP). Can only run on Pixel phones.
+          
+        - **CalyxOS** - CalyxOS is a privacy-focused, open-source Android operating system designed to give everyday users greater control over their data and digital security. Can only run on specific phones.
 
 ---
-## To try TailsOS (Unsecure)
+## To try TailsOS (Insecure)
 ---
 
 - [ISO image](https://tails.net/install/download-iso/index.en.html)
@@ -173,24 +176,23 @@ cd i2pd-tails-os
 
 After installation, you'll find these desktop shortcuts:
 
-- **Enable I2P**: Activates I2P functionality
-- **Disable I2P**: Deactivates I2P and restores normal Tor-only operation
-- **I2P Console**: Opens the I2P router admin interface
+- **Enable I2P**: Activates I2P functionality.
+- **Disable I2P**: Deactivates I2P and restores normal Tor-only operation.
+- **I2P Console**: Opens the I2P router admin interface.
 
 To use I2P:
 
 1. Click the **Enable I2P** desktop shortcut
-2. Start Tor Browser
-3. Browse .i2p sites:
-   - For known sites: `http://site.i2p` (never use https://)
+2. Start the Tor Browser and Browse .i2p sites:
+   - For known sites: `http://site.i2p` (never use https:// only http://)
    - For more reliable access: Use .b32.i2p addresses
 
 To monitor I2P status:
 - Open the I2P console at `http://10.200.1.1:7070`
 
-[Usage and Considerations](https://github.com/itsOwen/i2pd-tails-os?tab=readme-ov-file#-usage)
+[Usage and Considerations](https://github.com/itsOwen/i2pd-tails-os?tab=readme-ov-file#-usage).
 
-[With I2P support, Install Docs](https://github.com/itsOwen/i2pd-tails-os?tab=readme-ov-file#-installation)
+[With I2P support, Install Docs](https://github.com/itsOwen/i2pd-tails-os?tab=readme-ov-file#-installation).
 
 ---
 
@@ -201,7 +203,7 @@ To monitor I2P status:
 ### How It Works
 
 * **Virtual Machines (VMs)**: Simulated systems that run independently on shared hardware or on the cloud.
-* **Hypervisor**: Software that manages VMs, directly on the CPU[^3]. 
+* **Hypervisor**: Software that manages VMs, directly on the CPU.[^3] 
 
   * **Type 1** runs directly on hardware (e.g., VMware ESXi).[^4]
   * **Type 2** runs on an OS, typically a server.[^4]
@@ -223,7 +225,7 @@ For LUKS, the user needs to enter the password typically in order to mount said 
 * **Desktop**: Centralized desktops delivered to users, think amazon web service.[^7]
     - Can also be local use like virt-manager/KVM **Hypervisors**.
       
->"(Local desktop virtualization allows running a virtualization stack on a system physically accessible by the hypervisor, enabling the use of software on a specific OS without installing that OS by creating a virtualized instance) (Veeam, n.d.)."[^8]
+>"(Local desktop virtualization allows running a virtualization stack on a system physically accessible by the hypervisor, enabling the use of software on a specific OS without installing that OS by creating a virtualized instance)"[^8].(Veeam, n.d.)
 
 * **Network**: Virtual network channels.
 * **Storage**: Unified storage from multiple devices.
@@ -231,17 +233,17 @@ For LUKS, the user needs to enter the password typically in order to mount said 
 
 ### Benefits of a remote virtual machine
 
-* Better resource use
-* Lower hardware costs
-* Easy scaling
-* Improved security
-* Simplified backups and recovery
+* Better resource use.
+* Lower hardware costs.
+* Easy scaling.
+* Improved security.
+* Simplified backups and recovery.
 
 
 ### Downsides of a remote VM:
 
-* Security risks
-* Internet access only
+* Security risks.
+* Internet access only.
   
 
 ### Use Cases
@@ -251,13 +253,13 @@ Core to cloud computing and enterprise IT, enabling efficient, scalable infrastr
 
 ### Benefits of a local virtual machine
 
-* Better Security
-* Ease of Access
+* Better Security.
+* Ease of Access.
 
 ### Downsides of a local VM:
 
-* Hardware costs
-* Single point of failure
+* Hardware costs.
+* Single point of failure.
 
 ### Use Cases
 
@@ -265,8 +267,8 @@ Personal use cases, such as videogames to isolation of a user environment.
 
 ---
 
-- [Libvirt](https://virt-manager.org/) - Advanced Linux virtualization
-- [VirtualBox](https://www.virtualbox.org/) - Cross-platform solution
+- [Libvirt](https://virt-manager.org/) - Advanced Linux virtualization.
+- [VirtualBox](https://www.virtualbox.org/) - Cross-platform solution.
 
 ---
 
@@ -275,21 +277,21 @@ Personal use cases, such as videogames to isolation of a user environment.
 ### Email Services
 - [User/Email Generator](https://github.com/airborne-commando/user-email-gen) - For ProtonMail/cock.li
     - PROTIP: For Proton, you'll probably want to use a VPN as TOR will get flagged; use Mullvad. Cock.li is back up but you'll need to use an email client, use the ones suggested below.
-- [Temp-Mail](https://temp-mail.org/en/) - Temporary email
-- [Username Generator](https://jimpix.co.uk/words/username-generator.php)
-- [cock.li](https://cock.li/register.php)
-- [ProtonMail](https://proton.me/mail)
+- [Temp-Mail](https://temp-mail.org/en/) - Temporary email.
+- [Username Generator](https://jimpix.co.uk/words/username-generator.php).
+- [cock.li](https://cock.li/register.php).
+- [ProtonMail](https://proton.me/mail).
 
 ### email clients
 
-- [thunderbird](https://www.thunderbird.net/en-US/)
+- [thunderbird](https://www.thunderbird.net/en-US/).
 
 ### Android
-- [k-9 mail](https://k9mail.app/)
+- [k-9 mail](https://k9mail.app/).
 
 
 ### Data Broker Opt-Out
-- [Big Ass Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List)
+- [Big Ass Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List).
 
 ---
 
@@ -299,7 +301,7 @@ Personal use cases, such as videogames to isolation of a user environment.
 ---
 
 ## Data Destruction
-- [DBAN](https://dban.org/) - HDD wiping; VM. Not good for SSD's
+- [DBAN](https://dban.org/) - HDD wiping; VM. Not good for SSD's.
 - [Arch Linux Wipe Guide](https://wiki.archlinux.org/title/Securely_wipe_disk) Shows how to effectively wipe an SSD.
 - [NVMe/SSD/HDD Nuke Script](https://gist.github.com/airborne-commando/6a690bd0644a9f1d76bc8c585d9ee969) may brick your drives, trust me.
 - [physical destruction](physical-destruction.md) last ditch effort, may be costly.
@@ -307,10 +309,10 @@ Personal use cases, such as videogames to isolation of a user environment.
 ---
 
 ## Miscellaneous
-- [PrivacyTools.io](https://www.privacytools.io/) - Privacy software/resources
+- [PrivacyTools.io](https://www.privacytools.io/) - Privacy software/resources.
 - [crypt.fyi](https://www.crypt.fyi/new) - "Secure" data sharing, I say "Secure" because it's not safe on screenshots.
-- [One-Time Pad Implementation](https://github.com/airborne-commando/one-time-pad-truly-random)
-- [Mouse-R](https://gist.github.com/airborne-commando/105e4c77598aab9662bca833ee944379) - use with veracrypt for mouse entropy
+- [One-Time Pad Implementation](https://github.com/airborne-commando/one-time-pad-truly-random).
+- [Mouse-R](https://gist.github.com/airborne-commando/105e4c77598aab9662bca833ee944379) - use with veracrypt for mouse entropy.
 
 **Zip**
 - [Random Address](https://zip.postcodebase.com/randomaddress) - Zip code gen for the US.
@@ -379,7 +381,7 @@ What I tend to do is save this in private notes inside simplex, I'd also recomme
 
 **SimpleX**
 - Securely transfers `db2` password
-  - After transfer: run `wipe` to remove residuals on desktop (HDD) for SSD use an encrypted drive or container
+  - After transfer: run `wipe` to remove residuals on desktop (HDD) for SSD use an encrypted drive or container.
   - Can upload/download from encrypted container.
 
 
@@ -411,6 +413,8 @@ And again [You Didn't Have to Post That](https://www.youtube.com/watch?v=AkQaL9S
 * [cryptsetup(8) manual page — Arch Linux Man Pages(updated Aug 13th, 2025, Linux man-pages 2.8.1-1)](https://man.archlinux.org/man/core/cryptsetup/cryptsetup.8.en)
 * [Chapter 29 Section 2 - Encrypting block devices using dm-crypt/LUKS - redhat documentation (2025)](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/5/html/installation_guide/ch29s02)
 * [dm-crypt - Archlinux Wikipedia (Updated on 21 June, 2025)](https://wiki.archlinux.org/title/Dm-crypt)
+* [Calyxos Documentation (n.d.)](https://calyxos.org/docs/guide/device-support/)
+* [GrapheneOS FAQs (n.d.)](https://grapheneos.org/faq#supported-devices)
 
 ## References:
 
@@ -437,3 +441,7 @@ And again [You Didn't Have to Post That](https://www.youtube.com/watch?v=AkQaL9S
 [^11]: Rohland, C. (Original work published 2001, December 01). Tmpfs - a file system which keeps all files in virtual memory. Updated by Dickins, H., & Kosaki, M. (2010). Retrieved November 10, 2025, from https://research.cs.wisc.edu/adsl/Software/tratr/.scripts/tratr/Documentation/filesystems/tmpfs.txt
 
 [^12]: “Library Research Guides: Digital Privacy: Digital Privacy Practices.” Indiana University Bloomington, wayback machine, 7 July 2025, https://web.archive.org/web/20250208104257/https://guides.libraries.indiana.edu/c.php?g=1325689&p=9771453.
+
+[^13]: Irwin, K. (2024, September 20). *Tor dark web browser users reportedly unmasked by police*. PCMag. https://www.pcmag.com/news/tor-dark-web-browser-users-reportedly-unmasked-by-police
+
+[^14]: Tor Project. (n.d.). *Tor Browser best practices*. Retrieved December 1, 2025, from https://support.torproject.org/tor-browser/security/using-tb-safely/
