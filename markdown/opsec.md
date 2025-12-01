@@ -38,7 +38,7 @@ OPSEC Methods Graph, a higher quality can be viewed <a href="../img/jpg/OPSEC-me
 - [SEO Tool Station](https://seotoolstation.com/article-rewriter) - SEO-focused rewriter (use Tor after few attempts).
 - [ChatGPT](https://chatgpt.com/) - "Rewrite this as..." prompt (censorship aware).
 - [DeepSeek](https://chat.deepseek.com/) - Requires account (censored on sensitive topics).
-  - [Offline Version Guide](https://www.reddit.com/r/AIAssisted/comments/1ibv6g8/how_to_run_deepseek_r1_offline_on_your_computer/).
+  - [Offline Version Guide](https://ihsoyct.github.io/r/AIAssisted/comments/1ibv6g8/how_to_run_deepseek_r1_offline_on_your_computer/).
   - [LM Studio](https://lmstudio.ai/) - For running models locally.
 
 Protip: Doesn't hurt to write genuinely, act human and be human if doing [HUMINT](./HUMINT.md).
