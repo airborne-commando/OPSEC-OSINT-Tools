@@ -125,7 +125,7 @@ Tor Also faced Vulnerabilities from either:
     - Android
         - **GrapheneOS** - GrapheneOS is a privacy and security-focused mobile operating system based on the Android Open Source Project (AOSP). Can only run on Pixel phones.
           
-        - **CalyxOS** - CalyxOS is a privacy-focused, open-source Android operating system designed to give everyday users greater control over their data and digital security. Can only run on specific phones.
+**Protip:** Not storing information on mobile devices is the best OPSEC.
 
 ---
 ## To try TailsOS (Insecure)
