@@ -403,8 +403,7 @@ And there is the multi-user issue, can be solved with this line in fstab.[^16] [
 ---
 
 
-**Remember:** The best OPSEC sometimes means not interacting with your target at all to avoid alerting them.
-And again [You Didn't Have to Post That](https://www.youtube.com/watch?v=AkQaL9SU2BY).
+**Remember:** The best OPSEC sometimes means not interacting with your target at all to avoid alerting them. You also [Didn't Have to Post That](https://www.youtube.com/watch?v=AkQaL9SU2BY).
 
 ---
 
