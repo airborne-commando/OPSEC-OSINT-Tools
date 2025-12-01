@@ -420,7 +420,6 @@ And there is the multi-user issue, can be solved with this line in fstab.[^16] [
 * [cryptsetup(8) manual page — Arch Linux Man Pages(updated Aug 13th, 2025, Linux man-pages 2.8.1-1)](https://man.archlinux.org/man/core/cryptsetup/cryptsetup.8.en)
 * [Chapter 29 Section 2 - Encrypting block devices using dm-crypt/LUKS - redhat documentation (2025)](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/5/html/installation_guide/ch29s02)
 * [dm-crypt - Archlinux Wikipedia (Updated on 21 June, 2025)](https://wiki.archlinux.org/title/Dm-crypt)
-* [Device Support - CalyxOS Documentation](https://calyxos.org/docs/guide/device-support/)
 * [GrapheneOS: Frequently Asked Questions - supported devices](https://grapheneos.org/faq#supported-devices)
 * [Using Tor Safely – Tor Browser Best Practices](https://support.torproject.org/tor-browser/security/using-tb-safely/)
 * [Timeless Timing Attacks and Preload Defenses in Tor’s DNS Cache](https://www.usenix.org/system/files/sec23summer_458-dahlberg-prepub.pdf)
