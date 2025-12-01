@@ -394,6 +394,12 @@ You may also just send things to RAM with tmpfs and do a shutdown as it lets nor
 
 "Tmpfs is a file system which keeps all files in virtual memory. Everything in tmpfs is temporary in the sense that no files will be created on your hard drive. If you unmount a tmpfs instance, everything stored therein is lost" ("Tmpfs is a file system," 2001).[^11]
 
+However tmpfs maybe an insecure method without dm-crypt/LUKS due to SWAP.[^15]
+
+And there is the multi-user issue, can be solved with this line in fstab.[^16] [^17]
+
+    tmpfs   /www/cache    tmpfs  rw,size=1G,nr_inodes=5k,noexec,nodev,nosuid,uid=user,gid=group,mode=1700 0 0
+
 ---
 
 
@@ -451,3 +457,9 @@ And again [You Didn't Have to Post That](https://www.youtube.com/watch?v=AkQaL9S
 [^13]: Irwin, K. (2024, September 20). *Tor dark web browser users reportedly unmasked by police*. PCMag. https://www.pcmag.com/news/tor-dark-web-browser-users-reportedly-unmasked-by-police
 
 [^14]: Tor Project. (n.d.). *Tor Browser best practices*. Retrieved December 1, 2025, from https://support.torproject.org/tor-browser/security/using-tb-safely/
+
+[^15]: FreeBSD Documentation Project. (n.d.). Encrypting swap. FreeBSD Handbook. https://docs-archive.freebsd.org/doc/13.0-RELEASE/usr/local/share/doc/freebsd/en/books/handbook/swap-encrypting.html
+
+[^16]: The Linux Kernel Archives. (2025, May 17). tmpfs(5) - a virtual memory filesystem. Linux man-pages. https://man7.org/linux/man-pages/man5/tmpfs.5.html
+
+[^17]: ArchWiki. (2025, September 28). tmpfs. https://wiki.archlinux.org/title/Tmpfs
