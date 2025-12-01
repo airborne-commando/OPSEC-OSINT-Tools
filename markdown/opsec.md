@@ -392,7 +392,7 @@ For SSD's I'd recommend using LUK's or a container as securely erasing in tradit
 
 You may also just send things to RAM with tmpfs and do a shutdown as it lets normal users write into it:
 
-"Tmpfs is a file system which keeps all files in virtual memory. Everything in tmpfs is temporary in the sense that no files will be created on your hard drive. If you unmount a tmpfs instance, everything stored therein is lost" ("Tmpfs is a file system," 2001).[^11]
+>"Tmpfs is a file system which keeps all files in virtual memory. Everything in tmpfs is temporary in the sense that no files will be created on your hard drive. If you unmount a tmpfs instance, everything stored therein is lost" ("Tmpfs is a file system," 2001).[^11]
 
 However tmpfs maybe an insecure method without dm-crypt/LUKS due to SWAP.[^15]
 
