@@ -88,7 +88,7 @@ However I'd like to point out that even with services like mullvad you'd still g
 
 See also:
 
-[OPSEC-OSINT-Tools - OPSEC Toolkit (n.d.)](./opsec.md).
+[OPSEC-OSINT-Tools - OPSEC Toolkit (n.d.)](./opsec.md)
 
 ## References:
 
