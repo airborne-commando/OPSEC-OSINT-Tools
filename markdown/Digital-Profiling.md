@@ -88,9 +88,19 @@ It will do this, what I'd do is create another account. Creating a new account w
 
 ---
 
-Additionally, the tools mentioned in the main guide such as Blackbird or Maigret can be used to track shared usernames across platforms. This can uncover other accounts the user maintains on services like Poshmark, Twitter, Snapchat, or Facebook. By correlating usernames and content across these platforms, you can build a clearer profile of target. This would include: interests, habits, and online presence using open-source intelligence (OSINT) methods and AI/Large Language Models.
+Additionally, the tools mentioned in the main guide such as Blackbird or Maigret can be used to track shared usernames across platforms. This can uncover other accounts the user maintains on services like Poshmark, Twitter, Snapchat, or Facebook. By correlating usernames and content across these platforms, you can build a clearer profile of target. 
+
+This would include: 
+
+* interests 
+* habits 
+* online presence
+  
+With using open-source intelligence (OSINT) methods and AI/Large Language Models.
 
 You can also use blackbird's CSV output to create a CSV file. From There you'll be able to create a list of re-used profile names, maigret is optional to generate a text report. Also do not forget to check the email if that itself is a username. When finished, you may feed this into an AI/Large Language Model.
+
+you may also use [this tool](https://github.com/airborne-commando/Crow?tab=readme-ov-file#word-filter-gen-for-blackbird) that was just released for blackbird to filter out json outputs.
 
 In short:
 
