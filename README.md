@@ -926,11 +926,11 @@ And to clone with any of my repos that were seed by me:
 
 [^42"]: IMDb. “Christine Weston Chandler.” IMDb, www.imdb.com/name/nm4813395. Accessed 25 Sept. 2025.
 
-[^43]: bugzorc. “suspectAGB.” *opsecfail*, www.opsecfail.github.io/blog.html?filecase=suspectAGB. Accessed 25 Sept. 2025.
+[^43]: bugzorc. “suspectAGB.” *opsecfail*, http://web.archive.org/web/20250811043247/http://www.opsecfail.github.io/blog.html?filecase=suspectAGB. wayback machine archive.
 
 [^44]: Evans, Jacob. “Alex Smith: Drill Rappers Sentenced to Life Over Street Stabbing.” *BBC*, 12 May 2023, www.bbc.com/news/uk-england-london-65570367.
 
-[^45]: bugzorc. “W0RMER.” opsecfail, https://opsecfail.github.io/blog.html?filecase=w0rmer. Accessed 25 Sept. 2025.
+[^45]: bugzorc. “W0RMER.” opsecfail, http://web.archive.org/web/20250811043247/https://opsecfail.github.io/blog.html?filecase=w0rmer. wayback machine archive.
 
 [^46]: “W0rmer – Darknet Diaries.” darknetdiaries, episode 63, 14 Apr. 2020, https://darknetdiaries.com/transcript/63.
 
