@@ -454,6 +454,7 @@ Three examples of GEOINT tools that you can access right now:
 | | Xcancel | [FF](https://addons.mozilla.org/en-US/firefox/addon/toxcancel/) [Chrome](https://chromewebstore.google.com/detail/xcancelcom-redirector) | Privacy Twitter front-end | Conflicts possible |
 | | reddit-uncensored | [FF](https://addons.mozilla.org/en-US/firefox/addon/reddit-uncensored/) [Chrome](https://chrome.google.com/webstore/detail/amfnaoebakgdklcahkilhjoglflgnhbm) | Restores deleted Reddit content | Arctic Shift API |
 | | usertoihsoyct | [GitHub](https://github.com/airborne-commando/usertoihsoyct) | Username redirect | Firefox addon |
+| | facecheck.id  | [chrome](https://chromewebstore.google.com/detail/facecheck-reverse-image-s/ciocmmdeghlmioiedoggnlefllfpfmdj?hl=en-US) and [firefox](https://github.com/airborne-commando/firefox-facecheck-id) | Biometrics | Firefox is github only, however it is trusted; a derivative of the chrome edition.
 
 
 ---
