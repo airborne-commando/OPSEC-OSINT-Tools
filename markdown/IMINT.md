@@ -42,9 +42,6 @@
 <p align="center">
 <img alt="IMINT (Imagery Intelligence)" src="../img/png/graphs/Recon.png" width="300" height="auto" />
 </p>
-<p align="center">
-Recon Graph, a higher quality can be viewed <a href="../img/jpg/Recon.jpg">here</a>.
-</p>
 
 ---
 

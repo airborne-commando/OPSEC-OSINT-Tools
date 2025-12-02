@@ -9,9 +9,6 @@ On the cyber side, agencies use threat hunting techniques such as Indicators of 
 <p align="center">
 <img width="auto" height="auto" alt="Digital Profiling" src="../../img/png/graphs/OSINT-Framework.png" />
 </p>
-<p align="center">
-Framework Graph, a higher quality can be viewed <a href="../../img/jpg/OSINT-Framework.jpg">here</a>.
-</p>
 
 The flowchart example provided aligns well with the investigative and operational framework that a three-letter agency might deploy against a threat actor. It includes structured phases such as:
 
