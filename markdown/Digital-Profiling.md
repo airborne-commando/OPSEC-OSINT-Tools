@@ -21,9 +21,6 @@
 <p align="center">
 <img alt="Digital Profiling" src="../img/png/graphs/digi-profiling.png" />
 </p>
-<p align="center">
-Digital Profiling Graph, a higher quality can be viewed <a href="../img/jpg/digi-profiling.jpg">here</a>.
-</p>
 
 
 # Digital Profiling and Behavioral Analysis Guide
