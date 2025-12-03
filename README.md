@@ -839,6 +839,8 @@ And to clone with any of my repos that were seed by me:
 
 [Best VPN Services: Which performs best? - VPN (November 1, 2025)](https://cyberinsider.com/vpn/best/)
 
+[Guerilla Open Access Manifesto - (Swartz, July 2008)](https://ia600101.us.archive.org/1/items/GuerillaOpenAccessManifesto/Goamjuly2008.pdf)
+
 ## References:
 
 [^1]: Office of the Director of National Intelligence. “Intelligence Community.” Office of the Director of National Intelligence, www.odni.gov/index.php/ncsc-what-we-do/121-dni/intelligence-community. Accessed 24 Sept. 2025. (Office of the Director of National Intelligence, sec.HUMINT)
