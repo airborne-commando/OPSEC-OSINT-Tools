@@ -26,7 +26,7 @@ A list of methodologies or a systematic approach. Everything will be found in th
 
 1. **Identify Critical Information (CII)**  
    - What do you not want adversaries to know? (emails, network access, home address, sensitive ops, habits).  
-   - [Main Guide: CII cycle](./markdown/README.md#operations-security-is-a-systematic-process-for)
+   - [Main Guide: CII cycle](../README.md#operations-security-is-a-systematic-process-for)
 
 2. **Analyze Threats & Vulnerabilities**  
    - Who might target you? Employer, stalker, law enforcement, competitor, criminal groups.  
@@ -95,7 +95,7 @@ A list of methodologies or a systematic approach. Everything will be found in th
 
 2. **Privacy Hardening**  
    - Lock down social media privacy.  
-   - Opt-out of brokers via [Big Ass List / IntelTechniques workbook](README.md#curated-lists).
+   - Opt-out of brokers via [Big Ass List / IntelTechniques workbook](../README.md#curated-lists).
 
 3. **disinfo Ops**  
    - Flood decoy identities.  

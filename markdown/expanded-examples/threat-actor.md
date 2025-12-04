@@ -133,7 +133,7 @@ As a result, said user had ***some*** measures but didn't seem to care... or did
 
 - What the user can do is the following:
 
-- Take a look at the information already available online, see my [methods](./README.md) for scrubbing of information[^1].
+- Take a look at the information already available online, see my [methods](../../README.md) for scrubbing of information[^1].
 - See if you can identify who you can tell what on specific things; like your diets, hobbies, issues.
 - Read up on the Terms of Service, most websites have those such as Facebook and snap.
   
