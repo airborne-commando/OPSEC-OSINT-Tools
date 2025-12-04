@@ -416,8 +416,8 @@ Three examples of GEOINT tools that you can access right now:
 
 ---
 
-| Category | Tool | Link | Functionality | Notes |
-| :--- | :--- | :--- | :--- | :--- |
+| Category | Tool        | Link        | Functionality | Notes                                            |
+| :---     | :---        | :---        | :---          | :---                                             |
 | **Search Engine Queries** | dorksearch | [Link](https://dorksearch.com/) | Advanced Google dorking | Manual query building |
 | | Google-FU | [GitHub](https://github.com/airborne-commando/GoogleFU-improved) | Advanced Google dorking | Rate limits, CAPTCHAs |
 | | Google Advanced | [Link](https://www.google.com/advanced_search) | Direct Google dorking | No saved searches; [Example](https://www.google.com/search?as_q=OSINT&as_epq=tools&as_sitesearch=github.com) |
