@@ -845,7 +845,9 @@ And to clone with any of my repos that were seed by me:
 
 [Best VPN Services: Which performs best? - VPN (November 1, 2025)](https://cyberinsider.com/vpn/best/)
 
-[Guerilla Open Access Manifesto - (Swartz, July 2008)](https://ia600101.us.archive.org/1/items/GuerillaOpenAccessManifesto/Goamjuly2008.pdf)
+[Guerilla Open Access Manifesto - Internet Archive (Swartz, July 2008)](https://ia600101.us.archive.org/1/items/GuerillaOpenAccessManifesto/Goamjuly2008.pdf)
+
+[A Standalone Osint Agency For Stronger National Security - George Mason University(Gauthier, 2025)](https://nationalsecurity.gmu.edu/wp-content/uploads/2025/01/A-Standalone-OSINT-Agency-for-Stronger-National-Security-FINAL-WEB.pdf)
 
 ## References:
 
