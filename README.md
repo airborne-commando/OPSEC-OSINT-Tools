@@ -534,7 +534,7 @@ Pipeline discussed [here](./markdown/opsec.md#opsec-pipeline-for-secure-files)
 
 ---
 
-| **Tool**                        | **Lookup By**                            | **Returns**                              | **Notes**                                                                                                                             
+| **Tool**                        | **Lookup By**                            | **Returns**                              | **Notes**                                                                                            
 |------------------------------- | ------------------------------------------|------------------------------------------|----------------------------------------------------------------------------------------------------- |
 | **[FastPeopleSearch](https://www.fastpeoplesearch.com/)**    | Name, Phone, Address                     | Age, Address, Phone, Email               | Free; data may be outdated.                                                                          |
 | **[That's Them](https://thatsthem.com/)**         | Name, Email, IP, VIN, Phone              | IP, Addresses, Phone, Email              | Aggregates data from Intelius/Spokeo; some paid results.                                             |
@@ -546,6 +546,8 @@ Pipeline discussed [here](./markdown/opsec.md#opsec-pipeline-for-secure-files)
 | **[ClustrMaps](https://clustrmaps.com/)**          | Name, Address                            | Addresses, Residents, Property, IP Data  | Focuses on geolocation/demographics; may include ownership history.                                  |
 | **[fastbackgroundcheck](https://www.fastbackgroundcheck.com)** | Name, Address, Phone Number              | Name, Address, Phone Number, Emails      | Seems to comb though billions of records as stated on it's [website](https://www.fastbackgroundcheck.com/about)                           |
 | **[zbase](https://www.zabasearch.com/)**               | first, last name, city state             | Names, Possible Relatives, et al         | comes from various sources, as stated on it's [faq](https://www.zabasearch.com/faq/), free partial look up and is **accurate*** |
+| **DoJ/State**                   | DoJ Resource                             | [Justice site](https://www.justice.gov/jmd/ls/state)                     | Various states and public govt info, Public govt info                                                |
+||                                  Megans Law website/FBI                   | [FBI registry](https://www.fbi.gov/how-we-can-help-you/scams-and-safety/sex-offender-registry)                     | Look up registered individuals, Only for registered individuals                                      |
 
 ---
 
@@ -572,18 +574,20 @@ Use [these tools listed](https://github.com/airborne-commando/tampermonkey-colle
 ## Breached Data:
 ---
 
-| **Tool**               | **Lookup By**       | **Returns**                              | **Limitations/Costs**                          | **Notes**                                                                 |
-|------------------------|--------------------|------------------------------------------|-----------------------------------------------|---------------------------------------------------------------------------|
-| **[Have I Been Pwned](https://haveibeenpwned.com/)**  | Email, Phone       | Breach names, dates, compromised data    | Free; no passwords/raw data                   | Trusted source; alerts for new breaches.                                  |
-| **[BreachDirectory](https://breachdirectory.org/)**    | Email, Username    | Partial password hashes (SHA-1, first 4 chars), length | Free; no full passwords            | Useful for credential stuffing checks.                                    |
-| **[Breach.vip](https://Breach.vip)**         | Email, Username    | Minecraft-focused leaks (usernames, IPs) | Free; requires login                          | Niche for gaming accounts; "memey" but functional.                        |
-| **[LeakPeek](https://leakpeek.com/)**           | Email, Username    | Partial breach snippets (e.g., domains)  | 5 free searches; Tor bypass possible          | Paid plans for full data; obfuscates results.                             |
-| **[LOLArchiver](https://osint.lolarchiver.com/)**        | Email, Username    | Full breach databases (e.g., emails, passwords) | Paid service only                     | For OSINT professionals; curated high-value leaks.                        |
-| **[Icebreaker](https://github.com/airborne-commando/ice-breaker)**         | Local breach files | Parses/analyzes large breach datasets    | Python/EXE; works best for <1000GB files      | Demo script provided; use with caution (e.g., [Facebook 533M leak](https://github.com/davidfegyver/facebook-533m)).        |
-| **[hashes.com](https://hashes.com/)**         | Hash (MD5, SHA-1, etc.) | Decrypted passwords (if hash is cracked) | Free/paid cracking tools                      | Useful for reversing hashes from breaches.                               |
-| **[pentester.com](https://pentester.com/)**          | Email, Username    | Full breach details (more than HIBP)     | ***Free**; no Tor needed; use incognito/private browsing mode.                           | Extensive; may include sensitive data.                    |
-| **[Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)**          | Email, Username, Domain, APK    | Infostealer infection indication, general information     | Free; no passwords/raw data                           | Infostealer only data                    |
-| **[archive.trace.rip](https://archive.trace.rip/)**          | detailed information    | user submitted     | Historical Data Breaches Archive                           | data breaches and scrapes throughout history                    |
+Here's the table organized in GitHub Markdown format:
+
+| Tool | Lookup By | Returns | Limitations/Costs | Notes |
+|------|-----------|---------|-------------------|-------|
+| **[Have I Been Pwned](https://haveibeenpwned.com/)** | Email, Phone | Breach names, dates, compromised data | Free; no passwords/raw data | Trusted source; alerts for new breaches |
+| **[BreachDirectory](https://breachdirectory.org/)** | Email, Username | Partial password hashes (SHA-1, first 4 chars), length | Free; no full passwords | Useful for credential stuffing checks |
+| **[Breach.vip](https://Breach.vip)** | Email, Username | Minecraft-focused leaks (usernames, IPs) | Free; requires login | Niche for gaming accounts; "memey" but functional |
+| **[LeakPeek](https://leakpeek.com/)** | Email, Username | Partial breach snippets (e.g., domains) | 5 free searches; Tor bypass possible | Paid plans for full data; obfuscates results |
+| **[LOLArchiver](https://osint.lolarchiver.com/)** | Email, Username | Full breach databases (e.g., emails, passwords) | Paid service only | For OSINT professionals; curated high-value leaks |
+| **[Icebreaker](https://github.com/airborne-commando/ice-breaker)** | Local breach files | Parses/analyzes large breach datasets | Python/EXE; works best for <1000GB files | Demo script provided; use with caution (e.g., [Facebook 533M leak](https://github.com/davidfegyver/facebook-533m)) |
+| **[hashes.com](https://hashes.com/)** | Hash (MD5, SHA-1, etc.) | Decrypted passwords (if hash is cracked) | Free/paid cracking tools | Useful for reversing hashes from breaches |
+| **[pentester.com](https://pentester.com/)** | Email, Username | Full breach details (more than HIBP) | **Free**; no Tor needed; use incognito/private browsing mode | Extensive; may include sensitive data |
+| **[Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)** | Email, Username, Domain, APK | Infostealer infection indication, general information | Free; no passwords/raw data | Infostealer only data |
+| **[archive.trace.rip](https://archive.trace.rip/)** | Detailed information | User submitted | Historical Data Breaches Archive | Data breaches and scrapes throughout history |
 
 ## Curl commands
 
@@ -657,20 +661,19 @@ Take a look at the documents which I will [link here](https://breach.vip/api/doc
 ## social media
 ---
 
-| **Platform**  | **Tool**               | **URL**                              | **Functionality**                          | **Limitations/Notes**                     |
-|--------------|-----------------------|--------------------------------------|------------------------------------------|------------------------------------------|
-| **General**  | Social Searcher       | [social-searcher.com](https://www.social-searcher.com/) | Searches multiple platforms at once | navigate public web search results more easily, does not collect, store, or scrape data from any social media platforms, and we do not access private content or use any official or unofficial APIs. [about](https://www.social-searcher.com/about/) |
-| **Snapchat** | Snapchat Map          | [map.snapchat.com](https://map.snapchat.com/) | View public Snapchat location stories | Requires Snapchat account |
-| **Instagram**| Dumpor               | [dumpor.com](https://dumpor.com/)    | View profiles/stories anonymously      | May have rate limits |
-|              | imginn               | [imginn.com](https://imginn.com/)    | View profiles/stories anonymously      |                      |
-| **Twitter**  | Sotwe                | [sotwe.com](https://www.sotwe.com/)  | Privacy-focused Twitter front-end             | No login required |
-|              | Xcancel              | [xcancel.com](https://xcancel.com/)  | Privacy-focused Twitter front-end             | No login required, Lightweight interface |
-|              | Nitter               | [nitter.net](https://nitter.net/)    | Privacy-focused Twitter front-end      | No login required |
-| **Facebook** | Facebook Search      | [facebook.com/search](https://www.facebook.com/search/) | Native Facebook search tool | Limited without login |
-|              | WhoPostedWhat       | [whopostedwhat.com](https://www.whopostedwhat.com/) | Search Facebook posts by date/keyword | Requires precise queries, public accounts |
-| **reddit**   | r00m101.com | [r00m101](https://r00m101.com/)       | Get detailed info from an active or deleted reddit account including “stage of life” and “hobbies”. | Pricing for full scope and features |
-|              | ihsoyct | [ihsoyct](https://ihsoyct.github.io/index.html) | Get archived posts from a reddit account from both APIs | [Host](https://arctic-shift.photon-reddit.com/live-charts/) can be down, [pushpull](https://pullpush.io/) is still non-functional as of writing. see [limitations](https://github.com/Fubs/reddit-uncensored?tab=readme-ov-file#limitations) different repo but raises a good point on archives. |
-
+| **Platform**  | **Tool**               | **URL**                              | **Functionality**                          | **Limitations/Notes**               |
+|--------------|-----------------------|------------------------------------- |------------------------------------------|-----------------------------------------|
+| **General**  | Social Searcher       | [social-searcher.com](https://www.social-searcher.com/)          | Searches multiple platforms at once      | see the [about](https://www.social-searcher.com/about/) page               |
+| **Snapchat** | Snapchat Map          | [map.snapchat.com](https://map.snapchat.com/)             | View public Snapchat location stories    | Requires Snapchat account                |
+| **Instagram**| Dumpor                | [dumpor.com](https://dumpor.com/)                   | View profiles/stories anonymously        | May have rate limits                     |
+||               imginn                | [imginn.com](https://imginn.com/)                   | View profiles/stories anonymously        | May be offline from time to time         |
+| **Twitter**  | Sotwe                 | [sotwe.com](https://www.sotwe.com/)                    | Privacy-focused Twitter front-end        | No login required                        |
+||               Xcancel               | [xcancel.com](https://xcancel.com/)                  | Privacy-focused Twitter front-end        | No login required, Lightweight interface |
+||               Nitter                | [nitter.net](https://nitter.net/)                   | Privacy-focused Twitter front-end        | No login required                        |
+| **Facebook** | Facebook Search       | [facebook.com/search](https://www.facebook.com/search/)          | Native Facebook search tool              | Limited without login                    |
+|              | WhoPostedWhat         | [whopostedwhat.com](https://www.whopostedwhat.com/)            | Search Facebook posts by date/keyword    | Requires precise queries, public accounts|
+| **reddit**   | r00m101.com           | [r00m101](https://r00m101.com/)                      | Get detailed a reddit deleted or active  | Pricing for full scope and features      |
+||               ihsoyct               | [ihsoyct](https://ihsoyct.github.io/index.html)                      | Get archived posts from a reddit account | see [limitations](https://github.com/Fubs/reddit-uncensored?tab=readme-ov-file#limitations) different repo   |
 ---
 
 ### **Pro Tips & Workarounds**
