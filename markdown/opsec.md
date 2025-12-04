@@ -395,7 +395,7 @@ However tmpfs maybe an insecure method without dm-crypt/LUKS due to SWAP.[^15]
 
 And there is the multi-user issue, can be solved with this line in fstab.[^16] [^17]
 
-    tmpfs   /www/cache    tmpfs  rw,size=1G,nr_inodes=5k,noexec,nodev,nosuid,uid=user,gid=group,mode=1700 0 0
+    tmpfs   /www/cache    tmpfs  rw,size=1G,nr_inodes=5k,noexec,nodev,nosuid,uid=user,gid=group,mode=700 0 0
 
 ---
 
