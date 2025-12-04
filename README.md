@@ -548,7 +548,7 @@ Pipeline discussed [here](./markdown/opsec.md#opsec-pipeline-for-secure-files)
 | **[fastbackgroundcheck](https://www.fastbackgroundcheck.com)** | Name, Address, Phone Number              | Name, Address, Phone Number, Emails      | Seems to comb though billions of records as stated on it's [website](https://www.fastbackgroundcheck.com/about)                           |
 | **[zbase](https://www.zabasearch.com/)**               | first, last name, city state             | Names, Possible Relatives, et al         | comes from various sources, as stated on it's [faq](https://www.zabasearch.com/faq/), free partial look up and is **accurate*** |
 | **DoJ/State**                   | DoJ Resource                             | [Justice site](https://www.justice.gov/jmd/ls/state)                     | Various states and public govt info, Public govt info                                                |
-||                                  Megans Law website/FBI                   | [FBI registry](https://www.fbi.gov/how-we-can-help-you/scams-and-safety/sex-offender-registry)                     | Look up registered individuals, Only for registered individuals                                      |
+||                                  Megans Law website/FBI                   | [FBI registry](https://www.nsopw.gov/?AspxAutoDetectCookieSupport=1)                     | Look up registered individuals, Only for registered individuals                                      |
 
 ---
 
