@@ -416,45 +416,46 @@ Three examples of GEOINT tools that you can access right now:
 
 ---
 
-| Category                  | Tool       | Link         | Functionality           | Notes                                                                                                                            |
-| :---                      | :---       | :---         | :---                    | :---                                                                                                                             |
+
+| Category | Tool | Link | Functionality | Notes |
+|----------|------|------|---------------|-------|
 | **Search Engine Queries** | dorksearch | [Link](https://dorksearch.com/) | Advanced Google dorking | Manual query building |
-| | Google-FU | [GitHub](https://github.com/airborne-commando/GoogleFU-improved) | Advanced Google dorking | Rate limits, CAPTCHAs |
-| | Google Advanced | [Link](https://www.google.com/advanced_search) | Direct Google dorking | No saved searches; [Example](https://www.google.com/search?as_q=OSINT&as_epq=tools&as_sitesearch=github.com) |
+|                           | Google-FU | [GitHub](https://github.com/airborne-commando/GoogleFU-improved) | Advanced Google dorking | Rate limits, CAPTCHAs |
+|                           | Google Advanced | [Link](https://www.google.com/advanced_search) | Direct Google dorking | No saved searches; [Example](https://www.google.com/search?as_q=OSINT&as_epq=tools&as_sitesearch=github.com) |
 | **Biometric Analysis** | Facecheck.ID | [Forked Repo](https://github.com/airborne-commando/facecheck.id-results-extractor-mobile) [Main Repo](https://github.com/vin3110/broken-access-control-poc) | Reverse image search bypass | Tampermonkey required; source links only |
-| **Genealogy** | genealogyintime | [genealogyintime](http://www.genealogyintime.com/tools/genealogy-search-engine.html) | A search engine that's specifically made for genealogy, can find obits and is *free** | not HTTPS, need to know what you're looking for. |
-| | findagrave | [findagrave](https://www.findagrave.com/) | A grave searching site | have to know the name of the person, city; also *may* not be listed. |
+| **Genealogy** | genealogyintime | [Link](http://www.genealogyintime.com/tools/genealogy-search-engine.html) | Genealogy search engine | Not HTTPS; need to know what you're looking for |
+|               | findagrave | [Link](https://www.findagrave.com/) | Grave searching site | Requires name and location; may not be listed |
 | **Jobs** | Resume Indeed | [Link](https://resumes.indeed.com/) | Resume search | Expensive subscription |
-| | LinkedIn | [Link](https://LinkedIn.com/) | Company/person info | Verification often needed |
+|          | LinkedIn | [Link](https://LinkedIn.com/) | Company/person info | Verification often needed |
 | **Financial** | Paypal | [Link](https://www.paypal.com/us/home) | Person confirmation via email/phone | Account required |
 | **Username/Email Search** | Blackbird | [GitHub](https://github.com/p1ngul1n0/blackbird) | Cross-platform username/email lookup | CLI only |
-| | Crow (GUI) | [GitHub](https://github.com/airborne-commando/crow) | GUI for Blackbird, comes with IP spoofing (TOR) | Same as CLI. |
-| | Sherlock | [GitHub](https://github.com/sherlock-project/sherlock) | Username search (300+ sites) | CLI; false positives |
-| | No-Shit-Sherlock | [GitHub](https://github.com/airborne-commando/no-shit-sherlock) | GUI for Sherlock | Inherits limitations |
-| | Maigret | [GitHub](https://github.com/soxoj/maigret) | Username connections | Sherlock fork |
-| | Maigret-Night (GUI) | [GitHub](https://github.com/airborne-commando/maigret-night) | GUI for Maigret | Same as CLI |
-| | Holehe | [GitHub](https://github.com/megadose/holehe) | Email usage check | CLI; false positives |
+|                           | Crow (GUI) | [GitHub](https://github.com/airborne-commando/crow) | GUI for Blackbird with IP spoofing (TOR) | Same as CLI |
+|                           | Sherlock | [GitHub](https://github.com/sherlock-project/sherlock) | Username search (300+ sites) | CLI; false positives |
+|                           | No-Shit-Sherlock | [GitHub](https://github.com/airborne-commando/no-shit-sherlock) | GUI for Sherlock | Inherits limitations |
+|                           | Maigret | [GitHub](https://github.com/soxoj/maigret) | Username connections | Sherlock fork |
+|                           | Maigret-Night (GUI) | [GitHub](https://github.com/airborne-commando/maigret-night) | GUI for Maigret | Same as CLI |
+|                           | Holehe | [GitHub](https://github.com/megadose/holehe) | Email usage check | CLI; false positives |
 | **Email Compromises** | Hudson Rock Extractor | [GitHub](https://github.com/airborne-commando/hudsonrock-search-extractor) | Manual email breach check | Flask-based; manual input |
 | **Geolocation/GEOINT** | Google Maps | [Link](https://maps.google.com/) | Location pinpointing | Public data only |
-| | Bing Maps | [Link](https://www.bing.com/maps) | Bird's eye/satellite view | Variable quality |
-| | Google Earth | [Link](https://earth.google.com/web) | 3D/2D, historical views | Use with other services |
-| | geohints | [Link](https://geohints.com/) | GeoGuessr metadata | Provides location clues |
-| | GeoGuessr GPT | [Link](https://chatgpt.com/g/g-brlHi7t2R-geoguessr-gpt) | AI photo location | AI hallucinations; 3 free uploads |
-| | findpiclocation | [Link](https://findpiclocation.com/) | AI photo location | Accuracy varies |
+|                        | Bing Maps | [Link](https://www.bing.com/maps) | Bird's eye/satellite view | Variable quality |
+|                        | Google Earth | [Link](https://earth.google.com/web) | 3D/2D, historical views | Use with other services |
+|                        | geohints | [Link](https://geohints.com/) | GeoGuessr metadata | Provides location clues |
+|                        | GeoGuessr GPT | [Link](https://chatgpt.com/g/g-brlHi7t2R-geoguessr-gpt) | AI photo location | AI hallucinations; 3 free uploads |
+|                        | findpiclocation | [Link](https://findpiclocation.com/) | AI photo location | Accuracy varies |
 | **Generalized OSINT** | OSINT Rocks | [Link](https://osint.rocks/) | Multi-tool interface | Web-based |
-| | one-plus | [Link](https://one-plus.github.io/access.html) | Toolkit with bookmarks | Tools may change |
+|                       | one-plus | [Link](https://one-plus.github.io/access.html) | Toolkit with bookmarks | Tools may change |
 | **MISC Tools** | zabasearch-auto | [GitHub](https://github.com/airborne-commando/zabasearch-auto) | US public info lookup | CLI; advanced usage |
-| | link extractor and archive | [GitHub](https://github.com/airborne-commando/link-extractor-and-archive) | Archive.ph tool | CLI; basic pages; manual edits |
-| [Tampermonkey Scripts](https://github.com/airborne-commando/tampermonkey-collection/tree/main) | voter reg status |  | PA voter info export | CSV output; Tampermonkey |
-| | Universal Background Check |  | Exports from PeopleSearch/Voter data (light) | Tampermonkey script, not accurate for mm-dd. it is with year on DOB for votes. |
-| | Breach.vip search and reddit analyzer |  | search known breached databases check wayback machine API for twitter usernames, analyze Reddit usernames | Still in development, trying to figure out the kinks. |
-| **Note** | | You may check for any of these scripts inside the link above, as more will be added or updated possibly without warning. | | |
+|                | link extractor and archive | [GitHub](https://github.com/airborne-commando/link-extractor-and-archive) | Archive.ph tool | CLI; basic pages; manual edits |
+| **Tampermonkey Scripts** | voter reg status | [Collection Link](https://github.com/airborne-commando/tampermonkey-collection/tree/main) | PA voter info export | CSV output; Tampermonkey |
+|                          | Universal Background Check | [Collection Link](https://github.com/airborne-commando/tampermonkey-collection/tree/main) | Exports from PeopleSearch/Voter data | Tampermonkey script; not accurate for mm-dd DOB |
+|                          | Breach.vip search and reddit analyzer | [Collection Link](https://github.com/airborne-commando/tampermonkey-collection/tree/main) | Search breached databases, Wayback Machine API for Twitter, analyze Reddit | Still in development |
+| **Note** | Collection | [Link](https://github.com/airborne-commando/tampermonkey-collection/tree/main) | Check for scripts as more will be added/updated | |
 | **Extensions** | Wayback machine | [FF](https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new/) [Chrome](https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak) | Wayback search; deleted tweets | Archived content only |
-| | Archive Page | [FF](https://addons.mozilla.org/en-US/firefox/addon/archive-page/) [Chrome](https://chromewebstore.google.com/detail/archive-page/gcaimhkfmliahedmeklebabdgagipbia) | Archive.today search | Page must be archived |
-| | Xcancel | [FF](https://addons.mozilla.org/en-US/firefox/addon/toxcancel/) [Chrome](https://chromewebstore.google.com/detail/xcancelcom-redirector) | Privacy Twitter front-end | Conflicts possible |
-| | reddit-uncensored | [FF](https://addons.mozilla.org/en-US/firefox/addon/reddit-uncensored/) [Chrome](https://chrome.google.com/webstore/detail/amfnaoebakgdklcahkilhjoglflgnhbm) | Restores deleted Reddit content | Arctic Shift API |
-| | usertoihsoyct | [GitHub](https://github.com/airborne-commando/usertoihsoyct) | Username redirect | Firefox addon |
-| | facecheck.id  | [chrome](https://chromewebstore.google.com/detail/facecheck-reverse-image-s/ciocmmdeghlmioiedoggnlefllfpfmdj?hl=en-US) and [firefox](https://github.com/airborne-commando/firefox-facecheck-id) | Biometrics | Firefox is github only, however it is trusted; a derivative of the chrome edition.
+|                | Archive Page | [FF](https://addons.mozilla.org/en-US/firefox/addon/archive-page/) [Chrome](https://chromewebstore.google.com/detail/archive-page/gcaimhkfmliahedmeklebabdgagipbia) | Archive.today search | Page must be archived |
+|                | Xcancel | [FF](https://addons.mozilla.org/en-US/firefox/addon/toxcancel/) [Chrome](https://chromewebstore.google.com/detail/xcancelcom-redirector) | Privacy Twitter front-end | Conflicts possible |
+|                | reddit-uncensored | [FF](https://addons.mozilla.org/en-US/firefox/addon/reddit-uncensored/) [Chrome](https://chrome.google.com/webstore/detail/amfnaoebakgdklcahkilhjoglflgnhbm) | Restores deleted Reddit content | Arctic Shift API |
+|                | usertoihsoyct | [GitHub](https://github.com/airborne-commando/usertoihsoyct) | Username redirect | Firefox addon |
+|                | facecheck.id | [Chrome](https://chromewebstore.google.com/detail/facecheck-reverse-image-s/ciocmmdeghlmioiedoggnlefllfpfmdj?hl=en-US) [Firefox](https://github.com/airborne-commando/firefox-facecheck-id) | Biometrics | Firefox is GitHub only; derivative of Chrome edition |
 
 
 ---
