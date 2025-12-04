@@ -728,6 +728,10 @@ Take a look at the documents which I will [link here](https://breach.vip/api/doc
   
 - [OSINT toolbox](https://github.com/The-Osint-Toolbox) 
 
+- [the ultimate osint collection](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
+
+- [osint 500 tools](https://start.me/p/0Pqbdg/osint-500-tools)
+
 **Wiki's:**
 
 - A whole reddit wiki from the [OSINT community](https://www.reddit.com/r/OSINT/wiki/index/)
