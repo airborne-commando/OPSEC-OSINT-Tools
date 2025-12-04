@@ -574,8 +574,6 @@ Use [these tools listed](https://github.com/airborne-commando/tampermonkey-colle
 ## Breached Data:
 ---
 
-Here's the table organized in GitHub Markdown format:
-
 | Tool | Lookup By | Returns | Limitations/Costs | Notes |
 |------|-----------|---------|-------------------|-------|
 | **[Have I Been Pwned](https://haveibeenpwned.com/)** | Email, Phone | Breach names, dates, compromised data | Free; no passwords/raw data | Trusted source; alerts for new breaches |
