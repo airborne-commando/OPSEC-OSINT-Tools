@@ -847,7 +847,7 @@ And to clone with any of my repos that were seed by me:
 
 [Guerilla Open Access Manifesto - Internet Archive (Swartz, July 2008)](https://ia600101.us.archive.org/1/items/GuerillaOpenAccessManifesto/Goamjuly2008.pdf)
 
-[A Standalone Osint Agency For Stronger National Security - George Mason University(Gauthier, 2025)](https://nationalsecurity.gmu.edu/wp-content/uploads/2025/01/A-Standalone-OSINT-Agency-for-Stronger-National-Security-FINAL-WEB.pdf)
+[A Standalone Osint Agency For Stronger National Security - George Mason University (Gauthier, 2025)](https://nationalsecurity.gmu.edu/wp-content/uploads/2025/01/A-Standalone-OSINT-Agency-for-Stronger-National-Security-FINAL-WEB.pdf)
 
 ## References:
 
