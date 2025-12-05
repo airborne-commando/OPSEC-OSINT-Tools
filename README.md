@@ -417,45 +417,57 @@ Three examples of GEOINT tools that you can access right now:
 ---
 
 
-| Category | Tool | Link | Functionality | Notes |
-|----------|------|------|---------------|-------|
-| **Search Engine Queries** | dorksearch | [Link](https://dorksearch.com/) | Advanced Google dorking | Manual query building |
-|                           | Google-FU | [GitHub](https://github.com/airborne-commando/GoogleFU-improved) | Advanced Google dorking | Rate limits, CAPTCHAs |
-|                           | Google Advanced | [Link](https://www.google.com/advanced_search) | Direct Google dorking | No saved searches; [Example](https://www.google.com/search?as_q=OSINT&as_epq=tools&as_sitesearch=github.com) |
-| **Biometric Analysis** | Facecheck.ID | [Forked Repo](https://github.com/airborne-commando/facecheck.id-results-extractor-mobile) [Main Repo](https://github.com/vin3110/broken-access-control-poc) | Reverse image search bypass | Tampermonkey required; source links only |
-| **Genealogy** | genealogyintime | [Link](http://www.genealogyintime.com/tools/genealogy-search-engine.html) | Genealogy search engine | Not HTTPS; need to know what you're looking for |
-|               | findagrave | [Link](https://www.findagrave.com/) | Grave searching site | Requires name and location; may not be listed |
-| **Jobs** | Resume Indeed | [Link](https://resumes.indeed.com/) | Resume search | Expensive subscription |
-|          | LinkedIn | [Link](https://LinkedIn.com/) | Company/person info | Verification often needed |
-| **Financial** | Paypal | [Link](https://www.paypal.com/us/home) | Person confirmation via email/phone | Account required |
-| **Username/Email Search** | Blackbird | [GitHub](https://github.com/p1ngul1n0/blackbird) | Cross-platform username/email lookup | CLI only |
-|                           | Crow (GUI) | [GitHub](https://github.com/airborne-commando/crow) | GUI for Blackbird with IP spoofing (TOR) | Same as CLI |
-|                           | Sherlock | [GitHub](https://github.com/sherlock-project/sherlock) | Username search (300+ sites) | CLI; false positives |
-|                           | No-Shit-Sherlock | [GitHub](https://github.com/airborne-commando/no-shit-sherlock) | GUI for Sherlock | Inherits limitations |
-|                           | Maigret | [GitHub](https://github.com/soxoj/maigret) | Username connections | Sherlock fork |
-|                           | Maigret-Night (GUI) | [GitHub](https://github.com/airborne-commando/maigret-night) | GUI for Maigret | Same as CLI |
-|                           | Holehe | [GitHub](https://github.com/megadose/holehe) | Email usage check | CLI; false positives |
-| **Email Compromises** | Hudson Rock Extractor | [GitHub](https://github.com/airborne-commando/hudsonrock-search-extractor) | Manual email breach check | Flask-based; manual input |
-| **Geolocation/GEOINT** | Google Maps | [Link](https://maps.google.com/) | Location pinpointing | Public data only |
-|                        | Bing Maps | [Link](https://www.bing.com/maps) | Bird's eye/satellite view | Variable quality |
-|                        | Google Earth | [Link](https://earth.google.com/web) | 3D/2D, historical views | Use with other services |
-|                        | geohints | [Link](https://geohints.com/) | GeoGuessr metadata | Provides location clues |
-|                        | GeoGuessr GPT | [Link](https://chatgpt.com/g/g-brlHi7t2R-geoguessr-gpt) | AI photo location | AI hallucinations; 3 free uploads |
-|                        | findpiclocation | [Link](https://findpiclocation.com/) | AI photo location | Accuracy varies |
-| **Generalized OSINT** | OSINT Rocks | [Link](https://osint.rocks/) | Multi-tool interface | Web-based |
-|                       | one-plus | [Link](https://one-plus.github.io/access.html) | Toolkit with bookmarks | Tools may change |
-| **MISC Tools** | zabasearch-auto | [GitHub](https://github.com/airborne-commando/zabasearch-auto) | US public info lookup | CLI; advanced usage |
-|                | link extractor and archive | [GitHub](https://github.com/airborne-commando/link-extractor-and-archive) | Archive.ph tool | CLI; basic pages; manual edits |
-| **Tampermonkey Scripts** | Collection | [Link](https://github.com/airborne-commando/tampermonkey-collection/tree/main) | Check for scripts as more will be added/updated | |
-|                          | voter reg status | [Collection Link](https://github.com/airborne-commando/tampermonkey-collection/tree/main?tab=readme#voter-reg-status-tapermonkey-edition) | PA voter info export | CSV output; Tampermonkey |
-|                          | Universal Background Check | [Collection Link](https://github.com/airborne-commando/tampermonkey-collection/tree/main?tab=readme#universal-background-check-exporter) | Exports from PeopleSearch/Voter data | Tampermonkey script; not accurate for mm-dd DOB |
-|                          | Breach.vip search and reddit analyzer | [Collection Link](https://github.com/airborne-commando/tampermonkey-collection/tree/main?tab=readme#breachvip-and-reddit-profile-analyzer) | Search breached databases, Wayback Machine API for Twitter, analyze Reddit | Still in development |
-| **Extensions** | Wayback machine | [FF](https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new/) [Chrome](https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak) | Wayback search; deleted tweets | Archived content only |
-|                | Archive Page | [FF](https://addons.mozilla.org/en-US/firefox/addon/archive-page/) [Chrome](https://chromewebstore.google.com/detail/archive-page/gcaimhkfmliahedmeklebabdgagipbia) | Archive.today search | Page must be archived |
-|                | Xcancel | [FF](https://addons.mozilla.org/en-US/firefox/addon/toxcancel/) [Chrome](https://chromewebstore.google.com/detail/xcancelcom-redirector) | Privacy Twitter front-end | Conflicts possible |
-|                | reddit-uncensored | [FF](https://addons.mozilla.org/en-US/firefox/addon/reddit-uncensored/) [Chrome](https://chrome.google.com/webstore/detail/amfnaoebakgdklcahkilhjoglflgnhbm) | Restores deleted Reddit content | Arctic Shift API |
-|                | usertoihsoyct | [GitHub](https://github.com/airborne-commando/usertoihsoyct) | Username redirect | Firefox addon |
-|                | facecheck.id | [Chrome](https://chromewebstore.google.com/detail/facecheck-reverse-image-s/ciocmmdeghlmioiedoggnlefllfpfmdj?hl=en-US) [Firefox](https://github.com/airborne-commando/firefox-facecheck-id) | Biometrics | Firefox is GitHub only; derivative of Chrome edition |
+| Tool | Lookup By | Returns | Limitations/Costs | Notes |
+|------|-----------|---------|-------------------|-------|
+| **Search & Query Tools** | | | | |
+| dorksearch | Manual queries | Google search results | Manual query building | [Link](https://dorksearch.com/) |
+| Google-FU | Advanced queries | Google search results | Rate limits, CAPTCHAs | [GitHub](https://github.com/airborne-commando/GoogleFU-improved) |
+| Google Advanced | Direct dorking | Google search results | No saved searches | [Link](https://www.google.com/advanced_search) |
+| **Biometric Analysis** | | | | |
+| Facecheck.ID | Reverse image | Face matching results | Tampermonkey required; source links only | [Forked Repo](https://github.com/airborne-commando/facecheck.id-results-extractor-mobile) [Main Repo](https://github.com/vin3110/broken-access-control-poc) |
+| **Genealogy & Records** | | | | |
+| genealogyintime | Genealogy parameters | Genealogy records | Not HTTPS; need specific info | [Link](http://www.genealogyintime.com/tools/genealogy-search-engine.html) |
+| findagrave | Name, location | Grave records | Requires name/location; may not be listed | [Link](https://www.findagrave.com/) |
+| **Professional & Financial** | | | | |
+| Resume Indeed | Professional criteria | Resumes | Expensive subscription | [Link](https://resumes.indeed.com/) |
+| LinkedIn | Professional info | Company/person data | Verification often needed | [Link](https://LinkedIn.com/) |
+| Paypal | Email/phone | Account confirmation | Account required | [Link](https://www.paypal.com/us/home) |
+| **Username/Email Search** | | | | |
+| Blackbird | Username/email | Cross-platform presence | CLI only | [GitHub](https://github.com/p1ngul1n0/blackbird) |
+| Crow (GUI) | Username/email | Cross-platform presence with IP spoofing | Same as CLI | [GitHub](https://github.com/airborne-commando/crow) |
+| Sherlock | Username | Presence on 300+ sites | CLI; false positives | [GitHub](https://github.com/sherlock-project/sherlock) |
+| No-Shit-Sherlock | Username | GUI version of Sherlock | Inherits CLI limitations | [GitHub](https://github.com/airborne-commando/no-shit-sherlock) |
+| Maigret | Username | Connections between accounts | Sherlock fork | [GitHub](https://github.com/soxoj/maigret) |
+| Maigret-Night (GUI) | Username | GUI for Maigret | Same as CLI | [GitHub](https://github.com/airborne-commando/maigret-night) |
+| Holehe | Email | Email usage across sites | CLI; false positives | [GitHub](https://github.com/megadose/holehe) |
+| **Geolocation/GEOINT** | | | | |
+| Google Maps | Coordinates/address | Location data | Public data only | [Link](https://maps.google.com/) |
+| Bing Maps | Coordinates/address | Bird's eye/satellite view | Variable quality | [Link](https://www.bing.com/maps) |
+| Google Earth | Coordinates/address | 3D/2D, historical views | Use with other services | [Link](https://earth.google.com/web) |
+| geohints | Geolocation data | GeoGuessr metadata clues | Provides clues only | [Link](https://geohints.com/) |
+| GeoGuessr GPT | Photos | AI location guesses | AI hallucinations; 3 free uploads | [Link](https://chatgpt.com/g/g-brlHi7t2R-geoguessr-gpt) |
+| findpiclocation | Photos | AI location detection | Accuracy varies | [Link](https://findpiclocation.com/) |
+| **General OSINT Platforms** | | | | |
+| OSINT Rocks | Multiple inputs | Multi-tool interface | Web-based | [Link](https://osint.rocks/) |
+| one-plus | Multiple inputs | Toolkit with bookmarks | Tools may change | [Link](https://one-plus.github.io/access.html) |
+| **MISC Tools** | | | | |
+| zabasearch-auto | US public info | Public records lookup | CLI; advanced usage | [GitHub](https://github.com/airborne-commando/zabasearch-auto) |
+| link extractor and archive | URLs | Archive.ph tool | CLI; basic pages; manual edits | [GitHub](https://github.com/airborne-commando/link-extractor-and-archive) |
+| **Email Compromises** | | | | |
+| Hudson Rock Extractor | Email | Manual breach check | Flask-based; manual input | [GitHub](https://github.com/airborne-commando/hudsonrock-search-extractor) |
+| **Tampermonkey Scripts** | | | | |
+| Collection | Various | Various scripts | Collection may update | [Link](https://github.com/airborne-commando/tampermonkey-collection/tree/main) |
+| voter reg status | PA voter data | Voter info export | CSV output; Tampermonkey required | [Collection Link](https://github.com/airborne-commando/tampermonkey-collection/tree/main?tab=readme#voter-reg-status-tapermonkey-edition) |
+| Universal Background Check | PeopleSearch data | Exports from public records | Not accurate for mm-dd DOB | [Collection Link](https://github.com/airborne-commando/tampermonkey-collection/tree/main?tab=readme#universal-background-check-exporter) |
+| Breach.vip search and reddit analyzer | Email/username | Breach data + Reddit analysis |                  | [Collection Link](https://github.com/airborne-commando/tampermonkey-collection/tree/main?tab=readme#breachvip-and-reddit-profile-analyzer) |
+| **Extensions** | | | | |
+| Wayback machine | URLs | Archived content | Archived content only | [FF](https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new/) [Chrome](https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak) |
+| Archive Page | URLs | Archive.today search | Page must be archived | [FF](https://addons.mozilla.org/en-US/firefox/addon/archive-page/) [Chrome](https://chromewebstore.google.com/detail/archive-page/gcaimhkfmliahedmeklebabdgagipbia) |
+| Xcancel | Twitter URLs | Privacy Twitter front-end | Conflicts possible | [FF](https://addons.mozilla.org/en-US/firefox/addon/toxcancel/) [Chrome](https://chromewebstore.google.com/detail/xcancelcom-redirector) |
+| reddit-uncensored | Reddit URLs | Deleted content restoration | Arctic Shift API | [FF](https://addons.mozilla.org/en-US/firefox/addon/reddit-uncensored/) [Chrome](https://chrome.google.com/webstore/detail/amfnaoebakgdklcahkilhjoglflgnhbm) |
+| usertoihsoyct | Usernames | Username redirect | Firefox addon | [GitHub](https://github.com/airborne-commando/usertoihsoyct) |
+| facecheck.id | Images | Biometric search | Firefox is GitHub only | [Chrome](https://chromewebstore.google.com/detail/facecheck-reverse-image-s/ciocmmdeghlmioiedoggnlefllfpfmdj?hl=en-US) [Firefox](https://github.com/airborne-commando/firefox-facecheck-id) |
+
 
 
 ---
@@ -548,7 +560,7 @@ Pipeline discussed [here](./markdown/opsec.md#opsec-pipeline-for-secure-files)
 | **[fastbackgroundcheck](https://www.fastbackgroundcheck.com)** | Name, Address, Phone Number              | Name, Address, Phone Number, Emails      | Seems to comb though billions of records as stated on it's [website](https://www.fastbackgroundcheck.com/about)                           |
 | **[zbase](https://www.zabasearch.com/)**               | first, last name, city state             | Names, Possible Relatives, et al         | comes from various sources, as stated on it's [faq](https://www.zabasearch.com/faq/), free partial look up and is **accurate*** |
 | **DoJ/State**                   | DoJ Resource                             | [Justice site](https://www.justice.gov/jmd/ls/state)                     | Various states and public govt info, Public govt info                                                |
-||                                  Megans Law website/FBI                   | [FBI registry](https://www.nsopw.gov/?AspxAutoDetectCookieSupport=1)                     | Look up registered individuals, Only for registered individuals                                      |
+||                                  Megans Law website/FBI                   | [FBI registry](https://www.nsopw.gov/?AspxAutoDetectCookieSupport=1)                     | Look up registered individuals, Only for registered individuals (sex offenders)                      |
 
 ---
 
@@ -663,7 +675,7 @@ Take a look at the documents which I will [link here](https://breach.vip/api/doc
 | **Platform**  | **Tool**               | **URL**                              | **Functionality**                          | **Limitations/Notes**               |
 |--------------|-----------------------|------------------------------------- |------------------------------------------|-----------------------------------------|
 | **General**  | Social Searcher       | [social-searcher.com](https://www.social-searcher.com/)          | Searches multiple platforms at once      | see the [about](https://www.social-searcher.com/about/) page               |
-| **Snapchat** | Snapchat Map          | [map.snapchat.com](https://map.snapchat.com/)             | View public Snapchat location stories    | Requires Snapchat account                |
+| **Snapchat** | Snapchat Map          | [map.snapchat.com](https://map.snapchat.com/)             | View maps for snapchat                   | Requires Snapchat account                |
 | **Instagram**| Dumpor                | [dumpor.com](https://dumpor.com/)                   | View profiles/stories anonymously        | May have rate limits                     |
 ||               imginn                | [imginn.com](https://imginn.com/)                   | View profiles/stories anonymously        | May be offline from time to time         |
 | **Twitter**  | Sotwe                 | [sotwe.com](https://www.sotwe.com/)                    | Privacy-focused Twitter front-end        | No login required                        |
@@ -710,41 +722,31 @@ Take a look at the documents which I will [link here](https://breach.vip/api/doc
 
 ## Curated lists
 
-**OSINT Lists:**
+| Tool | Directs to| Notes   | Limitations       | Links |
+|------|-----------|---------|-------------------|-------|
+| Awesome OSINT | Webpage | A curated list of amazingly awesome open source intelligence tools and resources | Info may be outdated | [Awesome OSINT](https://github.com/jivoi/awesome-osint) |
+| OSINT for countries V2 | Webpage | open data, legal, maps, vehicles, people, procurement, WHOIS | User contrib | [OSINT for countries V2](https://github.com/paulpogoda/OSINT-for-countries-V2.0) |
+| OSINT Framework | Webpage | A larger tree list of tools | Some links are out of date | [OSINT Framework](https://osintframework.com/) |
+| OSINT Resources | Webpage | Collection of OSINT resources that seems to be more up to date | | [OSINT Resources](https://sizeof.cat/post/osint-resources/) [Archive](https://archive.ph/rZZf0) |
+| cipher387's OSINT collection | Webpage | A collection of several hundred online tools for OSINT | obsolete tools in list | [cipher387's OSINT collection](https://github.com/cipher387/osint_stuff_tool_collection) |
+| internet tools | Webpage | A curated list from FMHY | | [internet tools](https://fmhy.xyz/internet-tools#open-source-intelligence) |
+| OSINT toolbox | Webpage/Quick Links | OSINT, Privacy & OPSEC bookmarks / links | Some resources are completely free to use, others you will need to pay for however they may offer a free trial. | [OSINT toolbox](https://github.com/The-Osint-Toolbox) |
+| the ultimate osint collection | Webpage | Various tools and links for OSINT | May need to reload the page, I/O | [the ultimate osint collection](https://start.me/p/DPYPMz/the-ultimate-osint-collection) |
+| osint 500 tools | Webpage | Various tools and links for OSINT | May need to reload the page, I/O | [osint 500 tools](https://start.me/p/0Pqbdg/osint-500-tools) |
 
-- [Awesome OSINT](https://github.com/jivoi/awesome-osint) - a curated list of OSINT tools, blogs, and videos
+| **Wiki(s)**             |                   |                  
+|-------------------------|-------------------|
+| [OSINT community](https://www.reddit.com/r/OSINT/wiki/index/) | Reddit Wikipedia  |
 
-- [OSINT for countries V2](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
+| **Toolkit(s):**         |                  |                  
+|-------------------------|------------------|
+|  [bellingcat toolkit](https://bellingcat.gitbook.io/toolkit) | Belling cat  |
 
-- [OSINT for countries](https://github.com/wddadk/OSINT-for-countries)
-  
-- [OSINT Framework](https://osintframework.com/) - a larger list of tools
+| **Newsletter(s):**      |                  |                  
+|-------------------------|------------------|
+|  [OSINT news letter](https://osintnewsletter.com) | OSINT         |
 
-- [OSINT Resources](https://sizeof.cat/post/osint-resources/) - Collection of OSINT resources that seems to be more up to date (includes NSFW)
 
-  - [Archive](https://archive.ph/rZZf0)
-
-- [cipher387's OSINT collection](https://github.com/cipher387/osint_stuff_tool_collection).
-
-- [internet tools](https://fmhy.xyz/internet-tools#open-source-intelligence) 
-  
-- [OSINT toolbox](https://github.com/The-Osint-Toolbox) 
-
-- [the ultimate osint collection](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
-
-- [osint 500 tools](https://start.me/p/0Pqbdg/osint-500-tools)
-
-**Wiki's:**
-
-- A whole reddit wiki from the [OSINT community](https://www.reddit.com/r/OSINT/wiki/index/)
-
-**Toolkit:**
-
-- bellingcat [toolkit](https://bellingcat.gitbook.io/toolkit)
-
-**Newsletter(s):**
-
-- [OSINT news letter](https://osintnewsletter.com) 
 
 **Protip:** use "topic" site:https://osintnewsletter.com
 
@@ -752,26 +754,35 @@ Take a look at the documents which I will [link here](https://breach.vip/api/doc
 
     "facecheck.id" site:https://osintnewsletter.com
 
-**AI Helpers:**
 
-- [perplexity - OSINT Research](https://www.perplexity.ai/spaces/osint-research-GLt9lRgIRY.Gm5em9qYzdg)
+| **AI Helpers:**         |                  |                  
+|-------------------------|------------------|
+|  [perplexity - OSINT Research](https://www.perplexity.ai/spaces/osint-research-GLt9lRgIRY.Gm5em9qYzdg) | OSINT Research |
+|  [Coding - Tampermonkey](https://www.perplexity.ai/spaces/coding-m2PpkGBUTjeypO6yq9oO3A) | Coding |
 
-- [Coding - Tampermonkey](https://www.perplexity.ai/spaces/coding-m2PpkGBUTjeypO6yq9oO3A)
 
-**OPT OUTs**
 
-- A whole [Opt Out list](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) to opt out and to compare info.
+| **OPT OUTs**         |   **Compare info**                                                                                                 |
+|----------------------|--------------------------------------------------------------------------------------------------------------------|
+| [Results about you (google index)](https://myactivity.google.com/results-about-you) | Check what google emails you; actually visit the website and see about doing an opt-out there. |
+| [Opt Out list](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) |                                                                                                                    |
+| [inteltechniques opt out workbook](https://inteltechniques.com/workbook.html) |                                                                                                |
+| [people search tools](#people-search-tools-in-the-states)                                                                                                               |
+| [osintframework](https://osintframework.com/) |                                                                                                                  |
+| [osint resources](https://sizeof.cat/post/osint-resources/) |                                                                                                                 |
+| [awesome osint](https://github.com/jivoi/awesome-osint?tab=readme-ov-file#-people-investigations) |                                                                                                                   |
+| [Internet tools](https://fmhy.xyz/internet-tools#open-source-intelligence) |                                                                                                                  |
+| [The Osint Toolbox](https://github.com/The-Osint-Toolbox/People-Search-OSINT) |                                                                                                               |
+| [osint stuff tool collection](https://github.com/cipher387/osint_stuff_tool_collection?tab=readme-ov-file#universal-contact-search-and-leaks-search) |                                                                                                     |
 
-- [inteltechniques opt out workbook](https://inteltechniques.com/workbook.html)
 
-- [Results about you (google index)](https://myactivity.google.com/results-about-you) - Check what google emails you; actually visit the website and see about doing an opt-out there.
-  
-- [people search tools](#people-search-tools-in-the-states)
+Google will find websites containing your first-last name and address and will ask to remove it from the index. Before applying the removal process on google search be sure to remove info from the website itself that it's hosted on. Google Dorking seems to be a bit quicker and preemptive on removing info about yourself after you visit said sites (if applicable).
+
+Also with doing google dorks the manual way is that you won't get flagged by google itself as a bot.
 
 ## Toolchain (self-OSINT):
 
 Google dorks: 
-
 
 ```mermaid
 flowchart TD
@@ -786,31 +797,9 @@ flowchart TD
     click D "https://inteltechniques.com/workbook.html"
 ```
 
-
 ### And the final graph, the data collection pipeline:
 
 <p align="center"><img width="auto" height="auto" alt="data collection" src="./img/png/graphs/data-collection-pipeline.png"/></p>
-
-
-**Notice** 
-
-[Results about you (google index)](https://myactivity.google.com/results-about-you) can also be emailed so keep that in mind when comparing info from these sources such as: 
-
-- [(OPT OUT)](#people-search-tools-in-the-states)
-- [osint resources](https://sizeof.cat/post/osint-resources/) 
-- [osintframework](https://osintframework.com/) 
-- [awesome osint](https://github.com/jivoi/awesome-osint?tab=readme-ov-file#-people-investigations) 
-- [Internet tools](https://fmhy.xyz/internet-tools#open-source-intelligence) 
-- [The Osint Toolbox](https://github.com/The-Osint-Toolbox/People-Search-OSINT) 
-- [osint stuff tool collection](https://github.com/cipher387/osint_stuff_tool_collection?tab=readme-ov-file#universal-contact-search-and-leaks-search) 
-  
-Google will find websites containing your first-last name and address and will ask to remove it from the index. Before applying the removal process on google search be sure to remove info from the website itself that it's hosted on. Google Dorking seems to be a bit quicker and preemptive on removing info about yourself after you visit said sites (if applicable).
-
-Also with doing google dorks the manual way is that you won't get flagged by google itself as a bot.
-
-Additional tools:
-
-- For additional tools see the curated-lists above
 
 ## Donations:
 
