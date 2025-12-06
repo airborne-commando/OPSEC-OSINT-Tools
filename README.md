@@ -809,6 +809,10 @@ And to clone with any of my repos that were seed by me:
 
     rad clone rad:<radid>
 
+Gitea:
+
+    https://gitea.com/jc-denton/OPSEC-OSINT-Tools
+
 ## External links:
 
 [Academic publishing overview - Copyright (updated Jun 24, 2025)](https://guides.library.cmu.edu/c.php?g=1161877&p=9949658)
