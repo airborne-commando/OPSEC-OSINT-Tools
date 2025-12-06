@@ -747,7 +747,7 @@ Take a look at the documents which I will [link here](https://breach.vip/api/doc
 |---------------------------------|------------------|
 |  [OSINT news letter](https://osintnewsletter.com)      |    Newsletter    |
 |  [Github topics - osint](https://github.com/topics/osint)  |    Github Topics |
-|  [r/OSINT](https://www.reddit.com/r/OSINT/wiki/index/)                |    Reddit        |
+|  [r/OSINT](https://www.reddit.com/r/OSINT/)                |    Reddit        |
 
 
 **Protip:** use "topic" site:https://osintnewsletter.com
