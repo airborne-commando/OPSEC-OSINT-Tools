@@ -734,6 +734,7 @@ Take a look at the documents which I will [link here](https://breach.vip/api/doc
 | OSINT toolbox | Webpage/Quick Links | OSINT, Privacy & OPSEC bookmarks / links | Some resources are completely free to use, others you will need to pay for however they may offer a free trial. | [OSINT toolbox](https://github.com/The-Osint-Toolbox) |
 | the ultimate osint collection | Webpage | Various tools and links for OSINT | May need to reload the page, I/O[^73] | [the ultimate osint collection](https://start.me/p/DPYPMz/the-ultimate-osint-collection) |
 | osint 500 tools | Webpage | Various tools and links for OSINT | May need to reload the page, I/O[^73] | [osint 500 tools](https://start.me/p/0Pqbdg/osint-500-tools) |
+| OSINT Tools and Resources Handbook | webpage | An index of OSINT tools and resources | A curated list | [OSINT Tools and Resources Handbook](https://www.osinthandbook.com/) |
 
 | **Wiki(s)**             |                   |                  
 |-------------------------|-------------------|
