@@ -764,6 +764,7 @@ Take a look at the documents which I will [link here](https://breach.vip/api/doc
 
 | **OPT OUTs**         |   **Compare info**                                                                                                 |
 |----------------------|--------------------------------------------------------------------------------------------------------------------|
+| [Google dorks](https://www.google.com/advanced_search) |                                                                                                                    |
 | [Results about you (google index)](https://myactivity.google.com/results-about-you) | Check what google emails you; actually visit the website and see about doing an opt-out there. |
 | [Opt Out list](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) |                                                                                                                    |
 | [inteltechniques opt out workbook](https://inteltechniques.com/workbook.html) |                                                                                                |
