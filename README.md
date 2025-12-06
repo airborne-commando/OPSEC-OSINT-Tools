@@ -828,6 +828,8 @@ Gitea:
 
 [A Standalone Osint Agency For Stronger National Security - George Mason University (Gauthier, 2025)](https://nationalsecurity.gmu.edu/wp-content/uploads/2025/01/A-Standalone-OSINT-Agency-for-Stronger-National-Security-FINAL-WEB.pdf)
 
+[Why haven't technologies fixed open source intelligence? - James Madison University (Sparks, 2014. page 110-111 - OSINT Changed Direction)](https://commons.lib.jmu.edu/cgi/viewcontent.cgi?article=1013&context=master201019)
+
 ## References:
 
 [^1]: Office of the Director of National Intelligence. “Intelligence Community.” Office of the Director of National Intelligence, www.odni.gov/index.php/ncsc-what-we-do/121-dni/intelligence-community. Accessed 24 Sept. 2025. (Office of the Director of National Intelligence, sec.HUMINT)
