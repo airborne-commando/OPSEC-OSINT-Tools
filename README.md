@@ -38,10 +38,9 @@
 14. [Grey literature](#grey-literature)
 15. [Breached Data](#breached-data)
 16. [Social Media](#social-media)
-17. [Self OSINT](#toolchain-self-osint)
-18. [Curated lists](#curated-lists)
-19. [External Links](#external-links)
-20. [References](#references)
+17. [Curated lists](#curated-lists)
+18. [External Links](#external-links)
+19. [References](#references)
 
 ## ***DISCLAIMER***
 
@@ -762,7 +761,7 @@ Take a look at the documents which I will [link here](https://breach.vip/api/doc
 
 
 
-| **OPT OUTs**         |   **Compare info**                                                                                                 |
+| **OPT OUTs / self OSINT** |   **Compare info**                                                                                            |
 |----------------------|--------------------------------------------------------------------------------------------------------------------|
 | [Google dorks](https://www.google.com/advanced_search) |                                                                                                                    |
 | [Results about you (google index)](https://myactivity.google.com/results-about-you) | Check what google emails you; actually visit the website and see about doing an opt-out there. |
@@ -779,24 +778,7 @@ Take a look at the documents which I will [link here](https://breach.vip/api/doc
 
 Google will find websites containing your first-last name and address and will ask to remove it from the index. Before applying the removal process on google search be sure to remove info from the website itself that it's hosted on. Google Dorking seems to be a bit quicker and preemptive on removing info about yourself after you visit said sites (if applicable).
 
-Also with doing google dorks the manual way is that you won't get flagged by google itself as a bot.
-
-## Toolchain (self-OSINT):
-
-Google dorks: 
-
-```mermaid
-flowchart TD
-    A@{ label: "Google Search Query:<br>'first last' 'Street Address'<br>'City state' 'age'" } --> B["Results about you"]
-    B --> C["Broker Opt Out List"]
-    C --> D["IntelTechniques<br>Opt-Out Workbook"]
-    D --> E["People Search Tools"]
-
-    A@{ shape: rect}
-    click B "https://myactivity.google.com/results-about-you"
-    click C "https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List"
-    click D "https://inteltechniques.com/workbook.html"
-```
+Also do this the manual way is that you won't get flagged by google as a bot.
 
 ### And the final graph, the data collection pipeline:
 
