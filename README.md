@@ -449,6 +449,7 @@ Three examples of GEOINT tools that you can access right now:
 | **General OSINT Platforms** | | | | |
 | OSINT Rocks | Multiple inputs | Multi-tool interface | Web-based | [Link](https://osint.rocks/) |
 | one-plus | Multiple inputs | Toolkit with bookmarks | Tools may change | [Link](https://one-plus.github.io/access.html) |
+| osint.sh | webpage | Tookits | Seems to be web based OSINT for web domains or ORG | [Link](osint.sh)
 | **MISC Tools** | | | | |
 | zabasearch-auto | US public info | Public records lookup | CLI; advanced usage | [GitHub](https://github.com/airborne-commando/zabasearch-auto) |
 | link extractor and archive | URLs | Archive.ph tool | CLI; basic pages; manual edits | [GitHub](https://github.com/airborne-commando/link-extractor-and-archive) |
