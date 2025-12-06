@@ -240,7 +240,7 @@ OPSEC supplements other security disciplines rather than replacing them.
    - **Unique usernames** + **Unique behavior** = harder to trace.  
 
 4. **Self-Audit**:  
-   - Regularly **opt out** of data brokers and **[OSINT yourself](#toolchain-self-osint)**.  
+   - Regularly **opt out** of data brokers and **OSINT yourself**.  
 
 5. **OPSEC Mindset**:  
    - Follow **[good OPSEC](./markdown/good-opsec.md)** and avoid **[bad habits](./markdown/badopsec.md)**.
