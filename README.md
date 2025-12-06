@@ -422,6 +422,7 @@ Three examples of GEOINT tools that you can access right now:
 | dorksearch | Manual queries | Google search results | Manual query building | [Link](https://dorksearch.com/) |
 | Google-FU | Advanced queries | Google search results | Rate limits, CAPTCHAs | [GitHub](https://github.com/airborne-commando/GoogleFU-improved) |
 | Google Advanced | Direct dorking | Google search results | No saved searches | [Link](https://www.google.com/advanced_search) |
+| Awesome Shodan Search Queries | Shodan search queries | Exposed Devices | Only useful for insecure devices | [Link](https://github.com/jakejarvis/awesome-shodan-queries) |
 | **Biometric Analysis** | | | | |
 | Facecheck.ID | Reverse image | Face matching results | Tampermonkey required; source links only | [Forked Repo](https://github.com/airborne-commando/facecheck.id-results-extractor-mobile) [Main Repo](https://github.com/vin3110/broken-access-control-poc) |
 | **Genealogy & Records** | | | | |
@@ -449,7 +450,7 @@ Three examples of GEOINT tools that you can access right now:
 | **General OSINT Platforms** | | | | |
 | OSINT Rocks | Multiple inputs | Multi-tool interface | Web-based | [Link](https://osint.rocks/) |
 | one-plus | Multiple inputs | Toolkit with bookmarks | Tools may change | [Link](https://one-plus.github.io/access.html) |
-| osint.sh | webpage | Tookits | Seems to be web based OSINT for web domains or ORG | [Link](https://osint.sh/)
+| osint.sh | webpage | Tookits | Seems to be web based OSINT for web domains or ORG | [Link](https://osint.sh/) |
 | **MISC Tools** | | | | |
 | zabasearch-auto | US public info | Public records lookup | CLI; advanced usage | [GitHub](https://github.com/airborne-commando/zabasearch-auto) |
 | link extractor and archive | URLs | Archive.ph tool | CLI; basic pages; manual edits | [GitHub](https://github.com/airborne-commando/link-extractor-and-archive) |
@@ -742,10 +743,11 @@ Take a look at the documents which I will [link here](https://breach.vip/api/doc
 |-------------------------|------------------|
 |  [bellingcat toolkit](https://bellingcat.gitbook.io/toolkit) | Belling cat  |
 
-| **Newsletter(s):**      |                  |                  
-|-------------------------|------------------|
-|  [OSINT news letter](https://osintnewsletter.com) | OSINT         |
-
+| **Newsletter and topics:**      |                  |                  
+|---------------------------------|------------------|
+|  [OSINT news letter](https://osintnewsletter.com)      |    Newsletter    |
+|  [Github topics - osint](https://github.com/topics/osint)  |    Github Topics |
+|  [r/OSINT](https://www.reddit.com/r/OSINT/wiki/index/)                |    Reddit        |
 
 
 **Protip:** use "topic" site:https://osintnewsletter.com
