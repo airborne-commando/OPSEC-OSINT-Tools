@@ -802,8 +802,9 @@ If you find this useful feel free to donate to this monero address:
 
 My node/account:
 
-    https://app.radicle.xyz/nodes/rosa.radicle.xyz/users/did%3Akey%3Az6MkvGytBYjSqWAzTQwiWnNHkRxBM3zvyvvFRCprxHzoZEj9
+    https://app.radicle.xyz/nodes/rosa.radicle.xyz/users/did:key:z6MkvGytBYjSqWAzTQwiWnNHkRxBM3zvyvvFRCprxHzoZEj9
 
+    https://app.radicle.xyz/nodes/iris.radicle.xyz/users/did:key:z6MkvGytBYjSqWAzTQwiWnNHkRxBM3zvyvvFRCprxHzoZEj9
 
 Feel free to seed with this command for example:
 
