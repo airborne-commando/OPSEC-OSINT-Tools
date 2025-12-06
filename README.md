@@ -778,7 +778,7 @@ Take a look at the documents which I will [link here](https://breach.vip/api/doc
 
 Google will find websites containing your first-last name and address and will ask to remove it from the index. Before applying the removal process on google search be sure to remove info from the website itself that it's hosted on. Google Dorking seems to be a bit quicker and preemptive on removing info about yourself after you visit said sites (if applicable).
 
-Also do this the manual way is that you won't get flagged by google as a bot.
+Google dork the manual way so that you don't get flagged as a bot.
 
 ### And the final graph, the data collection pipeline:
 
