@@ -839,7 +839,7 @@ Gitea:
 
 [People Search - peopleconnect (n.d.)](https://peopleconnect.us/people-search/)
 
-[digital profiling - techtarget (Hanna, Jun 11, 2024)](https://www.techtarget.com/whatis/definition/digital-profiling)
+[digital profiling - techtarget (Hanna, Jun 11 2024)](https://www.techtarget.com/whatis/definition/digital-profiling)
 
 ## References:
 
