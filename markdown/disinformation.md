@@ -44,6 +44,10 @@ Recognizing and countering such operations is a critical skill for OSINT practit
 
 > "disinformation is to intentionally mislead."[^1][^2]
 
+## External links:
+
+[Ethics of Plausible Deniability — Pro Rege (Van Til, March 2024)](https://digitalcollections.dordt.edu/cgi/viewcontent.cgi?article=3291&context=pro_rege)
+
 ## References:
 
 [^1]: CISA. “Tactics of Disinformation.” Cybersecurity Infrastructure Security Agency, 18 Oct. 2022, web.archive.org/web/20230804043427/https://www.cisa.gov/resources-tools/resources/tactics-disinformation.
