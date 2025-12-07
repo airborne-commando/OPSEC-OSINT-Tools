@@ -843,6 +843,8 @@ Gitea:
 
 [Beginner’s Guide to Hidden Data with Google Dorking - dorksearch (Jamie, Jan. 20 2023)](https://archive.ph/BuniB)
 
+[JCAT - Personal Security of First Responders in the Digital Age (March, 31 2021)](https://www.dni.gov/files/NCTC/documents/jcat/firstresponderstoolbox/111s_-_First_Responders_Toolbox_-_Personal_Security_of_First_Responders_in_the_Digital_Age-survey.pdf)
+
 ## References:
 
 [^1]: Office of the Director of National Intelligence. “Intelligence Community.” Office of the Director of National Intelligence, www.odni.gov/index.php/ncsc-what-we-do/121-dni/intelligence-community. Accessed 24 Sept. 2025. (Office of the Director of National Intelligence, sec.HUMINT)
