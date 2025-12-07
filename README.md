@@ -833,7 +833,7 @@ Gitea:
 
 [Why haven't technologies fixed open source intelligence? - James Madison University. page 110-111 - OSINT Changed Direction (Sparks, 2014)](https://commons.lib.jmu.edu/cgi/viewcontent.cgi?article=1013&context=master201019)
 
-[Data Brokers: What They Are and What You Can Do About Them - Safety Net Project (NNEDV, 2022)](https://www.techsafety.org/data-brokers)
+[Data Brokers: What They Are and What You Can Do About Them - Safety Net Project (NNEDV, 2022)](https://archive.ph/CtGVB)
 
 [List of “People Searching” websites - Minnesota House of Representatives (n.d.)](https://www.house.mn.gov/comm/docs/6d27576c-8677-4541-b7c5-7be3a375a72c.pdf)
 
