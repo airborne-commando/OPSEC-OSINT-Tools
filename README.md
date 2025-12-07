@@ -48,7 +48,7 @@ I am **not responsible** for any misuse, abuse, or unethical actions taken with 
 
 **On a matter of privacy**
 
-> “Privacy is necessary for an open society in the electronic age. Privacy is not secrecy. A private matter is something one doesn’t want the whole world to know, but a secret matter is something one doesn’t want anybody to know. Privacy is the power to selectively reveal oneself to the world.” (Hughes, 1993, para. 1)[^72]
+> “Privacy is necessary for an open society in the electronic age. Privacy is not secrecy. A private matter is something one doesn’t want the whole world to know, but a secret matter is something one doesn’t want anybody to know. Privacy is the power to selectively reveal oneself to the world.” (Hughes, 1993, para. 1)[^71]
 
 
 Also a forward to **YOU** the practitioners **of all kinds**:
@@ -96,7 +96,7 @@ If you want some quick methodology I suggest you read this [markdown](./markdown
 
 >"In 2015, Ulbricht was sentenced to life in prison but was pardoned in 2025" (Reiff, 2025, para. 3).[^61]
 
-Ross was pardoned[^62] [^71] in 2025 by the trump administration.
+Ross was pardoned[^62] [^70] in 2025 by the trump administration.
 
 - **LulzSec Hacking Group**
     - Members exposed themselves by discussing ops in public IRC[^56] [^58] [^21] [^20], revealing personal info, using stolen cards[^57] to home addresses, and trusting informants.<br>
@@ -337,6 +337,8 @@ Scholarly Publishing is done at a rigorous peer review process.
 
 Genealogy is the study of a family member, or the study of someones family tree or genealogical background. Not to be confused with forensics and DNA.
  
+----
+
 |                       |                  Google Dorks:                  |                               |
 | --------------------- | ----------------------------------------------- | ----------------------------- |
 | Operator              | Description                                     | Example                       |
@@ -358,15 +360,13 @@ Genealogy is the study of a family member, or the study of someones family tree 
 | `"`                   | Exact phrase                                    | `"confidential file"`         |
 
 
-[Advanced Search Operators](https://docs.google.com/document/d/1ydVaJJeL1EYbWtlfj9TPfBTE5IBADkQfZrQaBZxqXGs) Created by [Daniel Russell](https://sites.google.com/site/dmrussell/more-about-dan)[^70].
-
-
 **Default Behavior**
 - Google treats multiple words as if connected by AND, so results must contain all terms unless you specify otherwise.
 - Quotation marks, site:, and filetype: are among the most commonly used explicit operators for more targeted searches.
 
 These operators are not used unless you include them in your query. Google’s default is simply to return results matching all your search terms, ranked by relevance.
 
+----
 
 ### Real world examples of OSINT
 
@@ -733,8 +733,8 @@ Take a look at the documents which I will [link here](https://breach.vip/api/doc
 | cipher387's OSINT collection | Webpage | A collection of several hundred online tools for OSINT | obsolete tools in list | [cipher387's OSINT collection](https://github.com/cipher387/osint_stuff_tool_collection) |
 | internet tools | Webpage | A curated list from FMHY | | [internet tools](https://fmhy.xyz/internet-tools#open-source-intelligence) |
 | OSINT toolbox | Webpage/Quick Links | OSINT, Privacy & OPSEC bookmarks / links | Some resources are completely free to use, others you will need to pay for however they may offer a free trial. | [OSINT toolbox](https://github.com/The-Osint-Toolbox) |
-| the ultimate osint collection | Webpage | Various tools and links for OSINT | May need to reload the page, I/O[^73] | [the ultimate osint collection](https://start.me/p/DPYPMz/the-ultimate-osint-collection) |
-| osint 500 tools | Webpage | Various tools and links for OSINT | May need to reload the page, I/O[^73] | [osint 500 tools](https://start.me/p/0Pqbdg/osint-500-tools) |
+| the ultimate osint collection | Webpage | Various tools and links for OSINT | May need to reload the page, I/O[^72] | [the ultimate osint collection](https://start.me/p/DPYPMz/the-ultimate-osint-collection) |
+| osint 500 tools | Webpage | Various tools and links for OSINT | May need to reload the page, I/O[^72] | [osint 500 tools](https://start.me/p/0Pqbdg/osint-500-tools) |
 | OSINT Tools and Resources Handbook | webpage | An index of OSINT tools and resources | A curated list | [OSINT Tools and Resources Handbook](https://www.osinthandbook.com/) |
 
 | **Wiki(s)**             |                   |                  
@@ -844,6 +844,10 @@ Gitea:
 [Beginner’s Guide to Hidden Data with Google Dorking - dorksearch (Jamie, Jan. 20 2023)](https://archive.ph/BuniB)
 
 [JCAT - Personal Security of First Responders in the Digital Age (March, 31 2021)](https://www.dni.gov/files/NCTC/documents/jcat/firstresponderstoolbox/111s_-_First_Responders_Toolbox_-_Personal_Security_of_First_Responders_in_the_Digital_Age-survey.pdf)
+
+[More about Dan - dmrussell (Russell, n.d.)](https://sites.google.com/site/dmrussell/more-about-dan)
+
+[Advanced Search Operators - Google Docs (Russell, Feb 8. 2024)](https://docs.google.com/document/d/1ydVaJJeL1EYbWtlfj9TPfBTE5IBADkQfZrQaBZxqXGs) 
 
 ## References:
 
@@ -989,10 +993,8 @@ Gitea:
 
 [^69]: Priya. (2025, September 5). *North Korean hackers shift strategies – Replacing old infrastructure with new assets*. *Cyberpress*. https://cyberpress.org/north-korean-hackers/
 
-[^70]: Russell, D. (n.d.). More about Daniel. Google Sites. https://sites.google.com/site/dmrussell/more-about-dan
+[^70]: Department of Justice. (2025, January 21). Ross William Ulbricht: A full and unconditional pardon. https://web.archive.org/web/20250124015136/https://www.justice.gov/pardon/media/1386096/dl
 
-[^71]: Department of Justice. (2025, January 21). Ross William Ulbricht: A full and unconditional pardon. https://web.archive.org/web/20250124015136/https://www.justice.gov/pardon/media/1386096/dl
+[^71]: Hughes, E. (1993, March 9). *A Cypherpunk’s manifesto*. Activism.net. https://www.activism.net/cypherpunk/manifesto.html
 
-[^72]: Hughes, E. (1993, March 9). *A Cypherpunk’s manifesto*. Activism.net. https://www.activism.net/cypherpunk/manifesto.html
-
-[^73]: Arnold, Miriam et al. “Dealing with information overload: a comprehensive review.” Frontiers in psychology vol. 14 1122200. 21 Jun. 2023, doi:10.3389/fpsyg.2023.1122200
+[^72]: Arnold, Miriam et al. “Dealing with information overload: a comprehensive review.” Frontiers in psychology vol. 14 1122200. 21 Jun. 2023, doi:10.3389/fpsyg.2023.1122200
