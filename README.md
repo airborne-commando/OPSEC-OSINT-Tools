@@ -449,6 +449,7 @@ Three examples of GEOINT tools that you can access right now:
 | findpiclocation | Photos | AI location detection | Accuracy varies | [Link](https://findpiclocation.com/) |
 | **General OSINT Platforms** | | | | |
 | OSINT Rocks | Multiple inputs | Multi-tool interface | Web-based | [Link](https://osint.rocks/) |
+| dox.soy | multiple inputs | multiple tools | | [dox.soy](https://dox.soy/) |
 | one-plus | Multiple inputs | Toolkit with bookmarks | Tools may change | [Link](https://one-plus.github.io/access.html) |
 | osint.sh | webpage | Tookits | Seems to be web based OSINT for web domains or ORG | [Link](https://osint.sh/) |
 | **MISC Tools** | | | | |
