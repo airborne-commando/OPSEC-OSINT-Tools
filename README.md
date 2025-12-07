@@ -841,7 +841,7 @@ Gitea:
 
 [digital profiling - techtarget (Hanna, Jun 11 2024)](https://www.techtarget.com/whatis/definition/digital-profiling)
 
-[Beginner’s Guide to Hidden Data with Google Dorking - dorksearch (Jamie, Jan. 20 2023)](https://dorksearch.com/blog/beginners-guide-google-dorking/)
+[Beginner’s Guide to Hidden Data with Google Dorking - dorksearch (Jamie, Jan. 20 2023)](https://archive.ph/BuniB)
 
 ## References:
 
