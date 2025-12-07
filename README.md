@@ -831,7 +831,7 @@ Gitea:
 
 [A Standalone Osint Agency For Stronger National Security - George Mason University (Gauthier, 2025)](https://nationalsecurity.gmu.edu/wp-content/uploads/2025/01/A-Standalone-OSINT-Agency-for-Stronger-National-Security-FINAL-WEB.pdf)
 
-[Why haven't technologies fixed open source intelligence? - James Madison University. (Sparks, 2014. pg. 110-111 "OSINT Changed Direction")](https://commons.lib.jmu.edu/cgi/viewcontent.cgi?article=1013&context=master201019)
+[Why haven't technologies fixed open source intelligence? - James Madison University. (Sparks, 2014. pg. 110-111 "OSINT Changed Direction")](https://commons.lib.jmu.edu/cgi/viewcontent.cgi?article=1013&context=master201019#%5B%7B%22num%22%3A1881%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C106%2C223%2C0%5D)
 
 [Data Brokers: What They Are and What You Can Do About Them - Safety Net Project (NNEDV, 2022)](https://archive.ph/CtGVB)
 
