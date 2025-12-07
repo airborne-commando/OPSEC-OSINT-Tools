@@ -419,7 +419,7 @@ Three examples of GEOINT tools that you can access right now:
 | Tool | Lookup By | Returns | Limitations/Costs | Notes |
 |------|-----------|---------|-------------------|-------|
 | **Search & Query Tools** | | | | |
-| dorksearch | Manual queries | Google search results | Manual query building | [Link](https://dorksearch.com/) |
+| Google | Manual queries | Google search results | Manual query building | [Link](https://www.google.com/) |
 | Google-FU | Advanced queries | Google search results | Rate limits, CAPTCHAs | [GitHub](https://github.com/airborne-commando/GoogleFU-improved) |
 | Google Advanced | Direct dorking | Google search results | No saved searches | [Link](https://www.google.com/advanced_search) |
 | Awesome Shodan Search Queries | Shodan search queries | Exposed Devices | Only useful for insecure devices | [Link](https://github.com/jakejarvis/awesome-shodan-queries) |
@@ -840,6 +840,8 @@ Gitea:
 [People Search - peopleconnect (n.d.)](https://peopleconnect.us/people-search/)
 
 [digital profiling - techtarget (Hanna, Jun 11 2024)](https://www.techtarget.com/whatis/definition/digital-profiling)
+
+[Beginner’s Guide to Hidden Data with Google Dorking - dorksearch (Jamie, Jan. 20 2023)](https://dorksearch.com/blog/beginners-guide-google-dorking/)
 
 ## References:
 
