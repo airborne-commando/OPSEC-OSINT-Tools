@@ -839,6 +839,8 @@ Gitea:
 
 [People Search - peopleconnect (n.d.)](https://peopleconnect.us/people-search/)
 
+[digital profiling - techtarget (Hanna, Jun 11, 2024)](https://www.techtarget.com/whatis/definition/digital-profiling)
+
 ## References:
 
 [^1]: Office of the Director of National Intelligence. “Intelligence Community.” Office of the Director of National Intelligence, www.odni.gov/index.php/ncsc-what-we-do/121-dni/intelligence-community. Accessed 24 Sept. 2025. (Office of the Director of National Intelligence, sec.HUMINT)
