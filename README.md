@@ -1003,6 +1003,6 @@ Gitea:
 
 [^72]: Arnold, Miriam et al. “Dealing with information overload: a comprehensive review.” Frontiers in psychology vol. 14 1122200. 21 Jun. 2023, doi:10.3389/fpsyg.2023.1122200
 
-[^73]: Protect Democracy. (2024, June 26). "Why is voter registration data public?" protectdemocracy.org https://protectdemocracy.org/work/why-is-voter-registration-data-public/
+[^73]: Protect Democracy. (2024, June 26). Why is voter registration data public? https://protectdemocracy.org/work/why-is-voter-registration-data-public/
 
-[^74]: Colorado Secretary of State. (n.d.). "Public Voter Data and Information Requests FAQs" https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationData.html
+[^74]: Colorado Secretary of State. (n.d.). Public voter data and information requests FAQs. Retrieved December 8, 2025, from https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationData.html
