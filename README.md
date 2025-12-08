@@ -580,7 +580,11 @@ Pipeline discussed [here](./markdown/opsec.md#opsec-pipeline-for-secure-files)
 
 ## Grey literature
 
-To keep it short, again govt data!
+To keep it short, again govt data! (excluding voter records and criminal history).[^74]
+
+As stated by Protect Democracy:
+
+>"Public voter registration data is critical to democracy in the United States. In nearly every state, a public file contains essential information about voters’ eligibility (address, age, districts, precinct, and polling location). Beyond their value to campaigns and others promoting voter participation, these files are used by groups outside of the government (journalists, scholars, advocates, and election integrity experts like VoteShield) to independently verify the rights of voters, and the integrity of US elections." [^73]
 
 Use [these tools listed](https://github.com/airborne-commando/tampermonkey-collection/tree/main)
 
@@ -998,3 +1002,7 @@ Gitea:
 [^71]: Hughes, E. (1993, March 9). *A Cypherpunk’s manifesto*. Activism.net. https://www.activism.net/cypherpunk/manifesto.html
 
 [^72]: Arnold, Miriam et al. “Dealing with information overload: a comprehensive review.” Frontiers in psychology vol. 14 1122200. 21 Jun. 2023, doi:10.3389/fpsyg.2023.1122200
+
+[^73]: Protect Democracy. (2024, June 26). "Why is voter registration data public?" protectdemocracy.org https://protectdemocracy.org/work/why-is-voter-registration-data-public/
+
+[^74]: Colorado Secretary of State. (n.d.). "Public Voter Data and Information Requests FAQs" https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationData.html
