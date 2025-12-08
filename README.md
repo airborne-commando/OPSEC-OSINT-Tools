@@ -821,11 +821,11 @@ Gitea:
 
 ## External links:
 
-[Academic publishing overview - Copyright (updated Jun 24, 2025)](https://guides.library.cmu.edu/c.php?g=1161877&p=9949658)
+[Academic publishing overview - Copyright (updated Jun. 24 2025)](https://guides.library.cmu.edu/c.php?g=1161877&p=9949658)
 
 [An in-depth guide to choosing a VPN - Network security (Updated Jan. 18, 2025)](https://freedom.press/digisec/blog/choosing-a-vpn/)
 
-[Best VPN Services: Which performs best? - VPN (November 1, 2025)](https://cyberinsider.com/vpn/best/)
+[Best VPN Services: Which performs best? - VPN (Nov 1. 2025)](https://cyberinsider.com/vpn/best/)
 
 [Guerilla Open Access Manifesto - Internet Archive (Swartz, July 2008)](https://ia600101.us.archive.org/1/items/GuerillaOpenAccessManifesto/Goamjuly2008.pdf)
 
@@ -839,15 +839,15 @@ Gitea:
 
 [People Search - peopleconnect (n.d.)](https://peopleconnect.us/people-search/)
 
-[digital profiling - techtarget (Hanna, Jun 11 2024)](https://www.techtarget.com/whatis/definition/digital-profiling)
+[digital profiling - techtarget (Hanna, Jun. 11 2024)](https://www.techtarget.com/whatis/definition/digital-profiling)
 
 [Beginner’s Guide to Hidden Data with Google Dorking - dorksearch (Jamie, Jan. 20 2023)](https://archive.ph/BuniB)
 
-[Personal Security of First Responders in the Digital Age - JCAT (March, 31 2021)](https://www.dni.gov/files/NCTC/documents/jcat/firstresponderstoolbox/111s_-_First_Responders_Toolbox_-_Personal_Security_of_First_Responders_in_the_Digital_Age-survey.pdf)
+[Personal Security of First Responders in the Digital Age - JCAT (Mar. 31 2021)](https://www.dni.gov/files/NCTC/documents/jcat/firstresponderstoolbox/111s_-_First_Responders_Toolbox_-_Personal_Security_of_First_Responders_in_the_Digital_Age-survey.pdf)
 
 [More about Dan - dmrussell (Russell, n.d.)](https://sites.google.com/site/dmrussell/more-about-dan)
 
-[Advanced Search Operators - Google Docs (Russell, Feb 8. 2024)](https://docs.google.com/document/d/1ydVaJJeL1EYbWtlfj9TPfBTE5IBADkQfZrQaBZxqXGs) 
+[Advanced Search Operators - Google Docs (Russell, Feb. 8 2024)](https://docs.google.com/document/d/1ydVaJJeL1EYbWtlfj9TPfBTE5IBADkQfZrQaBZxqXGs) 
 
 ## References:
 

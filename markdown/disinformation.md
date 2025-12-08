@@ -46,9 +46,11 @@ Recognizing and countering such operations is a critical skill for OSINT practit
 
 ## External links:
 
-[Ethics of Plausible Deniability — Pro Rege (Van Til, March 2024)](https://digitalcollections.dordt.edu/cgi/viewcontent.cgi?article=3291&context=pro_rege)
+[Van Til, John A. (2024) "Ethics of Plausible Deniability," Pro Rege: Vol. 52: No. 3, 37 - 46.](https://digitalcollections.dordt.edu/cgi/viewcontent.cgi?article=3291&context=pro_rege)
 
 [Trump’s Use of Conversational Implicature and Plausible Deniability - University of Colorado (Ehrhard, Aug. 21 2020)](https://www.colorado.edu/linguistics/2020/08/21/trumps-use-conversational-implicature-and-plausible-deniability)
+
+[Cambridge Analytica, LLC, In the Matter of -  Federal Trade Commission(FCC, Dec. 18 2019)](https://www.ftc.gov/legal-library/browse/cases-proceedings/182-3107-cambridge-analytica-llc-matter)
 
 ## References:
 

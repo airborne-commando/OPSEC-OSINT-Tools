@@ -6,7 +6,6 @@
   - [Other Methods](#other-methods)
   - [Summary Table](#summary-table)
   - [Key Point](#key-point)
-  - [References](#references)
 
 - [Methods to Physically Destroy an SSD](#methods-to-physically-destroy-an-ssd)
   - [Overview](#overview)
@@ -15,7 +14,6 @@
   - [Methods to Avoid](#methods-to-avoid)
   - [Quick Reference Table](#quick-reference-table)
   - [Summary](#summary-1)
-  - [References](#references-1)
 
 - [Comparative Analysis: Data Destruction Methods](#comparative-analysis-data-destruction-methods)
   - [Recommended Methods by Scenario](#recommended-methods-by-scenario)
@@ -36,7 +34,7 @@
     - [Method Comparison Table](#method-comparison-table)
     - [Key Points](#key-points)
     - [Safety Warning](#safety-warning)
-    - [References](#references-2)
+    - [External Links](#external-links)
     - [main guide](../README.md)
 
 # How to Physically Destroy a Hard Disk Drive (HDD)
@@ -104,14 +102,6 @@ To ensure data is irretrievable:
 - For most individuals: drilling or hammering is sufficient
 - For higher security: use professional shredding/degaussing
 
-### References
-1. [ShredAll Guide](https://www.shredall.co.uk/blogs/blog/how-to-destroy-old-hard-drives)
-2. [Data Destruction Methods](https://datadestruction.com/top-5-hard-drive-destruction-methods-actually-work/)
-3. [Reddit Discussion](https://www.reddit.com/r/storage/comments/13sfejb/cheapeasy_way_to_destroy_drives/)
-4. [eWaste Solutions](https://ewaste.com/blog/best-ways-to-destroy-a-hard-drive-top-6-methods/)
-5. [Human-I-T Guide](https://www.human-i-t.org/hard-drive-destruction/)
-6. [eWaste Data Security](https://ewaste.com/blog/how-to-destroy-a-hard-drive-so-data-cannot-be-recovered/)
-
 # Methods to Physically Destroy an SSD
 
 ## Overview
@@ -162,14 +152,6 @@ To physically destroy an SSD:
 3. Always dispose at certified e-waste facilities
 
 These methods ensure data cannot be recovered by conventional means.
-
-### References
-1. [Dell SSD Data Removal](https://www.dell.com/support/kbdoc/en-us/000150908/data-removal-processes-for-a-solid-state-hard-drive)
-2. [Security StackExchange](https://security.stackexchange.com/questions/225451/how-to-physically-destroy-an-ssd-at-home)
-3. [Phiston Technologies](https://phiston.com/how-to-destroy-ssd-drives-and-does-degaussing-work-on-them/)
-4. [iFixit Guide](https://www.ifixit.com/Guide/How+to+safely+and+securely+destroy+data+on+SSDs+and+memory+sticks/142798)
-5. [SEM Shredding](https://www.semshred.com/how-to-and-how-to-not-destroy-ssds-at-end-of-life/)
-
 
 ## Comparative Analysis: Data Destruction Methods
 
@@ -354,8 +336,38 @@ To ensure data on a USB drive is completely unrecoverable, you must physically d
 - Work in well-ventilated areas
 - Never microwave electronics (fire risk)
 
-### References
-1. [Flash Drive Destruction Guide](https://flashfixers.com/2014/12/24/4-ways-to-destroy-your-flash-drive-in-30-seconds-or-less/)
-2. [Campus Technology](https://campustechnology.com/articles/2011/09/29/how-and-why-to-destroy-old-flash-drives.aspx)
-3. [Absolute Destruction](https://absolutedestruction.ca/tips-for-destroying-old-usb-and-flash-drives/)
-4. [Partition Wizard](https://www.partitionwizard.com/news/how-to-destroy-a-flash-drive.html)
+# External Links:
+
+[Best Practices for Media Destruction - Cornell University(n.d.)](https://it.cornell.edu/security-essentials-it-professionals/best-practices-media-destruction)
+
+[How and Why to Destroy Old Flash Drives - Campus Technology (Dulaney, Sept. 29, 2011)](https://campustechnology.com/articles/2011/09/29/how-and-why-to-destroy-old-flash-drives.aspx)
+
+[Tips for Destroying Old USB and Flash Drives - Absolute Destruction(Mar. 23, 2023)](https://absolutedestruction.ca/tips-for-destroying-old-usb-and-flash-drives/)
+
+[How to Destroy a Flash Drive? Here’s the Full Guide - Partition Wizard (Vega, Nov. 29, 2024)](https://www.partitionwizard.com/news/how-to-destroy-a-flash-drive.html)
+
+[How to Destroy Old Hard Drives - ShredAll Guide (May 22, 2024)](https://www.shredall.co.uk/blogs/blog/how-to-destroy-old-hard-drives)
+
+[Top 5 Hard Drive Destruction Methods that Work - Data Destruction (Sadeghi)](https://datadestruction.com/top-5-hard-drive-destruction-methods-actually-work/)
+
+[What are the Best Ways to Destroy a Hard Drive? Here are 6 Methods - eWaste Solutions (Jun. 20, 2023)](https://ewaste.com/blog/best-ways-to-destroy-a-hard-drive-top-6-methods/)
+
+[Your Guide to Secure Hard Drive Destruction - Human-I-T (Cooper, Oct. 18 2024)](https://www.human-i-t.org/hard-drive-destruction/)
+
+[How to Destroy a Hard Drive So Data Cannot Be Recovered - eWaste Solutions (Jun. 20, 2023)](https://ewaste.com/blog/how-to-destroy-a-hard-drive-so-data-cannot-be-recovered/)
+
+[Disk Sanitization Methods for Solid-State Hard Drives - Dell (May 23, 2025)](https://www.dell.com/support/kbdoc/en-us/000150908/data-removal-processes-for-a-solid-state-hard-drive)
+
+[How to physically destroy an SSD at home? - Security StackExchange(fgysin. Feb. 6, 2020)](https://security.stackexchange.com/questions/225451/how-to-physically-destroy-an-ssd-at-home)
+
+[How to safely and securely destroy data on SSDs and memory sticks - ifixit (Riche et al. Sep. 22, 2024)](https://www.ifixit.com/Guide/How+to+safely+and+securely+destroy+data+on+SSDs+and+memory+sticks/142798)
+
+[How to and How to NOT Destroy SSDs at End of Life - semshred (Canale, n.d.)](https://www.semshred.com/how-to-and-how-to-not-destroy-ssds-at-end-of-life/)
+
+[Securely dispose of devices and data - University of Delaware(Delaware University of. 2020)](https://www1.udel.edu/security/bestpractices/disposal.html)
+
+[Securely Destroying Electronic and Paper Records - University of Florida(Florida University of. 2025)](https://it.ufl.edu/security/security-guidance/media-disposal/securely-destroying-electronic-and-paper-records/)
+
+[The Secrets to Destroying All Data on a Disk or USB Flash Drive - Howard Fosdick Articles (Fosdick. 2025)](https://rexxinfo.org/howard_fosdick_articles/how_to_completely_wipe_a_disk/how_to_completely_wipe_a_disk.html)
+
+[secure data erasure - Privacy Guides (mfwmyfacewhen Et al. May 5, 2022)](https://www.privacyguides.org/articles/2022/05/25/secure-data-erasure/#flash-storage)
