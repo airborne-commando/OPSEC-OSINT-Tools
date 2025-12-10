@@ -604,6 +604,7 @@ Use [these tools listed](https://github.com/airborne-commando/tampermonkey-colle
 | **[hashes.com](https://hashes.com/)** | Hash (MD5, SHA-1, etc.) | Decrypted passwords (if hash is cracked) | Free/paid cracking tools | Useful for reversing hashes from breaches |
 | **[pentester.com](https://pentester.com/)** | Email, Username | Full breach details (more than HIBP) | **Free**; no Tor needed; use incognito/private browsing mode | Extensive; may include sensitive data |
 | **[Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)** | Email, Username, Domain, APK | Infostealer infection indication, general information | Free; no passwords/raw data | Infostealer only data |
+| **[combo-list](https://www.google.com/search?q=site%3Ascribd.com+combolist)** | email, username, password etc | a pdf document | you need an account to download from scribd, use these if you can [vdownloaders](https://scribd.vdownloaders.com/) or `https://www.scribd.com/embeds/CONTENT-NUM/content`, scroll the embed (load it) and ctrl+a ctrl+cp into a text file | may be old data, public info at that point (Web index) |
 | **[archive.trace.rip](https://archive.trace.rip/)** | Detailed information | User submitted | Historical Data Breaches Archive | Data breaches and scrapes throughout history |
 
 ## Curl commands
