@@ -423,6 +423,7 @@ And there is the multi-user issue, can be solved with this line in fstab.[^16] [
 * [Police plants own computers in Freenet, log IPs, makes arrest – Hacker10](https://hacker10.com/internet-anonymity/police-plants-own-computers-in-freenet-makes-arrest/)
 * [Police departments tracking efforts based on false statistics – Hyphanet](https://www.hyphanet.org/police-departments-tracking-efforts-based-on-false-statistics.html)
 * [A De-anonymization Attack against Downloaders in Freenet IEEE – 2024 Publication (IEEE Xplore)](https://ieeexplore-custom.ieee.org/document/10621209?reload=true)
+* [Darknet bible (TOR NEEDED)](http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/)
 
 
 ## References:
