@@ -439,6 +439,7 @@ Three examples of GEOINT tools that you can access right now:
 | No-Shit-Sherlock | Username | GUI version of Sherlock | Inherits CLI limitations | [GitHub](https://github.com/airborne-commando/no-shit-sherlock) |
 | Maigret | Username | Connections between accounts | Sherlock fork | [GitHub](https://github.com/soxoj/maigret) |
 | Maigret-Night (GUI) | Username | GUI for Maigret | Same as CLI | [GitHub](https://github.com/airborne-commando/maigret-night) |
+| instantusername | username | username | Instantly check username availability across multiple platforms as you type. | [Link](https://instantusername.com/) |
 | Holehe | Email | Email usage across sites | CLI; false positives | [GitHub](https://github.com/megadose/holehe) |
 | **Geolocation/GEOINT** | | | | |
 | Google Maps | Coordinates/address | Location data | Public data only | [Link](https://maps.google.com/) |
@@ -446,6 +447,8 @@ Three examples of GEOINT tools that you can access right now:
 | Google Earth | Coordinates/address | 3D/2D, historical views | Use with other services | [Link](https://earth.google.com/web) |
 | geohints | Geolocation data | GeoGuessr metadata clues | Provides clues only | [Link](https://geohints.com/) |
 | GeoGuessr GPT | Photos | AI location guesses | AI hallucinations; 3 free uploads | [Link](https://chatgpt.com/g/g-brlHi7t2R-geoguessr-gpt) |
+| geospy | Image | get geolocation using ai | sign up required, LEO and govt only | [Link](https://geospy.ai/) |
+| picarta | Image | get geolocation using ai | no sign up however you'll need to login to get the full results details. | [Link](https://picarta.ai/) |
 | findpiclocation | Photos | AI location detection | Accuracy varies | [Link](https://findpiclocation.com/) |
 | **General OSINT Platforms** | | | | |
 | OSINT Rocks | Multiple inputs | Multi-tool interface | Web-based | [Link](https://osint.rocks/) |
@@ -454,6 +457,8 @@ Three examples of GEOINT tools that you can access right now:
 | osint.sh | webpage | Tookits | Seems to be web based OSINT for web domains or ORG | [Link](https://osint.sh/) |
 | **MISC Tools** | | | | |
 | zabasearch-auto | US public info | Public records lookup | CLI; advanced usage | [GitHub](https://github.com/airborne-commando/zabasearch-auto) |
+| whois | domain | domain registrar info and IP | good if someone owns a website if they didn't make info private | [Link](https://who.is/) |
+| phone number look up | Phone Number | Name | get facebook, matches ect. Use people search tools | [Link](https://www.numlookup.com/) |
 | link extractor and archive | URLs | Archive.ph tool | CLI; basic pages; manual edits | [GitHub](https://github.com/airborne-commando/link-extractor-and-archive) |
 | **Email Compromises** | | | | |
 | Hudson Rock Extractor | Email | Manual breach check | Flask-based; manual input | [GitHub](https://github.com/airborne-commando/hudsonrock-search-extractor) |
@@ -469,7 +474,6 @@ Three examples of GEOINT tools that you can access right now:
 | reddit-uncensored | Reddit URLs | Deleted content restoration | Arctic Shift API | [FF](https://addons.mozilla.org/en-US/firefox/addon/reddit-uncensored/) [Chrome](https://chrome.google.com/webstore/detail/amfnaoebakgdklcahkilhjoglflgnhbm) |
 | usertoihsoyct | Usernames | Username redirect | Firefox addon | [GitHub](https://github.com/airborne-commando/usertoihsoyct) |
 | facecheck.id | Images | Biometric search | Firefox is GitHub only | [Chrome](https://chromewebstore.google.com/detail/facecheck-reverse-image-s/ciocmmdeghlmioiedoggnlefllfpfmdj?hl=en-US) [Firefox](https://github.com/airborne-commando/firefox-facecheck-id) |
-
 
 
 ---
@@ -560,7 +564,7 @@ Pipeline discussed [here](./markdown/opsec.md#opsec-pipeline-for-secure-files)
 | **[PublicRecords](https://www.publicrecords.onlinesearches.com/)**       | Name, Address, State                     | Name, Address, Partial Phone             | Free directory; redirects to Intelius for paid details.                                              |
 | **[ClustrMaps](https://clustrmaps.com/)**          | Name, Address                            | Addresses, Residents, Property, IP Data  | Focuses on geolocation/demographics; may include ownership history.                                  |
 | **[fastbackgroundcheck](https://www.fastbackgroundcheck.com)** | Name, Address, Phone Number              | Name, Address, Phone Number, Emails      | Seems to comb though billions of records as stated on it's [website](https://www.fastbackgroundcheck.com/about)                           |
-| **[ZabaSearch](https://www.zabasearch.com/)**               | first, last name, city state             | Names, Possible Relatives, et al         | comes from various sources, as stated on it's [faq](https://www.zabasearch.com/faq/), free partial look up and is **accurate*** |
+| **[ZabaSearch](https://www.zabasearch.com/)**          | first, last name, city state             | Names, Possible Relatives, et al         | comes from various sources, as stated on it's [faq](https://www.zabasearch.com/faq/), free partial look up and is **accurate*** |
 | **DoJ/State**                   | DoJ Resource                             | [Justice site](https://www.justice.gov/jmd/ls/state)                     | Various states and public govt info, Public govt info                                                |
 ||                                  Megans Law website/FBI                   | [FBI registry](https://www.nsopw.gov/?AspxAutoDetectCookieSupport=1)                     | Look up registered individuals, Only for registered individuals (sex offenders)                      |
 
@@ -601,6 +605,8 @@ Use [these tools listed](https://github.com/airborne-commando/tampermonkey-colle
 | **[LeakPeek](https://leakpeek.com/)** | Email, Username | Partial breach snippets (e.g., domains) | 5 free searches; Tor bypass possible | Paid plans for full data; obfuscates results |
 | **[LOLArchiver](https://osint.lolarchiver.com/)** | Email, Username | Full breach databases (e.g., emails, passwords) | Paid service only | For OSINT professionals; curated high-value leaks |
 | **[Icebreaker](https://github.com/airborne-commando/ice-breaker)** | Local breach files | Parses/analyzes large breach datasets | Python/EXE; works best for <1000GB files | Demo script provided; use with caution (e.g., [Facebook 533M leak](https://github.com/davidfegyver/facebook-533m)) |
+| **[big file reader](https://archive.ph/EaPmx)** | python | data in files | Storage/hardware | Big file reader written in python | 
+| **[large database file leak folder](https://cloud.mail.ru/public/AuvN/VJuLUgsZY)** | using ice-breaker or big file reader | Usernames, etc | hardware/space | All known breaches, in Russian.
 | **[hashes.com](https://hashes.com/)** | Hash (MD5, SHA-1, etc.) | Decrypted passwords (if hash is cracked) | Free/paid cracking tools | Useful for reversing hashes from breaches |
 | **[pentester.com](https://pentester.com/)** | Email, Username | Full breach details (more than HIBP) | **Free**; no Tor needed; use incognito/private browsing mode | Extensive; may include sensitive data |
 | **[Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)** | Email, Username, Domain, APK | Infostealer infection indication, general information | Free; no passwords/raw data | Infostealer only data |
