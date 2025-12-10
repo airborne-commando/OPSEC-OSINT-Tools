@@ -605,7 +605,7 @@ Use [these tools listed](https://github.com/airborne-commando/tampermonkey-colle
 | **[pentester.com](https://pentester.com/)** | Email, Username | Full breach details (more than HIBP) | **Free**; no Tor needed; use incognito/private browsing mode | Extensive; may include sensitive data |
 | **[Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)** | Email, Username, Domain, APK | Infostealer infection indication, general information | Free; no passwords/raw data | Infostealer only data |
 | **[combo-list](https://www.google.com/search?q=site%3Ascribd.com+combolist)** | email, username, password etc | a pdf document | you need an account to download from scribd, use these if you can [vdownloaders](https://scribd.vdownloaders.com/) or `https://www.scribd.com/embeds/CONTENT-NUM/content`, scroll the embed (load it) and ctrl+a ctrl+cp into a text file, that will be messy however... use [poppler](https://man.archlinux.org/man/pdftotext.1.en) | may be old data, public info at that point (Web index) |
-| **[filemood.com](https://filemood.com/)** | Torrent indexer | Torrents found | List of torrents of various sizes that are tied to a breach | May need to be seeded, also needs a [VPN](./markdown/opsec.md#anonymity-tools), same results for [btdig](https://btdig.com) |
+| **[filemood.com](https://filemood.com/)** | Torrent indexer | Torrents found | List of torrents of various sizes that are tied to a breach | May need to be seeded, also needs a [VPN](./markdown/opsec.md#anonymity-tools), same results for [btdig](https://btdig.com), can also try [weekpass](https://weakpass.com/) |
 
 ## Curl commands
 
