@@ -773,9 +773,8 @@ Take a look at the documents which I will [link here](https://breach.vip/api/doc
 | **AI Helpers:**         |                  |                  
 |-------------------------|------------------|
 |  [perplexity - OSINT Research](https://www.perplexity.ai/spaces/osint-research-GLt9lRgIRY.Gm5em9qYzdg) | OSINT Research |
+|  [perplexity - Google Dorking](https://www.perplexity.ai/spaces/google-dorking-rkHx6yQLQweCt7vlFkmK4g#0) | Google Dorking "Hacking" |
 |  [Coding - Tampermonkey](https://www.perplexity.ai/spaces/coding-m2PpkGBUTjeypO6yq9oO3A) | Coding |
-
-
 
 | **OPT OUTs / self OSINT** |   **Compare info**                                                                                            |
 |----------------------|--------------------------------------------------------------------------------------------------------------------|
