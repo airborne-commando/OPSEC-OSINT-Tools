@@ -882,7 +882,19 @@ xiY8sWodoKy1OeMeyUMTa6vlaG2RmQo=
 -----END PGP SIGNATURE-----
 ```
 
+```
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
 
+https://app.radicle.xyz/nodes/iris.radicle.xyz/users/did:key:z6MkvGytBYjSqWAzTQwiWnNHkRxBM3zvyvvFRCprxHzoZEj9
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQTb582oXFurjp8lhR+STz86e4P99AUCaTyrKQAKCRCSTz86e4P9
+9BriAP9v9LGHcF8pTyHVQ9umlA/mRRIvVViv1neo8+t19nSA8QD+IjR2m+L8/Lor
+DQZPq0qHXH/+g/kd/E9wsjf24VwnAgc=
+=b5WD
+-----END PGP SIGNATURE-----
+```
 
 
 ## External links:
