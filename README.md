@@ -829,6 +829,62 @@ Gitea:
 
     https://gitea.com/jc-denton/OPSEC-OSINT-Tools
 
+
+My PGP
+
+[pgp.txt](https://gist.githubusercontent.com/airborne-commando/0ca1153f3312bc6341b1ed695f8693e7/raw/f443bc494f469ffa7d61311ec62d4eb93459763c/pgp.txt)
+
+Github:
+
+```
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+https://github.com/airborne-commando/OPSEC-OSINT-Tools
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQTb582oXFurjp8lhR+STz86e4P99AUCaTypBgAKCRCSTz86e4P9
+9N4GAQC1bdpc+PI7nB9JaGpFz+8Z/ZSvEEP+agxk0wMEr4Y6FgD/Xby2FIRrGRpB
+8MDQFo0cTLzqmV8969NgZh/pu071iAU=
+=NLtz
+-----END PGP SIGNATURE-----
+```
+
+Gitea:
+
+```
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+https://gitea.com/jc-denton/OPSEC-OSINT-Tools
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQTb582oXFurjp8lhR+STz86e4P99AUCaTypUAAKCRCSTz86e4P9
+9DG1AP9B5BqYkK4Iq29EpjXWbUP8EHmavBtMyUfhsK93sFMANgEA2/GO1X/yeHjp
+km+vjdS2K+KiZ+vEc1Jm+IYb/Q8nEAU=
+=zu+T
+-----END PGP SIGNATURE-----
+```
+
+Rad:
+
+```
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+https://app.radicle.xyz/nodes/rosa.radicle.xyz/users/did:key:z6MkvGytBYjSqWAzTQwiWnNHkRxBM3zvyvvFRCprxHzoZEj9
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQTb582oXFurjp8lhR+STz86e4P99AUCaTypmwAKCRCSTz86e4P9
+9I3CAP9tP83lY2jDk2AQ9BHjEZr5/snzGMRNmL/2xsGMS45MmgD/X6SaAko9Sqvu
+xiY8sWodoKy1OeMeyUMTa6vlaG2RmQo=
+=RiOs
+-----END PGP SIGNATURE-----
+```
+
+
+
+
 ## External links:
 
 [Academic publishing overview - Copyright (updated Jun. 24 2025)](https://guides.library.cmu.edu/c.php?g=1161877&p=9949658)
