@@ -7,9 +7,10 @@ A comprehensive guide to operational security tools and techniques.
 - [Content Obfuscation](#content-obfuscation)
 - [Image Generation & Editing](#image-generation--editing)
 - [Anonymity Tools](#anonymity-tools)
-    - [Trying TailsOS](opsec.md#to-try-tailsos-unsecure)
-    - [i2p with TailsOS](opsec.md#i2p-with-TailsOS-not-supported-but-is-amnesic)
-    - [Secure File Transfer (TailsOS)](opsec.md#secure-file-transfer-methods-in-tailsos)
+    - [Trying TailsOS](#to-try-tailsos-unsecure)
+    - [i2p with TailsOS](#i2p-with-TailsOS-not-supported-but-is-amnesic)
+    - [Secure File Transfer (TailsOS)](#secure-file-transfer-methods-in-tailsos)
+    - [How to verify an onion address](#how-to-verify-an-onion-address)
 - [Virtualization](#virtualization)
 - [Privacy Protection](#privacy-protection)
 - [Cryptocurrency](#cryptocurrency)
@@ -190,6 +191,94 @@ To monitor I2P status:
 [Usage and Considerations](https://github.com/itsOwen/i2pd-tails-os?tab=readme-ov-file#-usage).
 
 [With I2P support, Install Docs](https://github.com/itsOwen/i2pd-tails-os?tab=readme-ov-file#-installation).
+
+
+## How to verify an onion address
+
+Find the pgp key
+
+a good example is tortaxi
+
+**import the pgp keys and certify it**
+
+    -----BEGIN PGP PUBLIC KEY BLOCK-----
+    
+    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
+    ALE2wG91EqCm+fxz2xTiXcBc7tY1Rg==
+    =VrWs
+    -----END PGP PUBLIC KEY BLOCK-----
+
+**Verification**
+
+Decrypt and verify the sig
+
+    -----BEGIN PGP SIGNED MESSAGE-----
+    Hash: SHA512
+    
+    https://tor.taxi
+    http://tortaxi2dev6xjwbaydqzla77rrnth7yn2oqzjfmiuwn5h6vsk2a4syd.onion
+    -----BEGIN PGP SIGNATURE-----
+    
+    iQIzBAEBCgAdFiEEpeCoOTlhGGqikTefvYnEGhWId4oFAmXmo6IACgkQvYnEGhWI
+    d4qtdg/8CthYMEbWpWTK7GlZ0OTQxQDD7syG8wam35bvbVf0Rz96o2doI3kDCfL3
+    jLna0MqT7ZCrOcrioiTTPq3LIZFU2B7aA/P689Sqfuk0VlfmILar1t7vLUDVgQDC
+    bys/yffjUOJAPQWSs5RjuCKW2W3dkim9si1IszUd8Qa69FlwGVuV6L1FTDw5LE5j
+    WGHn9YO7iDXDMzi4A/B5bZpcYnW+wMx/7m835b/W5xraAGpgSSLD6ZfbKjzzrUJL
+    T7iE85Bp59rj0AfNrjjYYaFCo5ZiXRGPMOU1xOFlQXm1rvpRK+8JPD+KCI2/epyQ
+    KjI/Hkh/dtKVNlReUGOzBU3WRK7S9ejvL2n8ZfJWM41EQq1uT4UBn4VKqJuugw+b
+    EBe1OVdHnJEgoElTApitzosVUVG4FRnNWz7QJMiaFYvZV7vm2v/Jf+T7Kdny27Yl
+    phdbQM3edpfBI61SJPggDNI0KIk2KgmsAxcQ+BUyEWiEYrBiYtZvEAY/uGMKEvaT
+    dPJ5TadlAi0TOczr3NF46PfEegbpa+82rXKzlfbwRCRzCj4BknaFOAmICrZpVFHz
+    vdG74uJZXBnD+hHvPnnVEBKXkZ9Y91kxSJdLjY2TjqtNgliQYyl0pQjnb6o8sEyD
+    NvIwHwPEQz0vUZzCWI0bcmlFtiK4S30EUfR2ePNq1j9ZhMRM7ao=
+    =Yzt0
+    -----END PGP SIGNATURE-----
+
 
 ---
 
@@ -424,6 +513,7 @@ And there is the multi-user issue, can be solved with this line in fstab.[^16] [
 * [Police departments tracking efforts based on false statistics – Hyphanet](https://www.hyphanet.org/police-departments-tracking-efforts-based-on-false-statistics.html)
 * [A De-anonymization Attack against Downloaders in Freenet IEEE – 2024 Publication (IEEE Xplore)](https://ieeexplore-custom.ieee.org/document/10621209?reload=true)
 * [Darknet bible (TOR NEEDED)](http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/) | [Public Archive of Darknet bible](http://web.archive.org/web/20241009220859/https://darknetbible.org/) | [A hosted git](https://github.com/DarkWebInformer/dnmbible) | [Clearnet](https://darknetbible.info/bible/about/index.html)
+* [tor.taxi](https://tor.taxi/)
 
 
 ## References:
