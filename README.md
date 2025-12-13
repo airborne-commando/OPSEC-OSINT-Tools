@@ -832,7 +832,7 @@ Gitea:
 
 My PGP
 
-[pgp.txt](https://gist.githubusercontent.com/airborne-commando/0ca1153f3312bc6341b1ed695f8693e7/raw/f443bc494f469ffa7d61311ec62d4eb93459763c/pgp.txt)
+[pgp.txt](https://gist.githubusercontent.com/airborne-commando/0ca1153f3312bc6341b1ed695f8693e7/raw/0e40357e4f269f9e58bdf9623265cfcfc094124e/pgp.txt)
 
 Github gitea and rad:
 
