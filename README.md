@@ -830,11 +830,33 @@ Gitea:
     https://gitea.com/jc-denton/OPSEC-OSINT-Tools
 
 
-My PGP
+My PGP:
 
 [pgp.txt](https://gist.githubusercontent.com/airborne-commando/0ca1153f3312bc6341b1ed695f8693e7/raw/pgp.txt)
 
+```
+Comment: Valid from: 12/12/25 7:01 PM
+Comment: Valid until:12/12/30 11:58 PM
+Comment: If this key doesn't change and is expired either something happened to me or I simply forgot.
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEaTys3RYJKwYBBAHaRw8BAQdAUSiVaO5JG1716tJSBWd3pQr0Irt0ai9Ka6jV
+EIa43fm0H2pjLWRlbnRvbiA8amMtZGVudG9uQG9zaW50LmNvbT6IlgQTFgoAPgIb
+AwULCQgHAgYVCgkICwIEFgIDAQIeAQIXgBYhBKoxoe93Gdxfp4m7+66MMgra00pf
+BQJpPK4CBQkJZ5i2AAoJEK6MMgra00pfNZEBAKmiJNydL3HfZ9SJoMp6uIFKZNIT
+0CHD8WLHFmxYxHppAQD43mos91KN2qFzUcPiaOxf+7Kdj8zF+MZcAn/jtIPECrg4
+BGk8rN0SCisGAQQBl1UBBQEBB0AgayhEEluPo/fQBNQg8JSrLTaVrYqGWFbv5vyY
+67HZRAMBCAeIeAQYFgoAIBYhBKoxoe93Gdxfp4m7+66MMgra00pfBQJpPKzdAhsM
+AAoJEK6MMgra00pfIt0BAIHT2LmrhUSrMu/tPcZm2lp9hwLhll+ay9c3hLEL3Uvg
+AP0ZyMix6CQSXCIr18VuCcfofdVvS/Zc5wlZMKxJXfUjAw==
+=vB9J
+-----END PGP PUBLIC KEY BLOCK-----
+
+```
+
 Github gitea and rad:
+
+[Messages](https://gist.githubusercontent.com/airborne-commando/b55a40c20edd0a2cc29797cd163d1632/raw/messages.txt)
 
 ```
 -----BEGIN PGP SIGNED MESSAGE-----
