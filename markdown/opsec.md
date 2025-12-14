@@ -279,6 +279,11 @@ Decrypt and verify the sig
     =Yzt0
     -----END PGP SIGNATURE-----
 
+**Core Limitations**
+PGP uses "long-lived encryption keys (subject to compromise) for confidentiality, and digital signatures (which provide strong, and in some jurisdictions, legal, proof of authorship) for authenticity" (Borisov et al., 2004, p. 1). This lacks perfect forward secrecy, allowing past messages to be decrypted if a key is later compromised, unlike desired short-lived keys. Digital signatures also create non-repudiation, where "a digital signature may be verified by anyone, and as such can be used to prove to a third party that Alice signed a message" (Borisov et al., 2004, p. 5), undermining privacy in personal talks.[^18]
+
+**Ideal Properties Missing**
+Social communications need "perfect forward secrecy and repudiability," the "opposite" of PGP's properties (Borisov et al., 2004, p. 1). PGP's keys expose historical messages to retroactive breaches, as "the compromise of Bob’s secrets allowed Eve to read not only future messages protected with that key, but past messages as well" (Borisov et al., 2004, p. 3). Signatures further limit candid exchange by enabling third-party proof of authorship.[^18]
 
 ---
 
@@ -551,3 +556,5 @@ And there is the multi-user issue, can be solved with this line in fstab.[^16] [
 [^16]: The Linux Kernel Archives. (2025, May 17). tmpfs(5) - a virtual memory filesystem. Linux man-pages. https://man7.org/linux/man-pages/man5/tmpfs.5.html
 
 [^17]: ArchWiki. (2025, September 28). tmpfs. https://wiki.archlinux.org/title/Tmpfs
+
+[^18]: Borisov, N., Goldberg, I., & Brewer, E. (2004). *Off-the-Record Communication, or, Why Not To Use PGP*. WPES '04: Proceedings of the 2004 ACM workshop on Privacy in the electronic society (pp. 1-5). Association for Computing Machinery.
