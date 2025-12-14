@@ -847,12 +847,14 @@ https://app.radicle.xyz/nodes/iris.radicle.xyz/users/did:key:z6MkvGytBYjSqWAzTQw
 https://gitea.com/jc-denton/OPSEC-OSINT-Tools
 
 https://github.com/airborne-commando/OPSEC-OSINT-Tools
+
+If this expires and isn't renewed, either something happened to me or I forgot.
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQSqMaHvdxncX6eJu/uujDIK2tNKXwUCaTyvNQAKCRCujDIK2tNK
-X+ilAQDj1xmrs8h+RzlzUHqv9UJ/jXHuBTK7ZAoEam8WchtB+QEAtl6X6bOLdAmA
-of7E3GmW3WKDAXUTtyi98yj0aY/08gs=
-=MRkS
+iHUEARYKAB0WIQSqMaHvdxncX6eJu/uujDIK2tNKXwUCaT4l0AAKCRCujDIK2tNK
+X0vrAP9kecNWN/X9yz8dQ9Vf4e0N9aMpLpS2zSeA+i0ZHuF8oAEAmYJI6zW4DCZd
+sr6/CAi5crClo+Cucr30xyrHeDc0mwA=
+=inZ6
 -----END PGP SIGNATURE-----
 
 ```
