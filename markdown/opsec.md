@@ -523,7 +523,7 @@ You may also need to use histcontrol to disable commands or disable history enti
 * [A De-anonymization Attack against Downloaders in Freenet IEEE – 2024 Publication (IEEE Xplore)](https://ieeexplore-custom.ieee.org/document/10621209?reload=true)
 * [Darknet bible (TOR NEEDED)](http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/) | [Public Archive of Darknet bible](http://web.archive.org/web/20241009220859/https://darknetbible.org/) | [A hosted git](https://github.com/DarkWebInformer/dnmbible) | [Clearnet](https://darknetbible.info/bible/about/index.html)
 * [tor.taxi](https://tor.taxi/)
-* [bash(1) General Commands Manual - HISTCONTROL (April 7th, 2025, Linux man-pages)](https://wiki.archlinux.org/title/Bash#History)
+* [bash(1) General Commands Manual - HISTCONTROL (April 7th, 2025, Linux man-pages)](https://man.archlinux.org/man/bash.1#HISTCONTROL)
 * [Carnegie Mellon University - Do not create temporary files in shared directories (Seacord et al. Aug 29, 2025)](https://wiki.sei.cmu.edu/confluence/display/c/FIO21-C.+Do+not+create+temporary+files+in+shared+directories)
 * [/tmp.. A goldmine for pentesters(Mertens. Jan 20th, 2016)](https://isc.sans.edu/diary/tmp+TEMP+Desktop+T+A+goldmine+for+pentesters/20631)
 
