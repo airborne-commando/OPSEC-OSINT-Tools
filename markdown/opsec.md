@@ -491,6 +491,10 @@ And there is the multi-user issue, can be solved with this line in fstab.[^16] [
 
     tmpfs   /www/cache    tmpfs  rw,size=1G,nr_inodes=5k,noexec,nodev,nosuid,uid=user,gid=group,mode=700 0 0
 
+The reason why you need to create a tmpfs file-system instead of using /tmp is because it's a worldwide system in linux, any user can see what's in it just cannot rename or delete (only root can).
+
+You may also need to use histcontrol to disable commands or disable history entirely.
+
 ---
 
 
@@ -519,6 +523,9 @@ And there is the multi-user issue, can be solved with this line in fstab.[^16] [
 * [A De-anonymization Attack against Downloaders in Freenet IEEE – 2024 Publication (IEEE Xplore)](https://ieeexplore-custom.ieee.org/document/10621209?reload=true)
 * [Darknet bible (TOR NEEDED)](http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/) | [Public Archive of Darknet bible](http://web.archive.org/web/20241009220859/https://darknetbible.org/) | [A hosted git](https://github.com/DarkWebInformer/dnmbible) | [Clearnet](https://darknetbible.info/bible/about/index.html)
 * [tor.taxi](https://tor.taxi/)
+* [bash(1) General Commands Manual - HISTCONTROL (April 7th, 2025, Linux man-pages)](https://wiki.archlinux.org/title/Bash#History)
+* [Carnegie Mellon University - Do not create temporary files in shared directories (Seacord et al. Aug 29, 2025)](https://wiki.sei.cmu.edu/confluence/display/c/FIO21-C.+Do+not+create+temporary+files+in+shared+directories)
+* [/tmp.. A goldmine for pentesters(Mertens. Jan 20th, 2016)](https://isc.sans.edu/diary/tmp+TEMP+Desktop+T+A+goldmine+for+pentesters/20631)
 
 
 ## References:
