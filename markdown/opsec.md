@@ -316,7 +316,7 @@ For LUKS, the user needs to enter the password typically in order to mount said 
 * **Desktop**: Centralized desktops delivered to users, think amazon web service.[^7]
     - Can also be local use like virt-manager/KVM **Hypervisors**.
       
->"(Local desktop virtualization allows running a virtualization stack on a system physically accessible by the hypervisor, enabling the use of software on a specific OS without installing that OS by creating a virtualized instance)"[^8].(Veeam, n.d.)
+>"Local desktop virtualization allows running a virtualization stack on a system physically accessible by the hypervisor, enabling the use of software on a specific OS without installing that OS by creating a virtualized instance"[^8].(Veeam, n.d.)
 
 * **Network**: Virtual network channels.
 * **Storage**: Unified storage from multiple devices.
@@ -525,7 +525,7 @@ You may also need to use histcontrol to disable commands or disable history enti
 * [tor.taxi](https://tor.taxi/)
 * [bash(1) General Commands Manual - HISTCONTROL (April 7th, 2025, Linux man-pages)](https://man.archlinux.org/man/bash.1#HISTCONTROL)
 * [Carnegie Mellon University - Do not create temporary files in shared directories (Seacord et al. Aug 29, 2025)](https://wiki.sei.cmu.edu/confluence/display/c/FIO21-C.+Do+not+create+temporary+files+in+shared+directories)
-* [/tmp.. A goldmine for pentesters(Mertens. Jan 20th, 2016)](https://isc.sans.edu/diary/tmp+TEMP+Desktop+T+A+goldmine+for+pentesters/20631)
+* [/tmp.. A goldmine for pentesters (Mertens. Jan 20th, 2016)](https://isc.sans.edu/diary/tmp+TEMP+Desktop+T+A+goldmine+for+pentesters/20631)
 
 
 ## References:
