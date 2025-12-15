@@ -201,7 +201,7 @@ In essence, this mindset places you in a constant state of alert—treating huma
 2. Study [SOCMINT](IMINT.md#socmint-social-intelligence)
 3. Study [HUMINT](HUMINT.md)
 4. Establish some [disinformation](disinformation.md)
-5. OSINT yourself as stated in the [Main Guide](../README.md)
+5. Study OSINT in the [Main Guide](../README.md#open-source-intelligence-osint)
 6. set profiles to private. 
 
 --------------
