@@ -53,7 +53,7 @@ I am **not responsible** for any misuse, abuse, or unethical actions taken with 
 
 Also a forward to **YOU** the practitioners **of all kinds**:
 
->Do not solely rely or depend on this guide alone, use various sources you may find out there on the Internet.
+>Do not solely rely or depend on this guide alone, use various sources you may find out there on the Internet. Also see if in the **future*** there can be an AI that can gather info autonomously to supplement.
 
 ## Suggestions
 
@@ -437,8 +437,8 @@ Three examples of GEOINT tools that you can access right now:
 | Crow (GUI) | Username/email | Cross-platform presence with IP spoofing | Same as CLI | [GitHub](https://github.com/airborne-commando/crow) |
 | Sherlock | Username | Presence on 300+ sites | CLI; false positives | [GitHub](https://github.com/sherlock-project/sherlock) |
 | No-Shit-Sherlock | Username | GUI version of Sherlock | Inherits CLI limitations | [GitHub](https://github.com/airborne-commando/no-shit-sherlock) |
-| Maigret | Username | Connections between accounts | Sherlock fork | [GitHub](https://github.com/soxoj/maigret) |
-| Maigret-Night (GUI) | Username | GUI for Maigret | Same as CLI | [GitHub](https://github.com/airborne-commando/maigret-night) |
+| Maigret | Username | Connections between accounts | Sherlock fork, comes with webui | [GitHub](https://github.com/soxoj/maigret) |
+| Maigret-Night (GUI) | Username | GUI for Maigret | Same as CLI, no webui functions (yet) | [GitHub](https://github.com/airborne-commando/maigret-night) |
 | instantusername | username | username | Instantly check username availability across multiple platforms as you type. | [Link](https://instantusername.com/) |
 | Holehe | Email | Email usage across sites | CLI; false positives | [GitHub](https://github.com/megadose/holehe) |
 | **Geolocation/GEOINT** | | | | |
