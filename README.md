@@ -197,7 +197,7 @@ Interacting with a target on social media has been shown to compromise anonymity
 Similarly, w0rmer himself explained in an interview that he often provoked people online and had a deliberate process for cleaning photos of metadata. However, during one publishing slip, he accidentally uploaded the wrong image that contained Exif data, which gave authorities critical information. <br>(“W0rmer – Darknet Diaries” 2020, 00:25:58–00:26:41; darknetdiaries.com/transcript/63)[^46]
 
 * [examples of good and bad opsec and some osint.](./markdown/examples.md)
-* Also some expanded [examples](./markdown#expanded-examples)
+* Also some expanded [examples](./markdown/README.md#expanded-examples)
 
 OPSEC supplements other security disciplines rather than replacing them.
 
