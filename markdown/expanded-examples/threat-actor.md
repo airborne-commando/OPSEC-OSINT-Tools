@@ -135,8 +135,8 @@ They compiled a report and archived some websites to document all findings. Sinc
 
 As a result, said user had ***some*** measures but didn't seem to care... or did it
 
-- User some popular videos and deleted/deactivated it's account on that other site.
-- User had placed false breadcrumbs for the threat actor, which is still bad security. 
+- User deleted some popular videos and deleted/deactivated it's account on sites.
+- User had placed false breadcrumbs for the threat actor, which is still bad security - see obscurity.
 
 What the user can do is the following:
 
