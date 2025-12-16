@@ -131,7 +131,7 @@ As a result, said user had ***some*** measures but didn't seem to care... or did
 - User some popular videos and deleted/deactivated it's account on that other site.
 - User had placed false breadcrumbs for the threat actor, which is still bad security. 
 
-- What the user can do is the following:
+What the user can do is the following:
 
 - Take a look at the information already available online, see my [methods](../../README.md) for scrubbing of information[^1].
 - See if you can identify who you can tell what on specific things; like your diets, hobbies, issues.
