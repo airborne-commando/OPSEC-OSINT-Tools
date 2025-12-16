@@ -126,13 +126,19 @@ The political leanings were all figured out with this script named [voter reg st
 The threat actor Used Phase 8 (a counter-OSINT audit, which is a defensive step) and used an alias and burner email address on a fetish site that the target was on for HUMINT (earlier step), and also went to **Phase 9**.
 They compiled a report and archived some websites to document all findings. Since this is a threat actor, their intentions are dubious, and this compiled information could be used for malicious purposes such as doxing or **future psychological warfare**.
 
+<p align="center">
+<img src="../../img/png/misc/memes/isaw.webp" alt="I saw what you deleted" width="30%"/>
+</p>
+<p align="center">
+<strong>Meme related.</strong>
+</p>
+
 As a result, said user had ***some*** measures but didn't seem to care... or did it
 
 - User some popular videos and deleted/deactivated it's account on that other site.
 - User had placed false breadcrumbs for the threat actor, which is still bad security. 
 
 What the user can do is the following:
-- What the user can do is the following:
 
 - Take a look at the information already available online, see my [methods](../../README.md) for scrubbing of information[^1].
 - See if you can identify who you can tell what on specific things; like your diets, hobbies, issues.
