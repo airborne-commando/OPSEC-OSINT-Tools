@@ -912,6 +912,8 @@ sr6/CAi5crClo+Cucr30xyrHeDc0mwA=
 
 [Advanced Search Operators - Google Docs (Russell, Feb. 8 2024)](https://docs.google.com/document/d/1ydVaJJeL1EYbWtlfj9TPfBTE5IBADkQfZrQaBZxqXGs) 
 
+[Maigret OSINT MCP Server: Your AI's Gateway to Digital Footprint Analysis - Skywork (Oct 27. 2025)](https://skywork.ai/skypage/en/maigret-osint-digital-footprint/1981524583814193152)
+
 ## References:
 
 [^1]: Office of the Director of National Intelligence. “Intelligence Community.” Office of the Director of National Intelligence, www.odni.gov/index.php/ncsc-what-we-do/121-dni/intelligence-community. Accessed 24 Sept. 2025. (Office of the Director of National Intelligence, sec.HUMINT)
