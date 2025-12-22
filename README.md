@@ -422,6 +422,7 @@ Three examples of GEOINT tools that you can access right now:
 | Google | Manual queries | Google search results | Manual query building | [Link](https://www.google.com/) |
 | Google-FU | Advanced queries | Google search results | Rate limits, CAPTCHAs | [GitHub](https://github.com/airborne-commando/GoogleFU-improved) |
 | Google Advanced | Direct dorking | Google search results | No saved searches | [Link](https://www.google.com/advanced_search) |
+| Shodan | Search Quires | Exposed devices | only useful for insecure devices | [Shodan](https://www.shodan.io/) |
 | Awesome Shodan Search Queries | Shodan search queries | Exposed Devices | Only useful for insecure devices | [Link](https://github.com/jakejarvis/awesome-shodan-queries) |
 | **Biometric Analysis** | | | | |
 | Facecheck.ID | Reverse image | Face matching results | Tampermonkey required; source links only | [Forked Repo](https://github.com/airborne-commando/facecheck.id-results-extractor-mobile) [Main Repo](https://github.com/vin3110/broken-access-control-poc) |
@@ -460,6 +461,7 @@ Three examples of GEOINT tools that you can access right now:
 | whois | domain | domain registrar info and IP | good if someone owns a website if they didn't make info private | [Link](https://who.is/) |
 | phone number look up | Phone Number | Name | get facebook, matches ect. Use people search tools | [Link](https://www.numlookup.com/) |
 | link extractor and archive | URLs | Archive.ph tool | CLI; basic pages; manual edits | [GitHub](https://github.com/airborne-commando/link-extractor-and-archive) |
+| Flock camera map | A map of known flock camera's | Useful with Shodan | May get patched soon I don't know | [Flock Camera Map](https://banishbigbrother.com/flock-camera-map/)
 | **Email Compromises** | | | | |
 | Hudson Rock Extractor | Email | Manual breach check | Flask-based; manual input | [GitHub](https://github.com/airborne-commando/hudsonrock-search-extractor) |
 | **Tampermonkey Scripts** | | | | |
@@ -916,6 +918,8 @@ sr6/CAi5crClo+Cucr30xyrHeDc0mwA=
 [Maigret OSINT MCP Server: Your AI's Gateway to Digital Footprint Analysis - Skywork (Oct 27. 2025)](https://skywork.ai/skypage/en/maigret-osint-digital-footprint/1981524583814193152)
 
 [Washington Court Rules That Data Captured on Flock Safety Cameras Are Public Records - EFF (Lipton, Nov 12. 2025)](https://www.eff.org/deeplinks/2025/11/washington-court-rules-data-captured-flock-safety-cameras-are-public-records)
+
+[This Flock Camera Leak is like Netflix For Stalkers (Jordan, 404 Media Dec 22. 2025)](https://www.youtube.com/watch?v=vU1-uiUlHTo)
 
 ## References:
 
