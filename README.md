@@ -915,6 +915,8 @@ sr6/CAi5crClo+Cucr30xyrHeDc0mwA=
 
 [Maigret OSINT MCP Server: Your AI's Gateway to Digital Footprint Analysis - Skywork (Oct 27. 2025)](https://skywork.ai/skypage/en/maigret-osint-digital-footprint/1981524583814193152)
 
+[Washington Court Rules That Data Captured on Flock Safety Cameras Are Public Records - EFF (Lipton, Nov 12. 2025)](https://www.eff.org/deeplinks/2025/11/washington-court-rules-data-captured-flock-safety-cameras-are-public-records)
+
 ## References:
 
 [^1]: Office of the Director of National Intelligence. “Intelligence Community.” Office of the Director of National Intelligence, www.odni.gov/index.php/ncsc-what-we-do/121-dni/intelligence-community. Accessed 24 Sept. 2025. (Office of the Director of National Intelligence, sec.HUMINT)
