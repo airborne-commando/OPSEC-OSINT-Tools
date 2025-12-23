@@ -806,6 +806,8 @@ Google dork the manual way so that you don't get flagged as a bot.
 
 If you find this useful feel free to donate to this monero address:
 
+<p align="left"><img width="15%" height="auto" alt="monero" src="./img/png/misc/monero.png"/></p>
+
 ```
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
