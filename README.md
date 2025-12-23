@@ -828,24 +828,6 @@ wiizSgFWPpcss2LKdTw/RF+e5kR7OQE=
 
 **Made a radicle account for some of my forks and repos! Feel free to seed, clone and fork.**
 
-My node/account:
-
-    https://app.radicle.xyz/nodes/rosa.radicle.xyz/users/did:key:z6MkvGytBYjSqWAzTQwiWnNHkRxBM3zvyvvFRCprxHzoZEj9
-
-    https://app.radicle.xyz/nodes/iris.radicle.xyz/users/did:key:z6MkvGytBYjSqWAzTQwiWnNHkRxBM3zvyvvFRCprxHzoZEj9
-
-Feel free to seed with this command for example:
-
-    rad seed rad:<radid>
-
-And to clone with any of my repos that were seed by me:
-
-    rad clone rad:<radid>
-
-Gitea:
-
-    https://gitea.com/jc-denton/OPSEC-OSINT-Tools
-
 
 My PGP:
 
