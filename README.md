@@ -806,10 +806,22 @@ Google dork the manual way so that you don't get flagged as a bot.
 
 If you find this useful feel free to donate to this monero address:
 
-<p align="left"><img width="15%" height="auto" alt="monero" src="./img/png/misc/monero.png"/></p>
-<p>
-<code>454oYA9xKnUB1TqaQXtcz33wW2Qmfo8FGBFxoa2BGt7FgLUPA67PCYQYTqtNmRDHudh8px6QQCwTY1JddkkV1qseCoyEupn</code>
-</p>
+```
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Monero Address
+
+454oYA9xKnUB1TqaQXtcz33wW2Qmfo8FGBFxoa2BGt7FgLUPA67PCYQYTqtNmRDHudh8px6QQCwTY1JddkkV1qseCoyEupn
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQSqMaHvdxncX6eJu/uujDIK2tNKXwUCaUsnIQAKCRCujDIK2tNK
+X7r3AQDszPXqf88VubYjphl6Umo3NNyBf89mN0gD0HBY0WB52wEA5YO50yDMSChf
+wiizSgFWPpcss2LKdTw/RF+e5kR7OQE=
+=+yrR
+-----END PGP SIGNATURE-----
+
+```
 
 
 **Made a radicle account for some of my forks and repos! Feel free to seed, clone and fork.**
