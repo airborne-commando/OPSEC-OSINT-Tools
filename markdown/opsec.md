@@ -451,30 +451,22 @@ Example from [paypal](https://developer.paypal.com/tools/sandbox/card-testing/),
 
 ## OPSEC Pipeline for secure files
 
-| Database  |  Human Password  |  Database  |  Generated Password                                      |  VeraCrypt (db2.kdbx) |  Generated Password                               |
-| ----------|------------------|------------|----------------------------------------------------------|-----------------------|-------------------------------------------------- |
-| db1.kdbx  |  `password123`   |  db2.kdbx  | `ipri0-3ri-03ir-03ir0-3ir0-3wqirw3ir-0wi3ri0-w3ir-iw3-0` |  VeraCrypt container  | `fjeipfjopefjkpoewjf9pjepwujf9euf9wejfe9-fu90uefu`|
+| Database  |  Human Password  |  Contains             |  db2.kdbx | contains          | veracrypt       | contains
+| ----------|------------------|-----------------------|-----------|-------------------|-----------------|-----------------
+| db1.kdbx  |  `password123`   |  db2.kdbx keefile     | kee-file  | veracrypt keefile |                 | files and docs
 
 What I tend to do is save this in private notes inside simplex, I'd also recommend not saving your password as `password123`.
 
 
 **Desktop**
-- `db1.kdbx` (human-memorable password)
+- `db1.kdbx` (human-memorable password), contains `kee-file.` for `db2.kdbx`
   - Grants access to:
-    - `db2.kdbx`
-    - VeraCrypt container
-
-**VeraCrypt Container**
-- `db1.kdbx` (machine-generated password inside the DB)
-  - Grants access to:
-    - Sensitive files
-    - `db2.kdbx`
+    - `db2.kdbx`, `varacrypt kee-file`
+    - VeraCrypt container 
 
 **SimpleX**
-- Securely transfers `db2` password
-  - After transfer: run `wipe` to remove residuals on desktop (HDD) for SSD use an encrypted drive or container.
+- Securely transfers `db2`
   - Can upload/download from encrypted container.
-
 
 Then if i need, I share it with another simplex note on my phone by connecting my own phone instance and the desktop as a chat. Then forwarding it to private notes.
 After that is done, I delete the convo for both but keep private notes for both adding in redundancy. just save inside simplex and desktop to reduce data remnants.
