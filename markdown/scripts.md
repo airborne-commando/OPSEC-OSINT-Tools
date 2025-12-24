@@ -553,3 +553,25 @@ if __name__ == "__main__":
             break
 ```
 
+
+## Sort CSV for blackbird and edit with libre-office calc
+
+    #!/bin/bash
+    
+    # Use this to sort generated CSV files from blackbird and edit as txt or use libreoffice calc.
+    
+    # Set your target directory
+    TARGET_DIR="results"
+    OUTPUT_FILE="output.csv"
+    
+    # Write header
+    echo "name,url" > "$OUTPUT_FILE"
+    
+    # Process each CSV file
+    find "$TARGET_DIR" -name "*.csv" -type f | while read csvfile; do
+        echo "Processing: $csvfile"
+        # Skip header and extract first two columns
+        tail -n +2 "$csvfile" | cut -d, -f1,2 >> "$OUTPUT_FILE"
+    done
+    
+    echo "Results saved to $OUTPUT_FILE"
