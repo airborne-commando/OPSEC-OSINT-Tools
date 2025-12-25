@@ -453,19 +453,19 @@ Example from [paypal](https://developer.paypal.com/tools/sandbox/card-testing/),
 
 | Database  |  Human Password  |  Contains             |  db2.kdbx | contains          | veracrypt       | contains
 | ----------|------------------|-----------------------|-----------|-------------------|-----------------|-----------------
-| db1.kdbx  |  `password123`   |  db2.kdbx keefile     | kee-file  | veracrypt keefile |                 | files and docs
+| db1.kdbx  |  `password123`   |  db2.kdbx keefile     | key-file  | veracrypt keefile |                 | files and docs
 
 What I tend to do is save this in private notes inside simplex, I'd also recommend not saving your password as `password123`.
 
 
 **Desktop**
-- `db1.kdbx` (human-memorable password), contains `kee-file.` for `db2.kdbx`
+- `db1.kdbx` (human-memorable password), contains `key-file.` for `db2.kdbx`
   - Grants access to:
-    - `db2.kdbx`, `varacrypt kee-file`
+    - `db2.kdbx`, `varacrypt key-file`
     - VeraCrypt container 
 
 **SimpleX**
-- Securely transfers `db2`
+- Securely transfers `db2` which contains the key-file
   - Can upload/download from encrypted container.
 
 Then if i need, I share it with another simplex note on my phone by connecting my own phone instance and the desktop as a chat. Then forwarding it to private notes.
