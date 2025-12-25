@@ -461,7 +461,7 @@ Three examples of GEOINT tools that you can access right now:
 | whois | domain | domain registrar info and IP | good if someone owns a website if they didn't make info private | [Link](https://who.is/) |
 | phone number look up | Phone Number | Name | get facebook, matches ect. Use people search tools | [Link](https://www.numlookup.com/) |
 | link extractor and archive | URLs | archived page | CLI; basic pages; manual edits, no longer works for archives | [GitHub](https://github.com/airborne-commando/link-extractor-and-archive) |
-| archivebox | URLS | archived pdf + wayback machine (?) | archive pages locally and to the wayback machine **apparently**, space is the limit | [Archivebox](https://archivebox.io/) |
+| archivebox | URLS | archived pdf + wayback machine | archive pages locally and also to the wayback machine, docker recommended use pods | [Archivebox](https://archivebox.io/) |
 | Flock camera map | A map of known flock camera's | Useful with Shodan | May get patched soon I don't know | [Flock Camera Map](https://banishbigbrother.com/flock-camera-map/)
 | **Email Compromises** | | | | |
 | Hudson Rock Extractor | Email | Manual breach check | Flask-based; manual input | [GitHub](https://github.com/airborne-commando/hudsonrock-search-extractor) |
