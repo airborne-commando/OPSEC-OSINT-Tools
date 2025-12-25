@@ -460,7 +460,8 @@ Three examples of GEOINT tools that you can access right now:
 | zabasearch-auto | US public info | Public records lookup | CLI; advanced usage | [GitHub](https://github.com/airborne-commando/zabasearch-auto) |
 | whois | domain | domain registrar info and IP | good if someone owns a website if they didn't make info private | [Link](https://who.is/) |
 | phone number look up | Phone Number | Name | get facebook, matches ect. Use people search tools | [Link](https://www.numlookup.com/) |
-| link extractor and archive | URLs | Archive.ph tool | CLI; basic pages; manual edits | [GitHub](https://github.com/airborne-commando/link-extractor-and-archive) |
+| link extractor and archive | URLs | archived page | CLI; basic pages; manual edits, no longer works for archives | [GitHub](https://github.com/airborne-commando/link-extractor-and-archive) |
+| archivebox | URLS | archived pdf + wayback machine (?) | archive pages locally and to the wayback machine **apparently**, space is the limit | [Archivebox](https://archivebox.io/) |
 | Flock camera map | A map of known flock camera's | Useful with Shodan | May get patched soon I don't know | [Flock Camera Map](https://banishbigbrother.com/flock-camera-map/)
 | **Email Compromises** | | | | |
 | Hudson Rock Extractor | Email | Manual breach check | Flask-based; manual input | [GitHub](https://github.com/airborne-commando/hudsonrock-search-extractor) |
@@ -476,7 +477,7 @@ Three examples of GEOINT tools that you can access right now:
 | reddit-uncensored | Reddit URLs | Deleted content restoration | Arctic Shift API | [FF](https://addons.mozilla.org/en-US/firefox/addon/reddit-uncensored/) [Chrome](https://chrome.google.com/webstore/detail/amfnaoebakgdklcahkilhjoglflgnhbm) |
 | usertoihsoyct | Usernames | Username redirect | Firefox addon | [GitHub](https://github.com/airborne-commando/usertoihsoyct) |
 | facecheck.id | Images | Biometric search | Firefox is GitHub only | [Chrome](https://chromewebstore.google.com/detail/facecheck-reverse-image-s/ciocmmdeghlmioiedoggnlefllfpfmdj?hl=en-US) [Firefox](https://github.com/airborne-commando/firefox-facecheck-id) |
-| Who Am I | usernames | usernames from various OSINT DB's | chrome | [Link](https://chromewebstore.google.com/detail/who-am-i/gdnhlhadhgnhaenfcphpeakdghkccfoo?hl=en)
+| Who Am I | usernames | usernames from various OSINT DB's | chrome | [Link](https://chromewebstore.google.com/detail/who-am-i/gdnhlhadhgnhaenfcphpeakdghkccfoo?hl=en) |
 
 
 ---
