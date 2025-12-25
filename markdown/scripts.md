@@ -575,3 +575,9 @@ if __name__ == "__main__":
     done
     
     echo "Results saved to $OUTPUT_FILE"
+
+
+# podman stuff for archivebox
+
+    podman exec -it --user archivebox <container_id_or_name> \
+      /bin/bash -c "archivebox manage createsuperuser"
