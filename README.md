@@ -55,6 +55,10 @@ Also a forward to **YOU** the practitioners **of all kinds**:
 
 >Do not solely rely or depend on this guide alone, use various sources you may find out there on the Internet. Also see if in the **future*** there can be an AI that can gather info autonomously to supplement.
 
+Select quotes from Metal Gear Solid 2 Ending, which **inspired me to create this**.
+
+> "We've always kept records of our lives. Through words, pictures, symbols... from tablets to books... But not all the information was inherited by later generations ... in the current, digitized world, trivial information is accumulating every second, preserved in all its triteness. Never fading, always accessible. Rumors about petty issues, misinterpretations, slander... The digital society furthers human flaws and selectively rewards development of convenient half-truths."(Para. 47-58)[^75]
+
 ## Suggestions
 
 Open an [issue](https://github.com/airborne-commando/OPSEC-OSINT-Tools/issues) for any suggestions or feedback.
@@ -1071,3 +1075,5 @@ sr6/CAi5crClo+Cucr30xyrHeDc0mwA=
 [^73]: Protect Democracy. (2024, June 26). Why is voter registration data public? https://protectdemocracy.org/work/why-is-voter-registration-data-public/
 
 [^74]: Colorado Secretary of State. (n.d.). Public voter data and information requests FAQs. Retrieved December 8, 2025, from https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationData.html
+
+[^75]: Artemio Urbina. “Metal Gear Solid 2 Ending analysis.” junkerhq.net, https://junkerhq.net/MGS2/Text.html. Accessed 25 Dec. 2025.
