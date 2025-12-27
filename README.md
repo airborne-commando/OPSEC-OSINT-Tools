@@ -481,7 +481,7 @@ Three examples of GEOINT tools that you can access right now:
 | reddit-uncensored | Reddit URLs | Deleted content restoration | Arctic Shift API | [FF](https://addons.mozilla.org/en-US/firefox/addon/reddit-uncensored/) [Chrome](https://chrome.google.com/webstore/detail/amfnaoebakgdklcahkilhjoglflgnhbm) |
 | usertoihsoyct | Usernames | Username redirect | Firefox addon | [GitHub](https://github.com/airborne-commando/usertoihsoyct) |
 | facecheck.id | Images | Biometric search | Firefox is GitHub only | [Chrome](https://chromewebstore.google.com/detail/facecheck-reverse-image-s/ciocmmdeghlmioiedoggnlefllfpfmdj?hl=en-US) [Firefox](https://github.com/airborne-commando/firefox-facecheck-id) |
-| Who Am I | usernames | usernames from various OSINT DB's | chrome | [Link](https://chromewebstore.google.com/detail/who-am-i/gdnhlhadhgnhaenfcphpeakdghkccfoo?hl=en) |
+| Who Am I | usernames | usernames from various OSINT DB's | Firefox will be missing features possibly | [Link](https://chromewebstore.google.com/detail/who-am-i/gdnhlhadhgnhaenfcphpeakdghkccfoo?hl=en) [Firefox](https://addons.mozilla.org/en-US/firefox/addon/who-am-i-ff/) |
 
 
 ---
