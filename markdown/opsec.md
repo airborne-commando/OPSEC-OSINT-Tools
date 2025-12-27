@@ -453,7 +453,7 @@ Example from [paypal](https://developer.paypal.com/tools/sandbox/card-testing/),
 
 | Database  |  Human Password  |  Contains             |  db2.kdbx | contains          | veracrypt       | contains
 | ----------|------------------|-----------------------|-----------|-------------------|-----------------|-----------------
-| db1.kdbx  |  `password123`   |  db2.kdbx keefile     | key-file  | veracrypt keefile |                 | files and docs
+| db1.kdbx  |  `password123`   |  db2.kdbx key-file     | key-file  | veracrypt key-file |                 | files and docs
 
 What I tend to do is save this in private notes inside simplex, I'd also recommend not saving your password as `password123`.
 

@@ -545,7 +545,7 @@ After that open image in new tab and save or drag it into facecheck.id and compa
 Note on Pentester: Pentester can provide free results on usernames, etc but on a time limit, not worth to buy a service if you're smart and keep records (snapshot).
 
 Note: For keepassxc it's a good idea to use a strong password or a YubiKey (hardware password/security key)
-you may also create an additional database, one that has the password you can remember; the other that has the generated database password for sensitive files.
+you may also create an additional database, one that has the password you can remember; the other that has the generated database password for sensitive files or a key-file (same with varacrypt).
 
 For niche tools, refer to the [Curated Lists](#curated-lists) section.
 
