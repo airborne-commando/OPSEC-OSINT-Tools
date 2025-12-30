@@ -467,6 +467,7 @@ Three examples of GEOINT tools that you can access right now:
 | link extractor and archive | URLs | archived page | CLI; basic pages; manual edits, no longer works for archives | [GitHub](https://github.com/airborne-commando/link-extractor-and-archive) |
 | archivebox | URLS | archive pdf, wayback machine, et al  | archive pages locally and also to the wayback machine, docker recommended use [pods](https://podman.io/) and check [scripts](./markdown/scripts.md) | [Archivebox](https://archivebox.io/) |
 | Flock camera map | A map of known flock camera's | Useful with Shodan | May get patched soon I don't know | [Flock Camera Map](https://banishbigbrother.com/flock-camera-map/) |
+| Spiderfoot | user input such as a username in "quotes" | data analysis and graphs | Advanced usage, docker image | [spiderfoot](https://hub.docker.com/r/josaorg/spiderfoot) | 
 | **Email Compromises** | | | | |
 | Hudson Rock Extractor | Email | Manual breach check | Flask-based; manual input | [GitHub](https://github.com/airborne-commando/hudsonrock-search-extractor) |
 | **Tampermonkey Scripts** | | | | |
