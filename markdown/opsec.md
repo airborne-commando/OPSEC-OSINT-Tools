@@ -518,6 +518,9 @@ You may also need to use histcontrol to disable commands or disable history enti
 * [bash(1) General Commands Manual - HISTCONTROL (April 7th, 2025, Linux man-pages)](https://man.archlinux.org/man/bash.1#HISTCONTROL)
 * [Carnegie Mellon University - Do not create temporary files in shared directories (Seacord et al. Aug 29, 2025)](https://wiki.sei.cmu.edu/confluence/display/c/FIO21-C.+Do+not+create+temporary+files+in+shared+directories)
 * [/tmp.. A goldmine for pentesters (Mertens. Jan 20th, 2016)](https://isc.sans.edu/diary/tmp+TEMP+Desktop+T+A+goldmine+for+pentesters/20631)
+* [It's easier than ever to de-censor videos - Level 2 Jeff (Apr 15, 2025)](https://www.youtube.com/watch?v=acKYYwcxpGk)
+* [Removing blur from images – deconvolution and using optimized simple filters - Bart Wronski (supersampling) (May 26, 2022)](https://bartwronski.com/2022/05/26/removing-blur-from-images-deconvolution-and-using-optimized-simple-filters/)
+* [What is supersampling (antialiasing technique)? - Hardware Knowledgebase (Mar 25, 2006)](https://web.archive.org/web/20060325144730/http://www.neoseeker.com/Hardware/faqs/kb/10,72.html)
 
 
 ## References:
