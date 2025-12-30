@@ -58,6 +58,8 @@ Protip: Doesn't hurt to write genuinely, act human and be human if doing [HUMINT
   - Pair with [Upscale Media](https://www.upscale.media/)
 - [IOPaint](https://github.com/Sanster/IOPaint) - Local CPU-based inpainting
   - [Linux Launcher](https://github.com/airborne-commando/iopaint-launcher/)
+- [DeepMosaics](https://github.com/HypoX64/DeepMosaics)
+- [de-pixelate](https://github.com/KoKuToru/de-pixelate_gaV-O6NPWrI)
 
 ## Cloaking tools
 
