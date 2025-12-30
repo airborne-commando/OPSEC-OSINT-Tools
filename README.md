@@ -924,6 +924,10 @@ sr6/CAi5crClo+Cucr30xyrHeDc0mwA=
 
 [This Flock Camera Leak is like Netflix For Stalkers (Jordan, 404 Media Dec 22. 2025)](https://www.youtube.com/watch?v=vU1-uiUlHTo)
 
+[OSINT: How to Find Information about ANYONE! (CyberFlow Jan 21. 2024)](https://www.youtube.com/watch?v=nd5W82KN9B8)
+
+[Google Hacking Database (Long, 2002)](https://www.exploit-db.com/google-hacking-database)
+
 ## References:
 
 [^1]: Office of the Director of National Intelligence. “Intelligence Community.” Office of the Director of National Intelligence, www.odni.gov/index.php/ncsc-what-we-do/121-dni/intelligence-community. Accessed 24 Sept. 2025. (Office of the Director of National Intelligence, sec.HUMINT)
