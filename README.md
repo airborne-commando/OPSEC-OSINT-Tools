@@ -930,6 +930,8 @@ sr6/CAi5crClo+Cucr30xyrHeDc0mwA=
 
 [OSINT: how to find ALL information about ANYONE!! - Mad Hat (Oct 24, 2025)](https://youtu.be/5wYMZVJupDg?t=309)
 
+[SOCIAL MEDIA OSINT (private accounts) - An0n Ali (Nov 27, 2023)](https://www.youtube.com/watch?v=HORzekIiZZ0&t=18s)
+
 ## References:
 
 [^1]: Office of the Director of National Intelligence. “Intelligence Community.” Office of the Director of National Intelligence, www.odni.gov/index.php/ncsc-what-we-do/121-dni/intelligence-community. Accessed 24 Sept. 2025. (Office of the Director of National Intelligence, sec.HUMINT)
