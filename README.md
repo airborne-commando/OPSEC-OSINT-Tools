@@ -922,11 +922,13 @@ sr6/CAi5crClo+Cucr30xyrHeDc0mwA=
 
 [Washington Court Rules That Data Captured on Flock Safety Cameras Are Public Records - EFF (Lipton, Nov 12. 2025)](https://www.eff.org/deeplinks/2025/11/washington-court-rules-data-captured-flock-safety-cameras-are-public-records)
 
-[This Flock Camera Leak is like Netflix For Stalkers (Jordan, 404 Media Dec 22. 2025)](https://www.youtube.com/watch?v=vU1-uiUlHTo)
+[This Flock Camera Leak is like Netflix For Stalkers - 404 Media (Jordan, Dec 22. 2025)](https://www.youtube.com/watch?v=vU1-uiUlHTo)
 
-[OSINT: How to Find Information about ANYONE! (CyberFlow Jan 21. 2024)](https://www.youtube.com/watch?v=nd5W82KN9B8)
+[OSINT: How to Find Information about ANYONE! - CyberFlow (Jan 21. 2024)](https://www.youtube.com/watch?v=nd5W82KN9B8)
 
 [Google Hacking Database (Long, 2002)](https://www.exploit-db.com/google-hacking-database)
+
+[OSINT: how to find ALL information about ANYONE!! - Mad Hat (Oct 24, 2025)](https://youtu.be/5wYMZVJupDg?t=309)
 
 ## References:
 
