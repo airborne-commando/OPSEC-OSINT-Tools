@@ -267,7 +267,7 @@ These methods do **not** reliably destroy data on NVMe or SSD drives:
 
 
 ---
-# Bonus! USBs! and Floppy Disks:
+# Bonus! USBs!:
 ---
 
 # USB Flash Drive Physical Destruction Guide
@@ -335,6 +335,9 @@ To ensure data on a USB drive is completely unrecoverable, you must physically d
 - Wear protective gear (glasses, gloves)
 - Work in well-ventilated areas
 - Never microwave electronics (fire risk)
+
+--------
+***Other Medias***
 
 "Physically destroying a device is the most reliable way to keep others from recovering its data, and this should only be done if the device will not be reused by someone else. Professional services or careful do‑it‑yourself methods, such as puncturing or shredding drives and discs into extremely small pieces, can render information unrecoverable. Magnetic media can also be erased with powerful magnets, but this process is usually too expensive for individuals and permanently disables the device’s internal operating components, making it unsuitable if the device will be passed on."(Cybersecurity and Infrastructure Security Agency pg. 2–3)[^1]
 
