@@ -267,7 +267,7 @@ These methods do **not** reliably destroy data on NVMe or SSD drives:
 
 
 ---
-# Bonus! USBs!:
+# Bonus! USBs! and Floppy Disks:
 ---
 
 # USB Flash Drive Physical Destruction Guide
@@ -336,6 +336,8 @@ To ensure data on a USB drive is completely unrecoverable, you must physically d
 - Work in well-ventilated areas
 - Never microwave electronics (fire risk)
 
+"Physically destroying a device is the most reliable way to keep others from recovering its data, and this should only be done if the device will not be reused by someone else. Professional services or careful do‑it‑yourself methods, such as puncturing or shredding drives and discs into extremely small pieces, can render information unrecoverable. Magnetic media can also be erased with powerful magnets, but this process is usually too expensive for individuals and permanently disables the device’s internal operating components, making it unsuitable if the device will be passed on."(Cybersecurity and Infrastructure Security Agency pg. 2–3)[^1]
+
 # External Links:
 
 [Best Practices for Media Destruction - Cornell University(n.d.)](https://it.cornell.edu/security-essentials-it-professionals/best-practices-media-destruction)
@@ -371,3 +373,6 @@ To ensure data on a USB drive is completely unrecoverable, you must physically d
 [The Secrets to Destroying All Data on a Disk or USB Flash Drive - Howard Fosdick Articles (Fosdick. 2025)](https://rexxinfo.org/howard_fosdick_articles/how_to_completely_wipe_a_disk/how_to_completely_wipe_a_disk.html)
 
 [secure data erasure - Privacy Guides (mfwmyfacewhen Et al. May 5, 2022)](https://www.privacyguides.org/articles/2022/05/25/secure-data-erasure/#flash-storage)
+
+
+[^1]: Cybersecurity and Infrastructure Security Agency (CISA). *Dispose of Devices Safely*. U.S. Department of Homeland Security, 2010, pp. 2–3. [https://www.cisa.gov/sites/default/files/publications/DisposeDevicesSafely.pdf#page=2](https://www.cisa.gov/sites/default/files/publications/DisposeDevicesSafely.pdf).
