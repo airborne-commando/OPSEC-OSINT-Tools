@@ -58,7 +58,7 @@ Protip: Doesn't hurt to write genuinely, act human and be human if doing [HUMINT
   - Pair with [Upscale Media](https://www.upscale.media/)
 - [IOPaint](https://github.com/Sanster/IOPaint) - Local CPU-based inpainting
   - [Linux Launcher](https://github.com/airborne-commando/iopaint-launcher/)
-- [DeepMosaics](https://github.com/HypoX64/DeepMosaics) (**note** requires a NVIDIA gpu but is really good at getting rid of mosaics)
+- [DeepMosaics](https://github.com/HypoX64/DeepMosaics) (**note** requires CPU or NVIDIA GPU + CUDA CuDNN but is really good at getting rid of mosaics)
 - [de-pixelate](https://github.com/KoKuToru/de-pixelate_gaV-O6NPWrI)
 
 ## Cloaking tools
