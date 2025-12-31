@@ -63,7 +63,8 @@ Protip: Doesn't hurt to write genuinely, act human and be human if doing [HUMINT
 
 ## Cloaking tools
 
-[Fawkes](https://github.com/Shawn-Shan/fawkes) - a facial cloaking tool that can run locally on Linux/Windows. Was tested on arch. See issue [#191](https://github.com/Shawn-Shan/fawkes/issues/191). The only downside with Fawkes is that sometimes it doesn't detect a face or the face can get detected by AI programs anyway.
+- [Fawkes](https://github.com/Shawn-Shan/fawkes) - a facial cloaking tool that can run locally on Linux/Windows. Was tested on arch. See issue [#191](https://github.com/Shawn-Shan/fawkes/issues/191). The only downside with Fawkes is that sometimes it doesn't detect a face or the face can get detected by AI programs anyway.
+    + Active [fork](https://github.com/cmu-spuds/fawkes).
 
 ### Meta Tools
 - [ExifTool](https://exiftool.org/) - Metadata editing/stripping
