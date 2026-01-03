@@ -931,6 +931,8 @@ sr6/CAi5crClo+Cucr30xyrHeDc0mwA=
 
 [OSINT: how to find ALL information about ANYONE!! - Mad Hat (Oct 24, 2025)](https://youtu.be/5wYMZVJupDg?t=309)
 
+[What is AI data poisoning? - cloudflare (2026)](https://www.cloudflare.com/learning/ai/data-poisoning/)
+
 ## References:
 
 [^1]: Office of the Director of National Intelligence. “Intelligence Community.” Office of the Director of National Intelligence, www.odni.gov/index.php/ncsc-what-we-do/121-dni/intelligence-community. Accessed 24 Sept. 2025. (Office of the Director of National Intelligence, sec.HUMINT)
