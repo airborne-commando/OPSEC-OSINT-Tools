@@ -1088,6 +1088,6 @@ sr6/CAi5crClo+Cucr30xyrHeDc0mwA=
 
 [^74]: Colorado Secretary of State. (n.d.). Public voter data and information requests FAQs. Retrieved December 8, 2025, from https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationData.html
 
-[^75]: Artemio Urbina. “Metal Gear Solid 2 Ending analysis.” junkerhq.net, https://junkerhq.net/MGS2/Text.html. Accessed 25 Dec. 2025.
+[^75]: *Metal Gear Solid 2: Sons of Liberty.* Written and directed by Hideo Kojima, Konami, 2001. Transcript by Artemio Urbina, *Junker HQ*, junkerhq.net/MGS2/Text.html. Accessed 25 Dec. 2025.
 
 [^76]: Swagger, "Get started with the OpenAPI Specification," [Online]. Available: https://swagger.io/solutions/getting-started-with-oas/. [Accessed: Dec. 27, 2025].
