@@ -567,8 +567,9 @@ If the image is of a public web (onlyfans avatar) you may:
 - Still would have to be of a Face and needed to be indexed by TinEye.
 
 
+**Files**: 
 
-- **Files**: Encrypted drives (LUKS) → veracrypt → keepassxc
+- Encrypted drives (LUKS) → veracrypt → keepassxc
 
 Note on Pentester: Pentester can provide free results on usernames, etc but on a time limit, not worth to buy a service if you're smart and keep records (snapshot).
 
