@@ -542,7 +542,12 @@ After that open image in new tab and save or drag it into facecheck.id and compa
 ### **Toolchain Recommendations**
 - **Quick Username Search**: Crow (GUI for in-depth) → Maigret (GUI for in-depth) → Sherlock (CLI for depth).  
 - **Email Breaches**: Have I Been Pwned → Pentester (freeish) → OSINT Rocks (Hudson Rock/Holehe) → LOLArchiver.  
-- **Images**: Facecheck.ID → Pimeyes → lenso.ai → faceonlive  
+- **Images**: 
+- Facecheck.ID: extract the webp results or compare the face, use a web browser Ctrl+Shift+I and Ctrl+Shift+C and select the `#fimg0` background image webp and save.
+- Pimeyes (unblur/show NSFW)
+- lenso.ai (tells you the source of a site, usernames)
+- faceonlive (last resort)
+
 - **Files**: Encrypted drives (LUKS) → veracrypt → keepassxc
 
 Note on Pentester: Pentester can provide free results on usernames, etc but on a time limit, not worth to buy a service if you're smart and keep records (snapshot).
