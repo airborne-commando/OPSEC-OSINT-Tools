@@ -57,7 +57,7 @@ Also a forward to **YOU** the practitioners **of all kinds**:
 
 Select quotes from Metal Gear Solid 2 Ending, which **inspired me to create this**.
 
-> "We've always kept records of our lives. Through words, pictures, symbols... from tablets to books... But not all the information was inherited by later generations ... in the current, digitized world, trivial information is accumulating every second, preserved in all its triteness. Never fading, always accessible. Rumors about petty issues, misinterpretations, slander... The digital society furthers human flaws and selectively rewards development of convenient half-truths."[^75]
+> "We've always kept records of our lives. Through words, pictures, symbols... from tablets to books... But not all the information was inherited by later generations ... in the current, digitized world, trivial information is accumulating every second, preserved in all its triteness. Never fading, always accessible. Rumors about petty issues, misinterpretations, slander... The digital society furthers human flaws and selectively rewards development of convenient half-truths."(GW, Metal Gear Solid 2)[^75]
 
 ## Suggestions
 
