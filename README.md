@@ -546,7 +546,18 @@ After that open image in new tab and save or drag it into facecheck.id and compa
 - Facecheck.ID: extract the webp results or compare the face, use a web browser Ctrl+Shift+I and Ctrl+Shift+C and select the `#fimg<number>` background image webp and save.
 - Pimeyes (unblur/show NSFW)
 - lenso.ai (tells you the source of a site, usernames)
+- TinEye
 - faceonlive (last resort)
+  
+***The Method***
+- Source image will be ran though Facecheck.ID.
+- Facecheck.ID would then be extracted (results page).
+- the extracted image can than be ran though Pimeyes (website name, no url), gives you more images to work with and extract.
+- Those image can then be uploaded and scanned with lenso.ai for any URLS or Usernames
+- Any other images can be uploaded to TinEye, which only finds matching images. This isn't good for faces but isn't as strict as lets say google/yandex/et al.
+- faceonlive (faceseek), which would be your last resort would also potentially give you some results but seems to be the same thing as Facecheck.ID and asks you for credits partial URL with face which is a clue.
+
+
 
 - **Files**: Encrypted drives (LUKS) → veracrypt → keepassxc
 
