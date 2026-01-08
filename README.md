@@ -554,8 +554,17 @@ After that open image in new tab and save or drag it into facecheck.id and compa
 - Facecheck.ID would then be extracted (results page).
 - the extracted image can than be ran though Pimeyes (website name, no url), gives you more images to work with and extract.
 - Those image can then be uploaded and scanned with lenso.ai for any URLS or Usernames
-- Any other images can be uploaded to TinEye, which only finds matching images. This isn't good for faces but isn't as strict as lets say google/yandex/et al.
+- Any other images can be uploaded to TinEye, which only finds matching images. This isn't good for faces but isn't as strict as lets say Google/Yandex/et al.
+    + Can also check the div under topdiv for facecheck for the websites and compare with the other sources such as TinEye
+       
 - faceonlive (faceseek), which would be your last resort would also potentially give you some results but seems to be the same thing as Facecheck.ID and asks you for credits partial URL with face which is a clue.
+
+***HOWEVER***
+
+If the image is of a public web (onlyfans avatar) you may:
+
+- Use the results from TinEye, lenso, Facecheck.ID, Pimeyes et al and upload it to yandex for the full username URL (that is if TinEye didn't beat Yandex to it)
+- Still would have to be of a Face and needed to be indexed by TinEye.
 
 
 
