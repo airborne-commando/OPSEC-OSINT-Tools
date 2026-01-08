@@ -429,7 +429,8 @@ Three examples of GEOINT tools that you can access right now:
 | Shodan | Search Quires | Exposed devices | only useful for insecure devices | [Shodan](https://www.shodan.io/) |
 | Awesome Shodan Search Queries | Shodan search queries | Exposed Devices | Only useful for insecure devices | [Link](https://github.com/jakejarvis/awesome-shodan-queries) |
 | **Biometric Analysis** | | | | |
-| Facecheck.ID | Reverse image | Face matching results | webpimages only from the site | you'll have to use a service such as [TinEye](https://tineye.com/) |
+| Facecheck.ID | Reverse image | Face matching results | webpimages only from the site | you'll have to use a services such as [TinEye](https://tineye.com/), [lenso](lenso.ai) et al remember on not using this guide as a things change. |
+| FaceMatch | username | match a username with a face (target) | user would need to use their actual face, this script may not work on all sites (such as onlyfans). | [FaceMatch](https://github.com/airborne-commando/facematch) |
 | **Genealogy & Records** | | | | |
 | genealogyintime | Genealogy parameters | Genealogy records | Not HTTPS; need specific info | [Link](http://www.genealogyintime.com/tools/genealogy-search-engine.html) |
 | findagrave | Name, location | Grave records | Requires name/location; may not be listed | [Link](https://www.findagrave.com/) |
