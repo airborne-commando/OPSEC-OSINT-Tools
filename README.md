@@ -540,24 +540,36 @@ After that open image in new tab and save or drag it into facecheck.id and compa
 ---
 
 ### **Toolchain Recommendations**
-- **Quick Username Search**: Crow (GUI for in-depth) → Maigret (GUI for in-depth) → Sherlock (CLI for depth).  
-- **Email Breaches**: Have I Been Pwned → Pentester (freeish) → OSINT Rocks (Hudson Rock/Holehe) → LOLArchiver.  
-- **Images**: 
+
+**Quick Username Search**: 
+- Crow (GUI for in-depth)
+    + Maigret (GUI for in-depth)
+    + Sherlock (CLI for depth).  
+
+**Email Breaches**: 
+- Have I Been Pwned 
+    + Pentester (freeish) 
+    + OSINT Rocks (Hudson Rock/Holehe)
+    + LOLArchiver.  
+
+**Images**: 
 - Facecheck.ID: extract the webp results or compare the face, use a web browser Ctrl+Shift+I and Ctrl+Shift+C and select the `#fimg<number>` background image webp and save.
-- Pimeyes (unblur/show NSFW)
-- lenso.ai (tells you the source of a site, usernames)
-- TinEye
-- faceonlive (last resort)
-  
+    + Pimeyes (unblur/show NSFW)
+    + lenso.ai (tells you the source of a site, usernames)
+    + TinEye
+    + faceonlive (last resort)
+      
 ***The Method***
 - Source image will be ran though Facecheck.ID.
-- Facecheck.ID would then be extracted (results page).
-- the extracted image can than be ran though Pimeyes (website name, no url), gives you more images to work with and extract.
-- Those image can then be uploaded and scanned with lenso.ai for any URLS or Usernames
-- Any other images can be uploaded to TinEye, which only finds matching images. This isn't good for faces but isn't as strict as lets say Google/Yandex/et al.
-    + Can also check the div under topdiv for facecheck for the websites and compare with the other sources such as TinEye
-       
-- faceonlive (faceseek), which would be your last resort would also potentially give you some results but seems to be the same thing as Facecheck.ID and asks you for credits partial URL with face which is a clue.
+    + Facecheck.ID would then be extracted (results page).
+
+**the extracted image can than be ran though the following:**
+
+- Pimeyes (website name no url), gives you more images to work with and extract.
+- lenso.ai for potential URLS or Usernames
+- TinEye, which only finds matching images. This isn't as good for faces but isn't as strict as lets say Google/Yandex/et al.
+    + Can also check the div under topdiv for facecheck for the websites and compare with the other sources such as TinEye.
+- faceonlive (faceseek), which would be your last resort would also potentially give you some results but seems to be the same thing as Facecheck.ID and asks you for credits. Partial URL with face which is a clue (just like facecheck.id).
 
 ***HOWEVER***
 
@@ -566,6 +578,7 @@ If the image is of a public web (onlyfans avatar) you may:
 - Use the results from TinEye, lenso, Facecheck.ID, Pimeyes et al and upload it to yandex for the full username URL (that is if TinEye didn't beat Yandex to it)
 - Still would have to be of a Face and needed to be indexed by TinEye.
 
+For the other clues, use tools such as blackbird(maigret-night GUI under crow tab or blackbird web), maigret(maigret night), people search tools(data brokers), breached data for leads.
 
 **Files**: 
 
