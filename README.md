@@ -429,7 +429,8 @@ Three examples of GEOINT tools that you can access right now:
 | Shodan | Search Quires | Exposed devices | only useful for insecure devices | [Shodan](https://www.shodan.io/) |
 | Awesome Shodan Search Queries | Shodan search queries | Exposed Devices | Only useful for insecure devices | [Link](https://github.com/jakejarvis/awesome-shodan-queries) |
 | **Biometric Analysis** | | | | |
-| Facecheck.ID | Reverse image | Face matching results | webpimages only from the site | you'll have to use a services such as [TinEye](https://tineye.com/), [lenso](lenso.ai) et al remember on not using this guide as a things change. |
+| Facecheck.ID | Reverse image | Face matching results | webpimages only from the site | you'll have to use a services such as [TinEye](https://tineye.com/), [lenso](lenso.ai) et al remember on not using this guide as a things change. [Link](https://raw.githubusercontent.com/airborne-commando/tampermonkey-collection/refs/heads/main/SCRIPTS/facecheck-id-img-extractor.js) |
+| [face-spy](https://face-spy.com/) | Reverse image | Returns results on potential models | full avatar images + profile | use blackbird(crow), sherlock, et al. for full details. [Link to script](https://raw.githubusercontent.com/airborne-commando/tampermonkey-collection/refs/heads/main/SCRIPTS/facecheck-OF-edition.js) | 
 | FaceMatch | username | match a username with a face (target) | user would need to use their actual face, this script may not work on all sites (such as onlyfans). | [FaceMatch](https://github.com/airborne-commando/facematch) |
 | **Genealogy & Records** | | | | |
 | genealogyintime | Genealogy parameters | Genealogy records | Not HTTPS; need specific info | [Link](http://www.genealogyintime.com/tools/genealogy-search-engine.html) |
