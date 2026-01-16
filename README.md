@@ -537,6 +537,8 @@ A post from a linkedin account named Forensic OSINT[^18]:
  - lenso.ai 
  - face-spy
  - peekyou.com
+ - people search
+ - breached data (breach.vip)
 
 After that open image in new tab and save or drag it into facecheck.id and compare (as mentioned earlier on step 1)
 
