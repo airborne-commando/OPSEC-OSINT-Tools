@@ -494,7 +494,7 @@ Three examples of GEOINT tools that you can access right now:
 
 1. **False Positives**:  
    - **Sherlock/Holehe**: Imgur often returns misleading results—verify manually.  
-   - **Facecheck.ID**: Extracts links but doesn’t analyze images; cross-reference with [Pimeyes (10 searches)](https://pimeyes.com/en) or others listed on 6.  
+   - **Facecheck.ID**: Extracts images but doesn’t analyze; cross-reference with [Pimeyes (10 searches)](https://pimeyes.com/en) or others listed on 6.  
 
 2. **GUI vs. CLI**:  
    - **CLI Tools (Blackbird, Sherlock, Maigret)**: requires technical familiarity.  
@@ -535,6 +535,8 @@ A post from a linkedin account named Forensic OSINT[^18]:
 6. **Bio-metric Analysis**: You can supplement your bio-metric analytics with these tools by extracting the results from:
  - faceonlive.com (3 or 4 search limit, may need TOR)
  - lenso.ai 
+ - face-spy
+ - peekyou.com
 
 After that open image in new tab and save or drag it into facecheck.id and compare (as mentioned earlier on step 1)
 
