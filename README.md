@@ -649,10 +649,10 @@ Pipeline discussed [here](./markdown/opsec.md#opsec-pipeline-for-secure-files)
 
 Use the [google dorking assistant](https://github.com/airborne-commando/tampermonkey-collection/tree/main) or just use the google advanced search tool [Link](https://www.google.com/advanced_search), `site:.gov`.
 
-**Note**: Some domains (e.g., [exposed.lol (Wayback Machine)](https://web.archive.org/web/20240115103938/https://exposed.lol/)) may be expired. Refer to the curated list or alternate links provided.
-
 ## Breached Data:
 ---
+
+**Note**: Some domains (e.g., [exposed.lol (Wayback Machine)](https://web.archive.org/web/20240115103938/https://exposed.lol/)) may be expired. Refer to the curated list or alternate links provided.
 
 | Tool | Lookup By | Returns | Limitations/Costs | Notes |
 |------|-----------|---------|-------------------|-------|
