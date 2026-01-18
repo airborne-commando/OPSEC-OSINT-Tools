@@ -647,7 +647,7 @@ Pipeline discussed [here](./markdown/opsec.md#opsec-pipeline-for-secure-files)
 
 >"Grey literature refers to various forms of information created outside conventional publishing and distribution systems, which are often not thoroughly indexed in major databases."[^77]
 
-Use the [google dorking assistant](https://github.com/airborne-commando/tampermonkey-collection/tree/main) or just use the google advanced search tool [Link](https://www.google.com/advanced_search), `site:.gov`.
+Use the [google dorking assistant](https://github.com/airborne-commando/tampermonkey-collection/tree/main) or just use the google advanced search tool [Link](https://www.google.com/advanced_search), `site:.gov` would be a good start for gray literature.
 
 ## Breached Data:
 ---
