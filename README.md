@@ -305,7 +305,13 @@ OSINT can gather information from various sources, including:
 
 Public data is data that is used, reused and or redistributed. Government entities operating at various judicial levels such as local, state, federal, and the international levels. This creates various amounts of public data, which is accessible without restrictions. Terms of use must be agreed to or approved depending on consideration before accessing these datasets and or records, such as Heath (HIPPA) and or Educational Data.
 
-Such can include for example [casesearch](https://ujsportal.pacourts.us/casesearch) in Pennsylvania Courts; landlord, criminal, civil et al should have an address as that's public govt info. 
+Public data can include for example:
+
+* voter records and criminal history
+
+>"Public voter registration data is critical to democracy in the United States. In nearly every state, a public file contains essential information about voters’ eligibility (address, age, districts, precinct, and polling location). Beyond their value to campaigns and others promoting voter participation, these files are used by groups outside of the government (journalists, scholars, advocates, and election integrity experts like VoteShield) to independently verify the rights of voters, and the integrity of US elections." [^73][^74]
+
+You may use [casesearch](https://ujsportal.pacourts.us/casesearch) in Pennsylvania Courts; landlord, criminal, civil et al should have an address as that's public govt info.
 
 A Parcel search for [tax history](https://public.eriecountypa.gov/property-tax-records/property-records/property-tax-search/search-by-parcel.aspx).
 
@@ -639,13 +645,9 @@ Pipeline discussed [here](./markdown/opsec.md#opsec-pipeline-for-secure-files)
 
 ## Grey literature
 
-To keep it short, again govt data! (excluding voter records and criminal history).[^74]
+>"Grey literature refers to various forms of information created outside conventional publishing and distribution systems, which are often not thoroughly indexed in major databases."[^77]
 
-As stated by Protect Democracy:
-
->"Public voter registration data is critical to democracy in the United States. In nearly every state, a public file contains essential information about voters’ eligibility (address, age, districts, precinct, and polling location). Beyond their value to campaigns and others promoting voter participation, these files are used by groups outside of the government (journalists, scholars, advocates, and election integrity experts like VoteShield) to independently verify the rights of voters, and the integrity of US elections." [^73]
-
-Use [these tools listed](https://github.com/airborne-commando/tampermonkey-collection/tree/main)
+Use the [google dorking assistant](https://github.com/airborne-commando/tampermonkey-collection/tree/main) or just use the google advanced search tool [Link](https://www.google.com/advanced_search), `site:.gov`.
 
 **Note**: Some domains (e.g., [exposed.lol (Wayback Machine)](https://web.archive.org/web/20240115103938/https://exposed.lol/)) may be expired. Refer to the curated list or alternate links provided.
 
@@ -1136,3 +1138,5 @@ sr6/CAi5crClo+Cucr30xyrHeDc0mwA=
 [^75]: *Metal Gear Solid 2: Sons of Liberty.* Written and directed by Hideo Kojima, Konami, 2001. Transcript by Artemio Urbina, *Junker HQ*, junkerhq.net/MGS2/Text.html. Accessed 25 Dec. 2025.
 
 [^76]: Swagger, "Get started with the OpenAPI Specification," [Online]. Available: https://swagger.io/solutions/getting-started-with-oas/. [Accessed: Dec. 27, 2025].
+
+[^77]: University of Exeter Library. (2025, December 4). *Grey literature*. https://libguides.exeter.ac.uk/greylit
