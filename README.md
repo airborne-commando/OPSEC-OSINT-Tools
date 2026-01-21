@@ -437,7 +437,8 @@ Three examples of GEOINT tools that you can access right now:
 | **Biometric Analysis** | | | | |
 | Facecheck.ID | Reverse image | Face matching results | webpimages only from the site | you'll have to use a services such as [TinEye](https://tineye.com/), [lenso](lenso.ai) et al remember on not using this guide as a things change. [Link](https://raw.githubusercontent.com/airborne-commando/tampermonkey-collection/refs/heads/main/SCRIPTS/facecheck-id-img-extractor.js) |
 | [face-spy](https://face-spy.com/) | Reverse image | Returns results on potential models | full avatar images + profile | use blackbird(crow), sherlock, et al. for full details. [Link to script](https://raw.githubusercontent.com/airborne-commando/tampermonkey-collection/refs/heads/main/SCRIPTS/facecheck-OF-edition.js) | 
-| FaceMatch | username | match a username with a face (target) | user would need to use their actual face, this script may not work on all sites (such as onlyfans). | [FaceMatch](https://github.com/airborne-commando/facematch) |
+| FaceMatch | username + face | match a username with a face (target) with a database | user would need to use their actual face, this script may not work on all sites. | [FaceMatch](https://github.com/airborne-commando/facematch) |
+| Social-Hunt | username + face | Search for a username and also match a face | Would need to download the face, may not work for all sites. Also see issue [#12](https://github.com/AfterPacket/Social-Hunt/issues/12#issue-3837957660) | [Social-Hunt](https://github.com/AfterPacket/Social-Hunt) |
 | **Genealogy & Records** | | | | |
 | genealogyintime | Genealogy parameters | Genealogy records | Not HTTPS; need specific info | [Link](http://www.genealogyintime.com/tools/genealogy-search-engine.html) |
 | findagrave | Name, location | Grave records | Requires name/location; may not be listed | [Link](https://www.findagrave.com/) |
