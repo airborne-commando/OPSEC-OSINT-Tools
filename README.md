@@ -427,7 +427,7 @@ OSINT tools from Web queries to advanced methods such as a cli/gui wrapper
 
 ---
 
-| Tool | Lookup By | Returns | Limitations/Costs | Notes |
+| Tool | Lookup By | Returns | Limitations/Costs/Notes | Links |
 |------|-----------|---------|-------------------|-------|
 | **Search & Query Tools** | | | | |
 | Google | Manual queries | Google search results | Manual query building | [Link](https://www.google.com/) |
