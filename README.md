@@ -658,7 +658,7 @@ Use the [google dorking assistant](https://github.com/airborne-commando/tampermo
 
 ## Breached Data:
 
-Breached data that is publicly available for public viewing, typically from hibp or breach.vip
+Breached data that is publicly available for public viewing, typically from hibp or breach.vip; typically.
 
 ---
 
