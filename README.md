@@ -453,7 +453,7 @@ Three examples of GEOINT tools that you can access right now:
 | No-Shit-Sherlock | Username | GUI version of Sherlock | Inherits CLI limitations | [GitHub](https://github.com/airborne-commando/no-shit-sherlock) |
 | Maigret | Username | Connections between accounts | Sherlock fork, comes with webui | [GitHub](https://github.com/soxoj/maigret) |
 | Maigret-Night (GUI) | Username | GUI for Maigret | Same as CLI, no webui functions (yet) | [GitHub](https://github.com/airborne-commando/maigret-night) |
-| MCP | Usernames | username and URL analyses | designed to integrate seamlessly with MCP-compatible applications like Claude Desktop for AI analyses/analytics; you'll need to enter `sudo npm install -g mcp-maigret` for [lmstudio](https://github.com/BurtTheCoder/mcp-maigret?tab=readme-ov-file#installing-manually) if not using docker, look at the external links under "Maigret MCP Server" as this should be compatible for local LLMS. | [link](https://github.com/BurtTheCoder/mcp-maigret) |
+| MCP | Usernames | username and URL analyses | designed to integrate seamlessly with MCP-compatible applications like Claude Desktop for AI analyses/analytics; you'll need to enter `sudo npm install -g mcp-maigret` for lmstudio if not using docker, look at the [external links](#external-links) under "Maigret MCP Server" and "Maigret MCP Server: Installing manually" as this should be compatible for **most** if not all local LLMS. | [link](https://github.com/BurtTheCoder/mcp-maigret) |
 | instantusername | username | username | Instantly check username availability across multiple platforms as you type. | [Link](https://instantusername.com/) |
 | Holehe | Email | Email usage across sites | CLI; false positives | [GitHub](https://github.com/megadose/holehe) |
 | **Geolocation/GEOINT** | | | | |
@@ -982,6 +982,8 @@ sr6/CAi5crClo+Cucr30xyrHeDc0mwA=
 [What is AI data poisoning? - cloudflare (2026)](https://www.cloudflare.com/learning/ai/data-poisoning/)
 
 [Maigret MCP Server - playbooks (n.d.)](https://playbooks.com/mcp/burtthecoder/mcp-maigret)
+
+[Maigret MCP Server: Installing manually - BurtTheCoder (Dec 13, 24)](https://github.com/BurtTheCoder/mcp-maigret?tab=readme-ov-file#installing-manually)
 
 ## References:
 
