@@ -994,7 +994,7 @@ sr6/CAi5crClo+Cucr30xyrHeDc0mwA=
 
 [Maigret MCP Server - playbooks (n.d.)](https://playbooks.com/mcp/burtthecoder/mcp-maigret)
 
-[Maigret MCP Server: Installing manually - BurtTheCoder (Dec 13, 24)](https://github.com/BurtTheCoder/mcp-maigret?tab=readme-ov-file#installing-manually)
+[Maigret MCP Server: Installing manually - BurtTheCoder (Dec 13. 2024)](https://github.com/BurtTheCoder/mcp-maigret?tab=readme-ov-file#installing-manually)
 
 ## References:
 
