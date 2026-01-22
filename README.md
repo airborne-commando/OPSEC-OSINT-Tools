@@ -453,6 +453,7 @@ Three examples of GEOINT tools that you can access right now:
 | No-Shit-Sherlock | Username | GUI version of Sherlock | Inherits CLI limitations | [GitHub](https://github.com/airborne-commando/no-shit-sherlock) |
 | Maigret | Username | Connections between accounts | Sherlock fork, comes with webui | [GitHub](https://github.com/soxoj/maigret) |
 | Maigret-Night (GUI) | Username | GUI for Maigret | Same as CLI, no webui functions (yet) | [GitHub](https://github.com/airborne-commando/maigret-night) |
+| MCP | Usernames | username and URL analyses | designed to integrate seamlessly with MCP-compatible applications like Claude Desktop for AI analyses/analytics | [link](https://github.com/BurtTheCoder/mcp-maigret) |
 | instantusername | username | username | Instantly check username availability across multiple platforms as you type. | [Link](https://instantusername.com/) |
 | Holehe | Email | Email usage across sites | CLI; false positives | [GitHub](https://github.com/megadose/holehe) |
 | **Geolocation/GEOINT** | | | | |
@@ -968,8 +969,6 @@ sr6/CAi5crClo+Cucr30xyrHeDc0mwA=
 
 [Advanced Search Operators - Google Docs (Russell, Feb. 8 2024)](https://docs.google.com/document/d/1ydVaJJeL1EYbWtlfj9TPfBTE5IBADkQfZrQaBZxqXGs) 
 
-[Maigret OSINT MCP Server: Your AI's Gateway to Digital Footprint Analysis - Skywork (Oct 27. 2025)](https://skywork.ai/skypage/en/maigret-osint-digital-footprint/1981524583814193152)
-
 [Washington Court Rules That Data Captured on Flock Safety Cameras Are Public Records - EFF (Lipton, Nov 12. 2025)](https://www.eff.org/deeplinks/2025/11/washington-court-rules-data-captured-flock-safety-cameras-are-public-records)
 
 [This Flock Camera Leak is like Netflix For Stalkers - 404 Media (Jordan, Dec 22. 2025)](https://www.youtube.com/watch?v=vU1-uiUlHTo)
@@ -981,6 +980,8 @@ sr6/CAi5crClo+Cucr30xyrHeDc0mwA=
 [OSINT: how to find ALL information about ANYONE!! - Mad Hat (Oct 24, 2025)](https://youtu.be/5wYMZVJupDg?t=309)
 
 [What is AI data poisoning? - cloudflare (2026)](https://www.cloudflare.com/learning/ai/data-poisoning/)
+
+[Maigret MCP Server - playbooks (n.d.)](https://playbooks.com/mcp/burtthecoder/mcp-maigret)
 
 ## References:
 
