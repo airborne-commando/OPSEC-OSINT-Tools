@@ -423,8 +423,9 @@ Three examples of GEOINT tools that you can access right now:
 
 ## Tools
 
----
+OSINT tools from Web queries to advanced methods such as a cli/gui wrapper
 
+---
 
 | Tool | Lookup By | Returns | Limitations/Costs | Notes |
 |------|-----------|---------|-------------------|-------|
@@ -608,6 +609,10 @@ Pipeline discussed [here](./markdown/opsec.md#opsec-pipeline-for-secure-files)
     
 ## People search tools (in the states):
 
+People search / information aggregation
+
+---
+
 **DISCLAIMER: The type of info found on these sites appear to from other data brokers, social media profiles that are public or viewable by everyone, compiled data/info from federal, state, and local government public records.**
 
 ---
@@ -652,6 +657,9 @@ Pipeline discussed [here](./markdown/opsec.md#opsec-pipeline-for-secure-files)
 Use the [google dorking assistant](https://github.com/airborne-commando/tampermonkey-collection/tree/main) or just use the google advanced search tool [Link](https://www.google.com/advanced_search), `site:.gov` would be a good start for gray literature.
 
 ## Breached Data:
+
+Breached data that is publicly available for public viewing, typically from hibp or breach.vip
+
 ---
 
 **Note**: Some domains (e.g., [exposed.lol (Wayback Machine)](https://web.archive.org/web/20240115103938/https://exposed.lol/)) may be expired. Refer to the curated list or alternate links provided.
@@ -744,6 +752,9 @@ Most API's use swagger documentation.[^76]
 - **Demo Scripts**: [Icebreaker](https://github.com/airborne-commando/ice-breaker) includes a demo for testing.  
 
 ## social media
+
+Social media collection of public data (if applicable), such as snapchat, facebook, et al.
+
 ---
 
 | **Platform**  | **Tool**               | **URL**                              | **Functionality**                          | **Limitations/Notes**               |
