@@ -84,9 +84,12 @@ Protip: Doesn't hurt to write genuinely, act human and be human if doing [HUMINT
 ---
 
 # Encryption
-- [veracrypt](https://veracrypt.io/en/Beginner's%20Tutorial.html) - Container/drive encryption.
+- [VeraCrypt](https://veracrypt.io/en/Beginner's%20Tutorial.html) - Container/drive encryption.
 - [LUKS](https://guardianproject.info/archive/luks/) - Hard drive encryption.
-- [keepassxc](https://keepassxc.org/) - Passwords and secure notes.
+- [Keepassxc](https://keepassxc.org/) - Passwords and secure notes.
+- [Restic](https://restic.net/) - Secure File Backup
+- [Kopia](https://kopia.io/) - Encrypted File Backup
+- [Cryptomator](https://cryptomator.org/) - Encrypts your sensitive data in the cloud
 
 ## Anonymity Tools
 - Ip Hiders and VPNS

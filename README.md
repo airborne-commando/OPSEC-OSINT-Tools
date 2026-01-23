@@ -819,6 +819,7 @@ Social media collection of public data (if applicable), such as snapchat, facebo
 | the ultimate osint collection | Webpage | Various tools and links for OSINT | May need to reload the page, I/O[^72] | [the ultimate osint collection](https://start.me/p/DPYPMz/the-ultimate-osint-collection) |
 | osint 500 tools | Webpage | Various tools and links for OSINT | May need to reload the page, I/O[^72] | [osint 500 tools](https://start.me/p/0Pqbdg/osint-500-tools) |
 | OSINT Tools and Resources Handbook | webpage | An index of OSINT tools and resources | A curated list | [OSINT Tools and Resources Handbook](https://www.osinthandbook.com/) |
+| Download Managers | Webpage | A curated list from FMHY | | [Download Managers](https://fmhy.net/file-tools#download-managers) |
 
 | **Wiki(s)**             |                   |                  
 |-------------------------|-------------------|
@@ -952,13 +953,13 @@ sr6/CAi5crClo+Cucr30xyrHeDc0mwA=
 
 ## External links:
 
-[Academic publishing overview - Copyright (updated Jun. 24 2025)](https://guides.library.cmu.edu/c.php?g=1161877&p=9949658)
+[Academic publishing overview - Copyright (updated Jun. 24, 2025)](https://guides.library.cmu.edu/c.php?g=1161877&p=9949658)
 
 [An in-depth guide to choosing a VPN - Network security (Updated Jan. 18, 2025)](https://freedom.press/digisec/blog/choosing-a-vpn/)
 
-[Best VPN Services: Which performs best? - VPN (Nov 1. 2025)](https://cyberinsider.com/vpn/best/)
+[Best VPN Services: Which performs best? - VPN (Nov. 1, 2025)](https://cyberinsider.com/vpn/best/)
 
-[Guerilla Open Access Manifesto - Internet Archive (Swartz, July 2008)](https://ia600101.us.archive.org/1/items/GuerillaOpenAccessManifesto/Goamjuly2008.pdf)
+[Guerilla Open Access Manifesto - Internet Archive (Swartz, Jul. 2008)](https://ia600101.us.archive.org/1/items/GuerillaOpenAccessManifesto/Goamjuly2008.pdf)
 
 [A Standalone Osint Agency For Stronger National Security - George Mason University (Gauthier, 2025)](https://nationalsecurity.gmu.edu/wp-content/uploads/2025/01/A-Standalone-OSINT-Agency-for-Stronger-National-Security-FINAL-WEB.pdf)
 
@@ -970,31 +971,37 @@ sr6/CAi5crClo+Cucr30xyrHeDc0mwA=
 
 [People Search - peopleconnect (n.d.)](https://peopleconnect.us/people-search/)
 
-[digital profiling - techtarget (Hanna, Jun. 11 2024)](https://www.techtarget.com/whatis/definition/digital-profiling)
+[digital profiling - techtarget (Hanna, Jun. 11, 2024)](https://www.techtarget.com/whatis/definition/digital-profiling)
 
-[Beginner’s Guide to Hidden Data with Google Dorking - dorksearch (Jamie, Jan. 20 2023)](https://archive.ph/BuniB)
+[Beginner’s Guide to Hidden Data with Google Dorking - dorksearch (Jamie, Jan. 20, 2023)](https://archive.ph/BuniB)
 
-[Personal Security of First Responders in the Digital Age - JCAT (Mar. 31 2021)](https://www.dni.gov/files/NCTC/documents/jcat/firstresponderstoolbox/111s_-_First_Responders_Toolbox_-_Personal_Security_of_First_Responders_in_the_Digital_Age-survey.pdf)
+[Personal Security of First Responders in the Digital Age - JCAT (Mar. 31, 2021)](https://www.dni.gov/files/NCTC/documents/jcat/firstresponderstoolbox/111s_-_First_Responders_Toolbox_-_Personal_Security_of_First_Responders_in_the_Digital_Age-survey.pdf)
 
 [More about Dan - dmrussell (Russell, n.d.)](https://sites.google.com/site/dmrussell/more-about-dan)
 
-[Advanced Search Operators - Google Docs (Russell, Feb. 8 2024)](https://docs.google.com/document/d/1ydVaJJeL1EYbWtlfj9TPfBTE5IBADkQfZrQaBZxqXGs) 
+[Advanced Search Operators - Google Docs (Russell, Feb. 8, 2024)](https://docs.google.com/document/d/1ydVaJJeL1EYbWtlfj9TPfBTE5IBADkQfZrQaBZxqXGs) 
 
-[Washington Court Rules That Data Captured on Flock Safety Cameras Are Public Records - EFF (Lipton, Nov 12. 2025)](https://www.eff.org/deeplinks/2025/11/washington-court-rules-data-captured-flock-safety-cameras-are-public-records)
+[Washington Court Rules That Data Captured on Flock Safety Cameras Are Public Records - EFF (Lipton, Nov. 12, 2025)](https://www.eff.org/deeplinks/2025/11/washington-court-rules-data-captured-flock-safety-cameras-are-public-records)
 
-[This Flock Camera Leak is like Netflix For Stalkers - 404 Media (Jordan, Dec 22. 2025)](https://www.youtube.com/watch?v=vU1-uiUlHTo)
+[This Flock Camera Leak is like Netflix For Stalkers - 404 Media (Jordan, Dec. 22, 2025)](https://www.youtube.com/watch?v=vU1-uiUlHTo)
 
-[OSINT: How to Find Information about ANYONE! - CyberFlow (Jan 21. 2024)](https://www.youtube.com/watch?v=nd5W82KN9B8)
+[OSINT: How to Find Information about ANYONE! - CyberFlow (Jan. 21, 2024)](https://www.youtube.com/watch?v=nd5W82KN9B8)
 
 [Google Hacking Database (Long, 2002)](https://www.exploit-db.com/google-hacking-database)
 
-[OSINT: how to find ALL information about ANYONE!! - Mad Hat (Oct 24, 2025)](https://youtu.be/5wYMZVJupDg?t=309)
+[OSINT: how to find ALL information about ANYONE!! - Mad Hat (Oct. 24, 2025)](https://youtu.be/5wYMZVJupDg?t=309)
 
 [What is AI data poisoning? - cloudflare (2026)](https://www.cloudflare.com/learning/ai/data-poisoning/)
 
 [Maigret MCP Server - playbooks (n.d.)](https://playbooks.com/mcp/burtthecoder/mcp-maigret)
 
-[Maigret MCP Server: Installing manually - BurtTheCoder (Dec 13. 2024)](https://github.com/BurtTheCoder/mcp-maigret?tab=readme-ov-file#installing-manually)
+[Maigret MCP Server: Installing manually - BurtTheCoder (Dec. 13, 2024)](https://github.com/BurtTheCoder/mcp-maigret?tab=readme-ov-file#installing-manually)
+
+[Publicly Available Data - West Virginia University (Oct. 12, 2023)](https://researchdata.wvu.edu/available-technology/human-data/data-source/publicly-available-data)
+
+[About the Right-to-Know Law - Pennsylvania Open Records (updated Oct. 31, 2018)](https://www.openrecords.pa.gov/RTKL/About.cfm)
+
+[25 records that you think would be publicly accessible but aren't in Pa. - pennlive.com (Murphy, Sep. 14, 2017)](https://www.pennlive.com/news/2017/09/inaccessible_public_records_th.html)
 
 ## References:
 
