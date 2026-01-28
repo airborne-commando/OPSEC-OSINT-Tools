@@ -473,7 +473,6 @@ OSINT tools from Web queries to advanced methods such as a cli/gui wrapper
 | osint.sh | webpage | Tookits | Seems to be web based OSINT for web domains or ORG | [Link](https://osint.sh/) |
 | **MISC Tools** | | | | |
 | zabasearch-auto | US public info | Public records lookup | CLI; advanced usage | [GitHub](https://github.com/airborne-commando/zabasearch-auto) |
-| socialhunt | various inputs to choose from | various open source records | a self hosted OSINT Framework | [Link](https://socialhunt.cyou/) |
 | whois | domain | domain registrar info and IP | good if someone owns a website if they didn't make info private | [Link](https://who.is/) |
 | TinEye | upload an image | Image result(s) | can be used with biometric data | [TinEye](https://tineye.com/) |
 | phone number look up | Phone Number | Name | get facebook, matches ect. Use people search tools | [Link](https://www.numlookup.com/) |
