@@ -1,5 +1,5 @@
 [submodule "awesome-osint"]
-	path = awesome-osint
+	path = submodules/awesome-osint
 	url = https://github.com/jivoi/awesome-osint.git
 [submodule "OSINT-for-countries-V2.0"]
 	path = submodules/OSINT-for-countries-V2.0
