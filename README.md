@@ -821,9 +821,12 @@ Social media collection of public data (if applicable), such as snapchat, facebo
 | OSINT Tools and Resources Handbook | webpage | An index of OSINT tools and resources | A curated list | [OSINT Tools and Resources Handbook](https://www.osinthandbook.com/) |
 | Download Managers | Webpage | A curated list from FMHY | | [Download Managers](https://fmhy.net/file-tools#download-managers) |
 
-| **Wiki(s)**             |                   |                  
+| **Wiki(s):**            |                   |                  
 |-------------------------|-------------------|
 | [OSINT community](https://www.reddit.com/r/OSINT/wiki/index/) | Reddit Wikipedia  |
+| [Open-source intelligence](https://en.wikipedia.org/wiki/Open-source_intelligence) | Wikipedia|
+
+**Look at the sources of wikipedia**
 
 | **Toolkit(s):**         |                  |                  
 |-------------------------|------------------|
@@ -831,10 +834,18 @@ Social media collection of public data (if applicable), such as snapchat, facebo
 
 | **Newsletter and topics:**      |                  |                  
 |---------------------------------|------------------|
-|  [OSINT news letter](https://osintnewsletter.com)      |    Newsletter    |
-|  [Github topics - osint](https://github.com/topics/osint)  |    Github Topics |
-|  [r/OSINT](https://www.reddit.com/r/OSINT/)                |    Reddit        |
+| [OSINT news letter](https://osintnewsletter.com)       |    Newsletter    |
+| [Github topics - osint](https://github.com/topics/osint)   |    Github Topics |
+| [r/OSINT](https://www.reddit.com/r/OSINT/)                 |    Reddit        |
+| [osint-news](https://osint-news.com/)              | OSINT news/tools |
+| [hackernews - Topic OSINT](https://thehackernews.com/search/label/OSINT)|    OSINT topic   |
+| [Bellingcat](https://www.bellingcat.com/)              | OSINT news/tools |
+| [osinttechnical - bsky](https://bsky.app/profile/osinttechnical.bsky.social)   | OSINT account    |
 
+| **Feeds:**                      |                  |                  
+|---------------------------------|------------------|
+| [OSINT Accounts - Bluesky](https://bsky.app/profile/did:plc:4hgp7p2mqov4iemltisq6cws/feed/aaadi46fvqjwc) | A Bluesky Feed  |
+| [OSINT - X Search](https://xcancel.com/search?f=tweets&q=OSINT)        | A Twitter Search |
 
 **Protip:** use "topic" site:https://osintnewsletter.com
 
@@ -843,11 +854,12 @@ Social media collection of public data (if applicable), such as snapchat, facebo
     "facecheck.id" site:https://osintnewsletter.com
 
 
-| **AI Helpers:**         |                  |                  
-|-------------------------|------------------|
-|  [perplexity - OSINT Research](https://www.perplexity.ai/spaces/osint-research-GLt9lRgIRY.Gm5em9qYzdg) | OSINT Research |
+| **AI Helpers:**                      |                         |
+|--------------------------------------|-------------------------|
+|  [perplexity - OSINT Research](https://www.perplexity.ai/spaces/osint-research-GLt9lRgIRY.Gm5em9qYzdg) | OSINT Research           |
 |  [perplexity - Google Dorking](https://www.perplexity.ai/spaces/google-dorking-rkHx6yQLQweCt7vlFkmK4g#0) | Google Dorking "Hacking" |
-|  [Coding - Tampermonkey](https://www.perplexity.ai/spaces/coding-m2PpkGBUTjeypO6yq9oO3A) | Coding |
+|  [Coding - Tampermonkey](https://www.perplexity.ai/spaces/coding-m2PpkGBUTjeypO6yq9oO3A)       | Coding                   |
+|  [mcp-maigret - Github](https://github.com/BurtTheCoder/mcp-maigret)        | Maigret MCP Server       |
 
 | **OPT OUTs / self OSINT** |   **Compare info**                                                                                            |
 |----------------------|--------------------------------------------------------------------------------------------------------------------|
