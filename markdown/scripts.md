@@ -606,4 +606,4 @@ here is an example of a rule that is copied (may be expired as of writing this):
 
 # Why can't I use extensions on TOR?
 
-You can, but it's best not as that can make you more distinguishable (fingerprinting).
+You can, but it will make you more distinguishable. (fingerprinting).
