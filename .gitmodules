@@ -2,77 +2,77 @@
 	path = awesome-osint
 	url = https://github.com/jivoi/awesome-osint.git
 [submodule "OSINT-for-countries-V2.0"]
-	path = OSINT-for-countries-V2.0
+	path = submodules/OSINT-for-countries-V2.0
 	url = https://github.com/paulpogoda/OSINT-for-countries-V2.0.git
 [submodule "osint_stuff_tool_collection"]
-	path = osint_stuff_tool_collection
+	path = submodules/osint_stuff_tool_collection
 	url = https://github.com/cipher387/osint_stuff_tool_collection.git
 [submodule "The-OSINT-Toolbox"]
-	path = The-OSINT-Toolbox
+	path = submodules/The-OSINT-Toolbox
 	url = https://github.com/The-Osint-Toolbox/The-OSINT-Toolbox.git
 [submodule "firefox-facecheck-id"]
-	path = firefox-facecheck-id
+	path = submodules/firefox-facecheck-id
 	url = https://github.com/airborne-commando/firefox-facecheck-id.git
 [submodule "usertoihsoyct"]
-	path = usertoihsoyct
+	path = submodules/usertoihsoyct
 	url = https://github.com/airborne-commando/usertoihsoyct.git
 [submodule "tampermonkey-collection"]
-	path = tampermonkey-collection
+	path = submodules/tampermonkey-collection
 	url = https://github.com/airborne-commando/tampermonkey-collection.git
 [submodule "holehe"]
-	path = holehe
+	path = submodules/holehe
 	url = https://github.com/megadose/holehe.git
 [submodule "mcp-maigret"]
-	path = mcp-maigret
+	path = submodules/mcp-maigret
 	url = https://github.com/BurtTheCoder/mcp-maigret.git
 [submodule "maigret-night"]
-	path = maigret-night
+	path = submodules/maigret-night
 	url = https://github.com/airborne-commando/maigret-night.git
 [submodule "maigret"]
-	path = maigret
+	path = submodules/maigret
 	url = https://github.com/soxoj/maigret.git
 [submodule "no-shit-sherlock"]
-	path = no-shit-sherlock
+	path = submodules/no-shit-sherlock
 	url = https://github.com/airborne-commando/no-shit-sherlock.git
 [submodule "sherlock"]
-	path = sherlock
+	path = submodules/sherlock
 	url = https://github.com/sherlock-project/sherlock.git
 [submodule "Crow"]
-	path = Crow
+	path = submodules/Crow
 	url = https://github.com/airborne-commando/Crow.git
 [submodule "blackbird"]
-	path = blackbird
+	path = submodules/blackbird
 	url = https://github.com/p1ngul1n0/blackbird.git
 [submodule "Social-Hunt"]
-	path = Social-Hunt
+	path = submodules/Social-Hunt
 	url = https://github.com/AfterPacket/Social-Hunt.git
 [submodule "facematch"]
-	path = facematch
+	path = submodules/facematch
 	url = https://github.com/airborne-commando/facematch.git
 [submodule "awesome-shodan-queries"]
-	path = awesome-shodan-queries
+	path = submodules/awesome-shodan-queries
 	url = https://github.com/jakejarvis/awesome-shodan-queries.git
 [submodule "iopaint-launcher"]
-	path = iopaint-launcher
+	path = submodules/iopaint-launcher
 	url = https://github.com/airborne-commando/iopaint-launcher.git
 [submodule "stable-diffusion-webui"]
-	path = stable-diffusion-webui
+	path = submodules/stable-diffusion-webui
 	url = https://github.com/AUTOMATIC1111/stable-diffusion-webui.git
 [submodule "DeepMosaics"]
-	path = DeepMosaics
+	path = submodules/DeepMosaics
 	url = https://github.com/HypoX64/DeepMosaics.git
 [submodule "DeepMosaicsPlus"]
-	path = DeepMosaicsPlus
+	path = submodules/DeepMosaicsPlus
 	url = https://github.com/foooooooooooooooooooooooooootw/DeepMosaicsPlus.git
 [submodule "de-pixelate_gaV-O6NPWrI"]
-	path = de-pixelate_gaV-O6NPWrI
+	path = submodules/de-pixelate_gaV-O6NPWrI
 	url = https://github.com/KoKuToru/de-pixelate_gaV-O6NPWrI.git
 [submodule "fawkes"]
-	path = fawkes
+	path = submodules/fawkes
 	url = https://github.com/Shawn-Shan/fawkes.git
 [submodule "user-email-gen"]
-	path = user-email-gen
+	path = submodules/user-email-gen
 	url = https://github.com/airborne-commando/user-email-gen.git
 [submodule "Big-Ass-Data-Broker-Opt-Out-List"]
-	path = Big-Ass-Data-Broker-Opt-Out-List
+	path = submodules/Big-Ass-Data-Broker-Opt-Out-List
 	url = https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List.git
