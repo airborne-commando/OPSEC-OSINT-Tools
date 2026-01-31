@@ -884,6 +884,7 @@ Social media collection of public data (if applicable), such as snapchat, facebo
 | [The Osint Toolbox](https://github.com/The-Osint-Toolbox/People-Search-OSINT) |                                                                                                               |
 | [osint stuff tool collection](https://github.com/cipher387/osint_stuff_tool_collection?tab=readme-ov-file#universal-contact-search-and-leaks-search) |                                                                                                     |
 
+**Note for FMHY you can self host [here](https://github.com/fmhy/FMHY/wiki/Backups)**
 
 Google will find websites containing your first-last name and address and will ask to remove it from the index. Before applying the removal process on google search be sure to remove info from the website itself that it's hosted on. Google Dorking seems to be a bit quicker and preemptive on removing info about yourself after you visit said sites (if applicable).
 
