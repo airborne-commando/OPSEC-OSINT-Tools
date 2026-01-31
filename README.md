@@ -488,7 +488,7 @@ OSINT tools from Web queries to advanced methods such as a cli/gui wrapper
 | archivebox | URLS | archive pdf, wayback machine, et al  | archive pages locally and also to the wayback machine, docker recommended use [pods](https://podman.io/) and check [scripts](./markdown/scripts.md) | [Archivebox](https://archivebox.io/) |
 | Flock camera map | A map of known flock camera's | Useful with Shodan | May get patched soon I don't know | [Flock Camera Map](https://banishbigbrother.com/flock-camera-map/) |
 | Spiderfoot | user input such as a username in "quotes" | data analysis and graphs | Advanced usage, docker image | [spiderfoot](https://hub.docker.com/r/josaorg/spiderfoot) | 
-| transit.land | information about transit stops and routes across entire countries. | | Sign up for a free subscription to download datasets | [Link](https://www.transit.land/map#1.5/12.7/-119.5) | 
+| transit.land | information about transit stops and routes across entire countries. | | Sign up for a free subscription to download datasets, some countries don't have anything (China, Russa). | [Link](https://www.transit.land/map#1.5/12.7/-119.5) | 
 | **Email Compromises** | | | | |
 | Hudson Rock Extractor | Email | Manual breach check | Flask-based; manual input | [GitHub](https://github.com/airborne-commando/hudsonrock-search-extractor) |
 | **Tampermonkey Scripts** | | | | |
