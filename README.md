@@ -488,6 +488,7 @@ OSINT tools from Web queries to advanced methods such as a cli/gui wrapper
 | archivebox | URLS | archive pdf, wayback machine, et al  | archive pages locally and also to the wayback machine, docker recommended use [pods](https://podman.io/) and check [scripts](./markdown/scripts.md) | [Archivebox](https://archivebox.io/) |
 | Flock camera map | A map of known flock camera's | Useful with Shodan | May get patched soon I don't know | [Flock Camera Map](https://banishbigbrother.com/flock-camera-map/) |
 | Spiderfoot | user input such as a username in "quotes" | data analysis and graphs | Advanced usage, docker image | [spiderfoot](https://hub.docker.com/r/josaorg/spiderfoot) | 
+| transit.land | information about transit stops and routes across entire countries. | | Sign up for a free subscription to download datasets | [Link](https://www.transit.land/map#1.5/12.7/-119.5) | 
 | **Email Compromises** | | | | |
 | Hudson Rock Extractor | Email | Manual breach check | Flask-based; manual input | [GitHub](https://github.com/airborne-commando/hudsonrock-search-extractor) |
 | **Tampermonkey Scripts** | | | | |
@@ -504,6 +505,7 @@ OSINT tools from Web queries to advanced methods such as a cli/gui wrapper
 | facecheck.id | Images | Biometric search | Firefox is GitHub only | [Chrome](https://chromewebstore.google.com/detail/facecheck-reverse-image-s/ciocmmdeghlmioiedoggnlefllfpfmdj?hl=en-US) [Firefox](https://github.com/airborne-commando/firefox-facecheck-id) |
 | Who Am I | usernames | usernames from various OSINT DB's | Firefox will be missing features possibly | [Link](https://chromewebstore.google.com/detail/who-am-i/gdnhlhadhgnhaenfcphpeakdghkccfoo?hl=en) [Firefox](https://addons.mozilla.org/en-US/firefox/addon/who-am-i-ff/) |
 
+https://www.transit.land/map#1.5/12.7/-119.5
 
 ---
 
