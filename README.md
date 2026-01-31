@@ -75,7 +75,7 @@ People trust the internet too much. In today’s world, online and offline are p
 
 Clone the repo and it's submodules with:
 
-    https://github.com/<username>/OPSEC-OSINT-Tools.git --recurse-submodules
+    git clone --recurse-submodules https://github.com/<username>/OPSEC-OSINT-Tools.git
 
 Also this guide can help prevent issues such as doxing. The obvious way is to follow [Key-Takeaways](#Key-Takeaways) and use [people search tools](#people-search-tools-in-the-states) with a self audit to reduce the amount of info you have on yourself publicly[^66] [^50].
 
