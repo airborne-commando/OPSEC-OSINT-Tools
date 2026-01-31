@@ -77,6 +77,10 @@ Clone the repo and it's submodules with:
 
     git clone --recurse-submodules https://github.com/<username>/OPSEC-OSINT-Tools.git
 
+These contain all the tools (or most of) inside the [submodules](https://github.com/airborne-commando/OPSEC-OSINT-Tools/tree/main/submodules) dir with this command.
+
+You may also just clone the repo with git clone and create empty submodule dirs to save space.
+
 Also this guide can help prevent issues such as doxing. The obvious way is to follow [Key-Takeaways](#Key-Takeaways) and use [people search tools](#people-search-tools-in-the-states) with a self audit to reduce the amount of info you have on yourself publicly[^66] [^50].
 
 Can you predict someone’s behavior with this? not exactly; people are unpredictable at times.
