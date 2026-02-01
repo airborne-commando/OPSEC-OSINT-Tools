@@ -79,7 +79,7 @@ Clone the repo and it's submodules with:
 
 and to update all the submodules
 
-    git submodule update --init --recursive
+    git submodule update --remote --recursive
 
 These contain all the tools (or most of) inside the [submodules](https://github.com/airborne-commando/OPSEC-OSINT-Tools/tree/main/submodules) dir with this command.
 
