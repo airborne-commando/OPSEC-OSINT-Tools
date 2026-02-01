@@ -856,7 +856,7 @@ Social media collection of public data (if applicable), such as snapchat, facebo
 | osint 500 tools | Webpage | Various tools and links for OSINT | May need to reload the page, I/O[^72] | [osint 500 tools](https://start.me/p/0Pqbdg/osint-500-tools) |
 | OSINT Tools and Resources Handbook | webpage | An index of OSINT tools and resources | A curated list | [OSINT Tools and Resources Handbook](https://www.osinthandbook.com/) |
 | Download Managers | Webpage | A curated list from FMHY | | [Download Managers](https://fmhy.net/file-tools#download-managers) |
-| prism-break | A webpage containing Categories | | surveillance shielding from the states and govts, not a 100% guarantee also hasn't been updated within a year | [Link](https://prism-break.org/en/all/) [Source code](https://gitlab.com/prism-break/prism-break) |
+| prism-break | A webpage containing Categories | | surveillance shielding from the states and govts, not a 100% guarantee also hasn't been updated within a year | [Link](https://prism-break.org/en/all/) [Source code](https://gitlab.com/prism-break/prism-break) [github mirror](https://github.com/prism-break/prism-break) |
 
 | **Wiki(s):**            |                   |                  
 |-------------------------|-------------------|
