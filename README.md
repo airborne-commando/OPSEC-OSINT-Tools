@@ -75,7 +75,7 @@ People trust the internet too much. In today’s world, online and offline are p
 
 Clone the repo and it's submodules with:
 
-    git clone --recurse-submodules https://github.com/<username>/OPSEC-OSINT-Tools.git
+    git clone --recurse-submodules
 
 and to update all the submodules
 
