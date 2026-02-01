@@ -503,13 +503,13 @@ OSINT tools from Web queries to advanced methods such as a cli/gui wrapper
 | Universal Background Check | PeopleSearch data | Exports from public records | Not accurate for mm-dd DOB | [Collection Link](https://github.com/airborne-commando/tampermonkey-collection/tree/main?tab=readme#universal-background-check-exporter) |
 | Breach.vip search and reddit analyzer | Email/username | Breach data + Reddit analysis |                  | [Collection Link](https://github.com/airborne-commando/tampermonkey-collection/tree/main?tab=readme#breachvip-and-reddit-profile-analyzer) |
 | **Extensions** | | | | |
-| Wayback machine | URLs | Archived content | Archived content only | [FF](https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new/) [Chrome](https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak) |
-| Archive Page | URLs | Archive.today search | Page must be archived | [FF](https://addons.mozilla.org/en-US/firefox/addon/archive-page/) [Chrome](https://chromewebstore.google.com/detail/archive-page/gcaimhkfmliahedmeklebabdgagipbia) |
-| Xcancel | Twitter URLs | Privacy Twitter front-end | Conflicts possible | [FF](https://addons.mozilla.org/en-US/firefox/addon/toxcancel/) [Chrome](https://chromewebstore.google.com/detail/xcancelcom-redirector) |
-| reddit-uncensored | Reddit URLs | Deleted content restoration | Arctic Shift API | [FF](https://addons.mozilla.org/en-US/firefox/addon/reddit-uncensored/) [Chrome](https://chrome.google.com/webstore/detail/amfnaoebakgdklcahkilhjoglflgnhbm) |
+| Wayback machine | URLs | Archived content | Archived content only | [FF](https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new/)/[Chrome](https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak) |
+| Archive Page | URLs | Archive.today search | Page must be archived | [FF](https://addons.mozilla.org/en-US/firefox/addon/archive-page/)/[Chrome](https://chromewebstore.google.com/detail/archive-page/gcaimhkfmliahedmeklebabdgagipbia) |
+| Xcancel | Twitter URLs | Privacy Twitter front-end | Conflicts possible | [FF](https://addons.mozilla.org/en-US/firefox/addon/toxcancel/)/[Chrome](https://chromewebstore.google.com/detail/xcancelcom-redirector) |
+| reddit-uncensored | Reddit URLs | Deleted content restoration | Arctic Shift API | [FF](https://addons.mozilla.org/en-US/firefox/addon/reddit-uncensored/)/[Chrome](https://chrome.google.com/webstore/detail/amfnaoebakgdklcahkilhjoglflgnhbm) |
 | usertoihsoyct | Usernames | Username redirect | Firefox addon | [GitHub](https://github.com/airborne-commando/usertoihsoyct) |
-| facecheck.id | Images | Biometric search | Firefox is GitHub only | [Chrome](https://chromewebstore.google.com/detail/facecheck-reverse-image-s/ciocmmdeghlmioiedoggnlefllfpfmdj?hl=en-US) [Firefox](https://github.com/airborne-commando/firefox-facecheck-id) |
-| Who Am I | usernames | usernames from various OSINT DB's | Firefox will be missing features possibly | [Link](https://chromewebstore.google.com/detail/who-am-i/gdnhlhadhgnhaenfcphpeakdghkccfoo?hl=en) [Firefox](https://addons.mozilla.org/en-US/firefox/addon/who-am-i-ff/) |
+| facecheck.id | Images | Biometric search | Firefox is GitHub only | [Chrome](https://chromewebstore.google.com/detail/facecheck-reverse-image-s/ciocmmdeghlmioiedoggnlefllfpfmdj?hl=en-US)/[Firefox](https://github.com/airborne-commando/firefox-facecheck-id) |
+| Who Am I | usernames | usernames from various OSINT DB's | Firefox will be missing features possibly | [Link](https://chromewebstore.google.com/detail/who-am-i/gdnhlhadhgnhaenfcphpeakdghkccfoo?hl=en)/[Firefox](https://addons.mozilla.org/en-US/firefox/addon/who-am-i-ff/) |
 
 ---
 
@@ -856,7 +856,7 @@ Social media collection of public data (if applicable), such as snapchat, facebo
 | osint 500 tools | Webpage | Various tools and links for OSINT | May need to reload the page, I/O[^72] | [osint 500 tools](https://start.me/p/0Pqbdg/osint-500-tools) |
 | OSINT Tools and Resources Handbook | webpage | An index of OSINT tools and resources | A curated list | [OSINT Tools and Resources Handbook](https://www.osinthandbook.com/) |
 | Download Managers | Webpage | A curated list from FMHY | | [Download Managers](https://fmhy.net/file-tools#download-managers) |
-| prism-break | A webpage containing Categories | | surveillance shielding from the states and govts, not a 100% guarantee also hasn't been updated within a year | [Link](https://prism-break.org/en/all/) [Source code](https://gitlab.com/prism-break/prism-break) |
+| prism-break | A webpage containing Categories | | surveillance shielding from the states and govts, not a 100% guarantee also hasn't been updated within a year | [Link](https://prism-break.org/en/all/)/[Source code](https://gitlab.com/prism-break/prism-break)/[github mirror](https://github.com/prism-break/prism-break) |
 
 | **Wiki(s):**            |                   |                  
 |-------------------------|-------------------|
