@@ -82,3 +82,6 @@
 [submodule "submodules/OSINT-Cheat-sheet"]
 	path = submodules/OSINT-Cheat-sheet
 	url = https://github.com/Jieyab89/OSINT-Cheat-sheet.git
+[submodule "submodules/awesome-genealogy"]
+	path = submodules/awesome-genealogy
+	url = https://github.com/Panda-Lewandowski/awesome-genealogy.git
