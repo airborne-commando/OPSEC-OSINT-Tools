@@ -85,3 +85,9 @@
 [submodule "submodules/awesome-genealogy"]
 	path = submodules/awesome-genealogy
 	url = https://github.com/Panda-Lewandowski/awesome-genealogy.git
+[submodule "submodules/osint-tools-mcp-server"]
+	path = submodules/osint-tools-mcp-server
+	url = https://github.com/frishtik/osint-tools-mcp-server.git
+[submodule "submodules/awesome-genograms"]
+	path = submodules/awesome-genograms
+	url = https://github.com/awesomedirectory/awesome-genograms.git
