@@ -850,7 +850,7 @@ Social media collection of public data (if applicable), such as snapchat, facebo
 | OSINT Framework | Webpage | A larger tree list of tools | Some links are out of date | [OSINT Framework](https://osintframework.com/) |
 | OSINT Resources | Webpage | Collection of OSINT resources that seems to be more up to date | | [OSINT Resources](https://sizeof.cat/post/osint-resources/) [Archive](https://archive.ph/rZZf0) |
 | cipher387's OSINT collection | Webpage | A collection of several hundred online tools for OSINT | obsolete tools in list | [cipher387's OSINT collection](https://github.com/cipher387/osint_stuff_tool_collection) |
-| internet tools | Webpage | A curated list from FMHY | | [internet tools](https://fmhy.xyz/internet-tools#open-source-intelligence) |
+| internet tools - FMHY | Webpage | A curated list from FMHY | | [OSINT](https://fmhy.xyz/internet-tools#open-source-intelligence)/[archiving](https://fmhy.xyz/internet-tools#archiving) |
 | OSINT toolbox | Webpage/Quick Links | OSINT, Privacy & OPSEC bookmarks / links | Some resources are completely free to use, others you will need to pay for however they may offer a free trial. | [OSINT toolbox](https://github.com/The-Osint-Toolbox) |
 | the ultimate osint collection | Webpage | Various tools and links for OSINT | May need to reload the page, I/O[^72] | [the ultimate osint collection](https://start.me/p/DPYPMz/the-ultimate-osint-collection) |
 | osint 500 tools | Webpage | Various tools and links for OSINT | May need to reload the page, I/O[^72] | [osint 500 tools](https://start.me/p/0Pqbdg/osint-500-tools) |
