@@ -91,6 +91,8 @@ Also this guide can help prevent issues such as doxing. The obvious way is to fo
 
 Can you predict someone’s behavior with this? not exactly; people are unpredictable at times.
 
+Will also point out that some of the sources may be 404'd, use the [wayback machine](https://web.archive.org/) for a snapshot or [archive](https://archive.ph/).
+
 # OSINT/OPSEC Tools
 
 A list of OSINT/OPSEC tools I made, forked, and/or use.
