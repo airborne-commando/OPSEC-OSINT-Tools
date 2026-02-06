@@ -502,8 +502,50 @@ You may also need to use histcontrol to disable commands or disable history enti
   
     git config --global user.email "hostmachine@mail.com" && git config --global user.name "anon anon"
 
-- Be sure to enter the env_varibles like for example: RAD_ALIAS=anon and set the networking stack to host (unless if you set it to tunnel).
-- Be sure there is no other instance of radicle running on your physical host.
+
+Wip docker-compose
+
+    docker-compose up -d
+
+```
+version: '3.8'
+
+services:
+  radicle:
+    image: ff0x/radicle:latest
+    container_name: radicle-seed
+    restart: unless-stopped
+    environment:
+      - RAD_ALIAS=anon
+    volumes:
+      - radicle-data:/app/radicle
+      # Mount with read-write permissions
+      - /path/to/your/radicle/data:/mnt/repos:rw
+    ports:
+      - "8776:8776"
+      - "8777:8777"
+    networks:
+      - radicle-network
+    # Configure git globally during container startup
+    command: >
+      sh -c "
+      mkdir -p ./targetdir && 
+      cp /mnt/repos/ ./targetdir && 
+      cd targetdir && 
+      git config --global user.email 'email@example.com' && 
+      git config --global user.name 'name' && 
+      git init && 
+      git add . && 
+      git commit -m '.'
+      "
+
+volumes:
+  radicle-data:
+
+networks:
+  radicle-network:
+    driver: bridge
+```
 
 ---
 
