@@ -475,6 +475,17 @@ What I tend to do is save this in private notes inside simplex, I'd also recomme
 - Securely transfers `db2` which contains the key-file
   - Can upload/download from encrypted container.
 
+**Radicle**
+- Use this docker [image](https://hub.docker.com/r/ff0x/radicle)
+- Use git (you don't need github just use your hostname for email)
+  
+    git config --global user.email "hostmachine@mail.com" && git config --global user.name "anon anon"
+
+- Be sure to enter the env_varibles like for example: RAD_ALIAS=anon and set the networking stack to host (unless if you set it to tunnel).
+- Be sure there is no other instance of radicle running on your physical host.
+
+
+
 Then if i need, I share it with another simplex note on my phone by connecting my own phone instance and the desktop as a chat. Then forwarding it to private notes.
 After that is done, I delete the convo for both but keep private notes for both adding in redundancy. just save inside simplex and desktop to reduce data remnants.
 
