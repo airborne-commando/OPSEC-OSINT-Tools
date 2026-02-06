@@ -97,3 +97,6 @@
 [submodule "submodules/opt-out-manual-2026"]
 	path = submodules/opt-out-manual-2026
 	url = https://github.com/thumpersecure/opt-out-manual-2026.git
+[submodule "submodules/prism-break"]
+	path = submodules/prism-break
+	url = https://github.com/airborne-commando/prism-break.git
