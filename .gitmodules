@@ -91,3 +91,9 @@
 [submodule "submodules/awesome-genograms"]
 	path = submodules/awesome-genograms
 	url = https://github.com/awesomedirectory/awesome-genograms.git
+[submodule "submodules/osint4all"]
+	path = submodules/osint4all
+	url = https://github.com/osint4all/osint4all.github.io.git
+[submodule "submodules/opt-out-manual-2026"]
+	path = submodules/opt-out-manual-2026
+	url = https://github.com/thumpersecure/opt-out-manual-2026.git
