@@ -478,6 +478,8 @@ What I tend to do is save this in private notes inside simplex, I'd also recomme
 Then if i need, I share it with another simplex note on my phone by connecting my own phone instance and the desktop as a chat. Then forwarding it to private notes.
 After that is done, I delete the convo for both but keep private notes for both adding in redundancy. just save inside simplex and desktop to reduce data remnants.
 
+May also be a issue with classifed information according to the [DoD](https://www.computerworld.com/article/3854632/signalgate-theres-an-it-lesson-here.html).
+
 For SSD's I'd recommend using LUK's or a container as securely erasing in traditional means is basically useless if you want to format the entire drive.[^1]
 
 You may also just send things to RAM with tmpfs and do a shutdown as it lets normal users write into it but isn't worldwide if configured correctly:
