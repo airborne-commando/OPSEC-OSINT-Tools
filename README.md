@@ -494,6 +494,7 @@ OSINT tools from Web queries to advanced methods such as a cli/gui wrapper
 | phone number look up | Phone Number | Name | get facebook, matches ect. Use people search tools | [Link](https://www.numlookup.com/) |
 | link extractor and archive | URLs | archived page | CLI; basic pages; manual edits, no longer works for archives | [GitHub](https://github.com/airborne-commando/link-extractor-and-archive) |
 | archivebox | URLS | archive pdf, wayback machine, et al  | archive pages locally and also to the wayback machine, docker recommended use [pods](https://podman.io/) and check [scripts](./markdown/scripts.md) | [Archivebox](https://archivebox.io/) |
+| trace.rip | Discord info | Discord info | Beta access, use a dummy discord to apply (It will ask for a discord) | [trace.rip](https://www.trace.rip/)[#192](https://github.com/airborne-commando/OPSEC-OSINT-Tools/issues/192#issue-3898719834) |
 | Flock camera map | A map of known flock camera's | Useful with Shodan | May get patched soon I don't know | [Flock Camera Map](https://banishbigbrother.com/flock-camera-map/) |
 | Spiderfoot | user input such as a username in "quotes" | data analysis and graphs | Advanced usage, docker image | [spiderfoot](https://hub.docker.com/r/josaorg/spiderfoot) | 
 | transit.land | information about transit stops and routes across entire countries. | | Sign up for a free subscription to download datasets, some countries don't have anything (China, Russa). | [Link](https://www.transit.land/map#1.5/12.7/-119.5) | 
