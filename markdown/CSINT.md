@@ -4,11 +4,13 @@
 - [References](#references)
 - back to [main guide](../README.md)
   
-## Closed-Source Intelligence (CSINT)
+## Closed-Source Intelligence (CSINT) / Classified information
 
 CSINT[^1][^2] refers to "Closed-Source Intelligence." It is the process of collecting and analyzing information from non-public, restricted, or confidential sources. These sources can include classified government documents, proprietary corporate data, internal communications, or data obtained through confidential agreements or intelligence networks. CSINT is used in investigations where sensitive or confidential information is critical, such as in law enforcement, intelligence organizations, corporate security, and private investigations.
 
 CSINT access is typically regulated legally, requiring court orders, warrants, or special permissions, and it involves a structured process of accessing, collecting, and analyzing this restricted information safely and ethically. It provides insights that are often unavailable through public or open sources, making it valuable in cases like criminal investigations, national security, and corporate fraud. Its use is bound by strict legal and ethical considerations to protect privacy and avoid misuse.
+
+CSINT may also fall under the term Classified Information (CCI) which can be Classified Critical Information and the term is typically used as information regarding protection from access from unauthorized disclosure for security and the defense of national or foreign relations, may also be for domestic/legal use. Each is donated by the classified levels of Top, Secret or Confidential.
 
 > "Information sources are categorized as open, closed, and classified. Open source (OSINT) includes publicly available materials like reports, theses, and newsletters, but may be unreliable or biased. Closed source information is restricted data in databases containing personal records or intelligence, with limited access. Classified information, gathered through covert human or technical intelligence, is highly accurate but has strict dissemination controls that can limit practical use" (United Nations, 2011, p. 12).[^2]
 > 
@@ -32,6 +34,12 @@ See [HUMINT](HUMINT.md) and [Breached Data](../README.md#breached-data) for rela
 >“typically involves confidential personnel decisions, upcoming policy announcements relevant to staff, or compelling rumors” (CIA para. 22)[^4].  
 
 Rumors can undermine or compromise the credibility of a human source, a risk particularly relevant when HUMINT and CSINT intersect.
+
+## External links:
+
+[Cornell Law - 18 U.S. Code § 798 - Disclosure of classified information](https://www.law.cornell.edu/uscode/text/18/798)
+
+[Classified Information - Department Of Energy (Jul 23, 1993)](https://www.directives.doe.gov/terms_definitions/classified-information-1)
 
 ## References:
 
