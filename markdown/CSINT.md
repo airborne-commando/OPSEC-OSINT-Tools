@@ -4,7 +4,7 @@
 - [References](#references)
 - back to [main guide](../README.md)
   
-## Closed-Source Intelligence (CSINT) / Classified information
+## Closed-Source Intelligence (CSINT) / Classified Information
 
 CSINT[^1][^2] refers to "Closed-Source Intelligence." It is the process of collecting and analyzing information from non-public, restricted, or confidential sources. These sources can include classified government documents, proprietary corporate data, internal communications, or data obtained through confidential agreements or intelligence networks. CSINT is used in investigations where sensitive or confidential information is critical, such as in law enforcement, intelligence organizations, corporate security, and private investigations.
 
@@ -34,6 +34,8 @@ See [HUMINT](HUMINT.md) and [Breached Data](../README.md#breached-data) for rela
 >“typically involves confidential personnel decisions, upcoming policy announcements relevant to staff, or compelling rumors” (CIA para. 22)[^4].  
 
 Rumors can undermine or compromise the credibility of a human source, a risk particularly relevant when HUMINT and CSINT intersect.
+
+>Breach.vip is considered open source and viewable unless if the data was removed by a request from the user, however there is HIBP which is also open source and viewable for breached data. For this, it isn't classified information as looking into a hackers phonebook and yellow pages.
 
 ## External links:
 
