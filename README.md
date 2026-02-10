@@ -799,6 +799,7 @@ Social media collection of public data (if applicable), such as snapchat, facebo
 | **Platform**  | **Tool**               | **URL**                              | **Functionality**                          | **Limitations/Notes**               |
 |--------------|-----------------------|------------------------------------- |------------------------------------------|-----------------------------------------|
 | **General**  | Social Searcher       | [social-searcher.com](https://www.social-searcher.com/)          | Searches multiple platforms at once      | see the [about](https://www.social-searcher.com/about/) page               |
+|              | People DeepSearch     | [webvetted.com/detect/people](webvetted.com/detect/people)  | AI Powered search, various socials medias| limited search only one, tor             |
 | **Snapchat** | Snapchat Map          | [map.snapchat.com](https://map.snapchat.com/)             | View maps for snapchat                   | Requires Snapchat account                |
 | **Instagram**| Dumpor                | [dumpor.com](https://dumpor.com/)                   | View profiles/stories anonymously        | May have rate limits                     |
 ||               imginn                | [imginn.com](https://imginn.com/)                   | View profiles/stories anonymously        | May be offline from time to time         |
@@ -877,6 +878,7 @@ Social media collection of public data (if applicable), such as snapchat, facebo
 | [OSINT news letter](https://osintnewsletter.com)       |    Newsletter    |
 | [Github topics - osint](https://github.com/topics/osint)   |    Github Topics |
 | [r/OSINT](https://www.reddit.com/r/OSINT/)                 |    Reddit        |
+| [r/osinttools](https://www.reddit.com/r/osinttools/)            |    Reddit        |
 | [osint-news](https://osint-news.com/)              | OSINT news/tools |
 | [hackernews - Topic OSINT](https://thehackernews.com/search/label/OSINT)|    OSINT topic   |
 | [Bellingcat](https://www.bellingcat.com/)              | OSINT news/tools |
@@ -886,6 +888,7 @@ Social media collection of public data (if applicable), such as snapchat, facebo
 |---------------------------------|------------------|
 | [OSINT Accounts - Bluesky](https://bsky.app/profile/did:plc:4hgp7p2mqov4iemltisq6cws/feed/aaadi46fvqjwc) | A Bluesky Feed  |
 | [OSINT - X Search](https://xcancel.com/search?f=tweets&q=OSINT)        | A Twitter Search |
+| [OSINT tools - Reddit](https://www.reddit.com/search/?q=osint+tools)    | A Reddit Search  |
 
 **Protip:** use "topic" site:https://osintnewsletter.com
 
