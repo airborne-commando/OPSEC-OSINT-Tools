@@ -799,7 +799,7 @@ Social media collection of public data (if applicable), such as snapchat, facebo
 | **Platform**  | **Tool**               | **URL**                              | **Functionality**                          | **Limitations/Notes**               |
 |--------------|-----------------------|------------------------------------- |------------------------------------------|-----------------------------------------|
 | **General**  | Social Searcher       | [social-searcher.com](https://www.social-searcher.com/)          | Searches multiple platforms at once      | see the [about](https://www.social-searcher.com/about/) page               |
-|              | People DeepSearch     | [webvetted.com/detect/people](https://webvetted.com/detect/people)  | AI Powered search, various socials medias| limited search only one, tor             |
+|              | People DeepSearch     | [webvetted.com/detect/people](https://webvetted.com/detect/people)  | AI Powered search, various socials medias| Limited to one report, searches are ok   |
 | **Snapchat** | Snapchat Map          | [map.snapchat.com](https://map.snapchat.com/)             | View maps for snapchat                   | Requires Snapchat account                |
 | **Instagram**| Dumpor                | [dumpor.com](https://dumpor.com/)                   | View profiles/stories anonymously        | May have rate limits                     |
 ||               imginn                | [imginn.com](https://imginn.com/)                   | View profiles/stories anonymously        | May be offline from time to time         |
