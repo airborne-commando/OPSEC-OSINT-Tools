@@ -626,7 +626,7 @@ Do not use additional extensions as that can make you identifiable (fingerprinti
 
 ***HOWEVER***
 
-If the image is of a public web (onlyfans avatar) you may:
+If the image is of a public web (onlyfans, snapchat, twitter, et al) you may:
 
 - Use the results from TinEye, lenso, Facecheck.ID, Pimeyes et al and upload it to yandex for the full username URL (that is if TinEye didn't beat Yandex to it)
 - Still would have to be of a Face and needed to be indexed by TinEye.
