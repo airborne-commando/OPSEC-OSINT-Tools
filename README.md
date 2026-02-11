@@ -856,7 +856,7 @@ Social media collection of public data (if applicable), such as snapchat, facebo
 | Awesome OSINT | Webpage | A curated list of amazingly awesome open source intelligence tools and resources | Info may be outdated | [Awesome OSINT](https://github.com/jivoi/awesome-osint) |
 | OSINT for countries V2 | Webpage | open data, legal, maps, vehicles, people, procurement, WHOIS | User contrib | [OSINT for countries V2](https://github.com/paulpogoda/OSINT-for-countries-V2.0) |
 | OSINT Framework | Webpage | A larger tree list of tools | Some links are out of date | [OSINT Framework](https://osintframework.com/) |
-| OSINT Resources | Webpage | Collection of OSINT resources that seems to be more up to date | | [OSINT Resources](https://sizeof.cat/post/osint-resources/) [Archive](https://archive.ph/rZZf0) |
+| OSINT Resources | Webpage | Collection of OSINT resources that seems to be more up to date | | [OSINT Resources](https://sizeof.cat/post/osint-resources/)/[Archive](https://archive.ph/rZZf0) |
 | cipher387's OSINT collection | Webpage | A collection of several hundred online tools for OSINT | obsolete tools in list | [cipher387's OSINT collection](https://github.com/cipher387/osint_stuff_tool_collection) |
 | internet tools - FMHY | Webpage | A curated list from FMHY | | [OSINT](https://fmhy.xyz/internet-tools#open-source-intelligence)/[archiving](https://fmhy.xyz/internet-tools#archiving) |
 | OSINT toolbox | Webpage/Quick Links | OSINT, Privacy & OPSEC bookmarks / links | Some resources are completely free to use, others you will need to pay for however they may offer a free trial. | [OSINT toolbox](https://github.com/The-Osint-Toolbox) |
