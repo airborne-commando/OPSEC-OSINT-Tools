@@ -499,13 +499,24 @@ You may also need to use histcontrol to disable commands or disable history enti
 **Radicle**
 - Use this docker [image](https://hub.docker.com/r/ff0x/radicle)
 - Use git (you don't need github just use your hostname for email)
-  
+
+```  
     git config --global user.email "hostmachine@mail.com" && git config --global user.name "anon anon"
+```
+
+Start up the container and enjoy.
+
+```
+docker-compose up -d && docker exec -it radicle-seed /bin/ash
+```
 
 
-Wip docker-compose
+stop the container if you want to purge it.
 
-    docker-compose up -d
+```
+docker container stop radicle-seed && docker container rm radicle-seed && docker network rm radicle-network && docker volume rm radicle-data
+```
+
 
 ```
 version: '3.8'
@@ -519,31 +530,21 @@ services:
       - RAD_ALIAS=anon
     volumes:
       - radicle-data:/app/radicle
-      # Mount with read-write permissions
-      - /path/to/your/radicle/data:/mnt/repos:rw
+      # Mount with read-write permissions to a physical drive
+      - /value/value/value/value/value/value:/var/lib/radicle/targetdir:rw
     ports:
       - "8776:8776"
       - "8777:8777"
     networks:
       - radicle-network
-    # Configure git globally during container startup
-    command: >
-      sh -c "
-      mkdir -p ./targetdir && 
-      cp /mnt/repos/ ./targetdir && 
-      cd targetdir && 
-      git config --global user.email 'email@example.com' && 
-      git config --global user.name 'name' && 
-      git init && 
-      git add . && 
-      git commit -m '.'
-      "
 
 volumes:
   radicle-data:
+    name: radicle-data 
 
 networks:
   radicle-network:
+    name: radicle-network
     driver: bridge
 ```
 
