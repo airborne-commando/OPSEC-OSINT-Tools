@@ -518,6 +518,7 @@ OSINT tools from Web queries to advanced methods such as a cli/gui wrapper
 | usertoihsoyct | Usernames | Username redirect | Firefox addon | [GitHub](https://github.com/airborne-commando/usertoihsoyct) |
 | facecheck.id | Images | Biometric search | Firefox is GitHub only | [Chrome](https://chromewebstore.google.com/detail/facecheck-reverse-image-s/ciocmmdeghlmioiedoggnlefllfpfmdj?hl=en-US)/[Firefox](https://github.com/airborne-commando/firefox-facecheck-id) |
 | Who Am I | usernames | usernames from various OSINT DB's | Firefox will be missing features possibly | [Link](https://chromewebstore.google.com/detail/who-am-i/gdnhlhadhgnhaenfcphpeakdghkccfoo?hl=en)/[Firefox](https://addons.mozilla.org/en-US/firefox/addon/who-am-i-ff/) |
+| Markdown Viewer | view a markdown page | | Firefox and chrome | [FF](https://addons.mozilla.org/en-US/firefox/addon/markdown-viewer-chrome)/[Chrome](https://chromewebstore.google.com/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk?hl=en) | 
 
 ---
 
