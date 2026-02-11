@@ -103,3 +103,6 @@
 [submodule "submodules-lang/ita/GEOINTInvestigation"]
 	path = submodules-lang/ita/GEOINTInvestigation
 	url = https://github.com/CScorza/GEOINTInvestigation
+[submodule "submodules/awesome-web-archiving"]
+	path = submodules/awesome-web-archiving
+	url = https://github.com/iipc/awesome-web-archiving
