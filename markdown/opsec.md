@@ -401,7 +401,7 @@ Personal use cases, such as videogames to isolation of a user environment.
 ## Data Destruction
 - [DBAN](https://dban.org/) - HDD wiping; VM. Not good for SSD's.
 - [Arch Linux Wipe Guide](https://wiki.archlinux.org/title/Securely_wipe_disk) Shows how to effectively wipe an SSD.
-- [NVMe/SSD/HDD Nuke Script](https://gist.github.com/airborne-commando/6a690bd0644a9f1d76bc8c585d9ee969) may brick your drives, trust me.
+- [NVMe/SSD/HDD Nuke Script](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/markdown/scripts.md#nuke) may brick your drives, trust me.
 - [physical destruction](physical-destruction.md) last ditch effort, may be costly.
 
 ---
@@ -410,7 +410,7 @@ Personal use cases, such as videogames to isolation of a user environment.
 - [PrivacyTools.io](https://www.privacytools.io/) - Privacy software/resources.
 - [crypt.fyi](https://www.crypt.fyi/new) - "Secure" data sharing, I say "Secure" because it's not safe on screenshots.
 - [One-Time Pad Implementation](https://github.com/airborne-commando/one-time-pad-truly-random).
-- [Mouse-R](https://gist.github.com/airborne-commando/105e4c77598aab9662bca833ee944379) - use with veracrypt for mouse entropy.
+- [Mouse-R](https://github.com/airborne-commando/OPSEC-OSINT-Tools/blob/main/markdown/scripts.md#mouse-r) - use with veracrypt for mouse entropy.
 
 **Zip**
 - [Random Address](https://zip.postcodebase.com/randomaddress) - Zip code gen for the US.
