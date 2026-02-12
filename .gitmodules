@@ -124,3 +124,6 @@
 [submodule "submodules/privacy-protection/mullvad-app"]
 	path = submodules/privacy-protection/mullvad-app
 	url = https://github.com/mullvad/mullvadvpn-app.git
+[submodule "submodules/privacy-protection/cockli-cli"]
+	path = submodules/privacy-protection/cockli-cli
+	url = https://github.com/jumpfool/cockli-cli.git
