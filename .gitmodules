@@ -103,3 +103,21 @@
 [submodule "submodules/genealogy-history/awesome-genograms"]
 	path = submodules/genealogy-history/awesome-genograms
 	url = https://github.com/awesomedirectory/awesome-genograms.git
+[submodule "submodules/privacy-protection/monero"]
+	path = submodules/privacy-protection/monero
+	url = https://github.com/monero-project/monero.git
+[submodule "submodules/privacy-protection/monero-gui"]
+	path = submodules/privacy-protection/monero-gui
+	url = https://github.com/monero-project/monero-gui.git
+[submodule "submodules/privacy-protection/tails"]
+	path = submodules/privacy-protection/tails
+	url = https://gitlab.tails.boum.org/tails/tails.git
+[submodule "submodules/privacy-protection/radicle-dev"]
+	path = submodules/privacy-protection/radicle-dev
+	url = https://github.com/radicle-dev/.github.git
+[submodule "submodules/privacy-protection/whonix"]
+	path = submodules/privacy-protection/whonix
+	url = https://github.com/Whonix/.github.git
+[submodule "submodules/privacy-protection/monero-docs"]
+	path = submodules/privacy-protection/monero-docs
+	url = https://github.com/monero-project/monero-docs.git
