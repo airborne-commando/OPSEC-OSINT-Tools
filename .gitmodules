@@ -121,3 +121,6 @@
 [submodule "submodules/privacy-protection/monero-docs"]
 	path = submodules/privacy-protection/monero-docs
 	url = https://github.com/monero-project/monero-docs.git
+[submodule "submodules/privacy-protection/mullvad-app"]
+	path = submodules/privacy-protection/mullvad-app
+	url = https://github.com/mullvad/mullvadvpn-app.git
