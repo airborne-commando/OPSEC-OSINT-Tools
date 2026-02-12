@@ -1,6 +1,3 @@
-[submodule "submodules-lang/ita/GEOINTInvestigation"]
-	path = submodules-lang/ita/GEOINTInvestigation
-	url = https://github.com/CScorza/GEOINTInvestigation
 [submodule "submodules/search/awesome-shodan-queries"]
 	path = submodules/search/awesome-shodan-queries
 	url = https://github.com/jakejarvis/awesome-shodan-queries.git
@@ -127,3 +124,6 @@
 [submodule "submodules/privacy-protection/cockli-cli"]
 	path = submodules/privacy-protection/cockli-cli
 	url = https://github.com/jumpfool/cockli-cli.git
+[submodule "submodules/lang/ita/GEOINTInvestigation"]
+	path = submodules/lang/ita/GEOINTInvestigation
+	url = https://github.com/CScorza/GEOINTInvestigation
