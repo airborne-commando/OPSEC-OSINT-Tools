@@ -4,8 +4,8 @@
 [submodule "submodules/search/awesome-shodan-queries"]
 	path = submodules/search/awesome-shodan-queries
 	url = https://github.com/jakejarvis/awesome-shodan-queries.git
-[submodule "submodules/optout/osint_stuff_tool_collection"]
-	path = submodules/optout/osint_stuff_tool_collection
+[submodule "submodules/privacy-protection/osint_stuff_tool_collection"]
+	path = submodules/privacy-protection/osint_stuff_tool_collection
 	url = https://github.com/cipher387/osint_stuff_tool_collection.git
 [submodule "submodules/curated/awesome-web-archiving"]
 	path = submodules/curated/awesome-web-archiving
