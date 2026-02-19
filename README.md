@@ -522,6 +522,12 @@ OSINT tools from Web queries to advanced methods such as a cli/gui wrapper
 
 ---
 
+**Typical Collection**
+
+See [collection.md](./markdown/mermaid-data/collection.md) for details.
+
+---
+
 ### **Key Insights & Pro Tips**
 
 1. **False Positives**:  
