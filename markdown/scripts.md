@@ -6,7 +6,7 @@
 
 Will let you try to scrub and sanatize nvme, ssd, hdd; 
 
-> [!DANGER] 
+> [!WARNING] 
 > it may brick your device.
 
 
