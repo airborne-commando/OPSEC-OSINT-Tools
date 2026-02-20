@@ -270,7 +270,7 @@ OPSEC supplements other security disciplines rather than replacing them.
 
 
 > [!NOTE]
-> TOR is the the Tor Browser, VPN is typically the Virtual Private Network for consumers as in a Virtual Private Network Service - IE: Mullvad. 
+> TOR is the Tor Browser, a VPN is typically the Virtual Private Network for consumers as in a Virtual Private Network Service - IE: Mullvad. 
 > 
 > XMR is Monero Coin or Monero for short, a Privacy Coin.
 
