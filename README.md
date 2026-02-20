@@ -281,10 +281,10 @@ Check Wikipedia or the sources cited If you're confused on all of these here:
 
 ---
 
-### **Pro Tips**
-- **Monero Mining**: Run a local node to avoid centralized exchanges tracing purchases.[^15]
-
-For full tool details, see the **[OPSEC Tools List](./markdown/opsec.md)**.
+> [!TIP]
+> **Monero Mining**: Run a local node to avoid centralized exchanges tracing purchases.[^15]
+> 
+> For full tool details, see the **[OPSEC Tools List](./markdown/opsec.md)**.
 
 ## disinformation
 
@@ -532,25 +532,36 @@ See [collection.md](./markdown/mermaid-data/collection.md) for details on intel 
 
 ---
 
-### **Key Insights & Pro Tips**
+> [!WARNING]
+> **False Positives**:
+> 
+> Sherlock, Holehe, et al. you'll need to verify manually.
+> 
+> **Facecheck.ID**:
+> 
+> Extracts images but doesn’t analyze; cross-reference with [Pimeyes (10 searches)](https://pimeyes.com/en) or others listed on 6.  
 
-1. **False Positives**:  
-   - **Sherlock/Holehe**: Imgur often returns misleading results—verify manually.  
-   - **Facecheck.ID**: Extracts images but doesn’t analyze; cross-reference with [Pimeyes (10 searches)](https://pimeyes.com/en) or others listed on 6.  
+> [!NOTE]
+> CLI is more technical while the gui is more noob friendly.
 
-2. **GUI vs. CLI**:  
-   - **CLI Tools (Blackbird, Sherlock, Maigret)**: requires technical familiarity.  
-   - **GUI Wrappers (Crow, No-Shit-Sherlock)**: Easier for beginners; same back-end logic.  
+> [!NOTE]
+> **Email Investigations**:
+> 
+> Combine account detection methods + breached data for thorough checks; see [**Toolchain Recommendations**](#Toolchain-Recommendations).
+> 
+> For Gmail-specific OSINT, use **GHunt** (via OSINT Rocks) or epieos.  
+> 
+> to verify you can either login to your own email or use epieos/ghunt to look inside it and give you some info.
+> 
+> See https://calendar.google.com/calendar/u/0/embed?src=youremail@gmail.com to verify with a google calendar if it actually exists.
+> 
+> you may also use wayback machine with a google+ id, but that's ancient stuff.
+> 
+> This is Explained below.
 
-3. **Email Investigations**:  
-   - Combine **Holehe** (account detection) + **Hudson Rock Extractor** (breach data) for thorough checks; see [**Toolchain Recommendations**](#Toolchain-Recommendations).  
-   - For Gmail-specific OSINT, use **GHunt** (via OSINT Rocks).  
-   - Verify a google email, you'll need to be logged in to your own:
-
-            https://calendar.google.com/calendar/u/0/embed?src=youremail@gmail.com
 
 
-A post from a linkedin account named Forensic OSINT[^18]:
+**A post from a linkedin account named Forensic OSINT[^18]**:
 
 > "In a clever LinkedIn post, 🔐Yoni  shares a privacy insight and a practical OSINT technique worth bookmarking.
 > 
@@ -571,19 +582,22 @@ A post from a linkedin account named Forensic OSINT[^18]:
 >
 > Legality: Avoid scraping private data (e.g., Facebook pro) without consent.
 
-4. **Geolocation**:  
-   - Use **Google Maps Street View** to verify addresses/landmarks from other tools (e.g., ClustrMaps).
-   - Use birds eye view in [bing maps](https://www.bing.com/maps)
-   - use [google earth](https://earth.google.com/web/) for a detailed view.
+> [!TIP]
+> **Geolocation**:
+>
+> Use **Google Maps Street View [google earth](earth.google.com) or [bing maps](https://www.bing.com/maps)** to verify addresses/landmarks from other tools.
+> 
+> Different functions come from different services, such as Bing Maps, Google Earth, Google Maps.
 
-5. **Bio-metric Analysis**: You can supplement your bio-metric analytics with these tools by extracting the results from:
- - faceonlive.com (3 or 4 search limit, may need TOR)
- - lenso.ai 
- - face-spy
- - peekyou.com
- - people search
- - breached data (breach.vip)
-
+> [!TIP]
+> **Bio-metric Analysis**: You can supplement your bio-metric analytics with these tools by extracting the results from:
+>
+>  - faceonlive.com (3 or 4 search limit, may need TOR)
+>  - lenso.ai 
+>  - face-spy
+>  - peekyou.com
+>  - people search
+>  - breached data (breach.vip)
 
 
 After that open image in new tab and save or drag it into facecheck.id and compare (as mentioned earlier on step 1)
@@ -840,36 +854,39 @@ Social media collection of public data (if applicable), such as snapchat, facebo
 ||               ihsoyct               | [ihsoyct](https://ihsoyct.github.io/index.html)                      | Get archived posts from a reddit account | see [limitations](https://github.com/Fubs/reddit-uncensored?tab=readme-ov-file#limitations) different repo   |
 ---
 
-### **Pro Tips & Workarounds**
+> [!TIP]
+> **Facebook Private Accounts**:
+> Method 1: Create a fake account (difficult due to Facebook's verification)
+> 
+> Method 2: Use browser's *Inspect Element* → *Device Simulator* (or mobile phone) + direct URL
+> 
+> Always try logged out or in private mode first
 
-1. **Facebook Private Accounts**:
-   - Method 1: Create a fake account (difficult due to Facebook's verification)
-   - Method 2: Use browser's *Inspect Element* → *Device Simulator* (or mobile phone) + direct URL
-   - Always try logged out or in private mode first
+> [!TIP]
+> **LinkedIn**:
+> profiles cannot load
+> 
+> Wait 1-2 minutes (cookie/IP rotation)
+> 
+> Create a basic account (avoid looking suspicious)
+> 
+> HWID/IP tracking may block repeated searches
 
-2. **LinkedIn Limitations**:
-   - If profiles don't load:
-     - Wait 1-2 minutes (cookie/IP rotation)
-     - Create a basic account (avoid looking suspicious)
-   - HWID/IP tracking may block repeated searches
 
-3. **Twitter Alternatives**:
-   - Use **Nitter**/**Xcancel**/**Sotwe** to browse anonymously.
+> [!TIP]
+> **Twitter**:
+> Use **Nitter**/**Xcancel**/**Sotwe** to browse anonymously.
 
-4. **Instagram**:
-   - **Dumpor** bypasses some privacy settings
-   - **Quick Use** https://dumpor.io/v/USERNAME replace ``USERNAME`` with the user you are trying to see
-   - **Will not work with private accounts**
-   - You may also use https://imginn.com/
-       + [firefox](https://addons.mozilla.org/en-US/firefox/addon/imginn/)
-       + [chrome](https://github.com/claromes/socialswitch) make sure to not use picuki, disable tiktok; use a different profile or browser. Can use firefox.
-
----
-
-### **Key Takeaways**
-- **Anonymity**: Tools like Nitter/Dumpor avoid platform tracking
-- **Mobile Tricks**: Simulating mobile devices often works better for restricted content
-- **Persistence**: Some platforms (LinkedIn/Facebook) require patience or account creation
+> [!TIP]
+> **Instagram**:
+>
+> **imginn** to look at accounts anonymously and to avoid that annoying login popup.
+>
+> **Will not work with private accounts**
+>
+> [firefox](https://addons.mozilla.org/en-US/firefox/addon/imginn/)
+>
+> [chrome](https://github.com/claromes/socialswitch) make sure to not use picuki, disable tiktok; use a different profile or browser. Can use firefox.
 
 - For additional tools see the Curated Lists section below.
 
@@ -918,11 +935,10 @@ Social media collection of public data (if applicable), such as snapchat, facebo
 | [OSINT - X Search](https://xcancel.com/search?f=tweets&q=OSINT)        | A Twitter Search |
 | [OSINT tools - Reddit](https://www.reddit.com/search/?q=osint+tools)    | A Reddit Search  |
 
-**Protip:** use "topic" site:https://osintnewsletter.com
-
-***example:*** 
-
-    "facecheck.id" site:https://osintnewsletter.com
+> [!TIP]
+>  use "topic" site:https://osintnewsletter.com
+>  
+> ***example:*** "facecheck.id" site:https://osintnewsletter.com
 
 
 | **AI Helpers:**                      |                         |
