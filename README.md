@@ -127,7 +127,9 @@ Ross was pardoned[^62] [^70] in 2025 by the trump administration.
     - Poor compartmentalization, leaking sensitive info, predictable naming, traceable work hours, and unsecured servers.
 - **Mullvad VPN: Security Contrast**[^2] [^3]
     - Features: anonymous accounts, strong encryption, no-logs, lockdown mode, DNS blockers, open-source, accepts Monero/cash and is independently audited[^64] [^65] [^63].
-    - **Caution:** No tool is foolproof; human error remains the weakest link.
+    
+> [!CAUTION] 
+> No tool is foolproof; human error remains the weakest link.
 
 
 ## Digital Profiling and Behavioral Analysis Guide
@@ -267,9 +269,10 @@ OPSEC supplements other security disciplines rather than replacing them.
    - Follow **[good OPSEC](./markdown/good-opsec.md)** and avoid **[bad habits](./markdown/badopsec.md)**.
 
 
-**Note**:
-
-By TOR I mean Tor Browser, VPN as in Virtual Private Network, and by Virtual Private Network I mean by Virtual Private Network Service - IE: Mullvad (though it can be other types of VPN's out there as long as it's safe to use and vetted by privacy experts). XMR is Monero Coin or Monero for short, a Privacy Coin.
+> [!NOTE]
+> TOR is the the Tor Browser, VPN is typically the Virtual Private Network for consumers as in a Virtual Private Network Service - IE: Mullvad. 
+> 
+> XMR is Monero Coin or Monero for short, a Privacy Coin.
 
 Check Wikipedia or the sources cited If you're confused on all of these here:
 1. VPN service[^9][^10], what we're gonna use here.
@@ -562,22 +565,26 @@ A post from a linkedin account named Forensic OSINT[^18]:
 > 🔍 Why It Matters:
 > This is a quick, non-intrusive way to validate if an email is active on Google’s ecosystem, especially helpful when vetting aliases, burner accounts, or verifying user identities in investigations (Forensic OSINT, 2025)."
 
+> [!NOTE]
+>
+> Rate Limits: Tools like Google-FU may trigger blocks—use proxies/VPNs.
+>
+> Legality: Avoid scraping private data (e.g., Facebook pro) without consent.
+
 4. **Geolocation**:  
    - Use **Google Maps Street View** to verify addresses/landmarks from other tools (e.g., ClustrMaps).
    - Use birds eye view in [bing maps](https://www.bing.com/maps)
    - use [google earth](https://earth.google.com/web/) for a detailed view.
 
-5. **OPSEC Notes**:  
-   - **Rate Limits**: Tools like Google-FU may trigger blocks—use proxies/VPNs.  
-   - **Legality**: Avoid scraping private data (e.g., Facebook pro) without consent.  
-
-6. **Bio-metric Analysis**: You can supplement your bio-metric analytics with these tools by extracting the results from:
+5. **Bio-metric Analysis**: You can supplement your bio-metric analytics with these tools by extracting the results from:
  - faceonlive.com (3 or 4 search limit, may need TOR)
  - lenso.ai 
  - face-spy
  - peekyou.com
  - people search
  - breached data (breach.vip)
+
+
 
 After that open image in new tab and save or drag it into facecheck.id and compare (as mentioned earlier on step 1)
 
@@ -596,10 +603,12 @@ After that open image in new tab and save or drag it into facecheck.id and compa
     + OSINT Rocks (Hudson Rock/Holehe)
     + LOLArchiver.  
 
-**Images**: 
-- if you ever get banned from facecheck.id do the following:
+> [!NOTE]
+> if you ever get banned from facecheck.id do the following:
+>
+> use TOR (ip masking) and proceed below.
 
-use TOR:
+**Images**: 
 
 * upload your image, 
 * solve the captcha 
@@ -650,10 +659,12 @@ For the other clues, use tools such as blackbird(maigret-night GUI under crow ta
 
 - Encrypted drives (LUKS) → veracrypt → keepassxc
 
-Note on Pentester: Pentester can provide free results on usernames, etc but on a time limit, not worth to buy a service if you're smart and keep records (snapshot).
-
-Note: For keepassxc it's a good idea to use a strong password or a YubiKey (hardware password/security key)
-you may also create an additional database, one that has the password you can remember; the other that has the generated database password for sensitive files or a key-file (same with varacrypt).
+> [!NOTE]
+> Pentester can provide free results on usernames, etc but on a time limit, not worth to buy a service if you're smart and keep records (snapshot).
+> 
+> For keepassxc it's a good idea to use a strong password or a YubiKey (hardware password/security key).
+> 
+> you may also create an additional database, one that has the password you can remember; the other that has the generated database password for sensitive files or a key-file (same with varacrypt).
 
 For niche tools, refer to the [Curated Lists](#curated-lists) section.
 
@@ -668,7 +679,9 @@ People search / information aggregation
 
 > [!NOTE] 
 > Most judicial stuff is saved in a dabase of some kind, like PA
+> 
 > https://services.pacourts.us/public/v1/cases/
+> 
 > people search aggregators[^54], typically used in the united states. can give you information on someone such as an email, home address, date of birth, etc.
 
 | **Tool**                        | **Lookup By**                            | **Returns**                              | **Notes**                                                                                            
@@ -715,7 +728,8 @@ Breached data that is publicly available for public viewing, typically from hibp
 
 ---
 
-**Note**: Some domains (e.g., [exposed.lol (Wayback Machine)](https://web.archive.org/web/20240115103938/https://exposed.lol/)) may be expired. Refer to the curated list or alternate links provided.
+> [!NOTE] 
+> Some domains (e.g., [exposed.lol (Wayback Machine)](https://web.archive.org/web/20240115103938/https://exposed.lol/)) may be expired. Refer to the curated list or alternate links provided.
 
 | Tool | Lookup By | Returns | Limitations/Costs | Notes |
 |------|-----------|---------|-------------------|-------|
