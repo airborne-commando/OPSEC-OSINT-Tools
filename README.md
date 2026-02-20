@@ -680,7 +680,7 @@ People search / information aggregation
 > [!NOTE] 
 > Most judicial stuff is saved in a dabase of some kind, like PA
 > 
-> https://services.pacourts.us/public/v1/cases/
+> https://services.pacourts.us/public/v1/cases/search
 > 
 > people search aggregators[^54], typically used in the united states. can give you information on someone such as an email, home address, date of birth, etc.
 
