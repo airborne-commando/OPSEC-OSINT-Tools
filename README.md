@@ -886,8 +886,8 @@ Social media collection of public data (if applicable), such as snapchat, facebo
 > [firefox](https://addons.mozilla.org/en-US/firefox/addon/imginn/)
 >
 > [chrome](https://github.com/claromes/socialswitch) make sure to not use picuki, disable tiktok; use a different profile or browser. Can use firefox.
-
-- For additional tools see the Curated Lists section below.
+> 
+> - For additional tools see the Curated Lists section below.
 
 ## Curated lists
 
