@@ -232,6 +232,7 @@ OPSEC supplements other security disciplines rather than replacing them.
 |                            | [Simplex](https://simplex.chat/)                 | No user identifiers (not even random numbers)                                 | Maximum metadata privacy                   | Less user-friendly; smaller network         |
 |                            | [Signal](https://signal.org/download/)                  | E2E encrypted by default; minimal metadata retention                         | Gold standard for privacy; court-resistant | Requires phone number                       |
 | **Anonymity Networks**    | [Tor](https://www.torproject.org/)                     | Routes traffic through encrypted nodes to hide IP                             | Free; robust against tracking              | Slow; frequent CAPTCHAs                     |
+|                           | [i2p](https://i2p.net/en/)                         | see [intro](https://i2p.net/en/docs/overview/intro/)                                                          | See [about](https://i2p.net/en/about/)                          | Small network compared to TOR               |
 |                            | [Mullvad VPN](https://mullvad.net/en)             | No-logs VPN accepting Monero (XMR) payments                                   | Strong privacy; anonymous payment options  | VPNs can’t fix poor OPSEC habits            |
 | **Cryptocurrency**        | [Monero (XMR)](https://www.getmonero.org/)            | Untraceable cryptocurrency                                                   | Private transactions                       | Requires mining/local node for full anonymity + time |
 | **Identity Management**   | Unique Usernames        | Use different credentials per site                                           | Prevents correlation attacks               | Hard to manage without a password manager   |
@@ -522,9 +523,9 @@ OSINT tools from Web queries to advanced methods such as a cli/gui wrapper
 
 ---
 
-**Typical Collection**
+**Typical intel collection**
 
-See [collection.md](./markdown/mermaid-data/collection.md) for details.
+See [collection.md](./markdown/mermaid-data/collection.md) for details on intel collection.
 
 ---
 
@@ -662,15 +663,13 @@ Pipeline discussed [here](./markdown/opsec.md#opsec-pipeline-for-secure-files)
 
 People search / information aggregation
 
----
+> [!CAUTION] 
+> The type of info found on these sites appear to from other data brokers, social media profiles that are public or viewable by everyone, compiled data/info from federal, state, and local government public records.
 
-**DISCLAIMER: The type of info found on these sites appear to from other data brokers, social media profiles that are public or viewable by everyone, compiled data/info from federal, state, and local government public records.**
-
----
-
-- people search aggregators[^54], typically used in the united states. can give you information on someone such as an email, home address, date of birth, etc.
-
----
+> [!NOTE] 
+> Most judicial stuff is saved in a dabase of some kind, like PA
+> https://services.pacourts.us/public/v1/cases/
+> people search aggregators[^54], typically used in the united states. can give you information on someone such as an email, home address, date of birth, etc.
 
 | **Tool**                        | **Lookup By**                            | **Returns**                              | **Notes**                                                                                            
 |------------------------------- | ------------------------------------------|------------------------------------------|----------------------------------------------------------------------------------------------------- |
@@ -686,6 +685,9 @@ People search / information aggregation
 | **[ZabaSearch](https://www.zabasearch.com/)**          | first, last name, city state             | Names, Possible Relatives, et al         | comes from various sources, as stated on it's [faq](https://www.zabasearch.com/faq/), free partial look up and is **accurate*** |
 | **DoJ/State**                   | DoJ Resource                             | [Justice site](https://www.justice.gov/jmd/ls/state)                     | Various states and public govt info, Public govt info                                                |
 ||                                  Megans Law website/FBI                   | [FBI registry](https://www.nsopw.gov/?AspxAutoDetectCookieSupport=1)                     | Look up registered individuals, Only for registered individuals (sex offenders)                      |
+
+
+
 
 ---
 
@@ -1070,6 +1072,8 @@ sr6/CAi5crClo+Cucr30xyrHeDc0mwA=
 [About the Right-to-Know Law - Pennsylvania Open Records (updated Oct. 31, 2018)](https://www.openrecords.pa.gov/RTKL/About.cfm)
 
 [25 records that you think would be publicly accessible but aren't in Pa. - pennlive.com (Murphy, Sep. 14, 2017)](https://www.pennlive.com/news/2017/09/inaccessible_public_records_th.html)
+
+[Docket Sheets - pacourts.us (2026)](https://www.pacourts.us/courts/supreme-court/docket-sheets)
 
 ## References:
 
