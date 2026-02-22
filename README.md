@@ -671,6 +671,10 @@ here is an example of a rule that is copied (may be expired as of writing this, 
 >
 > **Encrypted Files Pipeline**: 
 > - Encrypted drives (LUKS) → veracrypt → keepassxc = keepass/veracrypt use a secure masterpassword or keyfile while LUKS uses a secure password to encrypt/decrypt the entire drive(s).
+> - Luks being the strongest while veracrypt/keepassxc being strong but also the weakest depending on config.
+> - veracrypt supports encrypting an entire drive as opposed to keepassxc however, so it's slightly on par with LUKS.
+> - Leaving keepassxc only good for file encryption and secure notes.
+> - For LUKS/varacrypt/keepassxc it's always a good idea to keep a backup of masterpassword and store it somewhere safe, preferably on paper as it's easily destructible.
 
 > [!NOTE]
 > Pentester can provide free results on usernames, etc but on a time limit, not worth to buy a service if you're smart and keep records (snapshot).
