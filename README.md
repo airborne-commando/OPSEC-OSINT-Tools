@@ -987,17 +987,17 @@ If you find this useful feel free to donate to this monero address:
 
 ```
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
+Hash: SHA512
 
 Monero Address
 
-454oYA9xKnUB1TqaQXtcz33wW2Qmfo8FGBFxoa2BGt7FgLUPA67PCYQYTqtNmRDHudh8px6QQCwTY1JddkkV1qseCoyEupn
+85nvfR1rD8JZq2h3iGikU9QDFs95qairz1zoRzp7sZgMdSEuPdH29pLPs2RAKf7bRdPfCtxXtcQVKMX7QSXKpywu5hsxdea
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQSqMaHvdxncX6eJu/uujDIK2tNKXwUCaUsnIQAKCRCujDIK2tNK
-X7r3AQDszPXqf88VubYjphl6Umo3NNyBf89mN0gD0HBY0WB52wEA5YO50yDMSChf
-wiizSgFWPpcss2LKdTw/RF+e5kR7OQE=
-=+yrR
+iHUEARYKAB0WIQSqMaHvdxncX6eJu/uujDIK2tNKXwUCaZs+YAAKCRCujDIK2tNK
+Xy7bAQC+w5dRQwgmmMbKlIAlrYhzi5eSYux5ul6txL2k7q1ZxgEAkWZ8//R05TcC
+uiqQVFj42rUmRTJ/HehSjVMrtG6kWAo=
+=oXts
 -----END PGP SIGNATURE-----
 
 ```
