@@ -1046,13 +1046,17 @@ https://gitea.com/jc-denton/OPSEC-OSINT-Tools
 
 https://github.com/airborne-commando/OPSEC-OSINT-Tools
 
+https://gitlab.com/jcdenton0961/OPSEC-OSINT-Tools
+
+https://codeberg.org/cwhitman/OPSEC-OSINT-Tools
+
 If this expires and isn't renewed, either something happened to me or I forgot.
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQSqMaHvdxncX6eJu/uujDIK2tNKXwUCaT4l0AAKCRCujDIK2tNK
-X0vrAP9kecNWN/X9yz8dQ9Vf4e0N9aMpLpS2zSeA+i0ZHuF8oAEAmYJI6zW4DCZd
-sr6/CAi5crClo+Cucr30xyrHeDc0mwA=
-=inZ6
+iHUEARYKAB0WIQSqMaHvdxncX6eJu/uujDIK2tNKXwUCaZtNvgAKCRCujDIK2tNK
+XxJIAQCy6kUuv85c2Y9XsdHYakGV4PsC6tQSSj8OiDfyv32iewEAjLZabL2EK+Vq
++VcSHohdBL4IFPTOIrt4dLPI2XvomA0=
+=kaq8
 -----END PGP SIGNATURE-----
 
 ```
