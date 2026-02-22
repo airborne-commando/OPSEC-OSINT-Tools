@@ -670,7 +670,7 @@ here is an example of a rule that is copied (may be expired as of writing this, 
 > - For the other clues, use tools such as blackbird(maigret-night GUI under crow tab or blackbird web), maigret(maigret night), people search tools(data brokers), breached data for leads.
 >
 > **Encrypted Files Pipeline**: 
-> - Encrypted drives (LUKS) → veracrypt → keepassxc = keepass/veracrypt use a secure masterpassword or keyfile while LUKS uses a secure password.
+> - Encrypted drives (LUKS) → veracrypt → keepassxc = keepass/veracrypt use a secure masterpassword or keyfile while LUKS uses a secure password to encrypt/decrypt the entire drive(s).
 
 > [!NOTE]
 > Pentester can provide free results on usernames, etc but on a time limit, not worth to buy a service if you're smart and keep records (snapshot).
