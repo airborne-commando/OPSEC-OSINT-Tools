@@ -874,6 +874,10 @@ Social media collection of public data (if applicable), such as snapchat, facebo
 > Create a basic account (avoid looking suspicious)
 > 
 > HWID/IP tracking may block repeated searches
+> 
+> you can also enter in stuff like this
+> 
+> https://www.linkedin.com/pub/dir/first/lastname
 
 
 > [!TIP]
