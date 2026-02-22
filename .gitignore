@@ -1,3 +1,5 @@
 img/png/misc/OSINT.kra
 .fuse_hidden*
 add-subs.sh
+syncstatus.txt
+nodestatus.txt
