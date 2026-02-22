@@ -668,10 +668,9 @@ here is an example of a rule that is copied (may be expired as of writing this, 
 > - Use the results from TinEye, lenso, Facecheck.ID, Pimeyes et al and upload it to yandex for the full username URL (that is if TinEye didn't beat Yandex to it)
 > - Still would have to be of a Face and needed to be indexed by TinEye.
 > - For the other clues, use tools such as blackbird(maigret-night GUI under crow tab or blackbird web), maigret(maigret night), people search tools(data brokers), breached data for leads.
-
-**Files**: 
-
-- Encrypted drives (LUKS) → veracrypt → keepassxc
+>
+> **Encrypted Files Pipeline**: 
+> - Encrypted drives (LUKS) → veracrypt → keepassxc = all use a secure masterpassword or keyfile
 
 > [!NOTE]
 > Pentester can provide free results on usernames, etc but on a time limit, not worth to buy a service if you're smart and keep records (snapshot).
@@ -679,10 +678,10 @@ here is an example of a rule that is copied (may be expired as of writing this, 
 > For keepassxc it's a good idea to use a strong password or a YubiKey (hardware password/security key).
 > 
 > you may also create an additional database, one that has the password you can remember; the other that has the generated database password for sensitive files or a key-file (same with varacrypt).
-
-For niche tools, refer to the [Curated Lists](#curated-lists) section.
-
-Pipeline discussed [here](./markdown/opsec.md#opsec-pipeline-for-secure-files)
+>
+> For niche tools, refer to the [Curated Lists](#curated-lists) section.
+>
+> Pipeline discussed [here](./markdown/opsec.md#opsec-pipeline-for-secure-files)
     
 ## People search tools (in the states):
 
