@@ -916,6 +916,7 @@ Social media collection of public data (if applicable), such as snapchat, facebo
 | Wikipedia categories||| Anyone can edit Wikipedia, check sources ||
 | Forests by country | subcategories | 103 subcategories, out of 103 total. || [Link](https://en.wikipedia.org/wiki/Category:Forests_by_country) |
 | Parks by country | subcategories | 180 subcategories, out of 180 total. || [Link](https://en.wikipedia.org/wiki/Category:Parks_by_country) |
+| Cities by country | subcategories | 131 subcategories, out of 131 total. || [Link](https://en.wikipedia.org/wiki/Category:Cities_by_country) |
 
 | **Wiki(s):**            |                   |                  
 |-------------------------|-------------------|
