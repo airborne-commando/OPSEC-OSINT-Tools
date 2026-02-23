@@ -913,7 +913,9 @@ Social media collection of public data (if applicable), such as snapchat, facebo
 | OSINT Tools and Resources Handbook | webpage | An index of OSINT tools and resources | A curated list | [OSINT Tools and Resources Handbook](https://www.osinthandbook.com/) |
 | Download Managers | Webpage | A curated list from FMHY | | [Download Managers](https://fmhy.net/file-tools#download-managers) |
 | prism-break | A webpage containing Categories | | surveillance shielding from the states and govts, not a 100% guarantee also hasn't been updated within a year | [Link](https://prism-break.org/en/all/)/[Source code](https://gitlab.com/prism-break/prism-break)/[github mirror](https://github.com/prism-break/prism-break) |
-| Wikipedia categories | Specific forest by a country or state | Forest by countries which may include unque features | Wikipedia, anyone can edit; so check the sources. | [Forests by country](https://en.wikipedia.org/wiki/Category:Forests_by_country) |
+| Wikipedia categories||| Anyone can edit Wikipedia, check sources ||
+| Forests by country | subcategories | 103 subcategories, out of 103 total. || [Link](https://en.wikipedia.org/wiki/Category:Forests_by_country) |
+| Parks by country | subcategories | 180 subcategories, out of 180 total. || [Link](https://en.wikipedia.org/wiki/Category:Parks_by_country) |
 
 | **Wiki(s):**            |                   |                  
 |-------------------------|-------------------|
@@ -958,17 +960,17 @@ Social media collection of public data (if applicable), such as snapchat, facebo
 
 | **OPT OUTs / self OSINT** |   **Compare info**                                                                                            |
 |----------------------|--------------------------------------------------------------------------------------------------------------------|
-| [Google dorks](https://www.google.com/advanced_search) |                                                                                                                    |
+| [Google dorks](https://www.google.com/advanced_search) ||
 | [Results about you (google index)](https://myactivity.google.com/results-about-you) | Check what google emails you; actually visit the website and see about doing an opt-out there. |
-| [Opt Out list](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) |                                                                                                                    |
-| [inteltechniques opt out workbook](https://inteltechniques.com/workbook.html) |                                                                                                |
-| [people search tools](#people-search-tools-in-the-states)                                                                                                               |
-| [osintframework](https://osintframework.com/) |                                                                                                                  |
-| [osint resources](https://sizeof.cat/post/osint-resources/) |                                                                                                                 |
-| [awesome osint](https://github.com/jivoi/awesome-osint?tab=readme-ov-file#-people-investigations) |                                                                                                                   |
-| [Internet tools](https://fmhy.xyz/internet-tools#open-source-intelligence) |                                                                                                                  |
-| [The Osint Toolbox](https://github.com/The-Osint-Toolbox/People-Search-OSINT) |                                                                                                               |
-| [osint stuff tool collection](https://github.com/cipher387/osint_stuff_tool_collection?tab=readme-ov-file#universal-contact-search-and-leaks-search) |                                                                                                     |
+| [Opt Out list](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) ||
+| [inteltechniques opt out workbook](https://inteltechniques.com/workbook.html) ||
+| [people search tools](#people-search-tools-in-the-states)||
+| [osintframework](https://osintframework.com/) ||
+| [osint resources](https://sizeof.cat/post/osint-resources/) ||
+| [awesome osint](https://github.com/jivoi/awesome-osint?tab=readme-ov-file#-people-investigations) ||
+| [Internet tools](https://fmhy.xyz/internet-tools#open-source-intelligence) ||
+| [The Osint Toolbox](https://github.com/The-Osint-Toolbox/People-Search-OSINT) ||
+| [osint stuff tool collection](https://github.com/cipher387/osint_stuff_tool_collection?tab=readme-ov-file#universal-contact-search-and-leaks-search) ||
 
 **Note for FMHY you can self host [here](https://github.com/fmhy/FMHY/wiki/Backups)**
 
