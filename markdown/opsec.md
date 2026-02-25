@@ -44,6 +44,10 @@ Protip: Doesn't hurt to write genuinely, act human and be human if doing [HUMINT
 ### Multilingual Tools
 - [Google Translate](https://translate.google.com/) - For language conversion.
 
+### Google maps etc
+
+- Don't blur out your house, it'll make you stick out like a sore thumb; just go with the flow and be normal.
+
 ---
 
 ## Image Generation & Editing
