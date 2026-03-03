@@ -1121,6 +1121,8 @@ XxJIAQCy6kUuv85c2Y9XsdHYakGV4PsC6tQSSj8OiDfyv32iewEAjLZabL2EK+Vq
 
 [US Supreme Court declines to hear dispute over copyrights for AI-generated material - reuters (Brittain, Mar. 2, 2026)](https://www.reuters.com/legal/government/us-supreme-court-declines-hear-dispute-over-copyrights-ai-generated-material-2026-03-02/)
 
+[AI Search Has a Citation Problem - Columbia Journalism Review(Jaźwińska Chandrasekar, Mar. 6, 2025)](https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php)
+
 ## References:
 
 [^1]: Office of the Director of National Intelligence. “Intelligence Community.” Office of the Director of National Intelligence, www.odni.gov/index.php/ncsc-what-we-do/121-dni/intelligence-community. Accessed 24 Sept. 2025. (Office of the Director of National Intelligence, sec.HUMINT)
