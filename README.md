@@ -1119,6 +1119,8 @@ XxJIAQCy6kUuv85c2Y9XsdHYakGV4PsC6tQSSj8OiDfyv32iewEAjLZabL2EK+Vq
 
 [Docket Sheets - pacourts.us (2026)](https://www.pacourts.us/courts/supreme-court/docket-sheets)
 
+[US Supreme Court declines to hear dispute over copyrights for AI-generated material - reuters (Brittain, Mar. 2, 2026)](https://www.reuters.com/legal/government/us-supreme-court-declines-hear-dispute-over-copyrights-ai-generated-material-2026-03-02/)
+
 ## References:
 
 [^1]: Office of the Director of National Intelligence. “Intelligence Community.” Office of the Director of National Intelligence, www.odni.gov/index.php/ncsc-what-we-do/121-dni/intelligence-community. Accessed 24 Sept. 2025. (Office of the Director of National Intelligence, sec.HUMINT)
