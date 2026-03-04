@@ -494,7 +494,7 @@ However tmpfs maybe an insecure method without dm-crypt/LUKS due to SWAP.[^15]
 
 And there is the multi-user issue, can be solved with this line in fstab.[^16] [^17]
 
-    tmpfs   /www/cache    tmpfs  rw,size=1G,nr_inodes=5k,noexec,nodev,nosuid,uid=user,gid=group,mode=700 0 0
+    tmpfs   /www/cache    tmpfs  rw,size=1G,nr_inodes=5k,noexec,nodev,nosuid,uid=1000,gid=1000,mode=700 0 0
 
 The reason why you need to create a tmpfs file-system instead of using /tmp is because it's a worldwide system in linux, any user can see what's in it just cannot rename or delete (only root can).
 
