@@ -58,18 +58,24 @@ Protip: Doesn't hurt to write genuinely, act human and be human if doing [HUMINT
 - [This Person Does Not Exist](https://thispersondoesnotexist.com/) - Quick face generation (has watermark).
 
 ### Editing Tools
+
+> [!NOTE] 
+> Some tools require at least minimum a CPU while others need a GPU that is NVIDIA
+> Some my be hybrid and other haven't been tested, will mark as AMD and the untested as ???.
+> Will mark this as NV for Nvidia and CPU for reqs.
+
 - [Free Inpaint](https://pincel.app/tools/inpaint) - Web-based inpainting
   - Pair with [Upscale Media](https://www.upscale.media/)
-- [IOPaint](https://github.com/Sanster/IOPaint) - Local CPU-based inpainting
-  - [Linux Launcher](https://github.com/airborne-commando/iopaint-launcher/)
-- [DeepMosaics](https://github.com/HypoX64/DeepMosaics) (**note** requires CPU or NVIDIA GPU + CUDA CuDNN but is really good at getting rid of mosaics)
-    + [DeepMosaicsPlus](https://github.com/foooooooooooooooooooooooooootw/DeepMosaicsPlus) A fork that works with most GPU's.
-- [de-pixelate](https://github.com/KoKuToru/de-pixelate_gaV-O6NPWrI)
+- [IOPaint](https://github.com/Sanster/IOPaint) (CPU/NV/AMD)
+  - [Linux Launcher](https://github.com/airborne-commando/iopaint-launcher/) (same reqs)
+- [DeepMosaics](https://github.com/HypoX64/DeepMosaics) (CPU/NV)
+    + [DeepMosaicsPlus](https://github.com/foooooooooooooooooooooooooootw/DeepMosaicsPlus) (CPU/NV/AMD/???)
+- [de-pixelate](https://github.com/KoKuToru/de-pixelate_gaV-O6NPWrI) (???)
 
 ## Cloaking tools
 
-- [Fawkes](https://github.com/Shawn-Shan/fawkes) - a facial cloaking tool that can run locally on Linux/Windows. Was tested on arch. See issue [#191](https://github.com/Shawn-Shan/fawkes/issues/191). The only downside with Fawkes is that sometimes it doesn't detect a face or the face can get detected by AI programs anyway.
-    + Active [fork](https://github.com/cmu-spuds/fawkes).
+- [Fawkes](https://github.com/Shawn-Shan/fawkes) - a facial cloaking tool that can run locally on Linux/Windows. Was tested on arch. See issue [#191](https://github.com/Shawn-Shan/fawkes/issues/191). The only downside with Fawkes is that sometimes it doesn't detect a face or the face can get detected by AI programs anyway. (???)
+    + Active [fork](https://github.com/cmu-spuds/fawkes). (same reqs)
 
 ### Meta Tools
 - [ExifTool](https://exiftool.org/) - Metadata editing/stripping
