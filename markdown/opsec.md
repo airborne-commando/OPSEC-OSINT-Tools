@@ -406,7 +406,12 @@ Personal use cases, such as videogames to isolation of a user environment.
 
 - [XMR.CARDS](https://xmr.cards/) A list of cards you can buy with XMR.
 
-- [Monerica](https://monerica.com/) A list of services and good you can buy with XMR.
+- [Monerica](https://monerica.com/) A list of services and goods you can buy with XMR.
+
+- [kycnotme](https://kycnot.me/) A list of services that are also not KYC.
+
+
+> [!NOTE]: some services can in fact be KYC such as prepaid cards so keep this in mind (visa/paypal).
 
 ---
 
