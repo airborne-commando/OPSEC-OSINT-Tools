@@ -142,9 +142,14 @@ Tor Also faced Vulnerabilities from either:
     - [Whonix](https://www.whonix.org/) - VM-based anonymity OS.
 
 
+> [!NOTE]
+> Graphene is partnering with [Motorola](https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/).
+
 - Phones
     - Android
         - **GrapheneOS** - GrapheneOS is a privacy and security-focused mobile operating system based on the Android Open Source Project (AOSP). Can only run on Pixel phones.
+
+        - **LineageOS** For those who cannot run grapheneOS but want to de-google.
           
 **Protip:** Not storing information on mobile devices is the best OPSEC.
 
