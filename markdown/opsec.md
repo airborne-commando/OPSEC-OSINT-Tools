@@ -134,7 +134,7 @@ Tor Also faced Vulnerabilities from either:
 
 ---
 
->[!NOTE]
+> [!NOTE]
 > There has been some talks about laws being passed around here and there about age verification and such being built INSIDE the OS; so far tails doesn't seem to comply with any of it; not sure about any other main distros and whonix is complying [which is ironic](https://forums.whonix.org/t/whonix-adding-age-verification/22969).
 
 - Operating Systems
