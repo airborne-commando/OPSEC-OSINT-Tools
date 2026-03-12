@@ -60,9 +60,12 @@ Protip: Doesn't hurt to write genuinely, act human and be human if doing [HUMINT
 ### Editing Tools
 
 > [!NOTE] 
-> Some tools require at least minimum a CPU while others need a GPU that is NVIDIA
+>
+> Some tools require at least minimum a CPU while others need a GPU that is NVIDIA.
+>
 > Some my be hybrid and other haven't been tested, will mark as AMD and the untested as ???.
-> Will mark this as NV for Nvidia and CPU for reqs.
+>
+> Will mark this as NV for Nvidia and CPU for reqs along with AMD and the untested.
 
 - [Free Inpaint](https://pincel.app/tools/inpaint) - Web-based inpainting
   - Pair with [Upscale Media](https://www.upscale.media/)
@@ -439,9 +442,12 @@ Personal use cases, such as videogames to isolation of a user environment.
 **Zip**
 - [Random Address](https://zip.postcodebase.com/randomaddress) - Zip code gen for the US.
 
+> [!WARNING]
+> **Do not commit fraud and get sent to collections. Or I'll yell at you.**
+
 **Credit Card**
 - [Card Generator](https://www.creditcardvalidator.org/generator#) - Card Gen for fake numbers, you won't buy anything.
-- [Privacy](https://www.privacy.com/) - Virtual Card, you can set limits. **Do not commit fraud and get sent to collections.**
+- [Privacy](https://www.privacy.com/) - Virtual Card, you can set limits, is KYC but that's a given seeing how it will be tied to a bank account.
 
 Example from [paypal](https://developer.paypal.com/tools/sandbox/card-testing/), which also generates some fake numbers but gives you an idea. Still cannot buy anything.
 
