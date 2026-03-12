@@ -400,6 +400,14 @@ Personal use cases, such as videogames to isolation of a user environment.
 ## Cryptocurrency
 - [Monero (XMR)](https://www.getmonero.org/) - Privacy-focused cryptocurrency.
 
+# Services/Wallets
+
+- [Cake Wallet](https://cakewallet.com/) Isn't KYC and can be used on mobile and desktop with XMR.
+
+- [XMR.CARDS](https://xmr.cards/) A list of cards you can buy with XMR.
+
+- [Monerica](https://monerica.com/) A list of services and good you can buy with XMR.
+
 ---
 
 ## Data Destruction
