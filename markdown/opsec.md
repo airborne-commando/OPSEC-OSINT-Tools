@@ -411,7 +411,8 @@ Personal use cases, such as videogames to isolation of a user environment.
 - [kycnotme](https://kycnot.me/) A list of services that are also not KYC.
 
 
-> [!NOTE]: some services can in fact be KYC such as prepaid cards so keep this in mind (visa/paypal).
+> [!NOTE]
+> some services can in fact be KYC such as prepaid cards so keep this in mind (visa/paypal).
 
 ---
 
