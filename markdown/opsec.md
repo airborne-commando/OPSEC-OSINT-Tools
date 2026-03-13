@@ -415,9 +415,16 @@ Personal use cases, such as videogames to isolation of a user environment.
 ---
 
 ## Cryptocurrency
+
 - [Monero (XMR)](https://www.getmonero.org/) - Privacy-focused cryptocurrency.
 
-# Services/Wallets
+Clients:
+
+- [gupax](https://gupax.io/) A client that combines both p2p and xmrig to mine Monero; you can use existing wallets.
+
+    - [stable build](https://github.com/Cyrix126/gupaxx)
+
+### Services/Wallets
 
 - [Cake Wallet](https://cakewallet.com/) Isn't KYC and can be used on mobile and desktop with XMR.
 
