@@ -93,7 +93,8 @@ Can you predict someone’s behavior with this? not exactly; people are unpredic
 
 Will also point out that some of the sources may be 404'd, use the [wayback machine](https://web.archive.org/) for a snapshot or [archive](https://archive.ph/).
 
-> [!NOTE] it's best to update the forks due to monero address changes and other updates and findings.
+> [!NOTE] 
+> it's best to update the forks due to monero address changes and other updates and findings.
 
 # OSINT/OPSEC Tools
 
