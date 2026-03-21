@@ -93,6 +93,8 @@ Can you predict someone’s behavior with this? not exactly; people are unpredic
 
 Will also point out that some of the sources may be 404'd, use the [wayback machine](https://web.archive.org/) for a snapshot or [archive](https://archive.ph/).
 
+> [!NOTE] it's best to update the forks due to monero address changes and other updates and findings.
+
 # OSINT/OPSEC Tools
 
 A list of OSINT/OPSEC tools I made, forked, and/or use.
@@ -995,13 +997,13 @@ Hash: SHA512
 
 Monero Address
 
-438kDinvd6y2e5kuKbu3MfXwLgV4pd3wb7GbzBphVdXubyacXUhFga3TPmMnNLmwkBA5EQnGSGsom8tsfu72eYcC7xiH2NJ
+446ujfWNQ98anZKcum54fJJLPuF8WJMBYdqhtD9WYgjdaH8GSfZLwFbKvYg5P7t1qYfsTqt3bDzsvR3n2XRWrNcCSQtGEQX
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQSqMaHvdxncX6eJu/uujDIK2tNKXwUCaanwwwAKCRCujDIK2tNK
-X44YAP4y5ggL3qZ/6tN+U0VKebHM/ibxfHfJZA8PfB1Gk7/WlgEAsv0pQuKIP74I
-s5Q7OLnv1P75aOy1eiT+gNLILCwEVQY=
-=gXyc
+iHUEARYKAB0WIQSqMaHvdxncX6eJu/uujDIK2tNKXwUCab5/AQAKCRCujDIK2tNK
+XzkSAP482Ew2xJcKQVcjiZdzsq2likCGDaFfSnvVqYhpbrYD3AEA1tyIXQw4xPBe
+GDUSUGF5YjhG1VDItaCaVCL8f6JZHAA=
+=swbK
 -----END PGP SIGNATURE-----
 ```
 
