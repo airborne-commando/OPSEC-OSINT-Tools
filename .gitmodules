@@ -127,3 +127,6 @@
 [submodule "submodules/lang/ita/GEOINTInvestigation"]
 	path = submodules/lang/ita/GEOINTInvestigation
 	url = https://github.com/CScorza/GEOINTInvestigation
+[submodule "submodules/genealogy-history/Grey"]
+	path = submodules/genealogy-history/Grey
+	url = https://github.com/MacHu-GWU/uszipcode-project.git
