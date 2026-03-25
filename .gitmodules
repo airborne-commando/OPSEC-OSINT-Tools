@@ -130,3 +130,21 @@
 [submodule "submodules/Grey-Literature/uszipcode-project"]
 	path = submodules/Grey-Literature/uszipcode-project
 	url = https://github.com/MacHu-GWU/uszipcode-project.git
+[submodule "submodules/Grey-Literature/Zipcodes"]
+	path = submodules/Grey-Literature/Zipcodes
+	url = https://github.com/seanpianka/Zipcodes.git
+[submodule "submodules/Grey-Literature/us-zipcodes-congress"]
+	path = submodules/Grey-Literature/us-zipcodes-congress
+	url = https://github.com/OpenSourceActivismTech/us-zipcodes-congress.git
+[submodule "submodules/genealogy-history/genealogy"]
+	path = submodules/genealogy-history/genealogy
+	url = https://github.com/MGeurts/genealogy.git
+[submodule "submodules/genealogy-history/topola-viewer"]
+	path = submodules/genealogy-history/topola-viewer
+	url = https://github.com/PeWu/topola-viewer.git
+[submodule "submodules/genealogy-history/gramps-web"]
+	path = submodules/genealogy-history/gramps-web
+	url = https://github.com/gramps-project/gramps-web.git
+[submodule "submodules/genealogy-history/autoresearch-genealogy"]
+	path = submodules/genealogy-history/autoresearch-genealogy
+	url = https://github.com/mattprusak/autoresearch-genealogy.git
