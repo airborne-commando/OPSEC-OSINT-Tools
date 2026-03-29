@@ -148,3 +148,6 @@
 [submodule "submodules/genealogy-history/autoresearch-genealogy"]
 	path = submodules/genealogy-history/autoresearch-genealogy
 	url = https://github.com/mattprusak/autoresearch-genealogy.git
+[submodule "submodules/curated/awesome-privacy"]
+	path = submodules/curated/awesome-privacy
+	url = https://github.com/pluja/awesome-privacy.git
