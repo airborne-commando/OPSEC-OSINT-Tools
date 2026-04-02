@@ -73,27 +73,33 @@ after cloning.
 
 People trust the internet too much. In today’s world, online and offline are practically the same—truth and fiction blur. This README exists to raise awareness. Clone it, fork it, remix it, or even turn it into a [Rentry](https://rentry.co/) page. Spread the knowledge however you like.
 
-Clone the repo and it's submodules with:
+> [!NOTE]
+> clone the repo with the basic clone command:
+> 
+>       git clone
+>
+> After which use this command on a specific submodule that may interest you to fetch the contents, for example.
+>
+>       git submodule update --init /submodules/curated/awesome-osint/
 
-    git clone --recurse-submodules
-
-and to update all the submodules
-
-    git submodule update --remote --recursive
-
-These contain all the tools (or most of) inside the [submodules](https://github.com/airborne-commando/OPSEC-OSINT-Tools/tree/main/submodules) dir with this command.
+[submodules](https://github.com/airborne-commando/OPSEC-OSINT-Tools/tree/main/submodules) contain other tools used for OSINT/opsec.
 
 You may also just clone the repo with git clone and create empty submodules dirs to save space.
 
 This is easier for tool downloads and for other guides that may be of interest to you for offline use.
 
-Also this guide can help prevent issues such as doxing. The obvious way is to follow [Key-Takeaways](#Key-Takeaways) and use [people search tools](#people-search-tools-in-the-states) with a self audit to reduce the amount of info you have on yourself publicly[^66] [^50].
-
-Can you predict someone’s behavior with this? not exactly; people are unpredictable at times.
-
-Will also point out that some of the sources may be 404'd, use the [wayback machine](https://web.archive.org/) for a snapshot or [archive](https://archive.ph/).
-
-> [!NOTE] 
+> [!NOTE]
+>
+> you may also find where the tools originated from with the config file such as:
+>
+>       .git/modules/submodules/Grey-Literature/Zipcodes/config.txt
+> 
+> I will also have to note guide can help prevent issues such as doxing. The obvious way is to follow [Key-Takeaways](#Key-Takeaways) and use [people search tools](#people-search-tools-in-the-states) with a self audit to reduce the amount of info you have on yourself publicly[^66] [^50].
+> 
+> Can you predict someone’s behavior with this? not exactly; people are unpredictable at times.
+> 
+> Will also point out that some of the sources may be 404'd, use the [wayback machine](https://web.archive.org/) for a snapshot or [archive](https://archive.ph/).
+> 
 > it's best to update the forks due to monero address changes and other updates and findings.
 
 # OSINT/OPSEC Tools
