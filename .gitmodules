@@ -151,3 +151,6 @@
 [submodule "submodules/curated/awesome-privacy"]
 	path = submodules/curated/awesome-privacy
 	url = https://github.com/pluja/awesome-privacy.git
+[submodule "submodules/SOCMINT/Extraction/discordchatexporter"]
+	path = submodules/SOCMINT/Extraction/discordchatexporter
+	url = https://github.com/tyrrrz/discordchatexporter.git
