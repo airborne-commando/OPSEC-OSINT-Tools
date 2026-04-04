@@ -90,9 +90,11 @@ This is easier for tool downloads and for other guides that may be of interest t
 
 > [!NOTE]
 >
-> you may also find where the tools originated from with the config file such as:
+> you may also find where the tools originated from with the .gitmodules file:
 >
->       .git/modules/submodules/Grey-Literature/Zipcodes/config.txt
+>       [submodule "submodules/search/awesome-shodan-queries"] 
+>       path = submodules/search/awesome-shodan-queries
+>       url = https://github.com/jakejarvis/awesome-shodan-queries.git
 > 
 > I will also have to note guide can help prevent issues such as doxing. The obvious way is to follow [Key-Takeaways](#Key-Takeaways) and use [people search tools](#people-search-tools-in-the-states) with a self audit to reduce the amount of info you have on yourself publicly[^66] [^50].
 > 
