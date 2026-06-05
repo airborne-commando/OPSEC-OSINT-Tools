@@ -480,6 +480,7 @@ OSINT tools from Web queries to advanced methods such as a cli/gui wrapper
 | **Genealogy & Records** | | | | |
 | genealogyintime | Genealogy parameters | Genealogy records | Not HTTPS; need specific info | [Link](http://www.genealogyintime.com/tools/genealogy-search-engine.html) |
 | findagrave | Name, location | Grave records | Requires name/location; may not be listed | [Link](https://www.findagrave.com/) |
+| FinalNotes Obituary Research Guide | Obituary records and death notices | Source trail and family-history clues | Research guide; not a records database | [Link](https://www.finalnotes.page/obituary-research-guide/) |
 | **Professional & Financial** | | | | |
 | Resume Indeed | Professional criteria | Resumes | Expensive subscription | [Link](https://resumes.indeed.com/) |
 | LinkedIn | Professional info | Company/person data | Verification often needed | [Link](https://LinkedIn.com/) |
