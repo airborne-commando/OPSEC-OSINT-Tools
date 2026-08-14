@@ -491,7 +491,7 @@ OSINT tools from Web queries to advanced methods such as a cli/gui wrapper
 | No-Shit-Sherlock | Username | GUI version of Sherlock | Inherits CLI limitations | [GitHub](https://github.com/airborne-commando/no-shit-sherlock) |
 | Maigret | Username | Connections between accounts | Sherlock fork, comes with webui | [GitHub](https://github.com/soxoj/maigret) |
 | Maigret-Night (GUI) | Username | GUI for Maigret | Same as CLI, no webui functions (yet) | [GitHub](https://github.com/airborne-commando/maigret-night) |
-| MCP | Usernames | username and URL analyses | designed to integrate seamlessly with MCP-compatible applications like Claude Desktop for AI analyses/analytics; you'll need to enter `sudo npm install -g mcp-maigret` for lmstudio if not using docker, look at the [external links](#external-links) under "Maigret MCP Server" and "Maigret MCP Server: Installing manually" as this should be compatible for **most** if not all local LLMS. | [link](https://github.com/BurtTheCoder/mcp-maigret) |
+| MCP | Usernames | username and URL analyses | designed to integrate seamlessly with MCP-compatible applications like Claude Desktop for AI analyses/analytics; you'll need to enter `sudo npm install -g mcp-maigret` for lmstudio if not using docker, look at the [external links](#external-links) under "Maigret MCP Server" and "Maigret MCP Server: Installing manually" as this should be compatible for **most** if not all local LLMS. | [link](https://github.com/w0h1v/mcp-maigret) |
 | instantusername | username | username | Instantly check username availability across multiple platforms as you type. | [Link](https://instantusername.com/) |
 | Holehe | Email | Email usage across sites | CLI; false positives | [GitHub](https://github.com/megadose/holehe) |
 | **Geolocation/GEOINT** | | | | |
@@ -866,6 +866,7 @@ Social media collection of public data (if applicable), such as snapchat, facebo
 |              | WhoPostedWhat         | [whopostedwhat.com](https://www.whopostedwhat.com/)            | Search Facebook posts by date/keyword    | Requires precise queries, public accounts|
 | **reddit**   | r00m101.com           | [r00m101](https://r00m101.com/)                      | Get detailed a reddit deleted or active  | Pricing for full scope and features      |
 ||               ihsoyct               | [ihsoyct](https://ihsoyct.github.io/index.html)                      | Get archived posts from a reddit account | see [limitations](https://github.com/Fubs/reddit-uncensored?tab=readme-ov-file#limitations) different repo   |
+| [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) | Independent X (Twitter) data API for search, follower export, monitors, and MCP. |  |  |
 ---
 
 > [!TIP]
